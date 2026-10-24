@@ -1,0 +1,10 @@
+dev_tools absent: verified
+. pub get passed
+. analyze passed
+. tests passed
+packages/design_system pub get passed
+packages/design_system analyze passed
+apps/design_system_viewer pub get passed
+apps/design_system_viewer analyze passed
+apps/design_system_viewer tests passed
+dev_tools restored

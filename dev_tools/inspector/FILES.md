@@ -1,0 +1,136 @@
+# Task file inventory — 2026-10-22
+
+SHA-256 comparison against the task-start maintained-file inventory. Build/cache directories (including the transient Android .kotlin error log) are excluded. This report lists itself. Existing product/Viewer lib trees, native product files, dependencies/locks, font assets and generated typography tokens are byte-identical. No git repository is present; no commit was made.
+
+## Added (96)
+
+- `dev_tools/inspector/FILES.md`
+- `dev_tools/inspector/README.md`
+- `dev_tools/inspector/VALIDATION.md`
+- `dev_tools/inspector/evidence/agent-check.log`
+- `dev_tools/inspector/evidence/architecture-final.log`
+- `dev_tools/inspector/evidence/copy-check.log`
+- `dev_tools/inspector/evidence/format-check.log`
+- `dev_tools/inspector/evidence/isolation-results.json`
+- `dev_tools/inspector/evidence/release-exclusion-proof.json`
+- `dev_tools/inspector/evidence/restore-tests-inspector.log`
+- `dev_tools/inspector/evidence/restore-tests-product-host.log`
+- `dev_tools/inspector/evidence/restore-tests-viewer-host.log`
+- `dev_tools/inspector/evidence/schema-validation.log`
+- `dev_tools/inspector/evidence/validation-excerpts.json`
+- `dev_tools/inspector/evidence/windows-product-host-final.log`
+- `dev_tools/inspector/evidence/windows-viewer-host-final.log`
+- `dev_tools/inspector/hosts/product_host/.gitignore`
+- `dev_tools/inspector/hosts/product_host/.metadata`
+- `dev_tools/inspector/hosts/product_host/README.md`
+- `dev_tools/inspector/hosts/product_host/analysis_options.yaml`
+- `dev_tools/inspector/hosts/product_host/lib/main.dart`
+- `dev_tools/inspector/hosts/product_host/p2e_product_host.iml`
+- `dev_tools/inspector/hosts/product_host/pubspec.lock`
+- `dev_tools/inspector/hosts/product_host/pubspec.yaml`
+- `dev_tools/inspector/hosts/product_host/test/flutter_test_config.dart`
+- `dev_tools/inspector/hosts/product_host/test/host_test.dart`
+- `dev_tools/inspector/hosts/product_host/windows/.gitignore`
+- `dev_tools/inspector/hosts/product_host/windows/CMakeLists.txt`
+- `dev_tools/inspector/hosts/product_host/windows/flutter/CMakeLists.txt`
+- `dev_tools/inspector/hosts/product_host/windows/flutter/generated_plugin_registrant.cc`
+- `dev_tools/inspector/hosts/product_host/windows/flutter/generated_plugin_registrant.h`
+- `dev_tools/inspector/hosts/product_host/windows/flutter/generated_plugins.cmake`
+- `dev_tools/inspector/hosts/product_host/windows/runner/CMakeLists.txt`
+- `dev_tools/inspector/hosts/product_host/windows/runner/Runner.rc`
+- `dev_tools/inspector/hosts/product_host/windows/runner/flutter_window.cpp`
+- `dev_tools/inspector/hosts/product_host/windows/runner/flutter_window.h`
+- `dev_tools/inspector/hosts/product_host/windows/runner/main.cpp`
+- `dev_tools/inspector/hosts/product_host/windows/runner/resource.h`
+- `dev_tools/inspector/hosts/product_host/windows/runner/resources/app_icon.ico`
+- `dev_tools/inspector/hosts/product_host/windows/runner/runner.exe.manifest`
+- `dev_tools/inspector/hosts/product_host/windows/runner/utils.cpp`
+- `dev_tools/inspector/hosts/product_host/windows/runner/utils.h`
+- `dev_tools/inspector/hosts/product_host/windows/runner/win32_window.cpp`
+- `dev_tools/inspector/hosts/product_host/windows/runner/win32_window.h`
+- `dev_tools/inspector/hosts/viewer_host/.gitignore`
+- `dev_tools/inspector/hosts/viewer_host/.metadata`
+- `dev_tools/inspector/hosts/viewer_host/README.md`
+- `dev_tools/inspector/hosts/viewer_host/analysis_options.yaml`
+- `dev_tools/inspector/hosts/viewer_host/lib/main.dart`
+- `dev_tools/inspector/hosts/viewer_host/p2e_viewer_host.iml`
+- `dev_tools/inspector/hosts/viewer_host/pubspec.lock`
+- `dev_tools/inspector/hosts/viewer_host/pubspec.yaml`
+- `dev_tools/inspector/hosts/viewer_host/test/host_test.dart`
+- `dev_tools/inspector/hosts/viewer_host/windows/.gitignore`
+- `dev_tools/inspector/hosts/viewer_host/windows/CMakeLists.txt`
+- `dev_tools/inspector/hosts/viewer_host/windows/flutter/CMakeLists.txt`
+- `dev_tools/inspector/hosts/viewer_host/windows/flutter/generated_plugin_registrant.cc`
+- `dev_tools/inspector/hosts/viewer_host/windows/flutter/generated_plugin_registrant.h`
+- `dev_tools/inspector/hosts/viewer_host/windows/flutter/generated_plugins.cmake`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/CMakeLists.txt`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/Runner.rc`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/flutter_window.cpp`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/flutter_window.h`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/main.cpp`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/resource.h`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/resources/app_icon.ico`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/runner.exe.manifest`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/utils.cpp`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/utils.h`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/win32_window.cpp`
+- `dev_tools/inspector/hosts/viewer_host/windows/runner/win32_window.h`
+- `dev_tools/inspector/inspector/analysis_options.yaml`
+- `dev_tools/inspector/inspector/l10n/tool_en.arb`
+- `dev_tools/inspector/inspector/l10n/tool_fa.arb`
+- `dev_tools/inspector/inspector/lib/inspector.dart`
+- `dev_tools/inspector/inspector/lib/src/core/inspection.dart`
+- `dev_tools/inspector/inspector/lib/src/core/selection.dart`
+- `dev_tools/inspector/inspector/lib/src/host/fixtures.dart`
+- `dev_tools/inspector/inspector/lib/src/host/generated/tool_copy.g.dart`
+- `dev_tools/inspector/inspector/lib/src/host/inspector_host.dart`
+- `dev_tools/inspector/inspector/lib/src/host/tool_copy.dart`
+- `dev_tools/inspector/inspector/pubspec.lock`
+- `dev_tools/inspector/inspector/pubspec.yaml`
+- `dev_tools/inspector/inspector/test/inspection_test.dart`
+- `dev_tools/inspector/inspector/tool/generate_copy.dart`
+- `dev_tools/inspector/tool/check_isolation.ps1`
+- `dev_tools/inspector/tool/validate_snapshots.py`
+- `docs/reports/golden-follow-up-phase0-proof.json`
+- `docs/reports/golden-follow-up-phase0.md`
+- `docs/reports/golden-samples/appicon-en-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/navigator-fa-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/pagescaffold-en-light-2.0-product-402.png`
+- `docs/reports/golden-samples/password-fa-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/radio-fa-light-1.0-product-402.png`
+- `packages/design_system/lib/inspection.dart`
+- `test/app/neutral_frame_test.dart`
+
+## Modified (20)
+
+- `docs/agents/registers/decisions.md`
+- `docs/reports/golden-samples/README.md`
+- `docs/reports/goldens-review.md`
+- `packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-2.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/appicon-fa-light-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/otp-fa-dark-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/otp-fa-dark-2.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/password-fa-dark-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/password-fa-dark-2.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/radio-fa-dark-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/radio-fa-dark-2.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/radio-fa-light-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-1.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-2.0-product-402.png`
+- `packages/design_system/test/goldens/baselines/windows/textfield-fa-light-1.0-product-402.png`
+- `packages/design_system/test/goldens/readiness_goldens_test.dart`
+- `packages/design_system/test/readiness/delegated_review_test.dart`
+- `packages/design_system/test/support/readiness_sheet.dart`
+- `test/tool/architecture_test.dart`
+
+## Deleted (8)
+
+- `docs/reports/golden-samples/appbar-en-light-1.0-product-402.png`
+- `docs/reports/golden-samples/appbar-fa-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/badge-fa-light-1.0-product-402.png`
+- `docs/reports/golden-samples/button-en-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/button-fa-dark-2.0-product-402.png`
+- `docs/reports/golden-samples/button-fa-light-1.0-product-402.png`
+- `docs/reports/golden-samples/otp-fa-dark-1.0-product-402.png`
+- `docs/reports/golden-samples/textfield-fa-dark-1.0-product-402.png`

@@ -1,0 +1,1333 @@
+{
+  "schemaVersion": "badges-1.0",
+  "root": {
+    "id": "18533:6918",
+    "name": "Therme=Downloadable Game - Light",
+    "type": "COMPONENT",
+    "x": 20,
+    "y": 272,
+    "width": 402,
+    "height": 64,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        20
+      ],
+      [
+        0,
+        1,
+        272
+      ]
+    ],
+    "layoutMode": "HORIZONTAL",
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "FIXED",
+    "primaryAxisSizingMode": "FIXED",
+    "counterAxisSizingMode": "FIXED",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "paddingLeft": 16,
+    "paddingRight": 16,
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "cornerRadius": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "opacity": 1,
+    "effects": [],
+    "boundVariables": {},
+    "visible": true,
+    "reactions": [],
+    "variantProperties": {
+      "Therme": "Downloadable Game - Light"
+    },
+    "componentPropertyReferences": {},
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "clipsContent": true,
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "absoluteBoundingBox": {
+      "height": 64,
+      "width": 402,
+      "x": 20,
+      "y": 272
+    },
+    "children": [
+      {
+        "id": "18533:6919",
+        "name": "Trailing Icon",
+        "type": "FRAME",
+        "x": 16,
+        "y": 8,
+        "width": 48,
+        "height": 48,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            16
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 8,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 0,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "fills": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {},
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "clipsContent": true,
+        "layoutGrow": 0,
+        "layoutPositioning": "AUTO",
+        "absoluteBoundingBox": {
+          "height": 48,
+          "width": 48,
+          "x": 36,
+          "y": 280
+        },
+        "children": [
+          {
+            "id": "18533:6920",
+            "name": "Icon",
+            "type": "FRAME",
+            "x": 8,
+            "y": 8,
+            "width": 32,
+            "height": 32,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                8
+              ],
+              [
+                0,
+                1,
+                8
+              ]
+            ],
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "AUTO",
+            "primaryAxisAlignItems": "CENTER",
+            "counterAxisAlignItems": "CENTER",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "paddingLeft": 4,
+            "paddingRight": 4,
+            "itemSpacing": 10,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 10,
+            "topLeftRadius": 10,
+            "topRightRadius": 10,
+            "bottomLeftRadius": 10,
+            "bottomRightRadius": 10,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16429:199",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0.8980392217636108,
+                  "g": 0.8980392217636108,
+                  "r": 0.8980392217636108
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {
+              "fills": [
+                {
+                  "id": "VariableID:16429:199",
+                  "type": "VARIABLE_ALIAS"
+                }
+              ]
+            },
+            "visible": true,
+            "reactions": [],
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "clipsContent": false,
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "absoluteBoundingBox": {
+              "height": 32,
+              "width": 32,
+              "x": 44,
+              "y": 288
+            },
+            "children": [
+              {
+                "id": "18533:6921",
+                "name": "Fill",
+                "type": "INSTANCE",
+                "x": 4,
+                "y": 4,
+                "width": 24,
+                "height": 24,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    4
+                  ],
+                  [
+                    0,
+                    1,
+                    4
+                  ]
+                ],
+                "layoutMode": "NONE",
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "primaryAxisSizingMode": "AUTO",
+                "counterAxisSizingMode": "FIXED",
+                "primaryAxisAlignItems": "MIN",
+                "counterAxisAlignItems": "MIN",
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "itemSpacing": 0,
+                "counterAxisSpacing": 0,
+                "cornerRadius": 0,
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "fills": [],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {},
+                "visible": true,
+                "reactions": [],
+                "variantProperties": {
+                  "Icon": "Arrow Left"
+                },
+                "componentProperties": {
+                  "Icon": {
+                    "boundVariables": {},
+                    "type": "VARIANT",
+                    "value": "Arrow Left"
+                  }
+                },
+                "componentPropertyReferences": {},
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "clipsContent": true,
+                "layoutGrow": 0,
+                "layoutPositioning": "AUTO",
+                "absoluteBoundingBox": {
+                  "height": 24,
+                  "width": 24,
+                  "x": 48,
+                  "y": 292
+                },
+                "mainComponent": {
+                  "id": "18517:6375",
+                  "name": "Icon=Arrow Left",
+                  "setId": "14466:925",
+                  "setName": "Fill"
+                },
+                "children": [
+                  {
+                    "id": "I18533:6921;18517:6332",
+                    "name": "Vector",
+                    "type": "VECTOR",
+                    "x": 4.424999713897705,
+                    "y": 4.424999713897705,
+                    "width": 15.574999809265137,
+                    "height": 15.16300106048584,
+                    "minWidth": null,
+                    "maxWidth": null,
+                    "minHeight": null,
+                    "maxHeight": null,
+                    "relativeTransform": [
+                      [
+                        1,
+                        0,
+                        4.424999713897705
+                      ],
+                      [
+                        0,
+                        1,
+                        4.424999713897705
+                      ]
+                    ],
+                    "layoutSizingHorizontal": "FIXED",
+                    "layoutSizingVertical": "FIXED",
+                    "cornerRadius": 0,
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "boundVariables": {
+                          "color": {
+                            "id": "VariableID:16429:204",
+                            "type": "VARIABLE_ALIAS"
+                          }
+                        },
+                        "color": {
+                          "b": 0.45098039507865906,
+                          "g": 0.45098039507865906,
+                          "r": 0.45098039507865906
+                        },
+                        "opacity": 1,
+                        "type": "SOLID",
+                        "visible": true
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 0.02500000037252903,
+                    "strokeAlign": "INSIDE",
+                    "opacity": 1,
+                    "effects": [],
+                    "boundVariables": {
+                      "fills": [
+                        {
+                          "id": "VariableID:16429:204",
+                          "type": "VARIABLE_ALIAS"
+                        }
+                      ]
+                    },
+                    "visible": true,
+                    "reactions": [],
+                    "componentPropertyReferences": {},
+                    "constraints": {
+                      "horizontal": "SCALE",
+                      "vertical": "SCALE"
+                    },
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "absoluteBoundingBox": {
+                      "height": 15.16300106048584,
+                      "width": 15.574999809265137,
+                      "x": 52.42499923706055,
+                      "y": 296.42498779296875
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18533:6922",
+        "name": "Empty Space",
+        "type": "FRAME",
+        "x": 64,
+        "y": 8,
+        "width": 178,
+        "height": 48,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            64
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FILL",
+        "layoutSizingVertical": "FIXED",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 8,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 0,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "fills": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {},
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "clipsContent": true,
+        "layoutGrow": 1,
+        "layoutPositioning": "AUTO",
+        "absoluteBoundingBox": {
+          "height": 48,
+          "width": 178,
+          "x": 84,
+          "y": 280
+        },
+        "children": []
+      },
+      {
+        "id": "18533:6923",
+        "name": "Trailing Icon",
+        "type": "FRAME",
+        "x": 242,
+        "y": 8,
+        "width": 48,
+        "height": 48,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            242
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 8,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 0,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "fills": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {},
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "clipsContent": true,
+        "layoutGrow": 0,
+        "layoutPositioning": "AUTO",
+        "absoluteBoundingBox": {
+          "height": 48,
+          "width": 48,
+          "x": 262,
+          "y": 280
+        },
+        "children": [
+          {
+            "id": "18533:6924",
+            "name": "Outline",
+            "type": "INSTANCE",
+            "x": 12,
+            "y": 12,
+            "width": 24,
+            "height": 24,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                12
+              ],
+              [
+                0,
+                1,
+                12
+              ]
+            ],
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {},
+            "visible": true,
+            "reactions": [],
+            "variantProperties": {
+              "Icon": "Downloading"
+            },
+            "componentProperties": {
+              "Icon": {
+                "boundVariables": {},
+                "type": "VARIANT",
+                "value": "Downloading"
+              }
+            },
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "clipsContent": true,
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "absoluteBoundingBox": {
+              "height": 24,
+              "width": 24,
+              "x": 274,
+              "y": 292
+            },
+            "mainComponent": {
+              "id": "18517:6410",
+              "name": "Icon=Downloading",
+              "setId": "14466:880",
+              "setName": "Outline"
+            },
+            "children": [
+              {
+                "id": "I18533:6924;18517:6400",
+                "name": "Vector",
+                "type": "VECTOR",
+                "x": 1.9999998807907104,
+                "y": 2.213235378265381,
+                "width": 19.78676414489746,
+                "height": 19.573530197143555,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    1.9999998807907104
+                  ],
+                  [
+                    0,
+                    1,
+                    2.213235378265381
+                  ]
+                ],
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "cornerRadius": 0,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "id": "VariableID:18420:7494",
+                        "type": "VARIABLE_ALIAS"
+                      }
+                    },
+                    "color": {
+                      "b": 0.250980406999588,
+                      "g": 0.250980406999588,
+                      "r": 0.250980406999588
+                    },
+                    "opacity": 1,
+                    "type": "SOLID",
+                    "visible": true
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.02500000037252903,
+                "strokeAlign": "INSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {
+                  "fills": [
+                    {
+                      "id": "VariableID:18420:7494",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  ]
+                },
+                "visible": true,
+                "reactions": [],
+                "componentPropertyReferences": {},
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "layoutGrow": 0,
+                "layoutPositioning": "AUTO",
+                "absoluteBoundingBox": {
+                  "height": 19.573530197143555,
+                  "width": 19.78676414489746,
+                  "x": 276,
+                  "y": 294.2132263183594
+                }
+              }
+            ]
+          },
+          {
+            "id": "18533:6925",
+            "name": "Badge",
+            "type": "FRAME",
+            "x": 24,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                24
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "layoutMode": "VERTICAL",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "primaryAxisSizingMode": "FIXED",
+            "counterAxisSizingMode": "FIXED",
+            "primaryAxisAlignItems": "CENTER",
+            "counterAxisAlignItems": "CENTER",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "itemSpacing": 10,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {},
+            "visible": true,
+            "reactions": [],
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "clipsContent": false,
+            "layoutGrow": 0,
+            "layoutPositioning": "ABSOLUTE",
+            "absoluteBoundingBox": {
+              "height": 24,
+              "width": 24,
+              "x": 286,
+              "y": 280
+            },
+            "children": [
+              {
+                "id": "18533:6926",
+                "name": "Samll Badge",
+                "type": "FRAME",
+                "x": 9,
+                "y": 9,
+                "width": 6,
+                "height": 6,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    9
+                  ],
+                  [
+                    0,
+                    1,
+                    9
+                  ]
+                ],
+                "layoutMode": "HORIZONTAL",
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "primaryAxisSizingMode": "FIXED",
+                "counterAxisSizingMode": "FIXED",
+                "primaryAxisAlignItems": "CENTER",
+                "counterAxisAlignItems": "CENTER",
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "itemSpacing": 10,
+                "counterAxisSpacing": 0,
+                "cornerRadius": 16,
+                "topLeftRadius": 16,
+                "topRightRadius": 16,
+                "bottomLeftRadius": 16,
+                "bottomRightRadius": 16,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "id": "VariableID:283:1905",
+                        "type": "VARIABLE_ALIAS"
+                      }
+                    },
+                    "color": {
+                      "b": 0.21176470816135406,
+                      "g": 0.1725490242242813,
+                      "r": 0.9843137264251709
+                    },
+                    "opacity": 1,
+                    "type": "SOLID",
+                    "visible": true
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {
+                  "fills": [
+                    {
+                      "id": "VariableID:283:1905",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  ]
+                },
+                "visible": true,
+                "reactions": [],
+                "componentPropertyReferences": {},
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "clipsContent": false,
+                "layoutGrow": 0,
+                "layoutPositioning": "AUTO",
+                "absoluteBoundingBox": {
+                  "height": 6,
+                  "width": 6,
+                  "x": 295,
+                  "y": 289
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18533:6927",
+        "name": "Trailing Icon",
+        "type": "FRAME",
+        "x": 290,
+        "y": 8,
+        "width": 48,
+        "height": 48,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            290
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 8,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 0,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "fills": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {},
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "clipsContent": true,
+        "layoutGrow": 0,
+        "layoutPositioning": "AUTO",
+        "absoluteBoundingBox": {
+          "height": 48,
+          "width": 48,
+          "x": 310,
+          "y": 280
+        },
+        "children": [
+          {
+            "id": "18533:6928",
+            "name": "Outline",
+            "type": "INSTANCE",
+            "x": 12,
+            "y": 12,
+            "width": 24,
+            "height": 24,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                12
+              ],
+              [
+                0,
+                1,
+                12
+              ]
+            ],
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {},
+            "visible": true,
+            "reactions": [],
+            "variantProperties": {
+              "Icon": "Bookmark"
+            },
+            "componentProperties": {
+              "Icon": {
+                "boundVariables": {},
+                "type": "VARIANT",
+                "value": "Bookmark"
+              }
+            },
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "clipsContent": true,
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "absoluteBoundingBox": {
+              "height": 24,
+              "width": 24,
+              "x": 322,
+              "y": 292
+            },
+            "mainComponent": {
+              "id": "18517:6460",
+              "name": "Icon=Bookmark",
+              "setId": "14466:880",
+              "setName": "Outline"
+            },
+            "children": [
+              {
+                "id": "I18533:6928;18517:6442",
+                "name": "Vector",
+                "type": "VECTOR",
+                "x": 5,
+                "y": 2.999999761581421,
+                "width": 14,
+                "height": 16.978395462036133,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    5
+                  ],
+                  [
+                    0,
+                    1,
+                    2.999999761581421
+                  ]
+                ],
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "cornerRadius": 0,
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "id": "VariableID:18420:7494",
+                        "type": "VARIABLE_ALIAS"
+                      }
+                    },
+                    "color": {
+                      "b": 0.250980406999588,
+                      "g": 0.250980406999588,
+                      "r": 0.250980406999588
+                    },
+                    "opacity": 1,
+                    "type": "SOLID",
+                    "visible": true
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.02500000037252903,
+                "strokeAlign": "INSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {
+                  "fills": [
+                    {
+                      "id": "VariableID:18420:7494",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  ]
+                },
+                "visible": true,
+                "reactions": [],
+                "componentPropertyReferences": {},
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "layoutGrow": 0,
+                "layoutPositioning": "AUTO",
+                "absoluteBoundingBox": {
+                  "height": 16.978395462036133,
+                  "width": 14,
+                  "x": 327,
+                  "y": 295
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18533:6929",
+        "name": "Trailing Avatar",
+        "type": "FRAME",
+        "x": 338,
+        "y": 8,
+        "width": 48,
+        "height": 48,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            338
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 8,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 0,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "fills": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {},
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "clipsContent": true,
+        "layoutGrow": 0,
+        "layoutPositioning": "AUTO",
+        "absoluteBoundingBox": {
+          "height": 48,
+          "width": 48,
+          "x": 358,
+          "y": 280
+        },
+        "children": [
+          {
+            "id": "18533:6930",
+            "name": "Avatar",
+            "type": "FRAME",
+            "x": 8,
+            "y": 8,
+            "width": 32,
+            "height": 32,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                8
+              ],
+              [
+                0,
+                1,
+                8
+              ]
+            ],
+            "layoutMode": "VERTICAL",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "primaryAxisSizingMode": "FIXED",
+            "counterAxisSizingMode": "FIXED",
+            "primaryAxisAlignItems": "CENTER",
+            "counterAxisAlignItems": "CENTER",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 16,
+            "topLeftRadius": 16,
+            "topRightRadius": 16,
+            "bottomLeftRadius": 16,
+            "bottomRightRadius": 16,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18436:678",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0.5961538553237915,
+                  "g": 0.2694156765937805,
+                  "r": 0.378328412771225
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {
+              "fills": [
+                {
+                  "id": "VariableID:18436:678",
+                  "type": "VARIABLE_ALIAS"
+                }
+              ]
+            },
+            "visible": true,
+            "reactions": [],
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "clipsContent": true,
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "absoluteBoundingBox": {
+              "height": 32,
+              "width": 32,
+              "x": 366,
+              "y": 288
+            },
+            "children": [
+              {
+                "id": "18533:6931",
+                "name": "A",
+                "type": "TEXT",
+                "x": 10,
+                "y": 6,
+                "width": 12,
+                "height": 20,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    10
+                  ],
+                  [
+                    0,
+                    1,
+                    6
+                  ]
+                ],
+                "layoutSizingHorizontal": "HUG",
+                "layoutSizingVertical": "HUG",
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "id": "VariableID:18436:687",
+                        "type": "VARIABLE_ALIAS"
+                      }
+                    },
+                    "color": {
+                      "b": 0.9098039269447327,
+                      "g": 0.7686274647712708,
+                      "r": 0.8156862854957581
+                    },
+                    "opacity": 1,
+                    "type": "SOLID",
+                    "visible": true
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {
+                  "fills": [
+                    {
+                      "id": "VariableID:18436:687",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  ]
+                },
+                "visible": true,
+                "reactions": [],
+                "componentPropertyReferences": {},
+                "characters": "A",
+                "fontName": {
+                  "family": "Outfit",
+                  "style": "SemiBold",
+                  "variationSettings": {
+                    "wght": 600
+                  }
+                },
+                "fontSize": 16,
+                "fontWeight": 600,
+                "lineHeight": {
+                  "unit": "PIXELS",
+                  "value": 20
+                },
+                "letterSpacing": {
+                  "unit": "PERCENT",
+                  "value": -5
+                },
+                "textStyleId": "",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "WIDTH_AND_HEIGHT",
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "layoutGrow": 0,
+                "layoutPositioning": "AUTO",
+                "absoluteBoundingBox": {
+                  "height": 20,
+                  "width": 12,
+                  "x": 376,
+                  "y": 294
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "complete": true
+}

@@ -1,0 +1,10 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"Alpha/White\":\"#ffffff\",\"On Surface/Emphasis\":\"#ffffff\",\"English/Baseline/Headline-Large\":\"Font(family: \\\"Outfit\\\", style: SemiBold, size: 32, weight: 600, lineHeight: 40, letterSpacing: -4)\",\"On Surface/Base\":\"#a1a1a1\",\"English/Variant/Title-Small\":\"Font(family: \\\"Outfit\\\", style: Medium, size: 18, weight: 500, lineHeight: 24, letterSpacing: -4)\",\"Primary/Pink\":\"#83244d\",\"Countainer/Pink\":\"#eeb0c6\",\"English/Baseline/Number-Large\":\"Font(family: \\\"Outfit\\\", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: 0)\",\"On Surface/Variant\":\"#737373\",\"English/Muted/Label-Small\":\"Font(family: \\\"Outfit\\\", style: Regular, size: 14, weight: 400, lineHeight: 18, letterSpacing: -4)\",\"English/Baseline/Label-Medium\":\"Font(family: \\\"Outfit\\\", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4)\",\"Surface Container/Base\":\"#171717\",\"English/Variant/Label-Small\":\"Font(family: \\\"Outfit\\\", style: Medium, size: 14, weight: 500, lineHeight: 18, letterSpacing: -4)\",\"Outline/Base\":\"#404040\",\"English/Baseline/Button-Medium\":\"Font(family: \\\"Outfit\\\", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4)\",\"Sky/500\":\"#00a6f4\",\"Neutral/800\":\"#262626\",\"Neutral/700\":\"#404040\",\"Neutral/900\":\"#171717\",\"Surface/Base\":\"#0a0a0a\"}"
+    }
+  ],
+  "structuredContent": null,
+  "isError": false
+}

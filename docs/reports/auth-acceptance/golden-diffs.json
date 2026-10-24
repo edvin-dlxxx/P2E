@@ -1,0 +1,821 @@
+[
+  {
+    "sample": "appbar-en-dark-1.0-product-402.png",
+    "family": "appbar",
+    "changedPixelPercent": 0.0007773631840796019,
+    "before": "build\\golden-review-d049\\failures\\appbar-en-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "1361de9fc3354110c18ec7a95e20a49a1f6f7e9c4e8a2e4326729466d3f60ce3",
+    "afterSHA256": "bad0ed52a07434d38be80735f948dc7683c01328ab868087e1aec7ea8ddf38cc",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appbar-en-light-1.0-product-402.png",
+    "family": "appbar",
+    "changedPixelPercent": 0.0007773631840796019,
+    "before": "build\\golden-review-d049\\failures\\appbar-en-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "4fe9c5bebfe8c02b25e96c7b1186f2c45ea664959c34a6d872a22c9e8e75a182",
+    "afterSHA256": "43c78433d4285c64149b79e1f5ed0a86c3b84bae60767953479da33f57d2a84d",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appbar-en-light-1.0-test-402.png",
+    "family": "appbar",
+    "changedPixelPercent": 0.0007773631840796019,
+    "before": "build\\golden-review-d049\\failures\\appbar-en-light-1.0-test-402_testImage.png",
+    "beforeSHA256": "2194497071766e06051bc7bd625e3669f9dcdafa30786ffe462e67ca098ff4cb",
+    "afterSHA256": "5d3e8800eaf2ef32e05f538f94110d091c12ed8326370ea9f99d74b628275b79",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appbar-en-light-2.0-product-402.png",
+    "family": "appbar",
+    "changedPixelPercent": 0.0031094527363184077,
+    "before": "build\\golden-review-d049\\failures\\appbar-en-light-2.0-product-402_testImage.png",
+    "beforeSHA256": "5f4ec936c90e38dd09c34ac64311fd2c23d93706cbb6c1bb9baaf29d86d4e636",
+    "afterSHA256": "49a97f766ceeef5262f123039c9a7d347132483f0f0325cb545e1e8fca30cbff",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-en-dark-1.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": 0.08201121794871795,
+    "before": "docs\\reports\\golden-samples\\appicon-en-dark-1.0-product-402.png",
+    "beforeSHA256": "1777530dc76165c89d3eb5081ff436cecd49ef875e4d0c9a7dda8fb619e86903",
+    "afterSHA256": "422bfac132a543216d78aa54497f04ed90eb91e56ffad72b3721d17a271c196a",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-en-light-1.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "e9cb31ad7f3e699bab30d7789e6e40cb8c2646d1f7a1f778a52428107c3eb00e",
+    "afterSHA256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-en-light-1.0-test-402.png",
+    "family": "appicon",
+    "changedPixelPercent": 0.08201121794871795,
+    "before": "build\\inspector-v1\\before-goldens\\appicon-en-light-1.0-test-402.png",
+    "beforeSHA256": "aa496d83b996f25c3d9e274281f4005434a82ab6f600e640a3f53f8ff27ebc66",
+    "afterSHA256": "f143ff60b2acfdfda1a9bc3f4c5f91222e644c4cb6a09dd072077ce203c64ecb",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-en-light-2.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": 0.08201121794871795,
+    "before": "build\\inspector-v1\\before-goldens\\appicon-en-light-1.0-product-402.png",
+    "beforeSHA256": "e9cb31ad7f3e699bab30d7789e6e40cb8c2646d1f7a1f778a52428107c3eb00e",
+    "afterSHA256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-fa-dark-1.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "4f41c8eaf3230681c11c80222cc93f342c168972bde5fe30b6cfa71bbc8626dd",
+    "afterSHA256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-fa-dark-2.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": 0.03774038461538461,
+    "before": "build\\golden-review-d049\\failures\\appicon-fa-dark-1.0-product-402_masterImage.png",
+    "beforeSHA256": "4f41c8eaf3230681c11c80222cc93f342c168972bde5fe30b6cfa71bbc8626dd",
+    "afterSHA256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "appicon-fa-light-1.0-product-402.png",
+    "family": "appicon",
+    "changedPixelPercent": 0.03774038461538461,
+    "before": "build\\golden-review-d049\\failures\\appicon-fa-light-1.0-product-402_masterImage.png",
+    "beforeSHA256": "4a39f0d35975a26a60d7286979728b2396c1f4a93954cceeb2393b1149559be4",
+    "afterSHA256": "f1ee921eab9c4a76df804d9f5f9e06e17c9582c9c4d80136fc5969cbd1309872",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "auth-primitives-en-dark-1.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "938f5898b26de268ee35d9cb9eec143b29f5b73d6ccd2d1b66fde4712b1dd4c2",
+    "afterSHA256": "a465481546b52e86822322a78d4430fda21fb7aa8ddd8c6085015f11dc67b012",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-en-light-1.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "d43c48df88035076c4dde00f3311261766b4950dfbf4eb603ff459a9538b4949",
+    "afterSHA256": "f37e9652d63c927cf7ef395eb700690fec9fc1e4f78181270668576c1075e279",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-en-light-1.0-test.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "68d52320d7afd2d705352471b4bbdb8846947b364bfecb5e4bc6e272c70a4cf8",
+    "afterSHA256": "05307f1457e40c0d497e340d2237ae663cf8813d236785c4f2c9fc09524de73a",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-en-light-2.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "38604c6d71d079578fd4d00c9efff274f0edea9e94d4efdacf02a5ab3ebc340c",
+    "afterSHA256": "9cc3170fb1aac2203dd13e7aabe7d695dca7c2ba09a7809db93c595a1687a659",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-fa-dark-1.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "fa2b2bd1e1bf5821856c946fbd076aab65a6205cb09309e4d7f090ef85133af9",
+    "afterSHA256": "5bf8b132bfbfdcbdc0498c7b86b127b25a16aea52274fbba239ab7315a24f420",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-fa-dark-2.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "65fb8d6bbff91b0346c77d5950d1235badfbcb01656a2fc9d3661b1d8f0c8bd0",
+    "afterSHA256": "bfdac16b27a3f32a3885f0e056a00b0e7e1dbc59e8ecafc648087384de74f19f",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-primitives-fa-light-1.0-product.png",
+    "family": "Auth primitives",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "77ef8d42ec65badade52592fd9ee73ceb52df2d387b5c8f38dbb2e7b73b1a2e8",
+    "afterSHA256": "66ef36a0f049bac848f5c5501124c226922b9a6ed971de45b2dd7c4d743daabc",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "badge-en-dark-1.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.019071310116086235,
+    "before": "build\\golden-review-d049\\failures\\badge-en-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "de74ce11902dd95a70d6e9527efa6445a656102e9d342ed257e1d74cdc049f1e",
+    "afterSHA256": "1e894239e81a30eccd685d6e1b408aac7d8443449b8a2404fc21be757e001d30",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-en-light-1.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.019071310116086235,
+    "before": "build\\golden-review-d049\\failures\\badge-en-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "eefe54f6ada23536d0130712ef69d41605414e8c191310cc61511702b127fd78",
+    "afterSHA256": "9a4e44c49db363d411ce98ce81101cf61e7b1d5ba21efa516e1b79e38ccc1a89",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-en-light-1.0-test-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.019071310116086235,
+    "before": "build\\golden-review-d049\\failures\\badge-en-light-1.0-test-402_testImage.png",
+    "beforeSHA256": "1c18de36349dae537ea539d3f6737bb48b4e392ff5146fb8e7f73ca4a16acae0",
+    "afterSHA256": "b4acb434295c9d1f7377c27891ed0c9969fbf10ad790e3258bddca5b3c7571a4",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-en-light-2.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.021144278606965175,
+    "before": "build\\golden-review-d049\\failures\\badge-en-light-2.0-product-402_testImage.png",
+    "beforeSHA256": "2f178604659e8da99fe7924347bd9a51a68d2707b0b86acfdebee30ad3462fd2",
+    "afterSHA256": "b692253547d07652e875ffecc2d34dfa4050d7f2a870c63cc0017410f4dc46c6",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-fa-dark-1.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.004508706467661692,
+    "before": "build\\golden-review-d049\\failures\\badge-fa-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "ff29da01de4854eb088d6ce32d4379d44b896bcd5fddbd084fbc8db9436ebf28",
+    "afterSHA256": "8bea200b9b47bb8080bb0d2386233a3d97bf173f5d05fd36139b22df2b15e215",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-fa-dark-2.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.004508706467661692,
+    "before": "build\\golden-review-d049\\failures\\badge-fa-dark-2.0-product-402_testImage.png",
+    "beforeSHA256": "6714703ef3d0117b7982040466e27a27c81721c301c7eb9f11bd8c7462ceb645",
+    "afterSHA256": "da12c70191e3299bc85e7269d95d954465dcca853e3493103413790b7eb1febf",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "badge-fa-light-1.0-product-402.png",
+    "family": "badge",
+    "changedPixelPercent": 0.004508706467661692,
+    "before": "build\\golden-review-d049\\failures\\badge-fa-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "a9c73adddca45dc989cf45d2227e5ba0f47b3073d4233a64d52139c7cefa5648",
+    "afterSHA256": "403fee9e6c3eccfacbb4be00fe6e5433c57ceb01d1a437b794decbb3a26e73cf",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-en-dark-1.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 0.8637211668928088,
+    "before": "build\\golden-review-d049\\failures\\button-en-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "7b242af330fc92755d35ea377cde31bf95b0a382b42afec1a844d8fd27dc358c",
+    "afterSHA256": "ceab119d518733cd4f3a7a8f6e12aee93b54d16191a2d3ecd75953367e4c63e0",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-en-light-1.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 0.8715701794060002,
+    "before": "build\\golden-review-d049\\failures\\button-en-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "6865e1106f0d76da40fbebabea2a66df553e8303915101f653e03666d13244e4",
+    "afterSHA256": "30ec007fda860923e10e2f06cfa72b100825dc8841c90a6b9174cbbb4800e95b",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-en-light-1.0-test-402.png",
+    "family": "button",
+    "changedPixelPercent": 0.8718575682195084,
+    "before": "build\\golden-review-d049\\failures\\button-en-light-1.0-test-402_testImage.png",
+    "beforeSHA256": "7e72f048048cdc6b840eb3b2a9a50ea436911877d6cf30c59832c0d4dabe8be5",
+    "afterSHA256": "b9c9126701b16392db817c833e254b15c51e9c2ea945fe33db7a5f2381e8ac62",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-en-light-2.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 3.668767902909694,
+    "before": "build\\golden-review-d049\\failures\\button-en-light-2.0-product-402_testImage.png",
+    "beforeSHA256": "119be8efe3d274ab0eb43b7a975fcc70534622e32dfec9bd32954807164da408",
+    "afterSHA256": "42cae6efd411ccd07c3405702972cc26e752dec5d4c3a6355b95b3bb0cb0ff38",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-fa-dark-1.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 0.7918598296396804,
+    "before": "build\\golden-review-d049\\failures\\button-fa-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "fed9af733eec10da5f9cec4df80e39a865dcc0c5d1e6b09f0a8fbbb5135f2138",
+    "afterSHA256": "21cbc7387202b974dc1b0c3aee089805d3bb33210cb40fd598be0d1dec53e1c2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-fa-dark-2.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 3.239564488165234,
+    "before": "build\\golden-review-d049\\failures\\button-fa-dark-2.0-product-402_testImage.png",
+    "beforeSHA256": "fbf07946d22bbaf829f7527c50f77f1438ab45d73f9f594e2c9b612cbb584ea5",
+    "afterSHA256": "ed37a4f79a97cb6fafff8f4d2c77d50b08fce870be5e19ee10afdeac863e4bbc",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "button-fa-light-1.0-product-402.png",
+    "family": "button",
+    "changedPixelPercent": 0.7965522764963064,
+    "before": "build\\golden-review-d049\\failures\\button-fa-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "8784fe59facc5a6f5597cf47b5a2996af12e941573279f6af6d7857b64281bfc",
+    "afterSHA256": "9102f6848d22b510d21cf208a1f0b03f63aba45e1cffad6df14733f6c17e4572",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-en-dark-1.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.005614289662797126,
+    "before": "build\\inspector-v1\\before-goldens\\navigator-en-dark-1.0-product-402.png",
+    "beforeSHA256": "bd2998e09bd828066f15eacb9270b85c6d3ec903557d144800781ce3158f7a75",
+    "afterSHA256": "e8432b28b3cc8e3a4b9d264fd22926d8bb277c112f9c1806abb0ae15f588230b",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-en-light-1.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.005614289662797126,
+    "before": "build\\inspector-v1\\before-goldens\\navigator-en-light-1.0-product-402.png",
+    "beforeSHA256": "aec7f73d499f8464fca9e2a910b71317bf0e8d40a904cfbc0e7b567dabe9d18a",
+    "afterSHA256": "76833ba0c87dcd1477b570a161a260457e41170ab54b43f515c864a44774fad7",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-en-light-1.0-test-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.005614289662797126,
+    "before": "build\\inspector-v1\\before-goldens\\navigator-en-light-1.0-test-402.png",
+    "beforeSHA256": "dcee9f641690288e64fc4eb8a1228be4c4631b6dc9e95119aa789a7b496c2198",
+    "afterSHA256": "3e090755152c8246228371aa01d94c922afc6e3fd89eb82a63ef652fdda530dc",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-en-light-2.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.0008637368711995577,
+    "before": "build\\inspector-v1\\before-goldens\\navigator-en-light-2.0-product-402.png",
+    "beforeSHA256": "73e23ca9e3adce78f59343ab515fd48bd547d057751b2a028f1a8976efb9bb82",
+    "afterSHA256": "54bb746a9bdf5460f2c3d2773d9ac41601981410a153e4aa8ae85cf7dde26916",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-fa-dark-1.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.0012092316196793808,
+    "before": "docs\\reports\\golden-samples\\navigator-fa-dark-1.0-product-402.png",
+    "beforeSHA256": "c1d533964fd0aac7ad3f3d9614b3cc471aa014ef16f365f510dae025311e3efc",
+    "afterSHA256": "63e4ef76f20dfa10adaf0a5f2ba7dcf8a394bd2b376c34d512abc4d4f64823ce",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-fa-dark-2.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.0012092316196793808,
+    "before": "build\\golden-review-d049\\failures\\navigator-fa-dark-2.0-product-402_testImage.png",
+    "beforeSHA256": "02af6150cacfca550020e9299840d4d622b9179637e077c5c1560ba6067ae15a",
+    "afterSHA256": "0e43db3721eeb67d34c41be5e23b1897a4db1655ae1087d2adc1d81979f3c916",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "navigator-fa-light-1.0-product-402.png",
+    "family": "navigator",
+    "changedPixelPercent": 0.0012092316196793808,
+    "before": "build\\golden-review-d049\\failures\\navigator-fa-light-1.0-product-402_testImage.png",
+    "beforeSHA256": "8895d673287825446638301fd785a1a90d22659096a196045c67cdb75a7fa2cc",
+    "afterSHA256": "a6402953d9bebf9b1eac3716324e102edc9eceeb2dcd17df529cba5395723116",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "otp-en-dark-1.0-product-402.png",
+    "family": "otp",
+    "changedPixelPercent": 0.0396455223880597,
+    "before": "build\\golden-review-d049\\failures\\otp-en-dark-1.0-product-402_testImage.png",
+    "beforeSHA256": "de3cc57a2a9026513cae7f7c75a41a752b3703da170c14ebcd9dab44cb60543e",
+    "afterSHA256": "6b1f0fd8f5488bdc9fbfd184eaa0c3414a2ad80a34af8256975aa7fde7d847b2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "otp-fa-dark-1.0-product-402.png",
+    "family": "otp",
+    "changedPixelPercent": 0.006564400221116639,
+    "before": "build\\inspector-v1\\caption-failures\\otp-fa-dark-1.0-product-402_masterImage.png",
+    "beforeSHA256": "277c304ba7de29ad1ae3058df1e859ba537522b7ef8aec086b3efcf7156d561b",
+    "afterSHA256": "2d8803187f5ec52c8f78241cc12e9d966a11e341bd1710ec107c46cc0a449e39",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "otp-fa-dark-2.0-product-402.png",
+    "family": "otp",
+    "changedPixelPercent": 0.006564400221116639,
+    "before": "build\\inspector-v1\\caption-failures\\otp-fa-dark-2.0-product-402_masterImage.png",
+    "beforeSHA256": "820d4b786813d308a985961e649717844c9c577af5412ff2958e26d0abc5bef1",
+    "afterSHA256": "0961b2b693e9b928bf7fc07ff260bfd0aa419a49f6a92d85d07db3c29a089174",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-dark-1.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.5700071073205402,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-dark-1.0-product-402.png",
+    "beforeSHA256": "ee4f4273b20d7b6be3241a8c7a7aa18d560277e588cd37cfbd2023fa9f1d31d9",
+    "afterSHA256": "06e72658ed50eba9c0b479bd13d585d1fb3aebc96429a317f76223f8f80b9319",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-dark-1.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.3273469387755102,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-dark-1.0-product-700.png",
+    "beforeSHA256": "b3e70f9b9095f4c3ea5efb4ff6434013fd3816430f7b6bab5d099902cc40a082",
+    "afterSHA256": "ea7a299a5e6c27ff4f968cda8b86de32e1a0be0b6d76bd59d9b30cb3a662a5a8",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-1.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.5700071073205402,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-light-1.0-product-402.png",
+    "beforeSHA256": "278ed6b79735baeeaf29e48e19d1ab68b87aee26e866bfc15858b64edf1838ca",
+    "afterSHA256": "05b51802596e4d23b6f8fd83d256e1a3f631454774fdaabce96d268f11df4843",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-1.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.3273469387755102,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-light-1.0-product-700.png",
+    "beforeSHA256": "8a5646f3bc8022bfcb7d80e5be801e2a17ba75fb84daef6865211bad752d0bcb",
+    "afterSHA256": "4f0da2f6ae6833ca477667620ab411d2ee790611ffea63ff601489aeb9eedc50",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-1.0-test-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.5621890547263682,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-light-1.0-test-402.png",
+    "beforeSHA256": "6292ca830c5255b90d687fcfa847bc9fa7bdfff78c773acbb1d50184da399551",
+    "afterSHA256": "b9bd259770d7774a118c2a542fb93128750d96155f3e46e8588799822bed6102",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-1.0-test-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.3228571428571429,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-light-1.0-test-700.png",
+    "beforeSHA256": "06b5c55b4620632e5b78cfdda4a957b4d5b283d94e7e9c8f695527e6b9d34824",
+    "afterSHA256": "b5359ea0c7cbcb50256d18ce1ec5fe65c8d321efa46b83ddd6c98be925642971",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-2.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 2.3216062544420755,
+    "before": "docs\\reports\\golden-samples\\pagescaffold-en-light-2.0-product-402.png",
+    "beforeSHA256": "af86ecc00933e71cd356efa99ba31a8af6cbecaf7b51b411b09c20a3bc651ab9",
+    "afterSHA256": "775310adda437bba0ea3933e98da2c56ca47b1aaf9cecc2bcb794fb2d79dff97",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-en-light-2.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 1.333265306122449,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-en-light-2.0-product-700.png",
+    "beforeSHA256": "db8d31b4a727832d8b5310a60c8eefcbf1c7329d8fc21d9ef20bfd293105ad16",
+    "afterSHA256": "01a32808174067c220d55d006b48edd4fa8385a444316fcbe39d1771313ea558",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-dark-1.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.3127221037668799,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-dark-1.0-product-402.png",
+    "beforeSHA256": "390e673065d6f0b3ae608f56ff9fc3d7313cfe14393f689f7a025d2c37a119b8",
+    "afterSHA256": "a164efd2fa98a9e7bda4949ee0fd9b0cfb61052709eb02f66afb11f0723a556e",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-dark-1.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.17959183673469387,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-dark-1.0-product-700.png",
+    "beforeSHA256": "2c6e39f16ee8a15ebacf254b9f0097c232e3e1b26dc3d566dcf1edd4b4505ee1",
+    "afterSHA256": "1b635544db4dca3988c80743407dc6d85a6025034c25ebb86cd310d58bdb11fb",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-dark-2.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 1.316631130063966,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-dark-2.0-product-402.png",
+    "beforeSHA256": "78be57e6ed1473f16ad1f64c2d215d06dbcdaaa4e18d83afbcd63a46d1905c0f",
+    "afterSHA256": "f8f8e1f4d321bf3324e546c7f787e9cce26e6b41e1cdd66e0a12ebb1543f1046",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-dark-2.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.7561224489795918,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-dark-2.0-product-700.png",
+    "beforeSHA256": "0b4083d8e69ed9042a95c4c7e70c0911adb7dd0f20c85c7a0291dd0c25e7bdd7",
+    "afterSHA256": "4b200cde5572be226e28127a0b807a6ca669e8311eb6d937cad526c6d6528ce9",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-light-1.0-product-402.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.3127221037668799,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-light-1.0-product-402.png",
+    "beforeSHA256": "a132b29222cc9e678c285bf60acbd7d1fb6c06f7ff571b7f290cf364088b72c1",
+    "afterSHA256": "cb25fe04cff3767046b90909d4f05a471913f4497b55e4a4758aa2e4bca46b13",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "pagescaffold-fa-light-1.0-product-700.png",
+    "family": "pagescaffold",
+    "changedPixelPercent": 0.17959183673469387,
+    "before": "build\\inspector-v1\\before-goldens\\pagescaffold-fa-light-1.0-product-700.png",
+    "beforeSHA256": "687b280746f0d5f6e17f742bce07034a744f19e712949caf235905757e228820",
+    "afterSHA256": "b9760a2573963ccc6176f7170ebbfec6a4c4d1c1f10a35b0ba06eb7ce9bf0d79",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "password-en-dark-1.0-product-402.png",
+    "family": "password",
+    "changedPixelPercent": 0.234375,
+    "before": "build\\inspector-v1\\before-goldens\\password-en-dark-1.0-product-402.png",
+    "beforeSHA256": "1ba621bb5e42937f6030ab7bb9b8c63935c26694d784792a034a9ec0409154ca",
+    "afterSHA256": "966f30f1f48dd018df4c75ec2a721050ef5d62f5f942997f0b6a6efd3379fa8f",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "password-fa-dark-1.0-product-402.png",
+    "family": "password",
+    "changedPixelPercent": 0.11219941956882254,
+    "before": "docs\\reports\\golden-samples\\password-fa-dark-1.0-product-402.png",
+    "beforeSHA256": "4facef7f5d2305f045b6593a19a1ec1803b0b5ee6b0312f1f4fa0b8b65ac7700",
+    "afterSHA256": "54472026b20a2bf1887aef338286fc465361120b48db16411ed882160fef9a21",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "password-fa-dark-2.0-product-402.png",
+    "family": "password",
+    "changedPixelPercent": 0.012632151741293531,
+    "before": "build\\inspector-v1\\caption-failures\\password-fa-dark-2.0-product-402_masterImage.png",
+    "beforeSHA256": "118112ca2735b62c78891f19945e5e404369da49aa014e185ebb9370c8e15702",
+    "afterSHA256": "ff446c7d10c48fe72431e161820c238397fa62b3b1642d14a6e33f3a4c86f60c",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-en-dark-1.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.021766169154228857,
+    "before": "build\\inspector-v1\\before-goldens\\radio-en-dark-1.0-product-402.png",
+    "beforeSHA256": "7d0c91e9dc47104b8ce6fca76316ecc9f7cffcdec2d4565444cca50fc3cf004b",
+    "afterSHA256": "466b12faccf8861c8efe162b70e611805128b060ca364eea31905911b1670cce",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-en-light-1.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.023580016583747927,
+    "before": "build\\inspector-v1\\before-goldens\\radio-en-light-1.0-product-402.png",
+    "beforeSHA256": "6f9f5a81649515d5b3a4a288f0611e4a64880cc1e36e448ff9d3d213e24b186c",
+    "afterSHA256": "d7b47ebc6bae15aca68d60d21c068b7474572247520eedc4f7a5c21599667fd2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-en-light-1.0-test-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.023580016583747927,
+    "before": "build\\inspector-v1\\before-goldens\\radio-en-light-1.0-test-402.png",
+    "beforeSHA256": "664dc967609bb1dafb17a3a0b9936f8373549a9e6e977f1bb0eccddc63c4cf41",
+    "afterSHA256": "c3dca3e78d92d0d3248242cdad8c1790bb5101a3af59c5fdbc370f0e93ef57d2",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-en-light-2.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.015806384742951905,
+    "before": "build\\inspector-v1\\before-goldens\\radio-en-light-2.0-product-402.png",
+    "beforeSHA256": "17fb9ab48b30ea4c11146c2de1680d76ee38bd1acca0cc11d35d62cf0f3f5c5c",
+    "afterSHA256": "9f0f37c97a300cf5d83d625cdd68e92a6a5084dd3d7bc509f1857950653e7744",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-fa-dark-1.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.004664179104477612,
+    "before": "build\\golden-review-d049\\failures\\radio-fa-dark-1.0-product-402_masterImage.png",
+    "beforeSHA256": "5b872068a0739da317609e2e0721a050e3ed95695c298ec92f8ae552247e6e47",
+    "afterSHA256": "cf1d43db4b80104923b610d3fd20ea7e16a42511f57d73bf354809ab3848471a",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-fa-dark-2.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.004664179104477612,
+    "before": "build\\golden-review-d049\\failures\\radio-fa-dark-2.0-product-402_masterImage.png",
+    "beforeSHA256": "ea4927d768023832c4d48ffc82ec03e8215c153da5184fd774c749db274bfdb6",
+    "afterSHA256": "1042b61d0f070f11fba3c71cbb3fb952689240f23e5539ca23b269fd6a1aef37",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "radio-fa-light-1.0-product-402.png",
+    "family": "radio",
+    "changedPixelPercent": 0.00388681592039801,
+    "before": "docs\\reports\\golden-samples\\radio-fa-light-1.0-product-402.png",
+    "beforeSHA256": "ab4357a09087d0ebfd00f0a26827ebde215b049d5ae0ecd4bd3c059e6766ac3b",
+    "afterSHA256": "cfd6db7edbaea590992e15e9d7969fdb0f389a270eddf0e132e8aa4ce371ef62",
+    "flag": "Font/Button-height scope; pixel attribution requires owner review."
+  },
+  {
+    "sample": "textfield-en-dark-1.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.24707193200663352,
+    "before": "build\\inspector-v1\\before-goldens\\textfield-en-dark-1.0-product-402.png",
+    "beforeSHA256": "3fb6d238a2a44900e3eb2c843df6acfe5c7d65952a4787880b39b28b5ca5d3a3",
+    "afterSHA256": "94acf8762ee4216b612032bc77b4b4ec9bdb623675cfab72ef401cb86b8a5d67",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-en-light-1.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.2355410447761194,
+    "before": "build\\inspector-v1\\before-goldens\\textfield-en-light-1.0-product-402.png",
+    "beforeSHA256": "72299538301830263260ef3fb85bb04843e27cbe0df9a5382eb9affc975d2109",
+    "afterSHA256": "84dbb55100483e7a480bd03cbff8a65cd5e8c4244e6f8d91b30c645615df3fb5",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-en-light-1.0-test-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.2355410447761194,
+    "before": "build\\inspector-v1\\before-goldens\\textfield-en-light-1.0-test-402.png",
+    "beforeSHA256": "5b719953ba458e191c23b18a0c475c213b581f86738648cfa7f3aae5e37d20b1",
+    "afterSHA256": "14f8c90ea8a9126437519ebb5d023cb4b94150d768bcda960a74ba9015615707",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-en-light-2.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.030058043117744612,
+    "before": "build\\font-fallback-d048\\english-control-failure\\failures\\textfield-en-light-2.0-product-402_masterImage.png",
+    "beforeSHA256": "0dbbbdaf7df73bbe4b24cce3d22fc1c8ddb4b13af246f6e516e569587d1aeb4c",
+    "afterSHA256": "1264be014afe9b48e9eddfc94acfffb153149dc01f1f80b4b15ad4d28df2568f",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-fa-dark-1.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.11673403814262022,
+    "before": "build\\inspector-v1\\caption-failures\\textfield-fa-dark-1.0-product-402_masterImage.png",
+    "beforeSHA256": "74448bdedd83feadbe099d3cb425c7a47f92d60225e89bea8f6b6b59bfc39d31",
+    "afterSHA256": "72056e41a815962fde3394b4a030c553c40cc760c3f7e5f673eb8bdf1b8fb5a1",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-fa-dark-2.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.008810116086235489,
+    "before": "build\\inspector-v1\\caption-failures\\textfield-fa-dark-2.0-product-402_masterImage.png",
+    "beforeSHA256": "14f6e28157a1b7735f88a0509899dd6cc88632b1eb4a42e5cff8a61aaa66315f",
+    "afterSHA256": "552312c0b71adcd44d17266f39a5af15010f59b3a01eb47f76907acd879488d3",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "textfield-fa-light-1.0-product-402.png",
+    "family": "textfield",
+    "changedPixelPercent": 0.11556799336650084,
+    "before": "build\\inspector-v1\\caption-failures\\textfield-fa-light-1.0-product-402_masterImage.png",
+    "beforeSHA256": "787905f8a43b9e33da9cf894235a705e0f92d2fbdf133ab5bbd1e8b6dafb92f2",
+    "afterSHA256": "6322ea145ea439fdda29ed7b97166000c049a15018da773e23ad4ba6b0803bdc",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-email-en-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 1.9621571774992315,
+    "before": "docs\\reports\\auth-entry\\auth-email-en-dark-1.0-402.png",
+    "beforeSHA256": "a8bcd30b9f8c479914430e51d42cdfb13ce5b38957d3172f71b8a423643eed66",
+    "afterSHA256": "096b969a6e51275cb3f17ffe1b3df925f22afd24056353078589580349032f10",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-email-en-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "2d4bdb09ec627c5b4da259708a10161f6b41248b21867c12ad357207f0a11e7c",
+    "afterSHA256": "8459a1801f403eb2710cd98b85807c1c7ee61f29a4939467caa9d2816ebac39a",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-email-fa-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 1.9388184933456287,
+    "before": "docs\\reports\\auth-entry\\auth-email-fa-dark-1.0-402.png",
+    "beforeSHA256": "25d7aa477e283ee88f885c911ba0dd6094d3bd15c3d5856a20da64be1352349a",
+    "afterSHA256": "76770633c2461662bb5ce60be1fa1be3ea67906f2b77a0678f033c152cb64199",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-email-fa-dark-2.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "e3b97a8db27368e819a7ee9ad8b11edae7df20fd498a3600845124e839042c4d",
+    "afterSHA256": "e2a9bd9005840b3991b71364642764fe04d2f26177479534fc221a941689c99a",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-email-fa-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "4df88ce6dcfccb33c1d59069645f146aa5fc599c5a7ee13ad642333c73d838c8",
+    "afterSHA256": "e5b9154962654198eb4d7ee69d5e019d0efd9a832891bfb1502f8d2eb2cc5869",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-focused-en-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 1.0667486366793038,
+    "before": "docs\\reports\\auth-entry\\auth-focused-en-dark-1.0-402.png",
+    "beforeSHA256": "c49dda7c4827363af93219aa75017db1e6547c831a4ff89199f977c0f0a6a8cc",
+    "afterSHA256": "135bdaa43f99a8f01fe4cc3aa891eb3eee60574de8bb2918d46d8b381822728b",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-focused-en-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "c4ea85ad06cd088dd5f1f2f1127622379baec19f19f6b8ea1dabfbaab0103de1",
+    "afterSHA256": "0ed9ba78e004656514fb0cd8bc107fad857032bc59bb5344b1b2acdfaa329127",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-focused-fa-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 0.8649544041804705,
+    "before": "docs\\reports\\auth-entry\\auth-focused-fa-dark-1.0-402.png",
+    "beforeSHA256": "d2793d3644e84d53816c8f3bd75806518ebbff63ed522bddace746362a14cc76",
+    "afterSHA256": "1bd9bb781f4f705592eeba188737b2842dd5033eed5f7a66adb513f4b55f0017",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-focused-fa-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "ea511bf56810cfb94d11e292815818bccd69af16eac9ce89360dd2fc3eb59418",
+    "afterSHA256": "f65ae553dfa178443b52680ac2ecc453fc51cfaf294abc3b15562fd3a18e2fc5",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-idle-en-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 8.074615480947664,
+    "before": "docs\\reports\\auth-entry\\auth-idle-en-dark-1.0-402.png",
+    "beforeSHA256": "1096a656df39d3e7d2aa963618385e24fa4057a6a457c88f063ebdd54d1adc9f",
+    "afterSHA256": "6b4aaeb3f813fe99abbd13ace57cbab9a2e4d5f03799917af31ff389849613da",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-idle-en-dark-1.0-744.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "00a7954cc0f27df933cfc1d6773c771b28cac0e16aec94c575b3c5b5b97ce2f4",
+    "afterSHA256": "afd84bd475e17d7ab57475b525710f25f43524bc0bb96364e285c9581729dbf3",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-idle-en-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "5cee280d7b2a0ebe712eef49d0899a3dcd3c10b0d65cf4c5d564507204e32144",
+    "afterSHA256": "f222346930ea8c392592989b809e82112c4ee7bad85727d8f484aaf5a9708cbb",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-idle-fa-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 7.009289934765532,
+    "before": "docs\\reports\\auth-entry\\auth-idle-fa-dark-1.0-402.png",
+    "beforeSHA256": "57599a01a2e3632d7c72ecfe111c1dc61e94b3bbc90fcd1b1795c326d938a6b0",
+    "afterSHA256": "b2544593e27b703428824f5b48b4ce49821aa4efd85862b1b8f9783f96c4ca05",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-idle-fa-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "084387bf64786d0532c9e2869dc0f027c29cdd74e71d0856fa9bf93b91c144fc",
+    "afterSHA256": "c24d83b4438b6b5761d9417ae8c5bfdc6a84cc8e6416a5909dcd99b30f444344",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-phone-en-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 1.6080922618031128,
+    "before": "docs\\reports\\auth-entry\\auth-phone-en-dark-1.0-402.png",
+    "beforeSHA256": "a589f4ca61f0877620a17b5baab4d0200174e20e297c563592f6a43a14452d00",
+    "afterSHA256": "b4e24de5750de76743a7b83707b2a96b98074ffb41ee852bf08569d32ecfc855",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-phone-en-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "a53424d782766d80b674d8aab4c738baa4c3cc093b4a0330e44754d0269b27ba",
+    "afterSHA256": "f873a7fa9ab583d38e819df82bd2cadded5cb05e1ebf0bb73e1fa9f74ce7593f",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-phone-fa-dark-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": 1.8067556952081696,
+    "before": "docs\\reports\\auth-entry\\auth-phone-fa-dark-1.0-402.png",
+    "beforeSHA256": "2d14d12c2f144f5e9cf759250f3def63c434692f29bff34af4e145513ca9e59d",
+    "afterSHA256": "b95a346fe02faa228053c22524dc65977b1894e7d7e7e0e0057f277fe37cfeb1",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  },
+  {
+    "sample": "auth-phone-fa-light-1.0-402.png",
+    "family": "Auth screens",
+    "changedPixelPercent": null,
+    "before": null,
+    "beforeSHA256": "676946e75562607f7411c733774210d942de55a256bfbe88d22e0a4c7c8a270e",
+    "afterSHA256": "ef98f1a33e65d3dac3a1b5bc40eb06df2c9bec29ac79e7b717cffdd62441c6cc",
+    "flag": "REVIEW: legal-link target removal, field label centering, inside-stroke body layout, social frame and phone presentation also changed (D-059); not font/Button-height alone."
+  }
+]

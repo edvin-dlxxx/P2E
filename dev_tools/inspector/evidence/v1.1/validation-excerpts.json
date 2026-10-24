@@ -1,0 +1,71 @@
+{
+  "tests-root-complete.log": [
+    "00:01 +46: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-044 retains nonlinear scaling and caps content at two",
+    "00:02 +47: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-046 neutral override selects skin independently of brightness",
+    "00:02 +48: All tests passed!"
+  ],
+  "tests-package-full.log": [
+    "03:43 +502: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: hidden report includes every explicitly hidden Snapshot child",
+    "03:43 +503: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: extension copy/interpolation preserves endpoints and explicit availability",
+    "03:43 +504: All tests passed!"
+  ],
+  "tests-viewer-complete.log": [
+    "01:02 +31: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: en narrow inspector and long localized 1.3 preview",
+    "01:06 +32: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: fa narrow inspector and long localized 1.3 preview",
+    "01:10 +33: All tests passed!"
+  ],
+  "goldens-final1.log": [
+    "00:34 +67: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402",
+    "00:34 +68: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700",
+    "00:34 +69: All tests passed!"
+  ],
+  "goldens-final2.log": [
+    "00:33 +67: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402",
+    "00:33 +68: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700",
+    "00:33 +69: All tests passed!"
+  ],
+  "final-tests-core.log": [
+    "00:04 +13: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: Problems forwards errors and sweep finds exact width and height ranges",
+    "00:06 +14: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: one-time missing loading label diagnostic retains a recoverable owner",
+    "00:06 +15: All tests passed!"
+  ],
+  "final-tests-product_host.log": [
+    "Rendering degraded navigation with undersized, non-compliant touch targets.",
+    "════════════════════════════════════════════════════════════════════════════════════════════════════",
+    "00:05 +3 ~1: All tests passed!"
+  ],
+  "final-tests-viewer_host.log": [
+    "00:12 +1 ~1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: real Viewer fills honest remaining width; selection reads existing source values",
+    "00:16 +2 ~1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: Dev skin and existing Viewer selector stay synchronized",
+    "00:19 +3 ~1: All tests passed!"
+  ],
+  "final-windows-product_host.log": [
+    "Building Windows application...                                    ۱۶٫۷s",
+    "√ Built build\\windows\\x64\\runner\\Debug\\p2e_product_host.exe"
+  ],
+  "final-windows-viewer_host.log": [
+    "Try `flutter pub outdated` for more information.",
+    "Building Windows application...                                    ۱۳٫۲s",
+    "√ Built build\\windows\\x64\\runner\\Debug\\p2e_viewer_host.exe"
+  ],
+  "build-apk-final.log": [
+    "",
+    "Running Gradle task 'assembleDebug'...                            ۱۵۰٫۰s",
+    "√ Built build\\app\\outputs\\flutter-apk\\app-debug.apk"
+  ],
+  "build-release-final.log": [
+    "Expected to find fonts for (packages/cupertino_icons/CupertinoIcons, MaterialIcons), but found (). This usually means you are referring to font families in an IconData class but not including them in the assets section of your pubspec.yaml, are missing the package that would include them, or are missing \"uses-material-design: true\".",
+    "Running Gradle task 'assembleRelease'...                          ۱۸۹٫۲s",
+    "√ Built build\\app\\outputs\\flutter-apk\\app-release.apk (46.0MB)"
+  ],
+  "sweep-product_host-complete.log": [
+    "Shell: sweep samples: 1000",
+    "Shell: sweep samples: 1200",
+    "01:33 +1: All tests passed!"
+  ],
+  "sweep-viewer_host-complete.log": [
+    "Shell: sweep samples: 1000",
+    "Shell: sweep samples: 1200",
+    "05:04 +1: All tests passed!"
+  ]
+}

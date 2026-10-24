@@ -1,0 +1,21 @@
+{
+  "collection": {
+    "id": "collection:1",
+    "name": "Fixture only",
+    "defaultModeId": "light",
+    "modes": [{"modeId":"light","name":"Light"},{"modeId":"dark","name":"Dark"}],
+    "variableIds": ["VariableID:1:1","VariableID:2:1"]
+  },
+  "variables": [
+    {"id":"VariableID:1:1","name":"Duplicate name","resolvedType":"FLOAT","valuesByMode":{"light":1.23456789,"dark":2.987654321}},
+    {"id":"VariableID:2:1","name":"Alias A","resolvedType":"FLOAT","valuesByMode":{"light":{"type":"VARIABLE_ALIAS","id":"VariableID:2:2"},"dark":{"type":"VARIABLE_ALIAS","id":"VariableID:1:1"}}},
+    {"id":"VariableID:2:2","name":"Alias B","resolvedType":"FLOAT","valuesByMode":{"light":{"type":"VARIABLE_ALIAS","id":"VariableID:1:1"},"dark":0}},
+    {"id":"VariableID:16447:59","name":"Duplicate name","resolvedType":"COLOR","valuesByMode":{"light":{"r":1,"g":1,"b":1,"a":0.30000001192092896},"dark":{"r":1,"g":1,"b":1,"a":0.30000001192092896}}},
+    {"id":"VariableID:16447:46","name":"Black/Variant","resolvedType":"COLOR","valuesByMode":{"light":{"r":0,"g":0,"b":0,"a":0.30000001192092896},"dark":{"r":0,"g":0,"b":0,"a":0.30000001192092896}}},
+    {"id":"VariableID:16447:60","name":"Base/White/40%","resolvedType":"COLOR","valuesByMode":{"light":{"r":1,"g":1,"b":1,"a":0.4000000059604645},"dark":{"r":1,"g":1,"b":1,"a":0.4000000059604645}}},
+    {"id":"VariableID:16447:43","name":"Base/Black/40%","resolvedType":"COLOR","valuesByMode":{"light":{"r":0,"g":0,"b":0,"a":0.4000000059604645},"dark":{"r":0,"g":0,"b":0,"a":0.4000000059604645}}},
+    {"id":"VariableID:3:1","name":"Cycle A","resolvedType":"FLOAT","valuesByMode":{"light":{"type":"VARIABLE_ALIAS","id":"VariableID:3:2"},"dark":1}},
+    {"id":"VariableID:3:2","name":"Cycle B","resolvedType":"FLOAT","valuesByMode":{"light":{"type":"VARIABLE_ALIAS","id":"VariableID:3:1"},"dark":2}}
+  ],
+  "lookupOnlyInputs": ["16447:59","16447:46","16447:60","16447:43"]
+}

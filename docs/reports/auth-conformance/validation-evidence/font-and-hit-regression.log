@@ -1,0 +1,8 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/font_provenance_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/font_provenance_test.dart: Outfit400 matches its real static reference pixels
+00:00 +1: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_fixed_frame_test.dart: AppButtonSize.small fixed visual frame has a layout-neutral48px hit envelope
+00:00 +2: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_fixed_frame_test.dart: AppButtonSize.small fixed visual frame has a layout-neutral48px hit envelope
+00:00 +3: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_fixed_frame_test.dart: AppButtonSize.small fixed visual frame has a layout-neutral48px hit envelope
+00:00 +4: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_fixed_frame_test.dart: AppButtonSize.medium fixed visual frame has a layout-neutral48px hit envelope
+00:00 +5: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_fixed_frame_test.dart: AppButtonSize.large fixed visual frame has a layout-neutral48px hit envelope
+00:00 +6: All tests passed!

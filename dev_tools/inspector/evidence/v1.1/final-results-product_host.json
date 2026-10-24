@@ -1,0 +1,22 @@
+[
+  {
+    "command": "pub get",
+    "exitCode": 0
+  },
+  {
+    "command": "dart analyze",
+    "exitCode": 0
+  },
+  {
+    "command": "flutter analyze",
+    "exitCode": 0
+  },
+  {
+    "command": "flutter test",
+    "exitCode": 0
+  },
+  {
+    "command": "flutter build windows --debug",
+    "exitCode": 0
+  }
+]

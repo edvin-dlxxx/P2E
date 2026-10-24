@@ -1,0 +1,6 @@
+{
+  "APP_ENV": "dev",
+  "BACKEND_MODE": "fake",
+  "TERMS_URL": "",
+  "PRIVACY_URL": ""
+}

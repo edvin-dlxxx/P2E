@@ -1,0 +1,13 @@
+Verified 5 source App Bar variants, 3 categories; exact local SVG hashes verified.
+Auth Entry geometry and brand tokens verified.
+Verified 30 Badge variants / 6 source sets; all icon links and hidden paints resolved.
+Verified 34 source variants / 6 sets; complete descendants, variables, typography and OTP consumers.
+Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.
+Verified 208 runtime assets and registry.
+Verified 2 source bars, 4 nested item states, 5 exact icon pairs.
+Skin roles: 37; unavailable Light: ; Dark: 
+Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.
+Verified 208 runtime assets and registry.
+Verified 90 variants; 13 missing set-wrapper paints.
+Verified 3 files; 18 variables, 3 text styles.
+Outfit: real static faces match all referenced DS weights: [400, 500, 600, 700]

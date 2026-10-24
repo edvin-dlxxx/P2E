@@ -1,0 +1,15 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/followup_sweep_test.dart
+00:00 +0: DS width sweep fa/en scales1/2/3 keyboard off/on reduced and bold
+Shell: samples: 300
+Shell: samples: 600
+Shell: samples: 900
+Shell: samples: 1200
+Shell: samples: 1500
+Shell: samples: 1800
+Shell: samples: 300
+Shell: samples: 600
+Shell: samples: 900
+Shell: samples: 1200
+Shell: samples: 1500
+Shell: samples: 1800
+03:47 +1: All tests passed!

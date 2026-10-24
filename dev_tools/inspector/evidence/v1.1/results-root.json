@@ -1,0 +1,18 @@
+[
+  {
+    "check": "pub",
+    "exitCode": 0
+  },
+  {
+    "check": "analyze",
+    "exitCode": 0
+  },
+  {
+    "check": "flutter-analyze",
+    "exitCode": 0
+  },
+  {
+    "check": "test",
+    "exitCode": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "appicon-fa-dark-1.0-product-402",
+    "changedPixels": 4275,
+    "outsideCaptionPixels": 1444,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "appicon-fa-dark-2.0-product-402",
+    "changedPixels": 4275,
+    "outsideCaptionPixels": 1444,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "appicon-fa-light-1.0-product-402",
+    "changedPixels": 4117,
+    "outsideCaptionPixels": 1286,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "otp-fa-dark-1.0-product-402",
+    "changedPixels": 5802,
+    "outsideCaptionPixels": 2639,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": true,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "otp-fa-dark-2.0-product-402",
+    "changedPixels": 5952,
+    "outsideCaptionPixels": 2789,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "password-fa-dark-1.0-product-402",
+    "changedPixels": 39997,
+    "outsideCaptionPixels": 32765,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "password-fa-dark-2.0-product-402",
+    "changedPixels": 45533,
+    "outsideCaptionPixels": 38301,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "radio-fa-dark-1.0-product-402",
+    "changedPixels": 4164,
+    "outsideCaptionPixels": 1656,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "radio-fa-dark-2.0-product-402",
+    "changedPixels": 4860,
+    "outsideCaptionPixels": 2352,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "radio-fa-light-1.0-product-402",
+    "changedPixels": 4156,
+    "outsideCaptionPixels": 1684,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "textfield-fa-dark-1.0-product-402",
+    "changedPixels": 19803,
+    "outsideCaptionPixels": 16383,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": true,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "textfield-fa-dark-2.0-product-402",
+    "changedPixels": 22571,
+    "outsideCaptionPixels": 19151,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  },
+  {
+    "name": "textfield-fa-light-1.0-product-402",
+    "changedPixels": 23529,
+    "outsideCaptionPixels": 20058,
+    "captionOnly": false,
+    "approvedBeforeRegeneration": false,
+    "boundsPolicy": "union of actual before/after RenderParagraph bounds"
+  }
+]

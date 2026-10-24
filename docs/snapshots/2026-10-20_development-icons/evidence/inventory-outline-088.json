@@ -1,0 +1,874 @@
+{
+  "schemaVersion": "icons-1.0",
+  "setId": "14466:880",
+  "setName": "Outline",
+  "total": 104,
+  "offset": 88,
+  "next": null,
+  "componentPropertyDefinitions": {
+    "Icon": {
+      "type": "VARIANT",
+      "defaultValue": "Attach File Add",
+      "variantOptions": [
+        "Add",
+        "Add Larg",
+        "Arrow Drop Down",
+        "Arrow Drop Left",
+        "Arrow Drop Right",
+        "Arrow Drop Up",
+        "Brightness Alert",
+        "Calendar",
+        "Check",
+        "Chess Bishop",
+        "Chess Knight",
+        "Chess Pawn",
+        "Chess Queen",
+        "Chess Rok",
+        "Chevron Down",
+        "Chevron Left",
+        "Chevron Right",
+        "Chevron Up",
+        "Close",
+        "Close Small",
+        "Edit",
+        "Edit Square",
+        "Extension",
+        "Fingerprint",
+        "ID Card",
+        "Image",
+        "Image Arrow Up",
+        "Image Search",
+        "Imagesearch Roller",
+        "Imagesmode",
+        "Location",
+        "Mail",
+        "Person",
+        "Phone Enabled",
+        "Release Alert",
+        "Scoreboard",
+        "Shoe Cleats",
+        "Sports",
+        "Tactic",
+        "Timer",
+        "Trophy",
+        "Verified",
+        "Video Camera Back",
+        "Video Camera Back Add",
+        "Video Camera Front",
+        "Warning",
+        "Attach File",
+        "Link",
+        "Link Off",
+        "Link 2",
+        "Attach File Add",
+        "My Location",
+        "Play Arrow",
+        "Motion Play",
+        "Pause Circle",
+        "Timer Play",
+        "Play Circle",
+        "Light Mode",
+        "Dark Mode",
+        "Home",
+        "Leaderboard",
+        "Target Check",
+        "Stadia Controller",
+        "Sports Esports",
+        "Store",
+        "Crown",
+        "Poker Chip",
+        "Add Shopping Cart",
+        "Notifications",
+        "Help",
+        "Menu",
+        "Workspace Premium 2",
+        "Workspace Premium 1",
+        "Star",
+        "Star Half",
+        "Download",
+        "Upload",
+        "Arrow Cool Down",
+        "Arrow Wam Up",
+        "Arrow Up Alt",
+        "Arrow Down Alt",
+        "Arrow Right Alt",
+        "Arrow Left Alt",
+        "Arrow Up",
+        "Arrow Down",
+        "Arrow Right",
+        "Arrow Left",
+        "Cloud Download",
+        "Cloud Upload",
+        "Downloading",
+        "Bookmark Remove",
+        "Bookmark Add",
+        "Bookmark Added",
+        "Bookmark Check",
+        "Bookmark Heart",
+        "Bookmark Star",
+        "Bookmark",
+        "Share",
+        "Thumb Down",
+        "Thumb Up",
+        "More Horizontal",
+        "More Vertical",
+        "Visibility Off",
+        "Visibility"
+      ]
+    }
+  },
+  "icons": [
+    {
+      "id": "18517:6408",
+      "key": "0589be112c6d9851690fad0d562bcf078ca293e8",
+      "name": "Icon=Cloud Upload",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Cloud Upload"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6398",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6398",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6410",
+      "key": "7a546b13076e00453caf4749e1979abcf3988a7c",
+      "name": "Icon=Downloading",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Downloading"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6400",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6400",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6460",
+      "key": "0f083a0a4ee7e0e47f9def39f273a59ca0acf2a9",
+      "name": "Icon=Bookmark",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6442",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6442",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6462",
+      "key": "d3764b3e799961f6e231b4132e6e8cc460700bdd",
+      "name": "Icon=Bookmark Add",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Add"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6438",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6438",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6464",
+      "key": "6b4f939daae1d2ae13a46840f74748d8cc845b86",
+      "name": "Icon=Bookmark Check",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Check"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6432",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6432",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6465",
+      "key": "cbb86e4a8491196fdab96ecbd191bc4b4dd442f6",
+      "name": "Icon=Bookmark Remove",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Remove"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6434",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6434",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6466",
+      "key": "8fa904f7c8e248218c3e9e363da8409b019f2f14",
+      "name": "Icon=Bookmark Star",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Star"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6440",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6440",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6468",
+      "key": "0e0180b15270982c1fe62a36ca47d67dccf0bc79",
+      "name": "Icon=Bookmark Added",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Added"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6436",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6436",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18517:6470",
+      "key": "a11688283889c50e344b7d33aa4a5e39592d0439",
+      "name": "Icon=Bookmark Heart",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Bookmark Heart"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18517:6430",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18517:6430",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18525:7758",
+      "key": "32faefe761b8483cf679d75ea2e44881cbbc2412",
+      "name": "Icon=Share",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Share"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18525:7754",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18525:7754",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18526:10839",
+      "key": "a55a735289e015c635d09677e4f94eb9dc3ec8d2",
+      "name": "Icon=Thumb Down",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Thumb Down"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18526:10838",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18526:10838",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18526:10840",
+      "key": "63f3cd31eca787f6b8bcaf93e4fa691fc261dab7",
+      "name": "Icon=Thumb Up",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Thumb Up"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18526:10836",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18526:10836",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18526:10897",
+      "key": "847a93374a503c0cd9f7a30e0f78598ddf2ad0fd",
+      "name": "Icon=More Horizontal",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "More Horizontal"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18526:10891",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18526:10891",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18526:10899",
+      "key": "69dae8e7fe35ffe0fb0258d915192fb900f72675",
+      "name": "Icon=More Vertical",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "More Vertical"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18526:10889",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18526:10889",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18675:14849",
+      "key": "d7315a8bc04f42a9b74c7a42c8e1641b9c142ada",
+      "name": "Icon=Visibility Off",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Visibility Off"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18675:14848",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18675:14848",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18675:14852",
+      "key": "7b3ef0d2476a349800745c66117af4cebf015c8e",
+      "name": "Icon=Visibility",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Visibility"
+      },
+      "componentPropertyDefinitionsRef": "14466:880",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18675:14842",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18675:14842",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

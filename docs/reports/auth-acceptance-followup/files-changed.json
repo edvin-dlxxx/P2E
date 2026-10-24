@@ -1,0 +1,26 @@
+{
+  "note": "Explicit task inventory; no Git baseline. Generated localization is produced by gen-l10n, never hand edited. No DS runtime/token/font or Viewer/Inspector implementation change in this follow-up.",
+  "sourceAndDocs": [
+    "lib/shared/widgets/complete_tap_envelope.dart",
+    "lib/features/auth/src/presentation/auth_entry_screen.dart",
+    "l10n/app_en.arb",
+    "l10n/app_fa.arb",
+    "lib/l10n/generated/app_localizations.dart",
+    "lib/l10n/generated/app_localizations_en.dart",
+    "lib/l10n/generated/app_localizations_fa.dart",
+    "test/features/auth/tap_visibility_test.dart",
+    "tool/auth_acceptance/evidence.py",
+    "docs/agents/registers/decisions.md",
+    "docs/agents/registers/errata.md",
+    "docs/design-system/contracts/app_button.md",
+    "docs/reports/goldens-review.md"
+  ],
+  "changedGoldenFiles": [
+    "test/goldens/baselines/windows/auth-idle-en-dark-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-en-dark-1.0-744.png",
+    "test/goldens/baselines/windows/auth-idle-en-light-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-fa-dark-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-fa-light-1.0-402.png"
+  ],
+  "addedEvidenceDirectory": "docs/reports/auth-acceptance-followup/"
+}

@@ -1,0 +1,1845 @@
+{
+  "schemaVersion": "1.0",
+  "registryStatus": "extracted-from-figma",
+  "extractedAt": "2026-10-19",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "source": "Figma Plugin API: figma.getLocalTextStylesAsync()",
+  "scope": "all 63 locally defined text styles; no inference about external unpublished or remote styles",
+  "recordCount": 63,
+  "notes": [
+    "Names and Figma style IDs are preserved unchanged.",
+    "Number letterSpacing is 0%; all other roles -4%.",
+    "letterSpacingPxDerived is a conversion, not a raw Figma property.",
+    "Semantic labels Muted, Variant, Baseline are Figma style path segments, not proven color bindings.",
+    "No Persian typography style is present in the local-style inventory."
+  ],
+  "styles": [
+    {
+      "id": "S:b14a2a1c5f35f5b2de6fa74b5d7c631ea4175617,",
+      "key": "b14a2a1c5f35f5b2de6fa74b5d7c631ea4175617",
+      "name": "English/Muted/Headline-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Headline",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 32,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 40
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.28,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:b48aa9e40e4fdd8595a61c5f21ad4a2f1102cf64,",
+      "key": "b48aa9e40e4fdd8595a61c5f21ad4a2f1102cf64",
+      "name": "English/Muted/Headline-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Headline",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 28,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.12,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:68bb55da824543c1414fb5aa8aba5a28e16a5bf1,",
+      "key": "68bb55da824543c1414fb5aa8aba5a28e16a5bf1",
+      "name": "English/Muted/Headline-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Headline",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 24,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 30
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.96,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:727f3efc1d01e5d63a1066e4dec56f47cd164472,",
+      "key": "727f3efc1d01e5d63a1066e4dec56f47cd164472",
+      "name": "English/Muted/Title-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Title",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 22,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.88,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:cdc075109a3a37a5b447265d58aa50d9b5d4bba7,",
+      "key": "cdc075109a3a37a5b447265d58aa50d9b5d4bba7",
+      "name": "English/Muted/Title-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Title",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:9e7e65f497ec7c2d1a98f39b5bb373e5c3fcaf85,",
+      "key": "9e7e65f497ec7c2d1a98f39b5bb373e5c3fcaf85",
+      "name": "English/Muted/Title-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Title",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 18,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.72,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:cc9b3b0065232997b3faab0f15b1bb62e71cade5,",
+      "key": "cc9b3b0065232997b3faab0f15b1bb62e71cade5",
+      "name": "English/Muted/Body-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Body",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:bf4ece51cf16d348322852a64810781ec784a766,",
+      "key": "bf4ece51cf16d348322852a64810781ec784a766",
+      "name": "English/Muted/Body-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Body",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:0aeaf0163ce67dd7f69214f1a794f7f664ee8345,",
+      "key": "0aeaf0163ce67dd7f69214f1a794f7f664ee8345",
+      "name": "English/Muted/Body-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Body",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:fe84110e5538f8d40ad263508869745127d04004,",
+      "key": "fe84110e5538f8d40ad263508869745127d04004",
+      "name": "English/Muted/Label-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Label",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:5efd35acb6922dded524bbd5bffad52b5de9589f,",
+      "key": "5efd35acb6922dded524bbd5bffad52b5de9589f",
+      "name": "English/Muted/Label-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Label",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:7f290765a47faa91ca51dac9eaedcae84f8d477b,",
+      "key": "7f290765a47faa91ca51dac9eaedcae84f8d477b",
+      "name": "English/Muted/Label-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Label",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:940d37b55221c7eec668a0deeffca7fd61607301,",
+      "key": "940d37b55221c7eec668a0deeffca7fd61607301",
+      "name": "English/Muted/Button-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Button",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:820292ef4f5e1aca4069df4156b2a67e1b109753,",
+      "key": "820292ef4f5e1aca4069df4156b2a67e1b109753",
+      "name": "English/Muted/Button-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Button",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c2248caeb2bee5d7b75259052253f055b5a0e80b,",
+      "key": "c2248caeb2bee5d7b75259052253f055b5a0e80b",
+      "name": "English/Muted/Button-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Button",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:5aa98fae612187a34fbb32bfea8b8bd8b80f8653,",
+      "key": "5aa98fae612187a34fbb32bfea8b8bd8b80f8653",
+      "name": "English/Muted/Status-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Status",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:4363361112364e524d37b605a81c1cbc3f792750,",
+      "key": "4363361112364e524d37b605a81c1cbc3f792750",
+      "name": "English/Muted/Status-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Status",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.4,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:190c9b2d9bc11843963b47e8da2487721de7b0d9,",
+      "key": "190c9b2d9bc11843963b47e8da2487721de7b0d9",
+      "name": "English/Muted/Status-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Status",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 8,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 10
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.32,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:821ac7c9237689d212cb4875b8b159664c71c46f,",
+      "key": "821ac7c9237689d212cb4875b8b159664c71c46f",
+      "name": "English/Muted/Number-Large",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Number",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:aec377574df5023d77c92202eea4987ded345234,",
+      "key": "aec377574df5023d77c92202eea4987ded345234",
+      "name": "English/Muted/Number-Medium",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Number",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:ec3a8867d0996094109216d8dfd2d2ab2c0e7fe1,",
+      "key": "ec3a8867d0996094109216d8dfd2d2ab2c0e7fe1",
+      "name": "English/Muted/Number-Small",
+      "locale": "English",
+      "emphasis": "Muted",
+      "role": "Number",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:a7bc1d76ca259a1ac47dd1904b0880fa174bdaca,",
+      "key": "a7bc1d76ca259a1ac47dd1904b0880fa174bdaca",
+      "name": "English/Variant/Headline-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Headline",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 32,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 40
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.28,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:9f2841e078100e4b1399933cc5f48b6a47e1bbe2,",
+      "key": "9f2841e078100e4b1399933cc5f48b6a47e1bbe2",
+      "name": "English/Variant/Headline-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Headline",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 28,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.12,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:77ad2896d16d70eab6903c1c78d34894de07a9a2,",
+      "key": "77ad2896d16d70eab6903c1c78d34894de07a9a2",
+      "name": "English/Variant/Headline-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Headline",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 24,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 30
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.96,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c26acf58cc21782c15605fa1a038f4a1fa7923ba,",
+      "key": "c26acf58cc21782c15605fa1a038f4a1fa7923ba",
+      "name": "English/Variant/Title-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Title",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 22,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.88,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:a38a5e8ea81ec9aee6eef5d3ca1ffb2817253e85,",
+      "key": "a38a5e8ea81ec9aee6eef5d3ca1ffb2817253e85",
+      "name": "English/Variant/Title-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Title",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c40c32fa494f63aebcf95a44bc6d47852170cebc,",
+      "key": "c40c32fa494f63aebcf95a44bc6d47852170cebc",
+      "name": "English/Variant/Title-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Title",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 18,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.72,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:31f1736cae2e966783675d1da63d93ddb0fa5587,",
+      "key": "31f1736cae2e966783675d1da63d93ddb0fa5587",
+      "name": "English/Variant/Body-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Body",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:533150db57cb1de5fe8a69af4c016c3677157f17,",
+      "key": "533150db57cb1de5fe8a69af4c016c3677157f17",
+      "name": "English/Variant/Body-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Body",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:f10f5fa8df56bf5363ca29adbe9b018188aba68e,",
+      "key": "f10f5fa8df56bf5363ca29adbe9b018188aba68e",
+      "name": "English/Variant/Body-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Body",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:deb3a2f14b4945e5c0a3dae8b11746f7a367af69,",
+      "key": "deb3a2f14b4945e5c0a3dae8b11746f7a367af69",
+      "name": "English/Variant/Label-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Label",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:8723466110a2237d7f080cc12df3c4ca8130127d,",
+      "key": "8723466110a2237d7f080cc12df3c4ca8130127d",
+      "name": "English/Variant/Label-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Label",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:49d3873a8b0dee56eb055018b08b58ee29b8071c,",
+      "key": "49d3873a8b0dee56eb055018b08b58ee29b8071c",
+      "name": "English/Variant/Label-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Label",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:2dc76b0f36d9f8683797af632b9299881512b754,",
+      "key": "2dc76b0f36d9f8683797af632b9299881512b754",
+      "name": "English/Variant/Button-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Button",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:b6e0df40f0ca32193c1807fa665e4874f07ba47f,",
+      "key": "b6e0df40f0ca32193c1807fa665e4874f07ba47f",
+      "name": "English/Variant/Button-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Button",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:1b7149b630fb4f991383690592d1428023f39413,",
+      "key": "1b7149b630fb4f991383690592d1428023f39413",
+      "name": "English/Variant/Button-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Button",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:8363f6332aed869403a91e502a4580866bf6d8a9,",
+      "key": "8363f6332aed869403a91e502a4580866bf6d8a9",
+      "name": "English/Variant/Status-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Status",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:06655806345dc52642fb50dd2234ded955425266,",
+      "key": "06655806345dc52642fb50dd2234ded955425266",
+      "name": "English/Variant/Status-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Status",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.4,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:0e838704babc936d7624334216f9fb6ee8ac7f64,",
+      "key": "0e838704babc936d7624334216f9fb6ee8ac7f64",
+      "name": "English/Variant/Status-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Status",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 8,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 10
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.32,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c3547c24cb98cd424b5ab0089dd19054f77f7d4e,",
+      "key": "c3547c24cb98cd424b5ab0089dd19054f77f7d4e",
+      "name": "English/Variant/Number-Large",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Number",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c17743317dcb82333a9c396e7f0840a85951a0ec,",
+      "key": "c17743317dcb82333a9c396e7f0840a85951a0ec",
+      "name": "English/Variant/Number-Medium",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Number",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:e8eee12b8411b3851236e3255120a2a66ef25548,",
+      "key": "e8eee12b8411b3851236e3255120a2a66ef25548",
+      "name": "English/Variant/Number-Small",
+      "locale": "English",
+      "emphasis": "Variant",
+      "role": "Number",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:628c448bceb38a0b94b56cbd6171c57fc292a9cd,",
+      "key": "628c448bceb38a0b94b56cbd6171c57fc292a9cd",
+      "name": "English/Baseline/Headline-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Headline",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 32,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 40
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.28,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:adb1e42044725b1102253d3620b4520aa14738c6,",
+      "key": "adb1e42044725b1102253d3620b4520aa14738c6",
+      "name": "English/Baseline/Headline-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Headline",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 28,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -1.12,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:f3246eb2d64c98b7931445395a08f3eae8670303,",
+      "key": "f3246eb2d64c98b7931445395a08f3eae8670303",
+      "name": "English/Baseline/Headline-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Headline",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 24,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 30
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.96,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:0d89c5b0c08cd4a6a1f9d347c551fa03471e92ef,",
+      "key": "0d89c5b0c08cd4a6a1f9d347c551fa03471e92ef",
+      "name": "English/Baseline/Title-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Title",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 22,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.88,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:9a181b69bcbede1bfb718d21a72cdab9a99813db,",
+      "key": "9a181b69bcbede1bfb718d21a72cdab9a99813db",
+      "name": "English/Baseline/Title-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Title",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:8679b588b3317f8cb28f3a118fce2c6d7a0171ea,",
+      "key": "8679b588b3317f8cb28f3a118fce2c6d7a0171ea",
+      "name": "English/Baseline/Title-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Title",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 18,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.72,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:03165fd3ab318182f8c2b69b1b8fd55321a05274,",
+      "key": "03165fd3ab318182f8c2b69b1b8fd55321a05274",
+      "name": "English/Baseline/Body-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Body",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:5d9148545691b39c10d09339a3ab8a5c0001de55,",
+      "key": "5d9148545691b39c10d09339a3ab8a5c0001de55",
+      "name": "English/Baseline/Body-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Body",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:95d08ae15bbd2c9b73a63ae13230769c679212cc,",
+      "key": "95d08ae15bbd2c9b73a63ae13230769c679212cc",
+      "name": "English/Baseline/Body-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Body",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:f8fd4d23d79963d3b873b7daf06d2dab30e74f57,",
+      "key": "f8fd4d23d79963d3b873b7daf06d2dab30e74f57",
+      "name": "English/Baseline/Label-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Label",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:71330219f0b8ba44df0a8836d2e61d2ad29e70fe,",
+      "key": "71330219f0b8ba44df0a8836d2e61d2ad29e70fe",
+      "name": "English/Baseline/Label-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Label",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c25d9b67263c5f76f96f5bc4494430cc8fee9a93,",
+      "key": "c25d9b67263c5f76f96f5bc4494430cc8fee9a93",
+      "name": "English/Baseline/Label-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Label",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:0289d904303b4fd39724558269267b5f59ac3549,",
+      "key": "0289d904303b4fd39724558269267b5f59ac3549",
+      "name": "English/Baseline/Button-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Button",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.8,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+      "key": "f52a10a5b8614f87a2fa644c1e9d091aa246cd50",
+      "name": "English/Baseline/Button-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Button",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.64,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:f0c4c3280f72ff2fb10e27032012bb2d7a3c947f,",
+      "key": "f0c4c3280f72ff2fb10e27032012bb2d7a3c947f",
+      "name": "English/Baseline/Button-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Button",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.56,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:9aebd59304e0c576fc6dc5bca1ac74497912c403,",
+      "key": "9aebd59304e0c576fc6dc5bca1ac74497912c403",
+      "name": "English/Baseline/Status-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Status",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.48,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:94d3924fd7649ef03d5e4d438ef8956a4633dff5,",
+      "key": "94d3924fd7649ef03d5e4d438ef8956a4633dff5",
+      "name": "English/Baseline/Status-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Status",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.4,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:a396b1b7a651f49c009607ba0282019b71cb6242,",
+      "key": "a396b1b7a651f49c009607ba0282019b71cb6242",
+      "name": "English/Baseline/Status-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Status",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 8,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 10
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      },
+      "letterSpacingPxDerived": -0.32,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:9a1476d098e002fc833e56f44aca2874657771b6,",
+      "key": "9a1476d098e002fc833e56f44aca2874657771b6",
+      "name": "English/Baseline/Number-Large",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Number",
+      "sizeName": "Large",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:c2810981c66b2b926e6ccc7b5fae6cea72fe2a36,",
+      "key": "c2810981c66b2b926e6ccc7b5fae6cea72fe2a36",
+      "name": "English/Baseline/Number-Medium",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Number",
+      "sizeName": "Medium",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    },
+    {
+      "id": "S:d48e06485b4646731427d3823e14b85568d80a4f,",
+      "key": "d48e06485b4646731427d3823e14b85568d80a4f",
+      "name": "English/Baseline/Number-Small",
+      "locale": "English",
+      "emphasis": "Baseline",
+      "role": "Number",
+      "sizeName": "Small",
+      "fontFamily": "Outfit",
+      "fontStyle": "SemiBold",
+      "fontWeight": 600,
+      "fontSizePx": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "letterSpacingPxDerived": 0.0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "paragraphSpacingPx": 0,
+      "paragraphIndentPx": 0,
+      "description": "",
+      "status": "figma-verified",
+      "origin": "figma.localTextStyle"
+    }
+  ]
+}

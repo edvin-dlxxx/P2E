@@ -1,0 +1,3955 @@
+{
+  "depth": 2,
+  "rawResponses": [
+    "raw/072-component_set_spec.response-0.txt",
+    "raw/073-component_set_spec.response-0.txt",
+    "raw/074-component_set_spec.response-0.txt",
+    "raw/075-component_set_spec.response-0.txt",
+    "raw/076-component_set_spec.response-0.txt"
+  ],
+  "schemaVersion": "2.0.0",
+  "set": {
+    "id": "18437:1871",
+    "name": "Medium Button - Dark Mode",
+    "properties": {
+      "Button": {
+        "defaultValue": "Filled",
+        "type": "VARIANT",
+        "variantOptions": [
+          "Filled",
+          "Tonal",
+          "Outlined",
+          "Text",
+          "Disable"
+        ]
+      },
+      "Fill Icon#16433:5": {
+        "defaultValue": true,
+        "type": "BOOLEAN"
+      },
+      "Icon#16481:44": {
+        "defaultValue": true,
+        "type": "BOOLEAN"
+      },
+      "Label#16433:4": {
+        "defaultValue": "Text Label",
+        "type": "TEXT"
+      },
+      "Outline Icon#16448:34": {
+        "defaultValue": false,
+        "type": "BOOLEAN"
+      }
+    }
+  },
+  "variants": [
+    {
+      "bindings": {
+        "fills": [
+          {
+            "id": "VariableID:16429:158",
+            "type": "VARIABLE_ALIAS"
+          }
+        ]
+      },
+      "children": [
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                16
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 16,
+            "y": 13
+          },
+          "id": "18437:1897",
+          "name": "Icon (Optional)",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1898",
+          "name": "Fill",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7518",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#404040"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7518",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0.250980406999588,
+                  "g": 0.250980406999588,
+                  "r": 0.250980406999588
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1898;14667:4496",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                30
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 30,
+            "y": 0
+          },
+          "id": "18437:1899",
+          "name": "Outline",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": false
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16447:59",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16447:59",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 0.30000001192092896,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1899;14667:4490",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 10,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                44
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 69,
+            "x": 44,
+            "y": 13
+          },
+          "id": "18437:1900",
+          "name": "Text Label",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7518",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#404040"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7518",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0.250980406999588,
+                  "g": 0.250980406999588,
+                  "r": 0.250980406999588
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": {
+              "$state": "missing"
+            },
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 20,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "OUTSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 69,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1901",
+          "name": "Text Label",
+          "opacity": 1,
+          "segments": [
+            {
+              "boundVariables": {},
+              "end": 10,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "boundVariables": {
+                    "color": {
+                      "id": "VariableID:18420:7518",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  },
+                  "color": {
+                    "b": 0.250980406999588,
+                    "g": 0.250980406999588,
+                    "r": 0.250980406999588
+                  },
+                  "opacity": 1,
+                  "type": "SOLID",
+                  "visible": true
+                }
+              ],
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "fontSize": 16,
+              "fontWeight": 600,
+              "letterSpacing": {
+                "unit": "PERCENT",
+                "value": -4
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "start": 0,
+              "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+            }
+          ],
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "style": {
+            "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+            "name": "English/Baseline/Button-Medium"
+          },
+          "type": "TEXT",
+          "typography": {
+            "fontName": {
+              "family": "Outfit",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fontSize": 16,
+            "fontWeight": 600,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": -4
+            },
+            "lineHeight": {
+              "unit": "PIXELS",
+              "value": 20
+            },
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+          },
+          "visible": true
+        }
+      ],
+      "effects": [],
+      "fills": {
+        "display": [
+          {
+            "hex": "#171717"
+          }
+        ],
+        "raw": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16429:158",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.09019608050584793,
+              "g": 0.09019608050584793,
+              "r": 0.09019608050584793
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ]
+      },
+      "geometry": {
+        "bottomLeftRadius": 12,
+        "bottomRightRadius": 12,
+        "cornerRadius": 12,
+        "counterAxisAlignItems": "CENTER",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 46,
+        "itemSpacing": 8,
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "primaryAxisAlignItems": "CENTER",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            284
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1.5,
+        "topLeftRadius": 12,
+        "topRightRadius": 12,
+        "width": 129,
+        "x": 20,
+        "y": 284
+      },
+      "id": "18437:1896",
+      "name": "Button=Disable",
+      "opacity": 1,
+      "reactions": [],
+      "setId": "18437:1871",
+      "setName": "Medium Button - Dark Mode",
+      "strokes": {
+        "display": [],
+        "raw": []
+      },
+      "variantProperties": {
+        "Button": "Disable"
+      }
+    },
+    {
+      "bindings": {
+        "fills": [
+          {
+            "id": "VariableID:16433:9040",
+            "type": "VARIABLE_ALIAS"
+          }
+        ]
+      },
+      "children": [
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                16
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 16,
+            "y": 13
+          },
+          "id": "18437:1873",
+          "name": "Icon (Optional)",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1874",
+          "name": "Fill",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9039",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#000000"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9039",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1874;14667:4496",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                30
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 30,
+            "y": 0
+          },
+          "id": "18437:1875",
+          "name": "Outline",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": false
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9039",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#000000"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9039",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1875;14667:4490",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 10,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                44
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 69,
+            "x": 44,
+            "y": 13
+          },
+          "id": "18437:1876",
+          "name": "Text Label",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9039",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#000000"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9039",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 0,
+                  "g": 0,
+                  "r": 0
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": {
+              "$state": "missing"
+            },
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 20,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "OUTSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 69,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1877",
+          "name": "Text Label",
+          "opacity": 1,
+          "segments": [
+            {
+              "boundVariables": {},
+              "end": 10,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "boundVariables": {
+                    "color": {
+                      "id": "VariableID:16433:9039",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  },
+                  "color": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                  },
+                  "opacity": 1,
+                  "type": "SOLID",
+                  "visible": true
+                }
+              ],
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "fontSize": 16,
+              "fontWeight": 600,
+              "letterSpacing": {
+                "unit": "PERCENT",
+                "value": -4
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "start": 0,
+              "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+            }
+          ],
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "style": {
+            "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+            "name": "English/Baseline/Button-Medium"
+          },
+          "type": "TEXT",
+          "typography": {
+            "fontName": {
+              "family": "Outfit",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fontSize": 16,
+            "fontWeight": 600,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": -4
+            },
+            "lineHeight": {
+              "unit": "PIXELS",
+              "value": 20
+            },
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+          },
+          "visible": true
+        }
+      ],
+      "effects": [],
+      "fills": {
+        "display": [
+          {
+            "hex": "#ffffff"
+          }
+        ],
+        "raw": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16433:9040",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ]
+      },
+      "geometry": {
+        "bottomLeftRadius": 12,
+        "bottomRightRadius": 12,
+        "cornerRadius": 12,
+        "counterAxisAlignItems": "CENTER",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 46,
+        "itemSpacing": 8,
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "primaryAxisAlignItems": "CENTER",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            20
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1.5,
+        "topLeftRadius": 12,
+        "topRightRadius": 12,
+        "width": 129,
+        "x": 20,
+        "y": 20
+      },
+      "id": "18437:1872",
+      "name": "Button=Filled",
+      "opacity": 1,
+      "reactions": [],
+      "setId": "18437:1871",
+      "setName": "Medium Button - Dark Mode",
+      "strokes": {
+        "display": [],
+        "raw": []
+      },
+      "variantProperties": {
+        "Button": "Filled"
+      }
+    },
+    {
+      "bindings": {
+        "fills": [
+          {
+            "id": "VariableID:16447:341",
+            "type": "VARIABLE_ALIAS"
+          }
+        ],
+        "strokes": [
+          {
+            "id": "VariableID:16429:188",
+            "type": "VARIABLE_ALIAS"
+          }
+        ]
+      },
+      "children": [
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                16
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 16,
+            "y": 13
+          },
+          "id": "18437:1885",
+          "name": "Icon (Optional)",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1886",
+          "name": "Fill",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1886;14667:4496",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                30
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 30,
+            "y": 0
+          },
+          "id": "18437:1887",
+          "name": "Outline",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": false
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9040",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9040",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1887;14667:4490",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 10,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                44
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 69,
+            "x": 44,
+            "y": 13
+          },
+          "id": "18437:1888",
+          "name": "Text Label",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": {
+              "$state": "missing"
+            },
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 20,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "OUTSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 69,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1889",
+          "name": "Text Label",
+          "opacity": 1,
+          "segments": [
+            {
+              "boundVariables": {},
+              "end": 10,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "boundVariables": {
+                    "color": {
+                      "id": "VariableID:18420:7522",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  },
+                  "color": {
+                    "b": 1,
+                    "g": 1,
+                    "r": 1
+                  },
+                  "opacity": 1,
+                  "type": "SOLID",
+                  "visible": true
+                }
+              ],
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "fontSize": 16,
+              "fontWeight": 600,
+              "letterSpacing": {
+                "unit": "PERCENT",
+                "value": -4
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "start": 0,
+              "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+            }
+          ],
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "style": {
+            "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+            "name": "English/Baseline/Button-Medium"
+          },
+          "type": "TEXT",
+          "typography": {
+            "fontName": {
+              "family": "Outfit",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fontSize": 16,
+            "fontWeight": 600,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": -4
+            },
+            "lineHeight": {
+              "unit": "PIXELS",
+              "value": 20
+            },
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+          },
+          "visible": true
+        }
+      ],
+      "effects": [],
+      "fills": {
+        "display": [
+          {
+            "hex": "#0a0a0a"
+          }
+        ],
+        "raw": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16447:341",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.03921568766236305,
+              "g": 0.03921568766236305,
+              "r": 0.03921568766236305
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ]
+      },
+      "geometry": {
+        "bottomLeftRadius": 12,
+        "bottomRightRadius": 12,
+        "cornerRadius": 12,
+        "counterAxisAlignItems": "CENTER",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 46,
+        "itemSpacing": 8,
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "primaryAxisAlignItems": "CENTER",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            152
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1.5,
+        "topLeftRadius": 12,
+        "topRightRadius": 12,
+        "width": 129,
+        "x": 20,
+        "y": 152
+      },
+      "id": "18437:1884",
+      "name": "Button=Outlined",
+      "opacity": 1,
+      "reactions": [],
+      "setId": "18437:1871",
+      "setName": "Medium Button - Dark Mode",
+      "strokes": {
+        "display": [
+          {
+            "hex": "#262626"
+          }
+        ],
+        "raw": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16429:188",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.14901961386203766,
+              "g": 0.14901961386203766,
+              "r": 0.14901961386203766
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ]
+      },
+      "variantProperties": {
+        "Button": "Outlined"
+      }
+    },
+    {
+      "bindings": {},
+      "children": [
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                16
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 16,
+            "y": 13
+          },
+          "id": "18437:1891",
+          "name": "Icon (Optional)",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1892",
+          "name": "Fill",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1892;14667:4496",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                30
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 30,
+            "y": 0
+          },
+          "id": "18437:1893",
+          "name": "Outline",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": false
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9040",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9040",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1893;14667:4490",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 10,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                44
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 69,
+            "x": 44,
+            "y": 13
+          },
+          "id": "18437:1894",
+          "name": "Text Label",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": {
+              "$state": "missing"
+            },
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 20,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "OUTSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 69,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1895",
+          "name": "Text Label",
+          "opacity": 1,
+          "segments": [
+            {
+              "boundVariables": {},
+              "end": 10,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "boundVariables": {
+                    "color": {
+                      "id": "VariableID:18420:7522",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  },
+                  "color": {
+                    "b": 1,
+                    "g": 1,
+                    "r": 1
+                  },
+                  "opacity": 1,
+                  "type": "SOLID",
+                  "visible": true
+                }
+              ],
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "fontSize": 16,
+              "fontWeight": 600,
+              "letterSpacing": {
+                "unit": "PERCENT",
+                "value": -4
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "start": 0,
+              "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+            }
+          ],
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "style": {
+            "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+            "name": "English/Baseline/Button-Medium"
+          },
+          "type": "TEXT",
+          "typography": {
+            "fontName": {
+              "family": "Outfit",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fontSize": 16,
+            "fontWeight": 600,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": -4
+            },
+            "lineHeight": {
+              "unit": "PIXELS",
+              "value": 20
+            },
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+          },
+          "visible": true
+        }
+      ],
+      "effects": [],
+      "fills": {
+        "display": [],
+        "raw": []
+      },
+      "geometry": {
+        "bottomLeftRadius": 12,
+        "bottomRightRadius": 12,
+        "cornerRadius": 12,
+        "counterAxisAlignItems": "CENTER",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 46,
+        "itemSpacing": 8,
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "primaryAxisAlignItems": "CENTER",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            218
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1.5,
+        "topLeftRadius": 12,
+        "topRightRadius": 12,
+        "width": 129,
+        "x": 20,
+        "y": 218
+      },
+      "id": "18437:1890",
+      "name": "Button=Text",
+      "opacity": 1,
+      "reactions": [],
+      "setId": "18437:1871",
+      "setName": "Medium Button - Dark Mode",
+      "strokes": {
+        "display": [],
+        "raw": []
+      },
+      "variantProperties": {
+        "Button": "Text"
+      }
+    },
+    {
+      "bindings": {
+        "fills": [
+          {
+            "id": "VariableID:16429:158",
+            "type": "VARIABLE_ALIAS"
+          }
+        ]
+      },
+      "children": [
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                16
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 16,
+            "y": 13
+          },
+          "id": "18437:1879",
+          "name": "Icon (Optional)",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1880",
+          "name": "Fill",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1880;14667:4496",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "MIN",
+            "counterAxisSizingMode": "FIXED",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 0,
+            "layoutMode": "NONE",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "MIN",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                30
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 20,
+            "x": 30,
+            "y": 0
+          },
+          "id": "18437:1881",
+          "name": "Outline",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "INSTANCE",
+          "visible": false
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:16433:9040",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:16433:9040",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": 0,
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 16.6875,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                2.499999761581421
+              ],
+              [
+                0,
+                1,
+                0.8124998807907104
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 0.02500000037252903,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 16.66666603088379,
+            "x": 2.499999761581421,
+            "y": 0.8124998807907104
+          },
+          "id": "I18437:1881;14667:4490",
+          "name": "Vector",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "VECTOR",
+          "visible": true
+        },
+        {
+          "bindings": {},
+          "effects": [],
+          "fills": {
+            "display": [],
+            "raw": []
+          },
+          "geometry": {
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "cornerRadius": 0,
+            "counterAxisAlignItems": "CENTER",
+            "counterAxisSizingMode": "AUTO",
+            "counterAxisSpacing": 0,
+            "height": 20,
+            "itemSpacing": 10,
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "primaryAxisAlignItems": "CENTER",
+            "primaryAxisSizingMode": "AUTO",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                44
+              ],
+              [
+                0,
+                1,
+                13
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "INSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "width": 69,
+            "x": 44,
+            "y": 13
+          },
+          "id": "18437:1882",
+          "name": "Text Label",
+          "opacity": 1,
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "type": "FRAME",
+          "visible": true
+        },
+        {
+          "bindings": {
+            "fills": [
+              {
+                "id": "VariableID:18420:7522",
+                "type": "VARIABLE_ALIAS"
+              }
+            ]
+          },
+          "effects": [],
+          "fills": {
+            "display": [
+              {
+                "hex": "#ffffff"
+              }
+            ],
+            "raw": [
+              {
+                "blendMode": "NORMAL",
+                "boundVariables": {
+                  "color": {
+                    "id": "VariableID:18420:7522",
+                    "type": "VARIABLE_ALIAS"
+                  }
+                },
+                "color": {
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "opacity": 1,
+                "type": "SOLID",
+                "visible": true
+              }
+            ]
+          },
+          "geometry": {
+            "bottomLeftRadius": {
+              "$state": "missing"
+            },
+            "bottomRightRadius": {
+              "$state": "missing"
+            },
+            "cornerRadius": {
+              "$state": "missing"
+            },
+            "counterAxisAlignItems": {
+              "$state": "missing"
+            },
+            "counterAxisSizingMode": {
+              "$state": "missing"
+            },
+            "counterAxisSpacing": {
+              "$state": "missing"
+            },
+            "height": 20,
+            "itemSpacing": {
+              "$state": "missing"
+            },
+            "layoutMode": {
+              "$state": "missing"
+            },
+            "layoutSizingHorizontal": "HUG",
+            "layoutSizingVertical": "HUG",
+            "maxHeight": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "minWidth": null,
+            "paddingBottom": {
+              "$state": "missing"
+            },
+            "paddingLeft": {
+              "$state": "missing"
+            },
+            "paddingRight": {
+              "$state": "missing"
+            },
+            "paddingTop": {
+              "$state": "missing"
+            },
+            "primaryAxisAlignItems": {
+              "$state": "missing"
+            },
+            "primaryAxisSizingMode": {
+              "$state": "missing"
+            },
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "rotation": {
+              "$state": "negative-zero"
+            },
+            "strokeAlign": "OUTSIDE",
+            "strokeWeight": 1,
+            "topLeftRadius": {
+              "$state": "missing"
+            },
+            "topRightRadius": {
+              "$state": "missing"
+            },
+            "width": 69,
+            "x": 0,
+            "y": 0
+          },
+          "id": "18437:1883",
+          "name": "Text Label",
+          "opacity": 1,
+          "segments": [
+            {
+              "boundVariables": {},
+              "end": 10,
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "boundVariables": {
+                    "color": {
+                      "id": "VariableID:18420:7522",
+                      "type": "VARIABLE_ALIAS"
+                    }
+                  },
+                  "color": {
+                    "b": 1,
+                    "g": 1,
+                    "r": 1
+                  },
+                  "opacity": 1,
+                  "type": "SOLID",
+                  "visible": true
+                }
+              ],
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "fontSize": 16,
+              "fontWeight": 600,
+              "letterSpacing": {
+                "unit": "PERCENT",
+                "value": -4
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "start": 0,
+              "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+            }
+          ],
+          "strokes": {
+            "display": [],
+            "raw": []
+          },
+          "style": {
+            "id": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,",
+            "name": "English/Baseline/Button-Medium"
+          },
+          "type": "TEXT",
+          "typography": {
+            "fontName": {
+              "family": "Outfit",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fontSize": 16,
+            "fontWeight": 600,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": -4
+            },
+            "lineHeight": {
+              "unit": "PIXELS",
+              "value": 20
+            },
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "textStyleId": "S:f52a10a5b8614f87a2fa644c1e9d091aa246cd50,"
+          },
+          "visible": true
+        }
+      ],
+      "effects": [],
+      "fills": {
+        "display": [
+          {
+            "hex": "#171717"
+          }
+        ],
+        "raw": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16429:158",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.09019608050584793,
+              "g": 0.09019608050584793,
+              "r": 0.09019608050584793
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ]
+      },
+      "geometry": {
+        "bottomLeftRadius": 12,
+        "bottomRightRadius": 12,
+        "cornerRadius": 12,
+        "counterAxisAlignItems": "CENTER",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 46,
+        "itemSpacing": 8,
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+        "primaryAxisAlignItems": "CENTER",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            86
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1.5,
+        "topLeftRadius": 12,
+        "topRightRadius": 12,
+        "width": 129,
+        "x": 20,
+        "y": 86
+      },
+      "id": "18437:1878",
+      "name": "Button=Tonal",
+      "opacity": 1,
+      "reactions": [],
+      "setId": "18437:1871",
+      "setName": "Medium Button - Dark Mode",
+      "strokes": {
+        "display": [],
+        "raw": []
+      },
+      "variantProperties": {
+        "Button": "Tonal"
+      }
+    }
+  ]
+}

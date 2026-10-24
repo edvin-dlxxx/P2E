@@ -1,0 +1,9 @@
+// Read-only complete descendants. P = {nodeId}. One variant/consumer per call.
+const P = %PARAMS%;
+figma.skipInvisibleInstanceChildren = false;
+const root=await figma.getNodeByIdAsync(P.nodeId);
+let p=root;while(p.type!=='PAGE')p=p.parent;await figma.setCurrentPageAsync(p);
+const keys=['x','y','width','height','minWidth','maxWidth','minHeight','maxHeight','relativeTransform','layoutMode','layoutSizingHorizontal','layoutSizingVertical','primaryAxisSizingMode','counterAxisSizingMode','primaryAxisAlignItems','counterAxisAlignItems','paddingTop','paddingBottom','paddingLeft','paddingRight','itemSpacing','counterAxisSpacing','cornerRadius','topLeftRadius','topRightRadius','bottomLeftRadius','bottomRightRadius','fills','strokes','strokeWeight','strokeAlign','opacity','effects','boundVariables','visible','reactions','variantProperties','componentPropertyDefinitions','componentProperties','componentPropertyReferences','characters','fontName','fontSize','fontWeight','lineHeight','letterSpacing','textStyleId','textAlignHorizontal','textAlignVertical','textAutoResize','constraints','clipsContent','layoutGrow','layoutPositioning','absoluteBoundingBox'];
+function clean(value){if(value===figma.mixed)return {$state:'mixed'};if(Array.isArray(value))return value.map(clean);if(value&&typeof value==='object')return Object.fromEntries(Object.keys(value).sort().map(k=>[k,clean(value[k])]));return value;}
+async function read(n){const row={id:n.id,name:n.name,type:n.type};for(const k of keys)if(k in n && (k!=='componentPropertyDefinitions'||n.type==='COMPONENT_SET'||(n.type==='COMPONENT'&&n.parent?.type!=='COMPONENT_SET')))row[k]=clean(n[k]);if(n.type==='INSTANCE'){const m=await n.getMainComponentAsync();row.mainComponent=m?{id:m.id,name:m.name,setId:m.parent?.id,setName:m.parent?.name}:null;}if('children'in n)row.children=await Promise.all(n.children.map(read));return row;}
+return {schemaVersion:'app-bars-1.0',root:await read(root),complete:true};

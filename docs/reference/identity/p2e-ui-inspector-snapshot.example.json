@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0.0",
+  "identity": {
+    "elementId": "login.email.input",
+    "componentId": "text-field.general",
+    "structureRef": "text-field.general.base",
+    "designRef": {
+      "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+      "nodeId": "18563:6170"
+    },
+    "runtimeLocator": {
+      "routeName": "login",
+      "routeInstanceId": "route-1",
+      "slotPath": "label"
+    }
+  },
+  "state": {
+    "enabled": true,
+    "focused": true,
+    "hasValue": false,
+    "validation": "none"
+  },
+  "declared": {
+    "labelRole": {
+      "value": "email",
+      "origin": "usage",
+      "decisionStatus": "approved"
+    }
+  },
+  "resolved": {
+    "typographyRole": {
+      "value": "English/Variant/Label-Small",
+      "origin": "typography-registry",
+      "evidenceStatus": "cross-verified",
+      "decisionStatus": "provisional"
+    }
+  },
+  "measured": {
+    "widthLogicalPx": 330,
+    "heightLogicalPx": 64
+  },
+  "warnings": []
+}

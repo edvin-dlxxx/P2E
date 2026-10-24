@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": "icons-1.0",
+  "setId": "14466:925",
+  "setName": "Fill",
+  "total": 104,
+  "offset": 48,
+  "next": 72,
+  "componentPropertyDefinitions": {
+    "Icon": {
+      "type": "VARIANT",
+      "defaultValue": "Attach File Add",
+      "variantOptions": [
+        "Add",
+        "Add Larg",
+        "Arrow Drop Down",
+        "Arrow Drop Left",
+        "Arrow Drop Right",
+        "Arrow Drop Up",
+        "Brightness Alert",
+        "Calendar",
+        "Check",
+        "Chess Bishop",
+        "Chess Knight",
+        "Chess Pawn",
+        "Chess Queen",
+        "Chess Rok",
+        "Chevron Down",
+        "Chevron Left",
+        "Chevron Right",
+        "Chevron Up",
+        "Close",
+        "Close Small",
+        "Edit",
+        "Edit Square",
+        "Extension",
+        "Fingerprint",
+        "ID Card",
+        "Image",
+        "Image Arrow Up",
+        "Image Search",
+        "Imagesearch Roller",
+        "Imagesmode",
+        "Location",
+        "Mail",
+        "Person",
+        "Phone Enabled",
+        "Release Alert",
+        "Scoreboard",
+        "Shoe Cleats",
+        "Sports",
+        "Tactic",
+        "Timer",
+        "Trophy",
+        "Verified",
+        "Video Camera Back",
+        "Video Camera Back Add",
+        "Video Camera Front",
+        "Warning",
+        "Attach File",
+        "Link",
+        "Link Off",
+        "Link 2",
+        "Attach File Add",
+        "My Location",
+        "Timer Play",
+        "Play Arrow",
+        "Motion Play",
+        "Pause Circle",
+        "Play Circle",
+        "Dark Mode",
+        "Light Mode",
+        "Home",
+        "Leaderboard",
+        "Target Check",
+        "Stadia Controller",
+        "Sports Esports",
+        "Store",
+        "Poker Chip",
+        "Crown",
+        "Add Shopping Cart",
+        "Notifications",
+        "Help",
+        "Menu",
+        "Workspace Premium 2",
+        "Workspace Premium 1",
+        "Star",
+        "Star Half",
+        "Download",
+        "Upload",
+        "Arrow Cool Down",
+        "Arrow Wam Up",
+        "Arrow Up Alt",
+        "Arrow Down Alt",
+        "Arrow Right Alt",
+        "Arrow Left Alt",
+        "Arrow Up",
+        "Arrow Down",
+        "Arrow Right",
+        "Arrow Left",
+        "Downloading",
+        "Cloud Upload",
+        "Cloud Download",
+        "Bookmark Remove",
+        "Bookmark Add",
+        "Bookmark Added",
+        "Bookmark Check",
+        "Bookmark Heart",
+        "Bookmark Star",
+        "Bookmark",
+        "Share",
+        "Thumb Up",
+        "Thumb Down",
+        "More Horizontal",
+        "More Vertical",
+        "Visibility Off",
+        "Visibility"
+      ]
+    }
+  },
+  "icons": [
+    {
+      "id": "15135:15986",
+      "key": "c09f090a4a8c5d2a60b93d709417ff4851dd95ac",
+      "name": "Icon=Attach File",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Attach File"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15974",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15974",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15989",
+      "key": "a7c38df566672bf4c025df46e6f645e51f2399e6",
+      "name": "Icon=Attach File Add",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Attach File Add"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15972",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15972",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15328:25725",
+      "key": "371564215c1f6a8769bb01b6a304d5627e02035d",
+      "name": "Icon=My Location",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "My Location"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15328:25723",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15328:25723",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16432:8966",
+      "key": "b644361614e5052c402140af766781a2c0faca1e",
+      "name": "Icon=Play Circle",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Play Circle"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16432:8956",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16432:8956",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16432:8968",
+      "key": "a48609160654c4c8ace4b3e34ebbd34447d5196a",
+      "name": "Icon=Timer Play",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Timer Play"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16432:8962",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16432:8962",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16432:8969",
+      "key": "0540cf4e69bf30ee891a745aaddf5a66c56df357",
+      "name": "Icon=Motion Play",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Motion Play"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16432:8952",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16432:8952",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16432:8971",
+      "key": "1f3f5036bb4d992c63122986399037e6a5721c7c",
+      "name": "Icon=Play Arrow",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Play Arrow"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16432:8954",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16432:8954",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16432:8972",
+      "key": "c062c896703b7d68e1a4390d53ffcda663950e84",
+      "name": "Icon=Pause Circle",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Pause Circle"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16432:8946",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16432:8946",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16482:6782",
+      "key": "63376f728e7091fef3cbb2d9f036e46972e023f8",
+      "name": "Icon=Light Mode",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Light Mode"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16482:6779",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16482:6779",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16482:6784",
+      "key": "9ddd44df991701e91b7e78805d04b8fb56f1048e",
+      "name": "Icon=Dark Mode",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Dark Mode"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16482:6775",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16482:6775",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16497:27433",
+      "key": "08cf11d9c596c8cf927e97fd07123ec3af782155",
+      "name": "Icon=Mail",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Mail"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "16497:27431",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "16497:27431",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:10889",
+      "key": "3693034dff2deff5f2421d324405536280c7c404",
+      "name": "Icon=Home",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Home"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:10888",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:10888",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11269",
+      "key": "f151e0da82b3868bff61a80daf8bc2e60bedadad",
+      "name": "Icon=Leaderboard",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Leaderboard"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11267",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11267",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11270",
+      "key": "40b1aa730cc03dca885aa2e8fa735c4484e0bd3b",
+      "name": "Icon=Target Check",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Target Check"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11263",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11263",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11302",
+      "key": "99d8676a553eab291f16bf16f6b1efe874a85a19",
+      "name": "Icon=Sports Esports",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Sports Esports"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11298",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11298",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11303",
+      "key": "3e78d8e8e7d83134800919b1656a89b92c056ce9",
+      "name": "Icon=Stadia Controller",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Stadia Controller"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11292",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11292",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11363",
+      "key": "60e3aaca21b4fd6a836e581eb6589f273e9b301e",
+      "name": "Icon=Store",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Store"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11360",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11360",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11366",
+      "key": "7f69db2c0941cdf418b5ee876783770754dcfc8c",
+      "name": "Icon=Crown",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Crown"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:11356",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:11356",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:12234",
+      "key": "2613793a796f9574fee562b019560e1cdbe6d9c9",
+      "name": "Icon=Poker Chip",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Poker Chip"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:12233",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:12233",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:12278",
+      "key": "44f48d16ee7747b5254a85f64b9d1026179e0af7",
+      "name": "Icon=Add Shopping Cart",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Add Shopping Cart"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:12272",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:12272",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:12304",
+      "key": "c414d0260e90450fd11eda91ec459c72b31a49e0",
+      "name": "Icon=Notifications",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Notifications"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:12298",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:12298",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:12322",
+      "key": "bd15fb3d8374e58bc905df12bac85f73f90f50d6",
+      "name": "Icon=Help",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Help"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:12321",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:12321",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:12329",
+      "key": "0c7207c38213a785c17522ffa3fc4fb0e1d3d360",
+      "name": "Icon=Menu",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Menu"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18422:12328",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18422:12328",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "18429:428",
+      "key": "eafb58dc4b67505e06faea39d95d8ebdffda63c6",
+      "name": "Icon=Workspace Premium 2",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Workspace Premium 2"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "18429:425",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "18429:425",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

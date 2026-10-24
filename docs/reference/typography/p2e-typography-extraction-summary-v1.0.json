@@ -1,0 +1,18 @@
+{
+  "source": "Figma live Plugin API",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "styles": 63,
+  "linkedStyleNamesObservedInTargetScope": 25,
+  "styleNotObservedInTargetScope": 38,
+  "masterTextNodes": 210,
+  "ENTextNodes": 1853,
+  "ENStyleLinked": 1085,
+  "ENUnstyledOrMixed": 768,
+  "ENMixed": 3,
+  "screens": 20,
+  "notes": [
+    "Page EN includes text inside nested iOS status/keyboard and other components.",
+    "Usage map is aggregated by screen and style, not individual text nodes.",
+    "No exhaustive usage claim for pages other than the named scope."
+  ]
+}

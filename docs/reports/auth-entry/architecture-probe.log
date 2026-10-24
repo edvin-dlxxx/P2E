@@ -1,0 +1,2 @@
+lib/features/auth/src/domain/welcome_offer_repository.dart: domain must be pure Dart
+Confirmed: shared pure-Dart Result/AppFailure import is rejected.

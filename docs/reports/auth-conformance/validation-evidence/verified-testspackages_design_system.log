@@ -1,0 +1,621 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: width-only size-class boundaries
+00:00 +1: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.dark TextDirection.rtl scale=1.0 safe-area and keyboard focus
+00:01 +2: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.dark TextDirection.rtl scale=2.0 safe-area and keyboard focus
+00:01 +3: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.dark TextDirection.ltr scale=1.0 safe-area and keyboard focus
+00:01 +4: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.dark TextDirection.ltr scale=2.0 safe-area and keyboard focus
+00:01 +5: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.light TextDirection.rtl scale=1.0 safe-area and keyboard focus
+00:01 +6: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.light TextDirection.rtl scale=2.0 safe-area and keyboard focus
+00:02 +7: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.light TextDirection.ltr scale=1.0 safe-area and keyboard focus
+00:02 +8: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/adaptive/page_scaffold_test.dart: page 390.0 Brightness.light TextDirection.ltr scale=2.0 safe-area and keyboard focus
+00:02 +9: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +10: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +11: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +12: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +13: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +14: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +15: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:03 +16: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +17: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +18: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +19: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +20: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +21: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +22: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +23: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:04 +24: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:05 +25: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:05 +26: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:05 +27: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:05 +27: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "D-047 initial Windows references, pending review button-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review badge-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review password-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review password-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review password-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700"
+
+00:08 +28: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:08 +29: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:09 +30: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:09 +31: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:09 +32: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:10 +33: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:11 +34: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:12 +35: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:14 +36: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:14 +36: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "auth-primitives-en-light-1.0-product"
+    the test "auth-primitives-en-dark-1.0-product"
+    the test "auth-primitives-fa-light-1.0-product"
+    the test "auth-primitives-fa-dark-1.0-product"
+    the test "auth-primitives-en-light-2.0-product"
+    the test "auth-primitives-fa-dark-2.0-product"
+    the test "auth-primitives-en-light-1.0-test"
+
+00:14 +37: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:14 +38: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:14 +39: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:14 +40: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:15 +41: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:15 +42: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:15 +43: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:16 +44: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:17 +45: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:17 +46: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:18 +47: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:18 +48: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:18 +49: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:19 +50: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:20 +51: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.dark
+00:20 +52: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/icons/icon_library_test.dart: every original SVG compiles, paints nonempty pixels and uses the shared renderer
+00:21 +53: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:21 +54: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:21 +55: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:21 +56: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:21 +57: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:22 +58: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:22 +59: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:23 +60: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:23 +61: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:23 +62: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:23 +63: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:24 +64: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:24 +65: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:24 +66: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:24 +67: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:24 +68: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.light
+00:24 +69: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.light
+00:25 +70: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.light
+00:25 +71: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.light
+00:25 +72: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 en Brightness.light
+00:25 +73: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:25 +74: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:25 +75: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:25 +76: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:25 +77: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:26 +78: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:26 +79: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:26 +80: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:28 +81: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:28 +82: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:28 +83: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +84: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +85: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +86: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +87: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +88: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:29 +89: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:30 +90: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 fa Brightness.light
+00:30 +91: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 fa Brightness.light
+00:30 +92: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/alignment/entry_alignment_test.dart: all component families requested 2.0 fa Brightness.light
+00:31 +93: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-dark-2.0-product-402
+00:32 +94: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-dark-2.0-product-402
+00:33 +95: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-dark-2.0-product-402
+00:35 +96: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 en LTR 1.0 dark stress: all selections
+00:35 +97: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/auth_skin_test.dart: Auth test-skin leak guard Brightness.dark with explicit brand exclusions
+00:35 +98: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:35 +99: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:36 +100: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:37 +101: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:38 +102: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:39 +103: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:39 +104: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:40 +105: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:41 +106: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:41 +107: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:41 +108: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:42 +109: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:42 +110: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:42 +111: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:42 +112: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:42 +113: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 en LTR 1.3 light stress: all selections
+00:43 +114: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 en LTR 1.3 light stress: all selections
+00:43 +115: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-fa-dark-1.0-product-402
+00:43 +116: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 dark none: all selections
+00:44 +117: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-1.0-product-402
+00:44 +118: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 dark source: all selections
+00:44 +119: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-dark-1.0-product-402
+00:44 +120: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 dark stress: all selections
+00:45 +121: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/chrome_scaling_test.dart: full six-digit wallet en Brightness.dark
+00:45 +122: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/chrome_scaling_test.dart: full six-digit wallet en Brightness.dark
+00:45 +123: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 light none: all selections
+00:45 +124: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-2.0-product-402
+00:46 +125: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-2.0-product-402
+00:46 +126: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 light source: all selections
+00:46 +127: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 light source: all selections
+00:46 +128: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 light source: all selections
+00:46 +129: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.0 light source: all selections
+00:46 +130: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-light-1.0-product-402
+00:47 +131: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-light-1.0-product-402
+00:47 +132: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark none: all selections
+00:47 +133: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-dark-1.0-product-402
+00:47 +134: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +135: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +136: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +137: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +138: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +139: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark source: all selections
+00:48 +140: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review password-fa-dark-1.0-product-402
+00:48 +141: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark stress: all selections
+00:49 +142: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 dark stress: all selections
+00:49 +143: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review password-fa-dark-2.0-product-402
+00:49 +144: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light none: all selections
+00:49 +145: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light none: all selections
+00:49 +146: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light none: all selections
+00:49 +147: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review otp-fa-dark-2.0-product-402
+00:50 +148: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +149: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +150: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +151: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +152: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +153: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 252.0 fa RTL 1.3 light source: all selections
+00:50 +154: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:50 +155: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:50 +156: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:51 +157: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:52 +158: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:52 +159: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:53 +160: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:53 +161: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:53 +162: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:54 +163: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +164: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +165: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +166: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +167: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +168: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +169: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:55 +170: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:56 +171: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:57 +172: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:57 +173: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:57 +174: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:58 +175: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:58 +176: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:58 +177: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+00:59 +178: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:00 +179: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:00 +180: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:01 +181: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:01 +182: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:02 +183: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths en
+01:02 +184: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:03 +185: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:03 +186: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:04 +187: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:04 +188: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:04 +189: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:04 +190: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:05 +191: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:06 +192: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:06 +193: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:06 +194: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +195: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +196: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +197: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +198: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +199: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +200: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:07 +201: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:08 +202: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:08 +203: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:08 +204: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:08 +205: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:09 +206: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:09 +207: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:09 +208: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:10 +209: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:10 +210: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:10 +211: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:10 +212: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:10 +213: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +214: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +215: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +216: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +217: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +218: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +219: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +220: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +221: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +222: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:11 +223: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:12 +224: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.dark product
+01:12 +225: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 200.0 en LTR 1.3 dark none: all selections
+01:12 +226: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 200.0 en LTR 1.3 dark none: all selections
+01:12 +227: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 200.0 en LTR 1.3 dark none: all selections
+01:12 +228: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +229: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +230: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +231: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +232: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +233: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +234: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:12 +235: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:13 +236: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:13 +237: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:14 +238: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:15 +239: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:15 +240: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:16 +241: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:17 +242: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:17 +243: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:18 +244: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:18 +245: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:18 +246: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:18 +247: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:19 +248: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:19 +249: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:19 +250: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:19 +251: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:19 +252: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:20 +253: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:20 +254: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:21 +255: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:22 +256: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:22 +257: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:22 +258: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +259: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +260: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +261: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +262: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +263: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +264: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +265: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +266: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +267: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +268: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +269: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +270: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +271: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +272: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +273: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +274: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +275: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +276: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:23 +277: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:24 +278: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/delegated_review_test.dart: Button start placement and loose cell widths fa
+01:24 +279: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +280: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +281: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +282: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +283: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +284: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +285: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +286: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +287: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +288: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +289: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +290: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +291: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +292: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +293: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +294: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +295: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +296: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:24 +297: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +298: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +299: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +300: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +301: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +302: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +303: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +304: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +305: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +306: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +307: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +308: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +309: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +310: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +311: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +312: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +313: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +314: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +315: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:25 +316: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +317: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +318: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +319: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +320: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +321: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +322: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +323: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +324: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.dark
+01:26 +325: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +326: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +327: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +328: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +329: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +330: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +331: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +332: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +333: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +334: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +335: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +336: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +337: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +338: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +339: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +340: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +341: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +342: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:26 +343: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +344: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +345: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +346: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +347: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +348: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +349: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +350: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +351: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +352: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +353: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +354: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +355: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +356: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +357: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +358: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:27 +359: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +360: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +361: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +362: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +363: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +364: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +365: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +366: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +367: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +368: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +369: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +370: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +371: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +372: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +373: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +374: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +375: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +376: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +377: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +378: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +379: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +380: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:28 +381: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +382: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +383: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +384: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +385: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +386: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +387: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +388: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +389: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +390: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +391: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +392: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +393: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +394: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +395: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +396: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +397: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/persian_font_test.dart: bundled Persian glyphs in every text family Brightness.light test
+01:29 +398: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:29 +399: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:29 +400: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +401: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +402: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +403: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +404: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +405: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +406: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +407: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +408: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +409: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +410: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +411: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +412: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +413: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +414: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +415: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +416: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +417: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +418: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +419: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +420: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +421: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +422: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +423: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +424: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +425: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +426: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:30 +427: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +428: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +429: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +430: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +431: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +432: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +433: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +434: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +435: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +436: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +437: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +438: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +439: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +440: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +441: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +442: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +443: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +444: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +445: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +446: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +447: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +448: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:31 +449: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +450: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +451: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +452: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +453: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +454: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +455: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +456: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +457: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +458: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +459: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +460: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +461: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +462: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +463: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +464: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +465: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +466: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +467: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +468: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +469: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +470: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +471: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +472: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:32 +473: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:33 +474: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:33 +475: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:33 +476: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:33 +477: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +478: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +479: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +480: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +481: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +482: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:34 +483: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:35 +484: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:35 +485: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:35 +486: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:36 +487: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/skin_test.dart: best-effort test skin pixel leak guard Brightness.light
+01:36 +488: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/rtl/1.0
+01:36 +489: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/rtl/1.0
+01:37 +490: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/rtl/1.0
+01:37 +491: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/rtl/1.3
+01:38 +492: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_motion_test.dart: press/release scales paint, keeps layout/hit bounds, invokes once
+01:38 +493: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.0
+01:38 +494: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.0
+01:38 +495: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.0
+01:38 +496: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_motion_test.dart: disabled never animates or activates
+01:38 +497: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.3
+01:38 +498: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.3
+01:39 +499: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry dark/ltr/1.3
+01:39 +500: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry light/rtl/1.0
+01:39 +501: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry light/rtl/1.3
+01:40 +502: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry light/ltr/1.0
+01:40 +503: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: no-icon geometry light/ltr/1.3
+01:41 +504: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: fill uses real artwork, its slot, gap and source icon paint
+01:41 +505: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: outline uses real artwork, its slot, gap and source icon paint
+01:41 +506: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: disabled remapping and callback/identity remain intact
+01:41 +507: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_icon_mode_test.dart: icon-only and missing artwork cannot silently become text-only
+01:42 +508: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/light_disabled_readability_test.dart: D-029 preserves source paints and changes only Light disabled effective foreground/icons
+01:42 +509: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/light_disabled_readability_test.dart: every disabled Light size/family stays inactive with and without icons
+01:44 +510: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/bundled_fonts_test.dart: all generated font families are bundled in pubspec/FontManifest
+01:46 +511: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: generated catalog contains every scoped variable exactly once
+01:47 +512: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16433:9039 mode 16433:4 preserves exact RGBA
+01:47 +513: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16433:9040 mode 16433:4 preserves exact RGBA
+01:47 +514: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16447:43 mode 16433:4 preserves exact RGBA
+01:47 +515: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16447:60 mode 16433:4 preserves exact RGBA
+01:47 +516: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16447:46 mode 16433:4 preserves exact RGBA
+01:47 +517: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:18420:7495 mode 16429:3 preserves exact RGBA
+01:47 +518: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:18420:7518 mode 16428:0 preserves exact RGBA
+01:47 +519: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:18420:7494 mode 16429:3 preserves exact RGBA
+01:47 +520: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:18420:7522 mode 16428:0 preserves exact RGBA
+01:47 +521: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:188 mode 16428:0 preserves exact RGBA
+01:47 +522: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:206 mode 16429:3 preserves exact RGBA
+01:47 +523: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:158 mode 16428:0 preserves exact RGBA
+01:47 +524: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:198 mode 16429:3 preserves exact RGBA
+01:47 +525: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:199 mode 16429:3 preserves exact RGBA
+01:47 +526: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16447:341 mode 16428:0 preserves exact RGBA
+01:47 +527: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:156 mode 16428:0 preserves exact RGBA
+01:47 +528: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16429:195 mode 16429:3 preserves exact RGBA
+01:47 +529: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: VariableID:16447:59 mode 16433:4 preserves exact RGBA
+01:47 +530: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: every style retains source metrics/units/tags and converted TextStyle
+01:47 +531: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: light/dark availability matches source; absent twins are not invented
+01:47 +532: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: unbound report preserves evidence and declares missing examples
+01:47 +533: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: hidden report includes every explicitly hidden Snapshot child
+01:47 +534: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/tokens/button_tokens_test.dart: extension copy/interpolation preserves endpoints and explicit availability
+01:47 +535: All tests passed!

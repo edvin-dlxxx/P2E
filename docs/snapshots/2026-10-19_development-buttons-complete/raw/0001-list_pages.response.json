@@ -1,0 +1,10 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"file\":\"Document\",\"pages\":[{\"id\":\"15320:100\",\"name\":\"🍀 Thumbnail\"},{\"id\":\"14433:13\",\"name\":\"-\"},{\"id\":\"18420:9795\",\"name\":\"🎯 Brand Identification:\"},{\"id\":\"18419:7103\",\"name\":\"-> Logo\"},{\"id\":\"18420:9797\",\"name\":\"---\"},{\"id\":\"14466:904\",\"name\":\"📂 Libraries:\"},{\"id\":\"14466:873\",\"name\":\"-> Icons\"},{\"id\":\"14526:1461\",\"name\":\"-> Special Logos\"},{\"id\":\"16479:289\",\"name\":\"-> Flags\"},{\"id\":\"18517:1282\",\"name\":\"-> Images\"},{\"id\":\"14445:1017\",\"name\":\"---\"},{\"id\":\"14433:2614\",\"name\":\" 📐 Layout Components:\"},{\"id\":\"14433:12\",\"name\":\"⚓︎ ios Components\"},{\"id\":\"14610:269\",\"name\":\"---\"},{\"id\":\"14456:1156\",\"name\":\"🧩 Design System:\"},{\"id\":\"16433:9027\",\"name\":\"- Button System\"},{\"id\":\"16433:9139\",\"name\":\"- Badge System\"},{\"id\":\"18563:6534\",\"name\":\"- Text Field System\"},{\"id\":\"14466:905\",\"name\":\"---\"},{\"id\":\"14610:268\",\"name\":\"🚀 Components:\"},{\"id\":\"18422:12211\",\"name\":\"- App Bar\"},{\"id\":\"18422:11091\",\"name\":\"- Navigator Bar\"},{\"id\":\"18448:10024\",\"name\":\"- Games\"},{\"id\":\"14866:1943\",\"name\":\"---\"},{\"id\":\"16458:11\",\"name\":\"EN\"}],\"schemaVersion\":\"2.0.0\"}"
+    }
+  ],
+  "structuredContent": null,
+  "isError": false
+}

@@ -1,0 +1,59 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+# Keep pubspec.lock for reproducible application dependencies.
+**/doc/api/
+.dart_tool/
+.flutter-plugins-dependencies
+/build/
+**/build/
+**/.dart_tool/
+**/windows/flutter/ephemeral/
+/coverage/
+
+# FVM-managed SDK cache; keep .fvmrc in version control.
+.fvm/
+
+# Local dependency caches, machine settings, and credentials.
+**/.gradle/
+**/.pub-cache/
+**/.pub/
+**/node_modules/
+**/__pycache__/
+**/.last_build_id
+.env
+.env.*
+!.env.example
+!.env.sample
+*.jks
+*.keystore
+key.properties
+local.properties
+
+# Failed-test images are reproducible; committed reference goldens are kept.
+**/test/**/failures/
+
+# Keep intentional validation evidence referenced by project reports.
+!docs/**/*.log
+!dev_tools/inspector/evidence/**/*.log

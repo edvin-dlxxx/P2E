@@ -1,0 +1,155 @@
+{
+  "@@locale": "en",
+  "appTitle": "MyGame P2E",
+  "startupPlaceholder": "Temporary startup placeholder",
+  "entryPlaceholder": "Temporary Entry placeholder — Login / Register screens are not built yet.",
+  "readyPlaceholder": "Temporary Ready placeholder — product screens are not built yet.",
+  "authTitle": "Play. Earn. Win.",
+  "authSubtitle": "Enter your email or phone number and let the games begin.",
+  "authPoints": "pts",
+  "authWelcome": "Welcome bonus",
+  "authIdentifier": "Email Address or Phone Number",
+  "authHint": "Enter email or phone",
+  "authRemember": "Remember me for next time.",
+  "authContinue": "Continue",
+  "authContinuePhone": "Continue With Phone",
+  "authContinueEmail": "Continue With Email Address",
+  "authPhoneHelper": "We'll text you a one-time code",
+  "authEmailHelper": "You'll enter your password next if you register before.",
+  "authDivider": "or continue with",
+  "authPlayStation": "Playstation",
+  "authXbox": "Xbox",
+  "authGoogle": "Google",
+  "authLegalStart": "By continuing, you agree to our ",
+  "authTerms": "Terms & Conditions",
+  "authLegalAnd": " and ",
+  "authPrivacy": "Privacy Policy",
+  "authLegalEnd": ".",
+  "authLoading": "Signing in",
+  "authOffline": "You are offline. Please try again.",
+  "authServer": "The service is unavailable. Please try again.",
+  "authNotConfigured": "The backend is not configured.",
+  "authSocialUnavailable": "Social sign-in is not available yet.",
+  "authBlocked": "This mobile number cannot be used.",
+  "authRateLimited": "Too many attempts. Please try again later.",
+  "authUnknown": "Something went wrong. Please try again.",
+  "authUrlMissing": "This link is not configured yet.",
+  "authUrlFailed": "The link could not be opened.",
+  "authOtpPlaceholder": "OTP — screen coming next",
+  "authPasswordPlaceholder": "Password — screen coming next",
+  "authCreatePasswordPlaceholder": "Create password — screen coming next",
+  "authForgotPlaceholder": "Forgot password — screen coming next",
+  "authBack": "Back",
+  "@authTitle": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authSubtitle": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authPoints": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authWelcome": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authIdentifier": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authHint": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authRemember": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authContinue": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authContinuePhone": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authContinueEmail": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authPhoneHelper": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authEmailHelper": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authDivider": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authPlayStation": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authXbox": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authGoogle": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authLegalStart": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authTerms": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authLegalAnd": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authPrivacy": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authLegalEnd": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authLoading": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authOffline": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authServer": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authNotConfigured": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authSocialUnavailable": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authBlocked": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authRateLimited": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authUnknown": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authUrlMissing": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authUrlFailed": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authOtpPlaceholder": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authPasswordPlaceholder": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authCreatePasswordPlaceholder": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authForgotPlaceholder": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "@authBack": {
+    "description": "Auth Entry copy; provisional errors/legal copy pending owner review."
+  },
+  "authHomePlaceholder": "Home — screen coming next",
+  "@authHomePlaceholder": {
+    "description": "Placeholder only; Home screen is outside the Auth Entry task."
+  }
+}

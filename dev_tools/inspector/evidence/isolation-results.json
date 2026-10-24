@@ -1,0 +1,58 @@
+[
+  {
+    "name": "isolation-pub-root",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-analyze-root",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-flutter-analyze-root",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-tests-root",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-pub-package",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-analyze-package",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-flutter-analyze-package",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-tests-package",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-pub-viewer",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-analyze-viewer",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-flutter-analyze-viewer",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-tests-viewer",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-architecture",
+    "exitCode": 0
+  },
+  {
+    "name": "isolation-apk",
+    "exitCode": 0
+  }
+]

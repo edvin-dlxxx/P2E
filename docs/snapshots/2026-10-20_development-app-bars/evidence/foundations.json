@@ -1,0 +1,295 @@
+{
+  "complete": true,
+  "variables": [
+    {
+      "id": "VariableID:18436:687",
+      "name": "Countainer/Purple",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0.8156862854957581,
+          "g": 0.7686274647712708,
+          "b": 0.9098039269447327,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18436:678",
+      "name": "Primary/Purple",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0.3764705955982208,
+          "g": 0.2705882489681244,
+          "b": 0.5960784554481506,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:158",
+      "name": "Surface Container/Base",
+      "collectionId": "VariableCollectionId:16428:8",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.09019608050584793,
+          "g": 0.09019608050584793,
+          "b": 0.09019608050584793,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18436:686",
+      "name": "Countainer/Pink",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0.9333333373069763,
+          "g": 0.6901960968971252,
+          "b": 0.7764706015586853,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18436:677",
+      "name": "Primary/Pink",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0.5137255191802979,
+          "g": 0.1411764770746231,
+          "b": 0.3019607961177826,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7522",
+      "name": "On Surface/Emphasis",
+      "collectionId": "VariableCollectionId:16428:8",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7520",
+      "name": "On Surface/Variant",
+      "collectionId": "VariableCollectionId:16428:8",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.45098039507865906,
+          "g": 0.45098039507865906,
+          "b": 0.45098039507865906,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18436:690",
+      "name": "Countainer/Emerald",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0.6313725709915161,
+          "g": 0.9490196108818054,
+          "b": 0.8627451062202454,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18436:681",
+      "name": "Primary/Emerald",
+      "collectionId": "VariableCollectionId:18436:676",
+      "valuesByMode": {
+        "18436:0": {
+          "r": 0,
+          "g": 0.3176470696926117,
+          "b": 0.26274511218070984,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:165",
+      "name": "Surface Container/Highest",
+      "collectionId": "VariableCollectionId:16428:8",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.250980406999588,
+          "g": 0.250980406999588,
+          "b": 0.250980406999588,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16433:9040",
+      "name": "Alpha/White",
+      "collectionId": "VariableCollectionId:16433:9035",
+      "valuesByMode": {
+        "16433:4": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:196",
+      "name": "Surface Container/Lowest",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7494",
+      "name": "On Surface/Emphasis",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.250980406999588,
+          "g": 0.250980406999588,
+          "b": 0.250980406999588,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:203",
+      "name": "On Surface/Muted",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.6313725709915161,
+          "g": 0.6313725709915161,
+          "b": 0.6313725709915161,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:199",
+      "name": "Surface Container/High",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.8980392217636108,
+          "g": 0.8980392217636108,
+          "b": 0.8980392217636108,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:283:1905",
+      "name": "Red/500",
+      "collectionId": "VariableCollectionId:283:1486",
+      "valuesByMode": {
+        "283:1": {
+          "r": 0.9843137264251709,
+          "g": 0.1725490242242813,
+          "b": 0.21176470816135406,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:204",
+      "name": "On Surface/Variant",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.45098039507865906,
+          "g": 0.45098039507865906,
+          "b": 0.45098039507865906,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:156",
+      "name": "Surface/Base",
+      "collectionId": "VariableCollectionId:16428:8",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.03921568766236305,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:195",
+      "name": "Surface/Base",
+      "collectionId": "VariableCollectionId:16429:193",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    }
+  ],
+  "styles": [
+    {
+      "id": "S:9a1476d098e002fc833e56f44aca2874657771b6,",
+      "name": "English/Baseline/Number-Large",
+      "fontName": {
+        "family": "Outfit",
+        "style": "SemiBold",
+        "variationSettings": {
+          "wght": 600
+        }
+      },
+      "fontSize": 16,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:7f290765a47faa91ca51dac9eaedcae84f8d477b,",
+      "name": "English/Muted/Label-Small",
+      "fontName": {
+        "family": "Outfit",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400
+        }
+      },
+      "fontSize": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      }
+    }
+  ],
+  "missing": []
+}

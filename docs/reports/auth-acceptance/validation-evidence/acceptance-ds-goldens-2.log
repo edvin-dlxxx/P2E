@@ -1,0 +1,161 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "auth-primitives-en-light-1.0-product"
+    the test "auth-primitives-en-dark-1.0-product"
+    the test "auth-primitives-fa-light-1.0-product"
+    the test "auth-primitives-fa-dark-1.0-product"
+    the test "auth-primitives-en-light-2.0-product"
+    the test "auth-primitives-fa-dark-2.0-product"
+    the test "auth-primitives-en-light-1.0-test"
+
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/auth_primitives_goldens_test.dart: auth-primitives-en-light-1.0-product
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "D-047 initial Windows references, pending review button-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review button-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review button-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review badge-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review badge-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review textfield-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review password-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review password-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review password-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review otp-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review radio-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appicon-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review appbar-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review navigator-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-700"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402"
+    the test "D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700"
+
+00:02 +1: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:02 +2: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:02 +3: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:02 +4: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:03 +5: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:03 +6: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:03 +7: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-light-1.0-product-402
+00:08 +8: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-dark-1.0-product-402
+00:13 +9: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-product-402
+00:17 +10: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-dark-1.0-product-402
+00:20 +11: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-fa-dark-2.0-product-402
+00:24 +12: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-2.0-product-402
+00:28 +13: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review button-en-light-1.0-test-402
+00:33 +14: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-fa-light-1.0-product-402
+00:34 +15: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-fa-dark-1.0-product-402
+00:34 +16: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-1.0-product-402
+00:35 +17: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-dark-1.0-product-402
+00:36 +18: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-fa-dark-2.0-product-402
+00:36 +19: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-2.0-product-402
+00:37 +20: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review badge-en-light-1.0-test-402
+00:37 +21: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-light-1.0-product-402
+00:38 +22: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-dark-1.0-product-402
+00:38 +23: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-en-light-1.0-product-402
+00:38 +24: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-en-dark-1.0-product-402
+00:38 +25: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-fa-dark-2.0-product-402
+00:38 +26: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-en-light-2.0-product-402
+00:38 +27: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review textfield-en-light-1.0-test-402
+00:39 +28: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review password-fa-dark-1.0-product-402
+00:39 +29: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review password-en-dark-1.0-product-402
+00:39 +30: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review password-fa-dark-2.0-product-402
+00:39 +31: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review otp-fa-dark-1.0-product-402
+00:39 +32: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review otp-en-dark-1.0-product-402
+00:40 +33: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review otp-fa-dark-2.0-product-402
+00:40 +34: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-fa-light-1.0-product-402
+00:40 +35: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-fa-dark-1.0-product-402
+00:40 +36: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-en-light-1.0-product-402
+00:40 +37: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-en-dark-1.0-product-402
+00:40 +38: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-fa-dark-2.0-product-402
+00:40 +39: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-en-light-2.0-product-402
+00:40 +40: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review radio-en-light-1.0-test-402
+00:41 +41: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-fa-light-1.0-product-402
+00:43 +42: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-fa-dark-1.0-product-402
+00:44 +43: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-en-light-1.0-product-402
+00:46 +44: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-en-dark-1.0-product-402
+00:48 +45: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-fa-dark-2.0-product-402
+00:50 +46: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-en-light-2.0-product-402
+00:52 +47: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appicon-en-light-1.0-test-402
+00:54 +48: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-fa-light-1.0-product-402
+00:54 +49: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-fa-dark-1.0-product-402
+00:54 +50: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-en-light-1.0-product-402
+00:54 +51: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-en-dark-1.0-product-402
+00:54 +52: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-fa-dark-2.0-product-402
+00:55 +53: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-en-light-2.0-product-402
+00:55 +54: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review appbar-en-light-1.0-test-402
+00:55 +55: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-fa-light-1.0-product-402
+00:55 +56: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-fa-dark-1.0-product-402
+00:56 +57: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-en-light-1.0-product-402
+00:56 +58: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-en-dark-1.0-product-402
+00:56 +59: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-fa-dark-2.0-product-402
+00:57 +60: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-en-light-2.0-product-402
+00:57 +61: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review navigator-en-light-1.0-test-402
+00:57 +62: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-402
+00:57 +63: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-light-1.0-product-700
+00:57 +64: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-402
+00:57 +65: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-dark-1.0-product-700
+00:58 +66: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-402
+00:58 +67: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-product-700
+00:58 +68: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-402
+00:58 +69: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-dark-1.0-product-700
+00:58 +70: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-402
+00:58 +71: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-fa-dark-2.0-product-700
+00:58 +72: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-402
+00:58 +73: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-700
+00:58 +74: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402
+00:58 +75: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700
+00:59 +76: All tests passed!

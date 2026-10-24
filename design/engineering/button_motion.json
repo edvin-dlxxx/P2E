@@ -1,0 +1,9 @@
+{
+  "origin": "engineering-defined, not Figma-extracted",
+  "decisionId": "D-021",
+  "restScale": 1.0,
+  "pressedScale": 0.98,
+  "pressMilliseconds": 80,
+  "releaseMilliseconds": 120,
+  "curve": "easeOut"
+}

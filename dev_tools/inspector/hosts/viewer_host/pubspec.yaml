@@ -1,0 +1,20 @@
+name: p2e_viewer_host
+publish_to: none
+environment:
+  sdk: ^3.13.0
+  flutter: ">=3.47.7"
+dependencies:
+  flutter:
+    sdk: flutter
+  p2e_design_system:
+    path: ../../../../packages/design_system
+  p2e_dev_inspector:
+    path: ../../inspector
+  p2e_design_system_viewer:
+    path: ../../../../apps/design_system_viewer
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true

@@ -1,0 +1,130 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "bytes": 2955,
+      "file": "CHANGES.md",
+      "sha256": "a4a9a3360b22c2b5ff979977862cca72d4dd18470d77791782748dcb990adf31"
+    },
+    {
+      "bytes": 75709,
+      "file": "calls.json",
+      "sha256": "b0ecef279e100b6bbd775fda14a152e5ca082da1b7957894c699ddf6d35696d9"
+    },
+    {
+      "bytes": 104665,
+      "file": "components/large_button_dark_mode.json",
+      "sha256": "5c74d2ba1906689d4b80039144179ca91b28248fc24412330888b62611fb0b4d"
+    },
+    {
+      "bytes": 105100,
+      "file": "components/large_button_light_mode.json",
+      "sha256": "bc7a7d92ae19498a2165b0a601f39774e1490b1929bbd45ba613b52b494f2d97"
+    },
+    {
+      "bytes": 104725,
+      "file": "components/large_fill_button_dark_mode.json",
+      "sha256": "9002b09cc08e55a34cc1255be2cce9ba3d48d4e8d04b8ce30b2e9fb22062605b"
+    },
+    {
+      "bytes": 105160,
+      "file": "components/large_fill_button_light_mode.json",
+      "sha256": "1341715051c9c7535d9d1af3bae1369a55d0ecaaadb3d1c12b118aeb4ad1c35e"
+    },
+    {
+      "bytes": 69477,
+      "file": "components/large_icon_button_dark_mode.json",
+      "sha256": "d8bfc496e7be0e960124eab98093f068bd29de4b1b5a6e8149185952f6a0446b"
+    },
+    {
+      "bytes": 69610,
+      "file": "components/large_icon_button_light_mode.json",
+      "sha256": "af8c43fd66da7e966c19c746ddb939c8e6cb18bafb80f4c6a18a1968f846cd53"
+    },
+    {
+      "bytes": 104676,
+      "file": "components/medium_button_dark_mode.json",
+      "sha256": "59c44788eb4976e21184d690009cd1931e1d30ac09ebb1eeb97b31a66b58e0fd"
+    },
+    {
+      "bytes": 105111,
+      "file": "components/medium_button_light_mode.json",
+      "sha256": "1653b3c00f45d2fdc4724af3592f9244fd98fc2eeb11b3b492d410922038ffba"
+    },
+    {
+      "bytes": 104776,
+      "file": "components/medium_fill_button_dark_mode.json",
+      "sha256": "bbd8a3b373fbebde782e2a612d574bc5f9da4c5d11058482b201b87602c6b28f"
+    },
+    {
+      "bytes": 105211,
+      "file": "components/medium_fill_button_light_mode.json",
+      "sha256": "15f1bddb021873e61dd59d7cd6839f4629a30831b64c3bd58b059cdd7e5a4465"
+    },
+    {
+      "bytes": 69408,
+      "file": "components/medium_icon_button_dark_mode.json",
+      "sha256": "af38ada651b77f9a670a3e7dfff485daa1caeb0252efbce5cd3514b8d9dda07f"
+    },
+    {
+      "bytes": 69541,
+      "file": "components/medium_icon_button_light_mode.json",
+      "sha256": "bfe1733bbc189ece0a8244ab0c1001057509fde1bc6f6cb5e80db414a16802e0"
+    },
+    {
+      "bytes": 104645,
+      "file": "components/small_button_dark_mode.json",
+      "sha256": "b6d6747cb953dd20f2837176ed0549b635575bcd4f11013d2a186f73fa261ccd"
+    },
+    {
+      "bytes": 105080,
+      "file": "components/small_button_light_mode.json",
+      "sha256": "8ff32006ad6c0654e0972cb1858a1afe16078a583fed6df2dca70275c4051d16"
+    },
+    {
+      "bytes": 104705,
+      "file": "components/small_fill_button_dark_mode.json",
+      "sha256": "6c7e3d1a81b69a8baade4adead753e6e0e4c0ddfa4967f44e2153bd2b2e5da48"
+    },
+    {
+      "bytes": 105140,
+      "file": "components/small_fill_button_light_mode.json",
+      "sha256": "3b339f722d60d937d6351004251739a699620250d04ecdafa39c7b8db16a2b0b"
+    },
+    {
+      "bytes": 69457,
+      "file": "components/small_icon_button_dark_mode.json",
+      "sha256": "738a14e63d34060bd8235c5e3ea02299215d92146831d32c70a5eeacddf8a968"
+    },
+    {
+      "bytes": 69590,
+      "file": "components/small_icon_button_light_mode.json",
+      "sha256": "e7b9a06ab0d37655737cd056feceb9eb3b167f290c3a416b53626cc57921b5eb"
+    },
+    {
+      "bytes": 3025,
+      "file": "lint.json",
+      "sha256": "c96762a600bf32aed1473112e2501ab78ae8bd6e56e48da03a288af81165fdf6"
+    },
+    {
+      "bytes": 32057,
+      "file": "manifest.json",
+      "sha256": "6a52a87ab92050176753f7c33061fa73fbe2eac251a95c008c9e2ea94f5c8d42"
+    },
+    {
+      "bytes": 85835,
+      "file": "raw-inputs.sha256.json",
+      "sha256": "1630b02726fc321e4c789be997c71d5b301d7dc79d71bd71c5e35b66210d3d7f"
+    },
+    {
+      "bytes": 2487,
+      "file": "text_styles.json",
+      "sha256": "6592f5cfaae1b9b02ca2f4ca01d961895b284a357f97e290678ea4e19b67b7e2"
+    },
+    {
+      "bytes": 211802,
+      "file": "variables.json",
+      "sha256": "d80d604e93e2934a80e3f8afbf0a74d50daacee844504d4fbd09e67c849af105"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/inspection_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: comparison uses tolerance and explicit non-comparability
+00:00 +1: rendered padding deviation is detected without altering source
+00:00 +2: disabled and loading controls remain geometrically selectable
+00:00 +3: transformed and clipped identities cannot be picked outside paint clip
+00:00 +4: all component families export safe descriptor/registry data
+00:01 +5: Password and OTP typed values and lengths never leave core
+00:01 +6: deepest slots, overlapping owners, offstage and clipped geometry
+00:01 +7: selection overlay blocks callbacks, hover, press and focus; Esc exits
+00:02 +8: live loading/dispose/remount uses effective key, idle frames never scan
+00:02 +9: scale and skin comparison gates are explicit
+00:03 +10: Light Password exposes only its Dark basis and never claims a dedicated source
+00:03 +11: (tearDownAll)
+00:03 +11: All tests passed!

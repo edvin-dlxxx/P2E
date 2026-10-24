@@ -1,0 +1,263 @@
+[
+  {
+    "state": "idle",
+    "text": "+3,500",
+    "figma": 52,
+    "ours": 51.74400329589844,
+    "spacing": 0.0,
+    "ceilWithoutTrailingTracking": 52,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "pts",
+    "figma": 18,
+    "ours": 17.24797821044922,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 18,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "Welcome bonus",
+    "figma": 106,
+    "ours": 104.6080093383789,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 106,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "Email Address or Phone Number ",
+    "figma": 211,
+    "ours": 210.4800262451172,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 212,
+    "matches": false
+  },
+  {
+    "state": "idle",
+    "text": "Remember me for next time.",
+    "figma": 188,
+    "ours": 186.4640350341797,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 188,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "Continue",
+    "figma": 61,
+    "ours": 59.952022552490234,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 61,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "or continue with",
+    "figma": 91,
+    "ours": 89.92195892333984,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 91,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "Xbox",
+    "figma": 32,
+    "ours": 30.743993759155273,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 32,
+    "matches": true
+  },
+  {
+    "state": "idle",
+    "text": "Google",
+    "figma": 44,
+    "ours": 42.60200500488281,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 44,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "+3,500",
+    "figma": 52,
+    "ours": 51.74400329589844,
+    "spacing": 0.0,
+    "ceilWithoutTrailingTracking": 52,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "pts",
+    "figma": 18,
+    "ours": 17.24797821044922,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 18,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Welcome bonus",
+    "figma": 106,
+    "ours": 104.6080093383789,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 106,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Email Address or Phone Number ",
+    "figma": 185,
+    "ours": 184.1699981689453,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 185,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Enter email or phone",
+    "figma": 153,
+    "ours": 152.06398010253906,
+    "spacing": -0.72,
+    "ceilWithoutTrailingTracking": 153,
+    "matches": true
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Continue",
+    "figma": 61,
+    "ours": 59.952022552490234,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 61,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "+3,500",
+    "figma": 52,
+    "ours": 51.74400329589844,
+    "spacing": 0.0,
+    "ceilWithoutTrailingTracking": 52,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "pts",
+    "figma": 18,
+    "ours": 17.24797821044922,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 18,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "Welcome bonus",
+    "figma": 106,
+    "ours": 104.6080093383789,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 106,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "Email Address or Phone Number ",
+    "figma": 185,
+    "ours": 184.1699981689453,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 185,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "+98 912 827 9503",
+    "figma": 123,
+    "ours": 122.81602478027344,
+    "spacing": 0.0,
+    "ceilWithoutTrailingTracking": 123,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "We'll text you a one-time code",
+    "figma": 171,
+    "ours": 169.83404541015625,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 171,
+    "matches": true
+  },
+  {
+    "state": "phone",
+    "text": "Continue With Phone",
+    "figma": 141,
+    "ours": 139.8080291748047,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 141,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "+3,500",
+    "figma": 52,
+    "ours": 51.74400329589844,
+    "spacing": 0.0,
+    "ceilWithoutTrailingTracking": 52,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "pts",
+    "figma": 18,
+    "ours": 17.24797821044922,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 18,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "Welcome bonus",
+    "figma": 106,
+    "ours": 104.6080093383789,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 106,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "Email Address or Phone Number ",
+    "figma": 185,
+    "ours": 184.1699981689453,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 185,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "me.ardeshir.rashidi@gmail.com",
+    "figma": 237,
+    "ours": 235.9620361328125,
+    "spacing": -0.72,
+    "ceilWithoutTrailingTracking": 237,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "You'll enter your password next if you register before.",
+    "figma": 299,
+    "ours": 298.20013427734375,
+    "spacing": -0.56,
+    "ceilWithoutTrailingTracking": 299,
+    "matches": true
+  },
+  {
+    "state": "email",
+    "text": "Continue With Email Address",
+    "figma": 193,
+    "ours": 191.74403381347656,
+    "spacing": -0.64,
+    "ceilWithoutTrailingTracking": 193,
+    "matches": true
+  }
+]

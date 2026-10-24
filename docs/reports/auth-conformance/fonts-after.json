@@ -1,0 +1,63 @@
+[
+  {
+    "path": "packages/design_system/assets/fonts/outfit/Outfit-400.ttf",
+    "sha256": "cdf4b4254aa5adf964bf22b1495da27a59347e122c1f17cbf6ce1641576ace84",
+    "version": "Version 1.100;gftools[0.9.27]",
+    "family": "Outfit",
+    "subfamily": "Regular",
+    "weight": 400,
+    "variable": false,
+    "license": "OFL-1.1",
+    "axes": []
+  },
+  {
+    "path": "packages/design_system/assets/fonts/outfit/Outfit-500.ttf",
+    "sha256": "37f0fce3eb6058d065467a990eea9daf58961e9a23b8ac4efda3804d38c64ce3",
+    "version": "Version 1.100;gftools[0.9.27]",
+    "family": "Outfit Medium",
+    "subfamily": "Regular",
+    "weight": 500,
+    "variable": false,
+    "license": "OFL-1.1",
+    "axes": []
+  },
+  {
+    "path": "packages/design_system/assets/fonts/outfit/Outfit-600.ttf",
+    "sha256": "9e237cbd892e94ea2727809f21d4067c24e88735d13c3c01a17f0ec1ae723b9e",
+    "version": "Version 1.100;gftools[0.9.27]",
+    "family": "Outfit SemiBold",
+    "subfamily": "Regular",
+    "weight": 600,
+    "variable": false,
+    "license": "OFL-1.1",
+    "axes": []
+  },
+  {
+    "path": "packages/design_system/assets/fonts/vazirmatn/Vazirmatn-Variable.ttf",
+    "sha256": "696249a2c74b39ffdef55de4df2809c5b639d3ff80d618d8160a095d2fd49dca",
+    "version": "Version 33.003",
+    "family": "Vazirmatn",
+    "subfamily": "Regular",
+    "weight": 400,
+    "variable": true,
+    "license": "OFL-1.1",
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "max": 900.0
+      }
+    ]
+  },
+  {
+    "path": "packages/design_system/assets/fonts/outfit/Outfit-700.ttf",
+    "sha256": "8325636982b8a45ce21fe02389cc2b82cef4fb141d8b36cdd0b0b1d563489c75",
+    "version": "Version 1.100;gftools[0.9.27]",
+    "family": "Outfit",
+    "subfamily": "Bold",
+    "weight": 700,
+    "variable": false,
+    "license": "OFL-1.1",
+    "axes": []
+  }
+]

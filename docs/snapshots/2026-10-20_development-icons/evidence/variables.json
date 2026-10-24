@@ -1,0 +1,36 @@
+{
+  "variables": [
+    {
+      "id": "VariableID:16433:9040",
+      "name": "Alpha/White",
+      "description": "",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16433:4": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {},
+      "collectionId": "VariableCollectionId:16433:9035"
+    }
+  ],
+  "collections": [
+    {
+      "id": "VariableCollectionId:16433:9035",
+      "name": "Base Color",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "modeId": "16433:4"
+        }
+      ],
+      "defaultModeId": "16433:4"
+    }
+  ]
+}

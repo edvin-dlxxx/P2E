@@ -1,0 +1,22 @@
+[
+  {
+    "exitCode": 0,
+    "command": "dart analyze"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test"
+  },
+  {
+    "exitCode": 0,
+    "command": "goldens 1"
+  },
+  {
+    "exitCode": 0,
+    "command": "goldens 2"
+  }
+]

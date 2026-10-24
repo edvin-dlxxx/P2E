@@ -1,0 +1,14 @@
+[
+  {
+    "exitCode": 0,
+    "command": "pub get"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart analyze"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test"
+  }
+]

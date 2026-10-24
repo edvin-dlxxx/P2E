@@ -1,0 +1,100 @@
+{
+  "isolation-tests-root": [
+    "00:01 +44: D:/My_Script/Hamrah-Aval/P2E/test/app/neutral_frame_test.dart: existing neutral root wrapper preserves exact frame media",
+    "00:01 +45: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-044 retains nonlinear scaling and caps content at two",
+    "00:01 +46: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-046 neutral override selects skin independently of brightness",
+    "00:01 +47: All tests passed!"
+  ],
+  "isolation-tests-package": [
+    "01:02 +501: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 402.0 fa RTL 1.3 light none: all selections",
+    "01:02 +502: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 402.0 fa RTL 1.3 light source: all selections",
+    "01:03 +503: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/navigation/navigation_boundary_test.dart: 402.0 fa RTL 1.3 light stress: all selections",
+    "01:03 +504: All tests passed!"
+  ],
+  "isolation-tests-viewer": [
+    "00:38 +30: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: none icon, bounded Fill and unstretched Hug use real fonts",
+    "00:39 +31: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: en narrow inspector and long localized 1.3 preview",
+    "00:41 +32: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: fa narrow inspector and long localized 1.3 preview",
+    "00:43 +33: All tests passed!"
+  ],
+  "goldens-final1": [
+    "00:38 +66: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-700",
+    "00:38 +67: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402",
+    "00:38 +68: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700",
+    "00:38 +69: All tests passed!"
+  ],
+  "goldens-final2": [
+    "00:32 +66: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-2.0-product-700",
+    "00:32 +67: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-402",
+    "00:32 +68: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/goldens/readiness_goldens_test.dart: D-047 initial Windows references, pending review pagescaffold-en-light-1.0-test-700",
+    "00:32 +69: All tests passed!"
+  ],
+  "isolation-analyze-root": [
+    "Analyzing P2E...",
+    "No issues found!"
+  ],
+  "isolation-analyze-package": [
+    "Analyzing design_system...",
+    "No issues found!"
+  ],
+  "isolation-analyze-viewer": [
+    "Analyzing design_system_viewer...",
+    "No issues found!"
+  ],
+  "restore-analyze-inspector": [
+    "Analyzing inspector...",
+    "No issues found!"
+  ],
+  "restore-analyze-product-host": [
+    "Analyzing product_host...",
+    "No issues found!"
+  ],
+  "restore-analyze-viewer-host": [
+    "Analyzing viewer_host...",
+    "No issues found!"
+  ],
+  "isolation-apk": [
+    "WARNING: Restricted methods will be blocked in a future release unless native access is enabled",
+    "",
+    "Running Gradle task 'assembleDebug'...                              ۶٫۴s",
+    "√ Built build\\app\\outputs\\flutter-apk\\app-debug.apk"
+  ],
+  "release-apk": [
+    "\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "\tat java.base/java.lang.Thread.run(Unknown Source)",
+    "Running Gradle task 'assembleRelease'...                           ۹۸٫۵s",
+    "√ Built build\\app\\outputs\\flutter-apk\\app-release.apk (46.0MB)"
+  ],
+  "token-generate_adaptive": [],
+  "token-generate_app_bars": [
+    "Verified 5 source App Bar variants, 3 categories; exact local SVG hashes verified."
+  ],
+  "token-generate_badges": [
+    "Verified 30 Badge variants / 6 source sets; all icon links and hidden paints resolved."
+  ],
+  "token-generate_fields": [
+    "Verified 34 source variants / 6 sets; complete descendants, variables, typography and OTP consumers."
+  ],
+  "token-generate_icons": [
+    "Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.",
+    "Verified 208 runtime assets and registry."
+  ],
+  "token-generate_navigation": [
+    "Verified 2 source bars, 4 nested item states, 5 exact icon pairs."
+  ],
+  "token-generate_readiness": [],
+  "token-generate_skins": [
+    "Skin roles: 35; unavailable Light: ; Dark: "
+  ],
+  "token-generate_buttons": [
+    "Verified 3 files; 18 variables, 3 text styles."
+  ],
+  "token-generate_button_spec": [
+    "Verified 90 variants; 13 missing set-wrapper paints."
+  ],
+  "token-generate_button_icons": [
+    "Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.",
+    "Verified 208 runtime assets and registry."
+  ],
+  "token-generate_motion_defaults": []
+}

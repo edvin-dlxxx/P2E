@@ -1,0 +1,1580 @@
+{
+  "idle": {
+    "frameNodeId": "18608:11451",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 25,
+          "y": 260,
+          "width": 210,
+          "height": 40
+        },
+        "actual": {
+          "x": 25.0,
+          "y": 260.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.775970458984375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 25,
+          "y": 308,
+          "width": 352,
+          "height": 48
+        },
+        "actual": {
+          "x": 25.0,
+          "y": 308.0,
+          "width": 352.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 21,
+          "y": 388,
+          "width": 230,
+          "height": 32
+        },
+        "actual": {
+          "x": 21.0,
+          "y": 388.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.4000091552734375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 21,
+          "y": 448,
+          "width": 360,
+          "height": 60
+        },
+        "actual": {
+          "x": 21.0,
+          "y": 448.0,
+          "width": 360.0,
+          "height": 60.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 21,
+          "y": 576,
+          "width": 360,
+          "height": 46
+        },
+        "actual": {
+          "x": 21.0,
+          "y": 576.0,
+          "width": 360.0,
+          "height": 46.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: fixed Figma frame46; keyboard bottom gap20."
+      },
+      "hero": {
+        "source": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 264
+        },
+        "actual": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "rememberVisual": {
+        "source": {
+          "x": 21,
+          "y": 516,
+          "width": 360,
+          "height": 36
+        },
+        "actual": {
+          "x": 21.0,
+          "y": 516.0,
+          "width": 360.0,
+          "height": 36.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "Visual remains36; independent hit target is48."
+      },
+      "divider": {
+        "source": {
+          "x": 1,
+          "y": 642,
+          "width": 400,
+          "height": 18
+        },
+        "actual": {
+          "x": 1.0,
+          "y": 642.0,
+          "width": 400.0,
+          "height": 18.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: fixed CTA frame restores source downstream positions."
+      },
+      "playStation": {
+        "source": {
+          "x": 25,
+          "y": 684,
+          "width": 110.66666412353516,
+          "height": 62
+        },
+        "actual": {
+          "x": 25.0,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 62.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.000002543131529364473,
+          "height": 0.0
+        },
+        "documentedPolicy": "Source geometry; PlayStation spelling corrected by owner."
+      },
+      "xbox": {
+        "source": {
+          "x": 145.66665649414062,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 62
+        },
+        "actual": {
+          "x": 145.66666666666669,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 62.0
+        },
+        "delta": {
+          "x": 0.000010172526060614473,
+          "y": 0.0,
+          "width": -0.000005086263001885527,
+          "height": 0.0
+        },
+        "documentedPolicy": "Source geometry; PlayStation spelling corrected by owner."
+      },
+      "google": {
+        "source": {
+          "x": 266.33331298828125,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 62
+        },
+        "actual": {
+          "x": 266.33333333333337,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 62.0
+        },
+        "delta": {
+          "x": 0.000020345052121228946,
+          "y": 0.0,
+          "width": -0.000005086263001885527,
+          "height": 0.0
+        },
+        "documentedPolicy": "Source geometry; PlayStation spelling corrected by owner."
+      },
+      "legal": {
+        "source": {
+          "x": 25,
+          "y": 813,
+          "width": 352,
+          "height": 36
+        },
+        "actual": {
+          "x": 25.0,
+          "y": 813.0,
+          "width": 352.0,
+          "height": 36.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: inline link exception; source14/18 two-line prose."
+      }
+    },
+    "paragraphs": [
+      {
+        "text": "Play. Earn. Win.",
+        "rect": {
+          "x": 25.0,
+          "y": 260.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 32.0,
+        "height": 1.25,
+        "letterSpacing": -1.28,
+        "color": "ffffffff",
+        "advance": 208.22402954101562
+      },
+      {
+        "text": "Enter your email or phone number and let the games begin.",
+        "rect": {
+          "x": 25.0,
+          "y": 308.0,
+          "width": 352.0,
+          "height": 48.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 18.0,
+        "height": 1.3333333333333333,
+        "letterSpacing": -0.72,
+        "color": "ffa1a1a1",
+        "advance": 430.2540283203125
+      },
+      {
+        "text": "+3,500",
+        "rect": {
+          "x": 55.0,
+          "y": 394.0,
+          "width": 51.74400329589844,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": 0.0,
+        "color": "ffffffff",
+        "advance": 51.74400329589844
+      },
+      {
+        "text": "pts",
+        "rect": {
+          "x": 110.74400329589844,
+          "y": 395.0,
+          "width": 17.24797821044922,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 17.24797821044922
+      },
+      {
+        "text": "Welcome bonus",
+        "rect": {
+          "x": 133.99198150634766,
+          "y": 394.0,
+          "width": 104.6080093383789,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 104.6080093383789
+      },
+      {
+        "text": "Email Address or Phone Number",
+        "rect": {
+          "x": 37.0,
+          "y": 468.0,
+          "width": 210.4800262451172,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffa1a1a1",
+        "advance": 210.4800262451172
+      },
+      {
+        "text": "Remember me for next time.",
+        "rect": {
+          "x": 61.0,
+          "y": 524.0,
+          "width": 186.4640350341797,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffa1a1a1",
+        "advance": 186.4640350341797
+      },
+      {
+        "text": "Continue",
+        "rect": {
+          "x": 171.02398872375488,
+          "y": 589.0,
+          "width": 59.952022552490234,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ff404040",
+        "advance": 59.952022552490234
+      },
+      {
+        "text": "or continue with",
+        "rect": {
+          "x": 156.03902053833008,
+          "y": 642.0,
+          "width": 89.92195892333984,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff525252",
+        "advance": 89.92195892333984
+      },
+      {
+        "text": "Playstation",
+        "rect": {
+          "x": 47.46134694417318,
+          "y": 728.0,
+          "width": 65.74397277832031,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffffffff",
+        "advance": 65.74397277832031
+      },
+      {
+        "text": "Xbox",
+        "rect": {
+          "x": 185.6280031204224,
+          "y": 728.0,
+          "width": 30.743993759155273,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffffffff",
+        "advance": 30.743993759155273
+      },
+      {
+        "text": "Google",
+        "rect": {
+          "x": 300.3656641642253,
+          "y": 728.0,
+          "width": 42.60200500488281,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffffffff",
+        "advance": 42.60200500488281
+      },
+      {
+        "text": "By continuing, you agree to our ￼ and ￼.",
+        "rect": {
+          "x": 25.0,
+          "y": 813.0,
+          "width": 352.0,
+          "height": 36.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffa1a1a1",
+        "advance": 397.7259521484375
+      },
+      {
+        "text": "Terms & Conditions",
+        "rect": {
+          "x": 221.18096923828125,
+          "y": 812.8942852020264,
+          "width": 111.17401123046875,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff00a6f4",
+        "advance": 111.17401123046875
+      },
+      {
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 159.30801391601562,
+          "y": 830.8942852020264,
+          "width": 79.88398742675781,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff00a6f4",
+        "advance": 79.88398742675781
+      }
+    ],
+    "editable": [],
+    "icons": [
+      {
+        "id": "crown",
+        "color": "ff83244d",
+        "rect": {
+          "x": 29.0,
+          "y": 396.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "brand.playstation",
+        "rect": {
+          "x": 60.333333333333336,
+          "y": 683.0,
+          "width": 40.00000000000001,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "brand.xbox",
+        "rect": {
+          "x": 181.00000000000003,
+          "y": 683.0,
+          "width": 40.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "brand.google",
+        "rect": {
+          "x": 311.6666666666667,
+          "y": 693.0,
+          "width": 20.0,
+          "height": 20.0
+        }
+      }
+    ],
+    "surfaces": [
+      {
+        "rect": {
+          "x": 0.0,
+          "y": 235.0,
+          "width": 402.0,
+          "height": 639.0
+        },
+        "color": null
+      },
+      {
+        "rect": {
+          "x": 21.0,
+          "y": 388.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 25.0,
+          "y": 392.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "color": "ffeeb0c6"
+      },
+      {
+        "rect": {
+          "x": 21.0,
+          "y": 448.0,
+          "width": 360.0,
+          "height": 60.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 21.0,
+          "y": 516.0,
+          "width": 36.0,
+          "height": 36.0
+        },
+        "color": null
+      },
+      {
+        "rect": {
+          "x": 29.0,
+          "y": 524.0,
+          "width": 20.0,
+          "height": 20.0
+        },
+        "color": null
+      },
+      {
+        "rect": {
+          "x": 25.0,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 38.0
+        },
+        "color": "ff1447e6"
+      },
+      {
+        "rect": {
+          "x": 145.66666666666669,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 38.0
+        },
+        "color": "ff00a63e"
+      },
+      {
+        "rect": {
+          "x": 266.33333333333337,
+          "y": 684.0,
+          "width": 110.66666666666669,
+          "height": 38.0
+        },
+        "color": "ffffffff"
+      }
+    ],
+    "dividerLines": [
+      {
+        "x": 33.0,
+        "y": 651.0,
+        "width": 113.03902053833008,
+        "height": 0.0
+      },
+      {
+        "x": 255.96097946166992,
+        "y": 651.0,
+        "width": 113.03902053833008,
+        "height": 0.0
+      }
+    ]
+  },
+  "focusedEmpty": {
+    "frameNodeId": "18618:12447",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.775970458984375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.4000091552734375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: fixed Figma frame46; keyboard bottom gap20."
+      }
+    },
+    "paragraphs": [
+      {
+        "text": "Play. Earn. Win.",
+        "rect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 32.0,
+        "height": 1.25,
+        "letterSpacing": -1.28,
+        "color": "ffffffff",
+        "advance": 208.22402954101562
+      },
+      {
+        "text": "Enter your email or phone number and let the games begin.",
+        "rect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 18.0,
+        "height": 1.3333333333333333,
+        "letterSpacing": -0.72,
+        "color": "ffa1a1a1",
+        "advance": 430.2540283203125
+      },
+      {
+        "text": "+3,500",
+        "rect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 51.74400329589844,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": 0.0,
+        "color": "ffffffff",
+        "advance": 51.74400329589844
+      },
+      {
+        "text": "pts",
+        "rect": {
+          "x": 109.74400329589844,
+          "y": 214.0,
+          "width": 17.24797821044922,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 17.24797821044922
+      },
+      {
+        "text": "Welcome bonus",
+        "rect": {
+          "x": 132.99198150634766,
+          "y": 213.0,
+          "width": 104.6080093383789,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 104.6080093383789
+      },
+      {
+        "text": "Email Address or Phone Number",
+        "rect": {
+          "x": 36.0,
+          "y": 278.0,
+          "width": 184.1699981689453,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 184.1699981689453
+      },
+      {
+        "text": "Enter email or phone",
+        "rect": {
+          "x": 36.0,
+          "y": 297.0,
+          "width": 330.0,
+          "height": 24.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 18.0,
+        "height": 1.3333333333333333,
+        "letterSpacing": -0.72,
+        "color": "ff525252",
+        "advance": 152.06398010253906
+      },
+      {
+        "text": "Continue",
+        "rect": {
+          "x": 171.02398872375488,
+          "y": 490.0,
+          "width": 59.952022552490234,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ff404040",
+        "advance": 59.952022552490234
+      }
+    ],
+    "editable": [
+      {
+        "text": "",
+        "weight": 400,
+        "color": "ff525252",
+        "size": 18.0,
+        "caretRect": {
+          "x": 36.0,
+          "y": 299.0,
+          "width": 2.0,
+          "height": 20.0
+        },
+        "rect": {
+          "x": 36.0,
+          "y": 297.0,
+          "width": 330.0,
+          "height": 24.0
+        },
+        "advance": 0.0
+      }
+    ],
+    "icons": [
+      {
+        "id": "crown",
+        "color": "ff83244d",
+        "rect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      }
+    ],
+    "surfaces": [
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "color": "ffeeb0c6"
+      },
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "color": "ff171717"
+      }
+    ],
+    "dividerLines": []
+  },
+  "phone": {
+    "frameNodeId": "18618:12126",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.775970458984375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.4000091552734375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: fixed Figma frame46; keyboard bottom gap20."
+      }
+    },
+    "paragraphs": [
+      {
+        "text": "Play. Earn. Win.",
+        "rect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 32.0,
+        "height": 1.25,
+        "letterSpacing": -1.28,
+        "color": "ffffffff",
+        "advance": 208.22402954101562
+      },
+      {
+        "text": "Enter your email or phone number and let the games begin.",
+        "rect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 18.0,
+        "height": 1.3333333333333333,
+        "letterSpacing": -0.72,
+        "color": "ffa1a1a1",
+        "advance": 430.2540283203125
+      },
+      {
+        "text": "+3,500",
+        "rect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 51.74400329589844,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": 0.0,
+        "color": "ffffffff",
+        "advance": 51.74400329589844
+      },
+      {
+        "text": "pts",
+        "rect": {
+          "x": 109.74400329589844,
+          "y": 214.0,
+          "width": 17.24797821044922,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 17.24797821044922
+      },
+      {
+        "text": "Welcome bonus",
+        "rect": {
+          "x": 132.99198150634766,
+          "y": 213.0,
+          "width": 104.6080093383789,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 104.6080093383789
+      },
+      {
+        "text": "Email Address or Phone Number",
+        "rect": {
+          "x": 36.0,
+          "y": 278.0,
+          "width": 184.1699981689453,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 184.1699981689453
+      },
+      {
+        "text": "We'll text you a one-time code",
+        "rect": {
+          "x": 56.0,
+          "y": 347.0,
+          "width": 316.0,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffa1a1a1",
+        "advance": 169.83404541015625
+      },
+      {
+        "text": "Continue With Phone",
+        "rect": {
+          "x": 131.09598541259766,
+          "y": 490.0,
+          "width": 139.8080291748047,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 139.8080291748047
+      }
+    ],
+    "editable": [
+      {
+        "text": "+98 912 827 9503",
+        "weight": 600,
+        "color": "ffffffff",
+        "size": 16.0,
+        "caretRect": {
+          "x": 159.0,
+          "y": 300.0,
+          "width": 2.0,
+          "height": 20.0
+        },
+        "rect": {
+          "x": 36.0,
+          "y": 297.73999977111816,
+          "width": 330.0,
+          "height": 24.0
+        },
+        "advance": 122.81602478027344
+      }
+    ],
+    "icons": [
+      {
+        "id": "crown",
+        "color": "ff83244d",
+        "rect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "brightness_alert",
+        "color": "ffa1a1a1",
+        "rect": {
+          "x": 30.0,
+          "y": 347.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      }
+    ],
+    "surfaces": [
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "color": "ffeeb0c6"
+      },
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 339.0,
+          "width": 362.0,
+          "height": 34.0
+        },
+        "color": "ff171717"
+      }
+    ],
+    "dividerLines": []
+  },
+  "email": {
+    "frameNodeId": "18618:12651",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.775970458984375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.4000091552734375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "D-059: fixed Figma frame46; keyboard bottom gap20."
+      }
+    },
+    "paragraphs": [
+      {
+        "text": "Play. Earn. Win.",
+        "rect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.22402954101562,
+          "height": 40.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 32.0,
+        "height": 1.25,
+        "letterSpacing": -1.28,
+        "color": "ffffffff",
+        "advance": 208.22402954101562
+      },
+      {
+        "text": "Enter your email or phone number and let the games begin.",
+        "rect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 18.0,
+        "height": 1.3333333333333333,
+        "letterSpacing": -0.72,
+        "color": "ffa1a1a1",
+        "advance": 430.2540283203125
+      },
+      {
+        "text": "+3,500",
+        "rect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 51.74400329589844,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": 0.0,
+        "color": "ffffffff",
+        "advance": 51.74400329589844
+      },
+      {
+        "text": "pts",
+        "rect": {
+          "x": 109.74400329589844,
+          "y": 214.0,
+          "width": 17.24797821044922,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 400,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 17.24797821044922
+      },
+      {
+        "text": "Welcome bonus",
+        "rect": {
+          "x": 132.99198150634766,
+          "y": 213.0,
+          "width": 104.6080093383789,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 104.6080093383789
+      },
+      {
+        "text": "Email Address or Phone Number",
+        "rect": {
+          "x": 36.0,
+          "y": 278.0,
+          "width": 184.1699981689453,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ff737373",
+        "advance": 184.1699981689453
+      },
+      {
+        "text": "You'll enter your password next if you register before.",
+        "rect": {
+          "x": 56.0,
+          "y": 347.0,
+          "width": 316.0,
+          "height": 18.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 500,
+        "size": 14.0,
+        "height": 1.2857142857142858,
+        "letterSpacing": -0.56,
+        "color": "ffa1a1a1",
+        "advance": 298.20013427734375
+      },
+      {
+        "text": "Continue With Email Address",
+        "rect": {
+          "x": 105.12798309326172,
+          "y": 490.0,
+          "width": 191.74403381347656,
+          "height": 20.0
+        },
+        "fontFamily": "packages/p2e_design_system/Outfit",
+        "weight": 600,
+        "size": 16.0,
+        "height": 1.25,
+        "letterSpacing": -0.64,
+        "color": "ffffffff",
+        "advance": 191.74403381347656
+      }
+    ],
+    "editable": [
+      {
+        "text": "me.ardeshir.rashidi@gmail.com",
+        "weight": 600,
+        "color": "ffffffff",
+        "size": 18.0,
+        "caretRect": {
+          "x": 272.0,
+          "y": 299.0,
+          "width": 2.0,
+          "height": 20.0
+        },
+        "rect": {
+          "x": 36.0,
+          "y": 297.0,
+          "width": 330.0,
+          "height": 24.0
+        },
+        "advance": 235.9620361328125
+      }
+    ],
+    "icons": [
+      {
+        "id": "crown",
+        "color": "ff83244d",
+        "rect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "brightness_alert",
+        "color": "ffa1a1a1",
+        "rect": {
+          "x": 30.0,
+          "y": 347.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      }
+    ],
+    "surfaces": [
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.59999084472656,
+          "height": 32.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "color": "ffeeb0c6"
+      },
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "color": "ff171717"
+      },
+      {
+        "rect": {
+          "x": 20.0,
+          "y": 339.0,
+          "width": 362.0,
+          "height": 34.0
+        },
+        "color": "ff171717"
+      }
+    ],
+    "dividerLines": []
+  }
+}

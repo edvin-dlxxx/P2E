@@ -1,0 +1,17 @@
+{
+  "app-debug.apk": {
+    "bytes": 164305792,
+    "sha256": "9892f19d0510099ed55d935e6eb0e5d725e4284864cd8fddcea73157752accb1",
+    "markerMatches": []
+  },
+  "app-release.apk": {
+    "bytes": 48248004,
+    "sha256": "49753eaa6200ebfa54b368663aa8b862847d38bf44b9479d989be27fbdbbe27c",
+    "markerMatches": []
+  },
+  "product_host_windows_debug": {
+    "markerMatches": [
+      "data/flutter_assets/kernel_blob.bin"
+    ]
+  }
+}

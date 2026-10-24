@@ -1,0 +1,22 @@
+[
+  {
+    "command": "dart format --output=none --set-exit-if-changed .",
+    "exitCode": 0
+  },
+  {
+    "command": "dart run tool/check_architecture.dart",
+    "exitCode": 0
+  },
+  {
+    "command": "dart run tool/agents/sync_agent_files.dart --check",
+    "exitCode": 0
+  },
+  {
+    "command": "python dev_tools/inspector/tool/validate_snapshots.py",
+    "exitCode": 0
+  },
+  {
+    "command": "dart run tool/generate_copy.dart --check",
+    "exitCode": 0
+  }
+]

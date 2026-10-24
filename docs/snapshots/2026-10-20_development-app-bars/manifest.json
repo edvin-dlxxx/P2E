@@ -1,0 +1,32 @@
+{
+  "status": "DEVELOPMENT",
+  "sourceAccess": "read-only MCP",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "page": {
+    "id": "18422:12211",
+    "name": "- App Bar"
+  },
+  "versionId": null,
+  "designerApproval": null,
+  "counts": {
+    "sets": 1,
+    "sourceVariants": 5,
+    "categories": 3
+  },
+  "pagination": {
+    "total": 5,
+    "next": null,
+    "complete": true
+  },
+  "evidenceHashes": {
+    "backgrounds.json": "03ca22a70934196c884ba3d1b7b2b4652742e48863cb6ecfa20e70def9706e10",
+    "consumers.json": "6bfc9f0157fbfad1b43e869fe718b309febdb266a690b943be1e5e38deba0a41",
+    "foundations.json": "c727fe5cdbe2e4ce6e21db8d24015e0bae32fcb73ba6b6c58c37501d758443a9",
+    "inventory.json": "a33c23b81c154273b32250fc51a4fb334329d6835a1f60f16c7db4573c55a77f",
+    "variant-18422-12445.json": "9dd6e24f54a3d1b8934b30307441b7788123c69f22d44f57a7569ea9671257de",
+    "variant-18422-12446.json": "62d6ac6fbe8a852409f842300179d0b4a6d7040164b0786fe218b9132aa43d63",
+    "variant-18517-6274.json": "ee69401d11bd9272805609fe99b55da33865126231882156e3dca1374a74ce10",
+    "variant-18533-6918.json": "5e99e28e0562dc1bfb846e73839a3420f2b2f5e1230cd60f59c4358c6eab5850",
+    "variant-18618-13169.json": "25734b43d79176d054c8bdae8f982b1429dcb462d245af114e30ad17403a5d01"
+  }
+}

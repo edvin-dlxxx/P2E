@@ -1,0 +1,676 @@
+{
+  "exampleLimit": 100,
+  "hidden": {
+    "count": 90,
+    "examples": [
+      {
+        "id": "18436:1615",
+        "path": "Small Fill Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1621",
+        "path": "Small Fill Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1627",
+        "path": "Small Fill Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1633",
+        "path": "Small Fill Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1639",
+        "path": "Small Fill Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1646",
+        "path": "Small Fill Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1652",
+        "path": "Small Fill Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1658",
+        "path": "Small Fill Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1664",
+        "path": "Small Fill Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1670",
+        "path": "Small Fill Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1677",
+        "path": "Small Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1683",
+        "path": "Small Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1689",
+        "path": "Small Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1695",
+        "path": "Small Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1701",
+        "path": "Small Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1708",
+        "path": "Small Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1714",
+        "path": "Small Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1720",
+        "path": "Small Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1726",
+        "path": "Small Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1732",
+        "path": "Small Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18436:1739",
+        "path": "Small Icon Button - Dark Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18436:1743",
+        "path": "Small Icon Button - Dark Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18436:1747",
+        "path": "Small Icon Button - Dark Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18436:1751",
+        "path": "Small Icon Button - Dark Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18436:1755",
+        "path": "Small Icon Button - Dark Mode / Button=Disable / Icon / Outline"
+      },
+      {
+        "id": "18436:1760",
+        "path": "Small Icon Button - Light Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18436:1764",
+        "path": "Small Icon Button - Light Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18436:1768",
+        "path": "Small Icon Button - Light Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18436:1772",
+        "path": "Small Icon Button - Light Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18436:1776",
+        "path": "Small Icon Button - Light Mode / Button=Disable / Icon / Outline"
+      },
+      {
+        "id": "18437:1813",
+        "path": "Medium Fill Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1819",
+        "path": "Medium Fill Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1825",
+        "path": "Medium Fill Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1831",
+        "path": "Medium Fill Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1837",
+        "path": "Medium Fill Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1844",
+        "path": "Medium Fill Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1850",
+        "path": "Medium Fill Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1856",
+        "path": "Medium Fill Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1862",
+        "path": "Medium Fill Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1868",
+        "path": "Medium Fill Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1875",
+        "path": "Medium Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1881",
+        "path": "Medium Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1887",
+        "path": "Medium Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1893",
+        "path": "Medium Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1899",
+        "path": "Medium Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1906",
+        "path": "Medium Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1912",
+        "path": "Medium Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1918",
+        "path": "Medium Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1924",
+        "path": "Medium Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1930",
+        "path": "Medium Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:1937",
+        "path": "Medium Icon Button - Dark Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18437:1941",
+        "path": "Medium Icon Button - Dark Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18437:1945",
+        "path": "Medium Icon Button - Dark Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18437:1949",
+        "path": "Medium Icon Button - Dark Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18437:1953",
+        "path": "Medium Icon Button - Dark Mode / Button=Disable / Icon / Outline"
+      },
+      {
+        "id": "18437:1958",
+        "path": "Medium Icon Button - Light Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18437:1962",
+        "path": "Medium Icon Button - Light Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18437:1966",
+        "path": "Medium Icon Button - Light Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18437:1970",
+        "path": "Medium Icon Button - Light Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18437:1974",
+        "path": "Medium Icon Button - Light Mode / Button=Disable / Icon / Outline"
+      },
+      {
+        "id": "18437:2009",
+        "path": "Large Fill Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2015",
+        "path": "Large Fill Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2021",
+        "path": "Large Fill Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2027",
+        "path": "Large Fill Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2033",
+        "path": "Large Fill Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2040",
+        "path": "Large Fill Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2046",
+        "path": "Large Fill Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2052",
+        "path": "Large Fill Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2058",
+        "path": "Large Fill Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2064",
+        "path": "Large Fill Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2071",
+        "path": "Large Button - Dark Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2077",
+        "path": "Large Button - Dark Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2083",
+        "path": "Large Button - Dark Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2089",
+        "path": "Large Button - Dark Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2095",
+        "path": "Large Button - Dark Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2102",
+        "path": "Large Button - Light Mode / Button=Filled / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2108",
+        "path": "Large Button - Light Mode / Button=Tonal / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2114",
+        "path": "Large Button - Light Mode / Button=Outlined / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2120",
+        "path": "Large Button - Light Mode / Button=Text / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2126",
+        "path": "Large Button - Light Mode / Button=Disable / Icon (Optional) / Outline"
+      },
+      {
+        "id": "18437:2133",
+        "path": "Large Icon Button - Dark Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18437:2137",
+        "path": "Large Icon Button - Dark Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18437:2141",
+        "path": "Large Icon Button - Dark Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18437:2145",
+        "path": "Large Icon Button - Dark Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18437:2149",
+        "path": "Large Icon Button - Dark Mode / Button=Disable / Icon / Outline"
+      },
+      {
+        "id": "18437:2154",
+        "path": "Large Icon Button - Light Mode / Button=Filled / Icon / Outline"
+      },
+      {
+        "id": "18437:2158",
+        "path": "Large Icon Button - Light Mode / Button=Tonal / Icon / Outline"
+      },
+      {
+        "id": "18437:2162",
+        "path": "Large Icon Button - Light Mode / Button=Outlined / Icon / Outline"
+      },
+      {
+        "id": "18437:2166",
+        "path": "Large Icon Button - Light Mode / Button=Text / Icon / Outline"
+      },
+      {
+        "id": "18437:2170",
+        "path": "Large Icon Button - Light Mode / Button=Disable / Icon / Outline"
+      }
+    ]
+  },
+  "missingMain": {
+    "count": 0,
+    "examples": []
+  },
+  "oddNames": {
+    "count": 0,
+    "examples": []
+  },
+  "rootId": "16433:9027",
+  "scanned": 678,
+  "schemaVersion": "2.0.0",
+  "unboundPaint": {
+    "count": 18,
+    "examples": [
+      {
+        "field": "strokes",
+        "id": "18436:1611",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18436:1642",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18436:1673",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18436:1704",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18436:1735",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18436:1756",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1809",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1840",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1871",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1902",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1933",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:1954",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2005",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2036",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2067",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2098",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2129",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      },
+      {
+        "field": "strokes",
+        "id": "18437:2150",
+        "paint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        }
+      }
+    ]
+  },
+  "unstyledText": {
+    "count": 0,
+    "examples": []
+  }
+}

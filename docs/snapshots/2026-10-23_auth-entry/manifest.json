@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "auth-entry-source-1",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "pageId": "16458:11",
+  "pageName": "EN",
+  "captured": "2026-10-23",
+  "readOnly": true,
+  "versionLabel": null,
+  "versionNote": "Development copy; designer named-version metadata is unavailable. Existing snapshots live in docs/snapshots rather than the historical design/figma path.",
+  "frames": [
+    {
+      "nodeId": "18608:11451",
+      "state": "idle",
+      "metadata": "evidence/18608-11451.metadata.json",
+      "variables": "evidence/18608-11451.variables.json",
+      "context": "evidence/18608-11451.design-context.txt",
+      "screenshot": "screens/18608-11451.png"
+    },
+    {
+      "nodeId": "18618:12447",
+      "state": "focusedEmpty",
+      "metadata": "evidence/18618-12447.metadata.json",
+      "variables": "evidence/18618-12447.variables.json",
+      "context": "evidence/18618-12447.design-context.txt",
+      "screenshot": "screens/18618-12447.png"
+    },
+    {
+      "nodeId": "18618:12126",
+      "state": "phone",
+      "metadata": "evidence/18618-12126.metadata.json",
+      "variables": "evidence/18618-12126.variables.json",
+      "context": "evidence/18618-12126.design-context.txt",
+      "screenshot": "screens/18618-12126.png"
+    },
+    {
+      "nodeId": "18618:12651",
+      "state": "email",
+      "metadata": "evidence/18618-12651.metadata.json",
+      "variables": "evidence/18618-12651.variables.json",
+      "context": "evidence/18618-12651.design-context.txt",
+      "screenshot": "screens/18618-12651.png"
+    }
+  ],
+  "status": "DEVELOPMENT",
+  "versionId": null,
+  "designerApproval": null,
+  "counts": {
+    "frames": 4,
+    "screenshots": 4,
+    "metadata": 4,
+    "variableDefinitions": 4,
+    "highFidelityContexts": 4
+  },
+  "sha256": {
+    "CHANGES.md": "c1bf69d454a551054b81d51d3d51d7d37ef2bb87b382dc007ecf4f8e28cff2fe",
+    "evidence/18608-11451.design-context.txt": "2d9a48cdc38d4d93efffb89768b56142282dda91a274d4d537d0708d00e75c97",
+    "evidence/18608-11451.metadata.json": "54a66fea25c09531a4c70293c285d3280c8d8ac6e0f5012804149d861a9e025d",
+    "evidence/18608-11451.variables.json": "220e544146a846b073ed346520a02db1ebc1f2e764c0b57c0a7c324940ce49a6",
+    "evidence/18618-12126.design-context.txt": "45baf6f78c80a25cef8d4e74e178a36a2fb9927adc5b4b796bf6e6f422f462c8",
+    "evidence/18618-12126.metadata.json": "cbe1b98ce28f938515a7f53ec6c27c11bed97bc697a9a6c37cf46ff5b665f0f5",
+    "evidence/18618-12126.variables.json": "677eba47ff6edaeddd2aa7d51686efda2e6f077cc807202fa3372c14ba414ef1",
+    "evidence/18618-12447.design-context.txt": "ebf573da8d81f4c58ccc0a1e272884c24f8c266fa0c18b0e03db447d4d1846d8",
+    "evidence/18618-12447.metadata.json": "46c40d8b78b2e0ffcb36ea7895558bfb71c3b8678721ee8ea4dae753c422ce61",
+    "evidence/18618-12447.variables.json": "49984ad9b266b2e03d249c369d25d6b29673dc81426dbf1b506e6eb71a07c494",
+    "evidence/18618-12651.design-context.txt": "9f842602b8af4ac883b60adf26e8957ecd9506a514faa351ec0fdae974c36424",
+    "evidence/18618-12651.metadata.json": "b43c5e696ebdf32215a9352ca559cb9e390f486faf3c020acd5f07f53905ccd2",
+    "evidence/18618-12651.variables.json": "1fa4d06db3179f29ea8b39cd6297afa84b7fd4da8e3e98467f95523dcdb18adf",
+    "evidence/auth-paints.json": "606965ea5e4fa1fc7e38db6103d0cb019b735a9f2e27dd9550c136fbe79c97fa",
+    "evidence/divider.svg": "fb4127731ee60d56ea2ae87f3dd7e0eaf17e2e536e73de5eec758544682f3042",
+    "evidence/hero-composite.png": "ed01188a58ae9b9e2acb6ac5c93d9bf6aade9bc3e94a55313fa9c9364e972d58",
+    "evidence/hero-mask.svg": "11f33a8e34365dd1e1bd1fda7d65ccf7363c6342e5b1aef00374fec42e73e6aa",
+    "frames.json": "f53a367d79cbb09edfeee837702a1c3e3950bc92f23087fd945e474708c63d9d",
+    "screens/18608-11451.png": "49d1a6bfb7539c0d5b524a35b05d7dc77f84dd536d38019e735690d8d273df70",
+    "screens/18618-12126.png": "9746c70ce623a372e348c5586b5f1ed3dc7581019a36caac0eb6333daa7cb6c9",
+    "screens/18618-12447.png": "ddd36478633226a59a4fe3b6a654c3210c711865b198714ff0d46b809ee02c5a",
+    "screens/18618-12651.png": "5831d5640ae55cfe63da3590333322d944945e8c7bb1248bcbcf6a4cfd3b52e2",
+    "variables.json": "ec7b4419340bc0843ea7ffad07b9e8cc3c3d1c8faf7ef97f63baf29a769a3cfc"
+  }
+}

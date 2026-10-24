@@ -1,0 +1,1174 @@
+{
+  "variants": [
+    {
+      "id": "18437:2068",
+      "name": "Button=Filled",
+      "setId": "18437:2067",
+      "icons": [
+        {
+          "instanceId": "18437:2070",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2071",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2074",
+      "name": "Button=Tonal",
+      "setId": "18437:2067",
+      "icons": [
+        {
+          "instanceId": "18437:2076",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2077",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2080",
+      "name": "Button=Outlined",
+      "setId": "18437:2067",
+      "icons": [
+        {
+          "instanceId": "18437:2082",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2083",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2086",
+      "name": "Button=Text",
+      "setId": "18437:2067",
+      "icons": [
+        {
+          "instanceId": "18437:2088",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2089",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2092",
+      "name": "Button=Disable",
+      "setId": "18437:2067",
+      "icons": [
+        {
+          "instanceId": "18437:2094",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2095",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2099",
+      "name": "Button=Filled",
+      "setId": "18437:2098",
+      "icons": [
+        {
+          "instanceId": "18437:2101",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2102",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2105",
+      "name": "Button=Tonal",
+      "setId": "18437:2098",
+      "icons": [
+        {
+          "instanceId": "18437:2107",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2108",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2111",
+      "name": "Button=Outlined",
+      "setId": "18437:2098",
+      "icons": [
+        {
+          "instanceId": "18437:2113",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2114",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2117",
+      "name": "Button=Text",
+      "setId": "18437:2098",
+      "icons": [
+        {
+          "instanceId": "18437:2119",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2120",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2123",
+      "name": "Button=Disable",
+      "setId": "18437:2098",
+      "icons": [
+        {
+          "instanceId": "18437:2125",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2126",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2006",
+      "name": "Button=Filled",
+      "setId": "18437:2005",
+      "icons": [
+        {
+          "instanceId": "18437:2008",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2009",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2012",
+      "name": "Button=Tonal",
+      "setId": "18437:2005",
+      "icons": [
+        {
+          "instanceId": "18437:2014",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2015",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2018",
+      "name": "Button=Outlined",
+      "setId": "18437:2005",
+      "icons": [
+        {
+          "instanceId": "18437:2020",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2021",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2024",
+      "name": "Button=Text",
+      "setId": "18437:2005",
+      "icons": [
+        {
+          "instanceId": "18437:2026",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2027",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2030",
+      "name": "Button=Disable",
+      "setId": "18437:2005",
+      "icons": [
+        {
+          "instanceId": "18437:2032",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2033",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2037",
+      "name": "Button=Filled",
+      "setId": "18437:2036",
+      "icons": [
+        {
+          "instanceId": "18437:2039",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2040",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2043",
+      "name": "Button=Tonal",
+      "setId": "18437:2036",
+      "icons": [
+        {
+          "instanceId": "18437:2045",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2046",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2049",
+      "name": "Button=Outlined",
+      "setId": "18437:2036",
+      "icons": [
+        {
+          "instanceId": "18437:2051",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2052",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2055",
+      "name": "Button=Text",
+      "setId": "18437:2036",
+      "icons": [
+        {
+          "instanceId": "18437:2057",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2058",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2061",
+      "name": "Button=Disable",
+      "setId": "18437:2036",
+      "icons": [
+        {
+          "instanceId": "18437:2063",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4499",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2064",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2130",
+      "name": "Button=Filled",
+      "setId": "18437:2129",
+      "icons": [
+        {
+          "instanceId": "18437:2132",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2133",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2134",
+      "name": "Button=Tonal",
+      "setId": "18437:2129",
+      "icons": [
+        {
+          "instanceId": "18437:2136",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2137",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2138",
+      "name": "Button=Outlined",
+      "setId": "18437:2129",
+      "icons": [
+        {
+          "instanceId": "18437:2140",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2141",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2142",
+      "name": "Button=Text",
+      "setId": "18437:2129",
+      "icons": [
+        {
+          "instanceId": "18437:2144",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2145",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2146",
+      "name": "Button=Disable",
+      "setId": "18437:2129",
+      "icons": [
+        {
+          "instanceId": "18437:2148",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2149",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2151",
+      "name": "Button=Filled",
+      "setId": "18437:2150",
+      "icons": [
+        {
+          "instanceId": "18437:2153",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2154",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2155",
+      "name": "Button=Tonal",
+      "setId": "18437:2150",
+      "icons": [
+        {
+          "instanceId": "18437:2157",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2158",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2159",
+      "name": "Button=Outlined",
+      "setId": "18437:2150",
+      "icons": [
+        {
+          "instanceId": "18437:2161",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2162",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2163",
+      "name": "Button=Text",
+      "setId": "18437:2150",
+      "icons": [
+        {
+          "instanceId": "18437:2165",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2166",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    },
+    {
+      "id": "18437:2167",
+      "name": "Button=Disable",
+      "setId": "18437:2150",
+      "icons": [
+        {
+          "instanceId": "18437:2169",
+          "name": "Fill",
+          "visible": true,
+          "componentProperties": {
+            "Icon": {
+              "value": "Crown",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "18422:11366",
+          "mainComponentName": "Icon=Crown",
+          "setId": "14466:925",
+          "setName": "Fill"
+        },
+        {
+          "instanceId": "18437:2170",
+          "name": "Outline",
+          "visible": false,
+          "componentProperties": {
+            "Icon": {
+              "value": "Edit Square",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "mainComponentId": "14667:4498",
+          "mainComponentName": "Icon=Edit Square",
+          "setId": "14466:880",
+          "setName": "Outline"
+        }
+      ]
+    }
+  ]
+}

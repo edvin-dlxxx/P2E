@@ -1,0 +1,584 @@
+{
+  "idle": {
+    "frameNodeId": "18608:11451",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24.0,
+          "y": 259.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 259.0,
+          "width": 208.20802307128906,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.7919769287109375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24.0,
+          "y": 307.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 307.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20.0,
+          "y": 387.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 387.0,
+          "width": 227.58499145507812,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.415008544921875,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20.0,
+          "y": 447.0,
+          "width": 362.0,
+          "height": 60.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 447.0,
+          "width": 362.0,
+          "height": 60.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20.0,
+          "y": 575.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 575.0,
+          "width": 362.0,
+          "height": 52.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 6.0
+        },
+        "documentedPolicy": "E-011: retain existing16+20+16=52 minimum instead of46; keyboard bottom gap remains20."
+      },
+      "hero": {
+        "source": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "actual": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "rememberVisual": {
+        "source": {
+          "x": 20.0,
+          "y": 515.0,
+          "width": 362.0,
+          "height": 36.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 515.0,
+          "width": 362.0,
+          "height": 36.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "Visual remains36; independent hit target is48."
+      },
+      "divider": {
+        "source": {
+          "x": 0.0,
+          "y": 641.0,
+          "width": 402.0,
+          "height": 18.0
+        },
+        "actual": {
+          "x": 0.0,
+          "y": 647.0,
+          "width": 402.0,
+          "height": 18.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 6.0,
+          "width": 0.0,
+          "height": 0.0
+        },
+        "documentedPolicy": "Downstream vertical shift from E-011 is6."
+      },
+      "playStation": {
+        "source": {
+          "x": 24.0,
+          "y": 683.0,
+          "width": 111.33333587646484,
+          "height": 62.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 689.0,
+          "width": 111.33333333333331,
+          "height": 62.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 6.0,
+          "width": -0.000002543131529364473,
+          "height": 0.0
+        },
+        "documentedPolicy": "E-011 downstream shift; source social section had flexible spare height. PlayStation spelling corrected by owner."
+      },
+      "xbox": {
+        "source": {
+          "x": 145.33334350585938,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        },
+        "actual": {
+          "x": 145.33333333333331,
+          "y": 689.0,
+          "width": 111.33333333333331,
+          "height": 62.0
+        },
+        "delta": {
+          "x": -0.000010172526060614473,
+          "y": 6.0,
+          "width": 0.000005086263001885527,
+          "height": 0.0
+        },
+        "documentedPolicy": "E-011 downstream shift; source social section had flexible spare height. PlayStation spelling corrected by owner."
+      },
+      "google": {
+        "source": {
+          "x": 266.66668701171875,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        },
+        "actual": {
+          "x": 266.66666666666663,
+          "y": 689.0,
+          "width": 111.33333333333331,
+          "height": 62.0
+        },
+        "delta": {
+          "x": -0.000020345052121228946,
+          "y": 6.0,
+          "width": 0.000005086263001885527,
+          "height": 0.0
+        },
+        "documentedPolicy": "E-011 downstream shift; source social section had flexible spare height. PlayStation spelling corrected by owner."
+      },
+      "legal": {
+        "source": {
+          "x": 24.0,
+          "y": 814.0,
+          "width": 354.0,
+          "height": 36.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 799.0,
+          "width": 354.0,
+          "height": 96.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": -15.0,
+          "width": 0.0,
+          "height": 60.0
+        },
+        "documentedPolicy": "Separate48px link targets require wrapping/growth versus the source36px text frame; scroll retains all copy."
+      }
+    }
+  },
+  "focusedEmpty": {
+    "frameNodeId": "18618:12447",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.20802307128906,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.7919769287109375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.58499145507812,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.415008544921875,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 471.0,
+          "width": 362.0,
+          "height": 52.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": -6.0,
+          "width": 0.0,
+          "height": 6.0
+        },
+        "documentedPolicy": "E-011: retain existing16+20+16=52 minimum instead of46; keyboard bottom gap remains20."
+      }
+    }
+  },
+  "phone": {
+    "frameNodeId": "18618:12126",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.20802307128906,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.7919769287109375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.58499145507812,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.415008544921875,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 471.0,
+          "width": 362.0,
+          "height": 52.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": -6.0,
+          "width": 0.0,
+          "height": 6.0
+        },
+        "documentedPolicy": "E-011: retain existing16+20+16=52 minimum instead of46; keyboard bottom gap remains20."
+      }
+    }
+  },
+  "email": {
+    "frameNodeId": "18618:12651",
+    "toleranceLogicalPx": 0.5,
+    "measurements": {
+      "title": {
+        "source": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 208.20802307128906,
+          "height": 40.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -1.7919769287109375,
+          "height": 0.0
+        },
+        "documentedPolicy": "Text intrinsic width uses the bundled source font; report exact metric delta."
+      },
+      "subtitle": {
+        "source": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "actual": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "reward": {
+        "source": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 227.58499145507812,
+          "height": 32.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": -2.415008544921875,
+          "height": 0.0
+        },
+        "documentedPolicy": "Intrinsic source-font metrics; never force a text width."
+      },
+      "field": {
+        "source": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "cta": {
+        "source": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "actual": {
+          "x": 20.0,
+          "y": 471.0,
+          "width": 362.0,
+          "height": 52.0
+        },
+        "delta": {
+          "x": 0.0,
+          "y": -6.0,
+          "width": 0.0,
+          "height": 6.0
+        },
+        "documentedPolicy": "E-011: retain existing16+20+16=52 minimum instead of46; keyboard bottom gap remains20."
+      }
+    }
+  }
+}

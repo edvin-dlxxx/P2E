@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "fields-1.0",
+  "root": {
+    "id": "16481:3383",
+    "name": "State=Default",
+    "type": "COMPONENT",
+    "x": 20,
+    "y": 20,
+    "width": 48,
+    "height": 62,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        20
+      ],
+      [
+        0,
+        1,
+        20
+      ]
+    ],
+    "layoutMode": "VERTICAL",
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "primaryAxisSizingMode": "FIXED",
+    "counterAxisSizingMode": "FIXED",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "itemSpacing": 12,
+    "counterAxisSpacing": 0,
+    "cornerRadius": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "opacity": 1,
+    "effects": [],
+    "boundVariables": {},
+    "visible": true,
+    "reactions": [],
+    "variantProperties": {
+      "State": "Default"
+    },
+    "componentPropertyDefinitions": {
+      "State": {
+        "defaultValue": "Default",
+        "type": "VARIANT",
+        "variantOptions": [
+          "Default",
+          "Focused",
+          "Written",
+          "Edit",
+          "Success",
+          "Error"
+        ]
+      },
+      "Written Phone Number#16452:160": {
+        "defaultValue": "1",
+        "type": "TEXT"
+      }
+    },
+    "componentPropertyReferences": {},
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "children": [
+      {
+        "id": "16481:3393",
+        "name": "Input Container",
+        "type": "FRAME",
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 62,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "relativeTransform": [
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ]
+        ],
+        "layoutMode": "HORIZONTAL",
+        "layoutSizingHorizontal": "FILL",
+        "layoutSizingVertical": "FILL",
+        "primaryAxisSizingMode": "FIXED",
+        "counterAxisSizingMode": "FIXED",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "itemSpacing": 12,
+        "counterAxisSpacing": 0,
+        "cornerRadius": 16,
+        "topLeftRadius": 16,
+        "topRightRadius": 16,
+        "bottomLeftRadius": 16,
+        "bottomRightRadius": 16,
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16429:158",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.09019608050584793,
+              "g": 0.09019608050584793,
+              "r": 0.09019608050584793
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ],
+        "strokes": [
+          {
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "id": "VariableID:16429:188",
+                "type": "VARIABLE_ALIAS"
+              }
+            },
+            "color": {
+              "b": 0.14901961386203766,
+              "g": 0.14901961386203766,
+              "r": 0.14901961386203766
+            },
+            "opacity": 1,
+            "type": "SOLID",
+            "visible": true
+          }
+        ],
+        "strokeWeight": 2,
+        "strokeAlign": "INSIDE",
+        "opacity": 1,
+        "effects": [],
+        "boundVariables": {
+          "fills": [
+            {
+              "id": "VariableID:16429:158",
+              "type": "VARIABLE_ALIAS"
+            }
+          ],
+          "strokes": [
+            {
+              "id": "VariableID:16429:188",
+              "type": "VARIABLE_ALIAS"
+            }
+          ]
+        },
+        "visible": true,
+        "reactions": [],
+        "componentPropertyReferences": {},
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "children": [
+          {
+            "id": "16481:3398",
+            "name": "Text Feld",
+            "type": "FRAME",
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 62,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0
+              ]
+            ],
+            "layoutMode": "HORIZONTAL",
+            "layoutSizingHorizontal": "FILL",
+            "layoutSizingVertical": "FILL",
+            "primaryAxisSizingMode": "FIXED",
+            "counterAxisSizingMode": "FIXED",
+            "primaryAxisAlignItems": "CENTER",
+            "counterAxisAlignItems": "CENTER",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "cornerRadius": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "opacity": 1,
+            "effects": [],
+            "boundVariables": {},
+            "visible": true,
+            "reactions": [],
+            "componentPropertyReferences": {},
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "children": [
+              {
+                "id": "16481:3399",
+                "name": "Caret",
+                "type": "FRAME",
+                "x": 0,
+                "y": 2,
+                "width": 0,
+                "height": 20,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    1,
+                    2
+                  ]
+                ],
+                "layoutMode": "HORIZONTAL",
+                "layoutSizingHorizontal": "HUG",
+                "layoutSizingVertical": "FIXED",
+                "primaryAxisSizingMode": "AUTO",
+                "counterAxisSizingMode": "FIXED",
+                "primaryAxisAlignItems": "CENTER",
+                "counterAxisAlignItems": "CENTER",
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "itemSpacing": 10,
+                "counterAxisSpacing": 0,
+                "cornerRadius": 0,
+                "topLeftRadius": 0,
+                "topRightRadius": 0,
+                "bottomLeftRadius": 0,
+                "bottomRightRadius": 0,
+                "fills": [],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "opacity": 1,
+                "effects": [],
+                "boundVariables": {},
+                "visible": false,
+                "reactions": [],
+                "componentPropertyReferences": {},
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "children": [
+                  {
+                    "id": "16481:3400",
+                    "name": "Caret Point",
+                    "type": "VECTOR",
+                    "x": 8.742275667827926e-7,
+                    "y": 0,
+                    "width": 20,
+                    "height": 0,
+                    "minWidth": null,
+                    "maxWidth": null,
+                    "minHeight": null,
+                    "maxHeight": null,
+                    "relativeTransform": [
+                      [
+                        -4.371137762859689e-8,
+                        -1,
+                        8.742275667827926e-7
+                      ],
+                      [
+                        1,
+                        -4.371137762859689e-8,
+                        0
+                      ]
+                    ],
+                    "layoutSizingHorizontal": "FIXED",
+                    "layoutSizingVertical": "FILL",
+                    "cornerRadius": 0,
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "blendMode": "NORMAL",
+                        "boundVariables": {
+                          "color": {
+                            "id": "VariableID:16429:184",
+                            "type": "VARIABLE_ALIAS"
+                          }
+                        },
+                        "color": {
+                          "b": 0.250980406999588,
+                          "g": 0.250980406999588,
+                          "r": 0.250980406999588
+                        },
+                        "opacity": 1,
+                        "type": "SOLID",
+                        "visible": true
+                      }
+                    ],
+                    "strokeWeight": 2,
+                    "strokeAlign": "CENTER",
+                    "opacity": 1,
+                    "effects": [],
+                    "boundVariables": {
+                      "strokes": [
+                        {
+                          "id": "VariableID:16429:184",
+                          "type": "VARIABLE_ALIAS"
+                        }
+                      ]
+                    },
+                    "visible": true,
+                    "reactions": [],
+                    "componentPropertyReferences": {},
+                    "constraints": {
+                      "horizontal": "MIN",
+                      "vertical": "MIN"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "complete": true
+}

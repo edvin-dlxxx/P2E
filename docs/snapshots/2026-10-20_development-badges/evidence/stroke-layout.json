@@ -1,0 +1,134 @@
+[
+  {
+    "id": "18437:2307",
+    "name": "Button=Filled",
+    "width": 82,
+    "height": 22,
+    "strokesIncludedInLayout": true,
+    "strokeAlign": "INSIDE",
+    "strokeWeight": 1.5,
+    "absoluteBoundingBox": {
+      "x": 10,
+      "y": 333,
+      "width": 82,
+      "height": 22
+    },
+    "absoluteRenderBounds": {
+      "x": 10,
+      "y": 333,
+      "width": 82,
+      "height": 22
+    },
+    "clipsContent": true,
+    "padding": [
+      8,
+      4,
+      8,
+      4
+    ],
+    "children": [
+      {
+        "name": "Icon (Optional)",
+        "width": 10,
+        "height": 10,
+        "x": 8,
+        "y": 6
+      },
+      {
+        "name": "Text Label",
+        "width": 52,
+        "height": 14,
+        "x": 22,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "id": "18437:2331",
+    "name": "Button=Disable",
+    "width": 84,
+    "height": 24,
+    "strokesIncludedInLayout": true,
+    "strokeAlign": "INSIDE",
+    "strokeWeight": 1.5,
+    "absoluteBoundingBox": {
+      "x": 378,
+      "y": 332,
+      "width": 84,
+      "height": 24
+    },
+    "absoluteRenderBounds": {
+      "x": 378,
+      "y": 332,
+      "width": 84,
+      "height": 24
+    },
+    "clipsContent": true,
+    "padding": [
+      8,
+      4,
+      8,
+      4
+    ],
+    "children": [
+      {
+        "name": "Icon (Optional)",
+        "width": 10,
+        "height": 10,
+        "x": 8,
+        "y": 7
+      },
+      {
+        "name": "Text Label",
+        "width": 54,
+        "height": 16,
+        "x": 22,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "id": "16448:1676",
+    "name": "Button=Outlined",
+    "width": 65,
+    "height": 18,
+    "strokesIncludedInLayout": true,
+    "strokeAlign": "CENTER",
+    "strokeWeight": 1,
+    "absoluteBoundingBox": {
+      "x": 160,
+      "y": 10,
+      "width": 65,
+      "height": 18
+    },
+    "absoluteRenderBounds": {
+      "x": 159.5,
+      "y": 9.5,
+      "width": 66,
+      "height": 19
+    },
+    "clipsContent": true,
+    "padding": [
+      8,
+      4,
+      8,
+      4
+    ],
+    "children": [
+      {
+        "name": "Icon (Optional)",
+        "width": 10,
+        "height": 10,
+        "x": 8,
+        "y": 4
+      },
+      {
+        "name": "Text Label",
+        "width": 35,
+        "height": 10,
+        "x": 22,
+        "y": 4
+      }
+    ]
+  }
+]

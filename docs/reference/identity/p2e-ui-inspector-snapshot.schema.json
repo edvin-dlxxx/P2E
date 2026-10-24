@@ -1,0 +1,335 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:p2e:ui:schema:inspector-snapshot:1.1.0",
+  "title": "P2E UI Inspector Snapshot v1",
+  "type": "object",
+  "additionalProperties": false,
+  "$comment": "example.com/p2e.example is a placeholder namespace, not a hosted schema endpoint. Never emit private input values in snapshot properties. D-035: safeValue now supports bounded structured JSON metadata recursively; input capture remains forbidden.",
+  "required": [
+    "schemaVersion",
+    "identity",
+    "state",
+    "declared",
+    "resolved",
+    "warnings"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "enum": [
+        "1.0.0",
+        "1.1.0"
+      ]
+    },
+    "capturedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "elementId",
+        "componentId",
+        "structureRef",
+        "runtimeLocator"
+      ],
+      "properties": {
+        "elementId": {
+          "$ref": "#/$defs/elementId"
+        },
+        "componentId": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)+$",
+          "maxLength": 128
+        },
+        "structureRef": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)+$",
+          "maxLength": 128
+        },
+        "componentSpecVersion": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "designRef": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "fileKey",
+            "nodeId"
+          ],
+          "properties": {
+            "fileKey": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9]{15,40}$"
+            },
+            "nodeId": {
+              "type": "string",
+              "pattern": "^\\d+:\\d+$"
+            }
+          }
+        },
+        "runtimeLocator": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "routeName",
+            "routeInstanceId"
+          ],
+          "properties": {
+            "routeName": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)*$",
+              "maxLength": 128
+            },
+            "routeInstanceId": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 128
+            },
+            "entityKey": {
+              "type": "string",
+              "pattern": "^[a-z0-9_-]+$",
+              "maxLength": 128
+            },
+            "slotPath": {
+              "type": "string",
+              "pattern": "^[a-z][A-Za-z0-9]*(?:\\.[a-z][A-Za-z0-9]*)*$",
+              "maxLength": 128
+            }
+          }
+        }
+      }
+    },
+    "state": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+        "focused": {
+          "type": "boolean"
+        },
+        "hasValue": {
+          "type": "boolean"
+        },
+        "required": {
+          "type": "boolean"
+        },
+        "readOnly": {
+          "type": "boolean"
+        },
+        "obscured": {
+          "type": "boolean"
+        },
+        "selected": {
+          "type": "boolean"
+        },
+        "hovered": {
+          "type": "boolean"
+        },
+        "validation": {
+          "enum": [
+            "none",
+            "pending",
+            "success",
+            "error"
+          ]
+        },
+        "loading": {
+          "type": "boolean"
+        }
+      }
+    },
+    "declared": {
+      "$ref": "#/$defs/propertyMap"
+    },
+    "resolved": {
+      "$ref": "#/$defs/propertyMap"
+    },
+    "measured": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "widthLogicalPx",
+        "heightLogicalPx"
+      ],
+      "properties": {
+        "widthLogicalPx": {
+          "type": "number",
+          "minimum": 0
+        },
+        "heightLogicalPx": {
+          "type": "number",
+          "minimum": 0
+        },
+        "leftGlobalLogicalPx": {
+          "type": "number"
+        },
+        "topGlobalLogicalPx": {
+          "type": "number"
+        },
+        "devicePixelRatio": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "visible": {
+          "type": "boolean"
+        }
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "code",
+          "severity",
+          "message"
+        ],
+        "properties": {
+          "code": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_]*$",
+            "maxLength": 80
+          },
+          "severity": {
+            "enum": [
+              "info",
+              "warning",
+              "error"
+            ]
+          },
+          "message": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "propertyPath": {
+            "type": "string",
+            "maxLength": 128
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "elementId": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*(?:\\.(?:[a-z][a-z0-9-]*|[a-z][a-z0-9-]*:[a-z0-9_-]+)){1,}$",
+      "maxLength": 200
+    },
+    "safeValue": {
+      "oneOf": [
+        {
+          "type": [
+            "string",
+            "number",
+            "boolean",
+            "null"
+          ],
+          "maxLength": 500
+        },
+        {
+          "type": "array",
+          "maxItems": 20,
+          "items": {
+            "$ref": "#/$defs/safeValue"
+          }
+        },
+        {
+          "type": "object",
+          "maxProperties": 250,
+          "additionalProperties": {
+            "$ref": "#/$defs/safeValue"
+          },
+          "propertyNames": {
+            "not": {
+              "pattern": "(?i:passwordvalue|otpvalue|inputvalue|rawinput|rawtext|secretvalue|accesstoken|authtoken)"
+            }
+          }
+        }
+      ]
+    },
+    "propertyMap": {
+      "type": "object",
+      "propertyNames": {
+        "allOf": [
+          {
+            "pattern": "^[a-z][A-Za-z0-9]*(?:\\.[a-z][A-Za-z0-9]*)*$"
+          },
+          {
+            "not": {
+              "pattern": "(?i:passwordvalue|otpvalue|inputvalue|rawinput|rawtext|secretvalue|accesstoken|authtoken)"
+            }
+          }
+        ]
+      },
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "value",
+          "origin"
+        ],
+        "properties": {
+          "value": {
+            "$ref": "#/$defs/safeValue"
+          },
+          "unit": {
+            "type": "string",
+            "maxLength": 40
+          },
+          "origin": {
+            "enum": [
+              "usage",
+              "component-default",
+              "component-state",
+              "typography-registry",
+              "color-registry",
+              "icon-registry",
+              "motion-registry",
+              "figma-reference",
+              "runtime-resolver",
+              "unknown"
+            ]
+          },
+          "evidenceStatus": {
+            "enum": [
+              "api-verified",
+              "cross-verified",
+              "derived",
+              "unverified",
+              "not-applicable"
+            ]
+          },
+          "decisionStatus": {
+            "enum": [
+              "approved",
+              "provisional",
+              "designer-pending"
+            ]
+          },
+          "evidenceRefs": {
+            "type": "array",
+            "uniqueItems": true,
+            "maxItems": 12,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200
+            }
+          },
+          "note": {
+            "type": "string",
+            "maxLength": 500
+          }
+        }
+      },
+      "maxProperties": 250
+    }
+  }
+}

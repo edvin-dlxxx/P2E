@@ -1,0 +1,11 @@
+{
+  "decision": "D-030",
+  "origin": "engineering extension authorized by the App Bar implementation task; not Figma motion",
+  "focusWidth": 2,
+  "interactionOverlayAlpha": 0.12,
+  "overflow": "collapse spacer, caller compact values, then visible horizontal scrollbar; no hidden actions",
+  "safeArea": "content owns no insets; Scaffold adapter SafeArea owns top exactly once",
+  "backLight": "unavailable; no sixth source variant",
+  "motion": "shared ButtonMotion (D-021), action only; reduced motion immediate",
+  "textScalePolicy": "D-044 shared chromeTextScaleCap; full semantics preserved"
+}

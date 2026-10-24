@@ -1,0 +1,205 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:p2e:ui:schema:fix-request:1.0.0",
+  "title": "P2E UI Fix Request v1 (central scope only)",
+  "type": "object",
+  "additionalProperties": false,
+  "$comment": "Only centrally owned component defaults, design tokens, or component implementation may be targeted in v1. A local instance override is intentionally unsupported.",
+  "required": [
+    "schemaVersion",
+    "requestId",
+    "observedAt",
+    "target",
+    "precondition",
+    "change",
+    "preserve"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "1.0.0"
+    },
+    "requestId": {
+      "type": "string",
+      "pattern": "^P2E-UI-[A-Z0-9-]{4,32}$"
+    },
+    "observedAt": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*(?:\\.(?:[a-z][a-z0-9-]*|[a-z][a-z0-9-]*:[a-z0-9_-]+)){1,}$",
+      "maxLength": 200
+    },
+    "snapshotRef": {
+      "type": "string",
+      "maxLength": 300
+    },
+    "target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "scope",
+        "propertyPath"
+      ],
+      "properties": {
+        "scope": {
+          "enum": [
+            "component-default",
+            "design-token",
+            "component-implementation"
+          ]
+        },
+        "componentId": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)+$"
+        },
+        "tokenId": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)+$"
+        },
+        "propertyPath": {
+          "type": "string",
+          "pattern": "^[a-z][A-Za-z0-9]*(?:\\.[a-z][A-Za-z0-9]*)+$",
+          "maxLength": 180
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "scope": {
+                "const": "design-token"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "tokenId"
+            ],
+            "not": {
+              "required": [
+                "componentId"
+              ]
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "scope": {
+                "enum": [
+                  "component-default",
+                  "component-implementation"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "componentId"
+            ],
+            "not": {
+              "required": [
+                "tokenId"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "precondition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "expectedCurrentValue",
+        "sourceVersion"
+      ],
+      "properties": {
+        "expectedCurrentValue": {
+          "$ref": "#/$defs/safeValue"
+        },
+        "sourceVersion": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        }
+      }
+    },
+    "change": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "newValue",
+        "reason"
+      ],
+      "properties": {
+        "newValue": {
+          "$ref": "#/$defs/safeValue"
+        },
+        "unit": {
+          "type": "string",
+          "maxLength": 40
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 5,
+          "maxLength": 500
+        },
+        "decisionStatusAfterReview": {
+          "enum": [
+            "approved",
+            "provisional",
+            "designer-pending"
+          ]
+        }
+      }
+    },
+    "preserve": {
+      "type": "array",
+      "uniqueItems": true,
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "element-identity",
+          "content",
+          "semantic-roles",
+          "validation-behavior",
+          "layout",
+          "interaction",
+          "accessibility",
+          "motion-policy"
+        ]
+      }
+    },
+    "requiresImpactReview": {
+      "type": "boolean"
+    }
+  },
+  "$defs": {
+    "safeValue": {
+      "oneOf": [
+        {
+          "type": "string",
+          "maxLength": 500
+        },
+        {
+          "type": "number"
+        },
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        },
+        {
+          "type": "array",
+          "maxItems": 20,
+          "items": {
+            "type": [
+              "string",
+              "number",
+              "boolean",
+              "null"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

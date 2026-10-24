@@ -1,0 +1,20 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/button_envelope_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/button_envelope_test.dart: Problems detects button envelope constraint: room
+00:00 +1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/button_envelope_test.dart: Problems detects button envelope constraint: room
+00:00 +2: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:00 +3: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:00 +4: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:01 +5: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:02 +6: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:02 +7: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:02 +8: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:04 +9: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:04 +10: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:04 +11: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: numeric dimensions, nudges, handles, zoom picking and Fit window
+00:05 +12: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/inspection_test.dart: selection overlay blocks callbacks, hover, press and focus; Esc exits
+00:06 +13: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: Problems forwards errors and sweep finds exact width and height ranges
+00:06 +14: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: Problems forwards errors and sweep finds exact width and height ranges
+00:07 +15: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: Problems forwards errors and sweep finds exact width and height ranges
+00:07 +16: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: Problems forwards errors and sweep finds exact width and height ranges
+00:08 +17: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/inspector/test/device_test.dart: one-time missing loading label diagnostic retains a recoverable owner
+00:09 +18: All tests passed!

@@ -1,0 +1,1017 @@
+{
+  "@@locale": "en",
+  "title": "Design System Viewer",
+  "@title": {
+    "description": "Viewer UI: title"
+  },
+  "buttons": "Buttons",
+  "@buttons": {
+    "description": "Viewer UI: buttons"
+  },
+  "badges": "Badges",
+  "@badges": {
+    "description": "Viewer UI: badges"
+  },
+  "textFields": "Text Fields",
+  "@textFields": {
+    "description": "Viewer UI: textFields"
+  },
+  "icons": "Icons",
+  "@icons": {
+    "description": "Viewer UI: icons"
+  },
+  "colors": "Color Palette",
+  "@colors": {
+    "description": "Viewer UI: colors"
+  },
+  "components": "Components",
+  "@components": {
+    "description": "Viewer UI: components"
+  },
+  "notAddedYet": "Not added yet",
+  "@notAddedYet": {
+    "description": "Viewer UI: notAddedYet"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Viewer UI: language"
+  },
+  "english": "English",
+  "@english": {
+    "description": "Viewer UI: english"
+  },
+  "persian": "فارسی",
+  "@persian": {
+    "description": "Viewer UI: persian"
+  },
+  "inspector": "Inspector",
+  "@inspector": {
+    "description": "Viewer UI: inspector"
+  },
+  "selectSample": "Select a sample to inspect its actual configuration.",
+  "@selectSample": {
+    "description": "Viewer UI: selectSample"
+  },
+  "filters": "Filters & preview",
+  "@filters": {
+    "description": "Viewer UI: filters"
+  },
+  "reset": "Reset filters",
+  "@reset": {
+    "description": "Viewer UI: reset"
+  },
+  "all": "All",
+  "@all": {
+    "description": "Viewer UI: all"
+  },
+  "dark": "Dark",
+  "@dark": {
+    "description": "Viewer UI: dark"
+  },
+  "light": "Light",
+  "@light": {
+    "description": "Viewer UI: light"
+  },
+  "family": "Family",
+  "@family": {
+    "description": "Viewer UI: family"
+  },
+  "fillFamily": "Fill width",
+  "@fillFamily": {
+    "description": "Viewer UI: fillFamily"
+  },
+  "hugFamily": "Standard / Hug",
+  "@hugFamily": {
+    "description": "Viewer UI: hugFamily"
+  },
+  "iconFamily": "Icon only",
+  "@iconFamily": {
+    "description": "Viewer UI: iconFamily"
+  },
+  "size": "Size",
+  "@size": {
+    "description": "Viewer UI: size"
+  },
+  "small": "Small",
+  "@small": {
+    "description": "Viewer UI: small"
+  },
+  "medium": "Medium",
+  "@medium": {
+    "description": "Viewer UI: medium"
+  },
+  "large": "Large",
+  "@large": {
+    "description": "Viewer UI: large"
+  },
+  "theme": "Preview theme",
+  "@theme": {
+    "description": "Viewer UI: theme"
+  },
+  "none": "None",
+  "@none": {
+    "description": "Viewer UI: none"
+  },
+  "fillIcon": "Fill icon",
+  "@fillIcon": {
+    "description": "Viewer UI: fillIcon"
+  },
+  "outlineIcon": "Outline icon",
+  "@outlineIcon": {
+    "description": "Viewer UI: outlineIcon"
+  },
+  "iconMode": "Text-button icon",
+  "@iconMode": {
+    "description": "Viewer UI: iconMode"
+  },
+  "textScale": "Text scale",
+  "@textScale": {
+    "description": "Viewer UI: textScale"
+  },
+  "previewDirection": "Preview direction",
+  "@previewDirection": {
+    "description": "Viewer UI: previewDirection"
+  },
+  "followLanguage": "Follow language",
+  "@followLanguage": {
+    "description": "Viewer UI: followLanguage"
+  },
+  "ltr": "LTR",
+  "@ltr": {
+    "description": "Viewer UI: ltr"
+  },
+  "rtl": "RTL",
+  "@rtl": {
+    "description": "Viewer UI: rtl"
+  },
+  "referenceText": "Source reference",
+  "@referenceText": {
+    "description": "Viewer UI: referenceText"
+  },
+  "localizedText": "Localized preview",
+  "@localizedText": {
+    "description": "Viewer UI: localizedText"
+  },
+  "labelMode": "Preview text",
+  "@labelMode": {
+    "description": "Viewer UI: labelMode"
+  },
+  "gallery": "Gallery",
+  "@gallery": {
+    "description": "Viewer UI: gallery"
+  },
+  "verification": "Verification",
+  "@verification": {
+    "description": "Viewer UI: verification"
+  },
+  "showReferences": "Product instances",
+  "@showReferences": {
+    "description": "Viewer UI: showReferences"
+  },
+  "previewWidth": "Fill parent width",
+  "@previewWidth": {
+    "description": "Viewer UI: previewWidth"
+  },
+  "emptyState": "No source variants match these filters.",
+  "@emptyState": {
+    "description": "Viewer UI: emptyState"
+  },
+  "inspect": "Inspect",
+  "@inspect": {
+    "description": "Viewer UI: inspect"
+  },
+  "provisional": "Provisional",
+  "@provisional": {
+    "description": "Viewer UI: provisional"
+  },
+  "unresolved": "Unresolved",
+  "@unresolved": {
+    "description": "Viewer UI: unresolved"
+  },
+  "unavailable": "Unavailable",
+  "@unavailable": {
+    "description": "Viewer UI: unavailable"
+  },
+  "notApplicable": "Not applicable",
+  "@notApplicable": {
+    "description": "Viewer UI: notApplicable"
+  },
+  "noIcon": "No icon container or gap",
+  "@noIcon": {
+    "description": "Viewer UI: noIcon"
+  },
+  "realArtwork": "Local source SVG",
+  "@realArtwork": {
+    "description": "Viewer UI: realArtwork"
+  },
+  "sourceIconUnresolved": "Source icon artwork is not wired. This is an unfinished preview, not an enabled product button.",
+  "@sourceIconUnresolved": {
+    "description": "Viewer UI: sourceIconUnresolved"
+  },
+  "measureNotice": "Size OK checks only the compatible, settled visual frame. It does not approve colors, typography, artwork or pixels. Outer bounds include the tap target.",
+  "@measureNotice": {
+    "description": "Viewer UI: measureNotice"
+  },
+  "sizeOk": "Size OK only",
+  "@sizeOk": {
+    "description": "Viewer UI: sizeOk"
+  },
+  "sizeDiff": "Visual-size difference",
+  "@sizeDiff": {
+    "description": "Viewer UI: sizeDiff"
+  },
+  "notComparable": "Different configuration: no reference-size verdict",
+  "@notComparable": {
+    "description": "Viewer UI: notComparable"
+  },
+  "settling": "Animation settling",
+  "@settling": {
+    "description": "Viewer UI: settling"
+  },
+  "rest": "Rest",
+  "@rest": {
+    "description": "Viewer UI: rest"
+  },
+  "pressed": "Pressed",
+  "@pressed": {
+    "description": "Viewer UI: pressed"
+  },
+  "disabled": "Disabled",
+  "@disabled": {
+    "description": "Viewer UI: disabled"
+  },
+  "enabled": "Enabled",
+  "@enabled": {
+    "description": "Viewer UI: enabled"
+  },
+  "hovered": "Hovered",
+  "@hovered": {
+    "description": "Viewer UI: hovered"
+  },
+  "focused": "Focused",
+  "@focused": {
+    "description": "Viewer UI: focused"
+  },
+  "engineeringMotion": "Engineering-defined; not extracted from Figma",
+  "@engineeringMotion": {
+    "description": "Viewer UI: engineeringMotion"
+  },
+  "sourceConflict": "Residual source conflict: fixed frame height versus content plus vertical padding. Existing minimum-height policy is retained.",
+  "@sourceConflict": {
+    "description": "Viewer UI: sourceConflict"
+  },
+  "referenceExamples": "Verified product instances",
+  "@referenceExamples": {
+    "description": "Viewer UI: referenceExamples"
+  },
+  "playNow": "Play Now",
+  "@playNow": {
+    "description": "Viewer UI: playNow"
+  },
+  "continueEmail": "Continue With Email Address",
+  "@continueEmail": {
+    "description": "Viewer UI: continueEmail"
+  },
+  "shortLabel": "Short label",
+  "@shortLabel": {
+    "description": "Viewer UI: shortLabel"
+  },
+  "longLabel": "Long label",
+  "@longLabel": {
+    "description": "Viewer UI: longLabel"
+  },
+  "longPreviewLabel": "Continue with your email address to explore the next available game",
+  "@longPreviewLabel": {
+    "description": "Viewer UI: longPreviewLabel"
+  },
+  "previewLabel": "Button",
+  "@previewLabel": {
+    "description": "Viewer UI: previewLabel"
+  },
+  "iconButton": "Icon button",
+  "@iconButton": {
+    "description": "Viewer UI: iconButton"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Viewer UI: yes"
+  },
+  "no": "No",
+  "@no": {
+    "description": "Viewer UI: no"
+  },
+  "close": "Close inspector",
+  "@close": {
+    "description": "Viewer UI: close"
+  },
+  "clearSearch": "Clear search",
+  "@clearSearch": {
+    "description": "Viewer UI: clearSearch"
+  },
+  "search": "Find source name or ID",
+  "@search": {
+    "description": "Viewer UI: search"
+  },
+  "identityGroup": "Identity & source",
+  "@identityGroup": {
+    "description": "Viewer UI: identityGroup"
+  },
+  "configurationGroup": "Configuration",
+  "@configurationGroup": {
+    "description": "Viewer UI: configurationGroup"
+  },
+  "visualsGroup": "Resolved visuals",
+  "@visualsGroup": {
+    "description": "Viewer UI: visualsGroup"
+  },
+  "geometryGroup": "Geometry",
+  "@geometryGroup": {
+    "description": "Viewer UI: geometryGroup"
+  },
+  "interactionGroup": "Interaction",
+  "@interactionGroup": {
+    "description": "Viewer UI: interactionGroup"
+  },
+  "referenceBounds": "Source visual frame",
+  "@referenceBounds": {
+    "description": "Viewer UI: referenceBounds"
+  },
+  "visualBounds": "Measured visual layout bounds",
+  "@visualBounds": {
+    "description": "Viewer UI: visualBounds"
+  },
+  "outerBounds": "Measured outer / tap-target bounds",
+  "@outerBounds": {
+    "description": "Viewer UI: outerBounds"
+  },
+  "labelBounds": "Measured label bounds",
+  "@labelBounds": {
+    "description": "Viewer UI: labelBounds"
+  },
+  "referenceModeHint": "Reference text uses source defaults. Changed icon mode, direction, scale or parent width is not an identical source configuration.",
+  "@referenceModeHint": {
+    "description": "Viewer UI: referenceModeHint"
+  },
+  "fontError": "Bundled package fonts could not be loaded.",
+  "@fontError": {
+    "description": "Viewer UI: fontError"
+  },
+  "loading": "Loading bundled fonts…",
+  "@loading": {
+    "description": "Viewer UI: loading"
+  },
+  "motionReduced": "Animation disabled by accessibility preference",
+  "@motionReduced": {
+    "description": "Viewer UI: motionReduced"
+  },
+  "sourceCount": "{count} of 90 source variants",
+  "@sourceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldLabel": "{field, select, family{Component family} setName{Raw source set name} setId{Source set ID} variantName{Raw source variant name} variantId{Source variant ID} fileKey{Figma file key} runtimeIdentity{Runtime identity / locator} status{Status} size{Size} theme{Theme} appearance{Appearance} enabled{Enabled} label{Label} iconMode{Icon mode} artwork{Artwork identity / status} direction{Text direction} scale{Text scale} constraints{Preview parent constraint} background{Background RGBA} foreground{Foreground RGBA} borderColor{Border RGBA} borderWidth{Border width} radius{Corner radius} padding{Directional padding} gap{Effective icon gap} iconSize{Icon dimensions} fontFamily{Font family} fontSize{Font size} fontWeight{Font weight} lineHeight{Line height} letterSpacing{Letter spacing} sourceDimensions{Source visual dimensions} minimum{Resolved visual minimum} visual{Measured visual layout} outer{Measured outer / tap target} content{Measured label} comparison{Compatible visual-size check} pressedScale{Pressed visual scale} pressDuration{Press duration (ms)} releaseDuration{Release/cancel duration (ms)} curve{Motion curve} motionOrigin{Motion origin} currentState{Current framework state} artworkSource{Artwork source metadata} logicalKey{Logical icon key} displayName{Display name} rawName{Raw Figma name} style{Artwork style} availableStyles{Available styles} viewBox{SVG viewBox} assetPath{Package asset path} assetHash{Original SHA-256} sourceColors{Original SVG paints} bindings{Original source bindings} previewSize{Current preview extent} tint{Current tint} semanticLabel{Semantic label} decorative{Decorative} extractionStatus{Extraction status} renderStatus{Render status} issue{Unresolved issue} validation{Application validation} requirement{Requirement} supporting{Supporting content present} supportingIcon{Supporting icon enabled} passwordVisible{Password visible (no value)} codeLength{Configured code length} complete{Code complete (no value)} radioSelection{Radio selected} resolvedStyles{Resolved source styles} motion{Motion and provenance} sourceCovered{Source-covered} other{Unavailable}}",
+  "@fieldLabel": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "filled": "Filled",
+  "tonal": "Tonal",
+  "outlined": "Outlined",
+  "textAppearance": "Text",
+  "dropdownMark": "⌄",
+  "iconSearch": "Search icon key, source name or label",
+  "@iconSearch": {
+    "description": "Icon Viewer: iconSearch"
+  },
+  "iconLibraryCounts": "{logical} logical icons · {versions} artwork versions",
+  "@iconLibraryCounts": {
+    "description": "Icon Viewer: iconLibraryCounts",
+    "placeholders": {
+      "logical": {
+        "type": "int"
+      },
+      "versions": {
+        "type": "int"
+      }
+    }
+  },
+  "iconStyleRequired": "Icon-only buttons require Fill or Outline",
+  "@iconStyleRequired": {
+    "description": "Icon Viewer: iconStyleRequired"
+  },
+  "iconSizePreview": "Icon preview size",
+  "@iconSizePreview": {
+    "description": "Icon Viewer: iconSizePreview"
+  },
+  "iconTint": "Icon tint",
+  "@iconTint": {
+    "description": "Icon Viewer: iconTint"
+  },
+  "originalArtwork": "Original artwork colors",
+  "@originalArtwork": {
+    "description": "Icon Viewer: originalArtwork"
+  },
+  "themeTint": "Surface theme tint",
+  "@themeTint": {
+    "description": "Icon Viewer: themeTint"
+  },
+  "accentTint": "Accent tint",
+  "@accentTint": {
+    "description": "Icon Viewer: accentTint"
+  },
+  "missingCounterpart": "Missing style: {style}",
+  "@missingCounterpart": {
+    "description": "Icon Viewer: missingCounterpart",
+    "placeholders": {
+      "style": {
+        "type": "String"
+      }
+    }
+  },
+  "iconRendered": "Validated by the SVG renderer",
+  "@iconRendered": {
+    "description": "Icon Viewer: iconRendered"
+  },
+  "iconExported": "Original SVG exported",
+  "@iconExported": {
+    "description": "Icon Viewer: iconExported"
+  },
+  "iconRenderPending": "Not yet rendered in this preview",
+  "@iconRenderPending": {
+    "description": "Icon Viewer: iconRenderPending"
+  },
+  "iconRenderFailed": "SVG rendering failed; source retained",
+  "@iconRenderFailed": {
+    "description": "Icon Viewer: iconRenderFailed"
+  },
+  "iconLibraryStatus": "Development extraction · designer approval unavailable",
+  "@iconLibraryStatus": {
+    "description": "Icon Viewer: iconLibraryStatus"
+  },
+  "iconLabel": "{icon, select, add{Add} add_large{Add Larg} add_shopping_cart{Add Shopping Cart} arrow_cool_down{Arrow Cool Down} arrow_down{Arrow Down} arrow_down_alt{Arrow Down Alt} arrow_drop_down{Arrow Drop Down} arrow_drop_left{Arrow Drop Left} arrow_drop_right{Arrow Drop Right} arrow_drop_up{Arrow Drop Up} arrow_left{Arrow Left} arrow_left_alt{Arrow Left Alt} arrow_right{Arrow Right} arrow_right_alt{Arrow Right Alt} arrow_up{Arrow Up} arrow_up_alt{Arrow Up Alt} arrow_warm_up{Arrow Wam Up} attach_file{Attach File} attach_file_add{Attach File Add} bookmark{Bookmark} bookmark_add{Bookmark Add} bookmark_added{Bookmark Added} bookmark_check{Bookmark Check} bookmark_heart{Bookmark Heart} bookmark_remove{Bookmark Remove} bookmark_star{Bookmark Star} brightness_alert{Brightness Alert} calendar{Calendar} check{Check} chess_bishop{Chess Bishop} chess_knight{Chess Knight} chess_pawn{Chess Pawn} chess_queen{Chess Queen} chess_rook{Chess Rok} chevron_down{Chevron Down} chevron_left{Chevron Left} chevron_right{Chevron Right} chevron_up{Chevron Up} close{Close} close_small{Close Small} cloud_download{Cloud Download} cloud_upload{Cloud Upload} crown{Crown} dark_mode{Dark Mode} download{Download} downloading{Downloading} edit{Edit} edit_square{Edit Square} extension{Extension} fingerprint{Fingerprint} help{Help} home{Home} id_card{ID Card} image{Image} image_arrow_up{Image Arrow Up} image_search{Image Search} imagesearch_roller{Imagesearch Roller} imagesmode{Imagesmode} leaderboard{Leaderboard} light_mode{Light Mode} link{Link} link_2{Link 2} link_off{Link Off} location{Location} mail{Mail} menu{Menu} more_horizontal{More Horizontal} more_vertical{More Vertical} motion_play{Motion Play} my_location{My Location} notifications{Notifications} pause_circle{Pause Circle} person{Person} phone_enabled{Phone Enabled} play_arrow{Play Arrow} play_circle{Play Circle} poker_chip{Poker Chip} release_alert{Release Alert} scoreboard{Scoreboard} share{Share} shoe_cleats{Shoe Cleats} sports{Sports} sports_esports{Sports Esports} stadia_controller{Stadia Controller} star{Star} star_half{Star Half} store{Store} tactic{Tactic} target_check{Target Check} thumb_down{Thumb Down} thumb_up{Thumb Up} timer{Timer} timer_play{Timer Play} trophy{Trophy} upload{Upload} verified{Verified} video_camera_back{Video Camera Back} video_camera_back_add{Video Camera Back Add} video_camera_front{Video Camera Front} visibility{Visibility} visibility_off{Visibility Off} warning{Warning} workspace_premium_1{Workspace Premium 1} workspace_premium_2{Workspace Premium 2} other{Icon}}",
+  "@iconLabel": {
+    "description": "Localized accessible icon concept names; technical IDs stay unchanged.",
+    "placeholders": {
+      "icon": {
+        "type": "String"
+      }
+    }
+  },
+  "fieldFamily": "Field family",
+  "@fieldFamily": {
+    "description": "Text Field Viewer: fieldFamily"
+  },
+  "fieldReference": "Source-reference catalog",
+  "@fieldReference": {
+    "description": "Text Field Viewer: fieldReference"
+  },
+  "fieldInteractive": "Interactive examples",
+  "@fieldInteractive": {
+    "description": "Text Field Viewer: fieldInteractive"
+  },
+  "fieldSource": "Source-covered",
+  "@fieldSource": {
+    "description": "Text Field Viewer: fieldSource"
+  },
+  "fieldDerived": "Engineering-derived; no dedicated source variant",
+  "@fieldDerived": {
+    "description": "Text Field Viewer: fieldDerived"
+  },
+  "fieldCoverage": "{count} source variants; runtime options and derived themes are separate",
+  "@fieldCoverage": {
+    "description": "Text Field Viewer: fieldCoverage",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldVisibleCount": "{count} catalog previews",
+  "@fieldVisibleCount": {
+    "description": "Text Field Viewer: fieldVisibleCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldState": "Visual state",
+  "@fieldState": {
+    "description": "Text Field Viewer: fieldState"
+  },
+  "fieldSourceStatus": "Source coverage",
+  "@fieldSourceStatus": {
+    "description": "Text Field Viewer: fieldSourceStatus"
+  },
+  "fieldText": "TextField",
+  "@fieldText": {
+    "description": "Text Field Viewer: fieldText"
+  },
+  "fieldPassword": "Password",
+  "@fieldPassword": {
+    "description": "Text Field Viewer: fieldPassword"
+  },
+  "fieldOtp": "OTP",
+  "@fieldOtp": {
+    "description": "Text Field Viewer: fieldOtp"
+  },
+  "fieldRadio": "Radio",
+  "@fieldRadio": {
+    "description": "Text Field Viewer: fieldRadio"
+  },
+  "fieldRequirement": "Requirement",
+  "@fieldRequirement": {
+    "description": "Text Field Viewer: fieldRequirement"
+  },
+  "fieldRequired": "(Required)",
+  "@fieldRequired": {
+    "description": "Text Field Viewer: fieldRequired"
+  },
+  "fieldOptional": "(Optional)",
+  "@fieldOptional": {
+    "description": "Text Field Viewer: fieldOptional"
+  },
+  "fieldIndicator": "Show requirement indicator",
+  "@fieldIndicator": {
+    "description": "Text Field Viewer: fieldIndicator"
+  },
+  "fieldSupporting": "Show supporting message",
+  "@fieldSupporting": {
+    "description": "Text Field Viewer: fieldSupporting"
+  },
+  "fieldSupportingIcon": "Show supporting icon",
+  "@fieldSupportingIcon": {
+    "description": "Text Field Viewer: fieldSupportingIcon"
+  },
+  "fieldShowPassword": "Show password",
+  "@fieldShowPassword": {
+    "description": "Text Field Viewer: fieldShowPassword"
+  },
+  "fieldHidePassword": "Hide password",
+  "@fieldHidePassword": {
+    "description": "Text Field Viewer: fieldHidePassword"
+  },
+  "fieldVisibility": "Password visibility",
+  "@fieldVisibility": {
+    "description": "Text Field Viewer: fieldVisibility"
+  },
+  "fieldShown": "Visible",
+  "@fieldShown": {
+    "description": "Text Field Viewer: fieldShown"
+  },
+  "fieldHidden": "Obscured",
+  "@fieldHidden": {
+    "description": "Text Field Viewer: fieldHidden"
+  },
+  "fieldPasswordLabel": "Password",
+  "@fieldPasswordLabel": {
+    "description": "Text Field Viewer: fieldPasswordLabel"
+  },
+  "fieldOtpLabel": "Verification code",
+  "@fieldOtpLabel": {
+    "description": "Text Field Viewer: fieldOtpLabel"
+  },
+  "fieldHint": "Type here",
+  "@fieldHint": {
+    "description": "Text Field Viewer: fieldHint"
+  },
+  "fieldHelper": "Supporting text.",
+  "@fieldHelper": {
+    "description": "Text Field Viewer: fieldHelper"
+  },
+  "fieldError": "Example error supplied by the application.",
+  "@fieldError": {
+    "description": "Text Field Viewer: fieldError"
+  },
+  "fieldSuccess": "Application-controlled success",
+  "@fieldSuccess": {
+    "description": "Text Field Viewer: fieldSuccess"
+  },
+  "fieldNeutral": "Neutral",
+  "@fieldNeutral": {
+    "description": "Text Field Viewer: fieldNeutral"
+  },
+  "fieldFeedback": "Application feedback",
+  "@fieldFeedback": {
+    "description": "Text Field Viewer: fieldFeedback"
+  },
+  "fieldLongCopy": "Long sample labels/messages",
+  "@fieldLongCopy": {
+    "description": "Text Field Viewer: fieldLongCopy"
+  },
+  "fieldLongLabel": "A longer field label that can wrap without losing the requirement",
+  "@fieldLongLabel": {
+    "description": "Text Field Viewer: fieldLongLabel"
+  },
+  "fieldLongHelper": "This is a longer supporting message supplied by the application. It wraps and grows with text scaling.",
+  "@fieldLongHelper": {
+    "description": "Text Field Viewer: fieldLongHelper"
+  },
+  "fieldReferenceCopy": "Original source copy",
+  "@fieldReferenceCopy": {
+    "description": "Text Field Viewer: fieldReferenceCopy"
+  },
+  "fieldLocalizedCopy": "Localized sample copy",
+  "@fieldLocalizedCopy": {
+    "description": "Text Field Viewer: fieldLocalizedCopy"
+  },
+  "fieldOptionA": "Option A",
+  "@fieldOptionA": {
+    "description": "Text Field Viewer: fieldOptionA"
+  },
+  "fieldOptionB": "Option B",
+  "@fieldOptionB": {
+    "description": "Text Field Viewer: fieldOptionB"
+  },
+  "fieldAllowDeselect": "Explicitly allow deselection",
+  "@fieldAllowDeselect": {
+    "description": "Text Field Viewer: fieldAllowDeselect"
+  },
+  "fieldReset": "Reset input demos",
+  "@fieldReset": {
+    "description": "Text Field Viewer: fieldReset"
+  },
+  "fieldSourceIndicatorNotice": "The source shows Required and Optional together. Previews use the selected exclusive requirement.",
+  "@fieldSourceIndicatorNotice": {
+    "description": "Text Field Viewer: fieldSourceIndicatorNotice"
+  },
+  "fieldSourceGeometry": "Source visual bounds; actual content may grow",
+  "@fieldSourceGeometry": {
+    "description": "Text Field Viewer: fieldSourceGeometry"
+  },
+  "fieldInputLabel": "Text field label",
+  "@fieldInputLabel": {
+    "description": "Text Field Viewer: fieldInputLabel"
+  },
+  "inspectorCopyAll": "Copy all",
+  "@inspectorCopyAll": {
+    "description": "Inspector clipboard: inspectorCopyAll"
+  },
+  "inspectorCopyValue": "Copy",
+  "@inspectorCopyValue": {
+    "description": "Inspector clipboard: inspectorCopyValue"
+  },
+  "inspectorCopied": "Copied to clipboard",
+  "@inspectorCopied": {
+    "description": "Inspector clipboard: inspectorCopied"
+  },
+  "badgeCount": "{count} of {total} Badge source variants",
+  "@badgeCount": {
+    "description": "Badge Viewer: badgeCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "badgeReference": "Source reference text",
+  "@badgeReference": {
+    "description": "Badge Viewer: badgeReference"
+  },
+  "badgeLocalized": "Localized sample text",
+  "@badgeLocalized": {
+    "description": "Badge Viewer: badgeLocalized"
+  },
+  "badgeShort": "New",
+  "@badgeShort": {
+    "description": "Badge Viewer: badgeShort"
+  },
+  "badgeLong": "A longer status label that wraps when space is limited",
+  "@badgeLong": {
+    "description": "Badge Viewer: badgeLong"
+  },
+  "badgeGeometryNote": "Source includes a 1-unit nested label border; 84 × 24 is preserved.",
+  "@badgeGeometryNote": {
+    "description": "Badge Viewer: badgeGeometryNote"
+  },
+  "badgePreviewNotice": "Presentational Badge; preview options do not add source variants.",
+  "@badgePreviewNotice": {
+    "description": "Badge Viewer: badgePreviewNotice"
+  },
+  "appBarTitle": "App Bar",
+  "@appBarTitle": {
+    "description": "App Bar Viewer: appBarTitle"
+  },
+  "appBarHome": "Home",
+  "@appBarHome": {
+    "description": "App Bar Viewer: appBarHome"
+  },
+  "appBarGame": "Downloadable Game",
+  "@appBarGame": {
+    "description": "App Bar Viewer: appBarGame"
+  },
+  "appBarBack": "Back",
+  "@appBarBack": {
+    "description": "App Bar Viewer: appBarBack"
+  },
+  "appBarSource": "Source reference · English LTR",
+  "@appBarSource": {
+    "description": "App Bar Viewer: appBarSource"
+  },
+  "appBarLocalized": "Localized runtime",
+  "@appBarLocalized": {
+    "description": "App Bar Viewer: appBarLocalized"
+  },
+  "appBarCount": "{count} of 5 source variants · 3 categories",
+  "@appBarCount": {
+    "description": "App Bar Viewer: appBarCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "appBarMissing": "Back Light: unavailable — no source variant",
+  "@appBarMissing": {
+    "description": "App Bar Viewer: appBarMissing"
+  },
+  "appBarPolicy": "64 content + host-owned top inset. Flexible space → supplied compact values → visible horizontal scroll. Transparent source surface.",
+  "@appBarPolicy": {
+    "description": "App Bar Viewer: appBarPolicy"
+  },
+  "appBarAvatar": "Avatar text",
+  "@appBarAvatar": {
+    "description": "App Bar Viewer: appBarAvatar"
+  },
+  "appBarPoints": "Points display",
+  "@appBarPoints": {
+    "description": "App Bar Viewer: appBarPoints"
+  },
+  "appBarUnit": "Points unit",
+  "@appBarUnit": {
+    "description": "App Bar Viewer: appBarUnit"
+  },
+  "appBarCoins": "Coins display",
+  "@appBarCoins": {
+    "description": "App Bar Viewer: appBarCoins"
+  },
+  "appBarProfile": "Profile",
+  "@appBarProfile": {
+    "description": "App Bar Viewer: appBarProfile"
+  },
+  "appBarHelp": "Help",
+  "@appBarHelp": {
+    "description": "App Bar Viewer: appBarHelp"
+  },
+  "appBarDownloads": "Downloads",
+  "@appBarDownloads": {
+    "description": "App Bar Viewer: appBarDownloads"
+  },
+  "appBarNotificationLabel": "Downloads, new activity",
+  "@appBarNotificationLabel": {
+    "description": "App Bar Viewer: appBarNotificationLabel"
+  },
+  "appBarBookmark": "Bookmark",
+  "@appBarBookmark": {
+    "description": "App Bar Viewer: appBarBookmark"
+  },
+  "appBarAddCoins": "Add coins",
+  "@appBarAddCoins": {
+    "description": "App Bar Viewer: appBarAddCoins"
+  },
+  "appBarNotification": "Notification dot",
+  "@appBarNotification": {
+    "description": "App Bar Viewer: appBarNotification"
+  },
+  "appBarCompact": "Supply compact values",
+  "@appBarCompact": {
+    "description": "App Bar Viewer: appBarCompact"
+  },
+  "appBarLong": "Long balance example",
+  "@appBarLong": {
+    "description": "App Bar Viewer: appBarLong"
+  },
+  "appBarUnavailableActions": "Unavailable actions",
+  "@appBarUnavailableActions": {
+    "description": "App Bar Viewer: appBarUnavailableActions"
+  },
+  "appBarFeedback": "Local action counts: {value}",
+  "@appBarFeedback": {
+    "description": "App Bar Viewer: appBarFeedback",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarPreviewWidth": "Content width",
+  "@appBarPreviewWidth": {
+    "description": "App Bar Viewer: appBarPreviewWidth"
+  },
+  "appBarUnitSample": "pts",
+  "@appBarUnitSample": {
+    "description": "App Bar Viewer: appBarUnitSample"
+  },
+  "appBarCategory": "Category",
+  "@appBarCategory": {
+    "description": "App Bar Viewer: appBarCategory"
+  },
+  "appBarPointsMeaning": "{value} {unit}",
+  "@appBarPointsMeaning": {
+    "description": "App Bar Viewer: appBarPointsMeaning",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarCoinsMeaning": "{value} coins",
+  "@appBarCoinsMeaning": {
+    "description": "App Bar Viewer: appBarCoinsMeaning",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarCompactPoints": "Compact points (caller data)",
+  "@appBarCompactPoints": {
+    "description": "App Bar Viewer: appBarCompactPoints"
+  },
+  "appBarCompactCoins": "Compact coins (caller data)",
+  "@appBarCompactCoins": {
+    "description": "App Bar Viewer: appBarCompactCoins"
+  },
+  "navTitle": "Navigator Bar",
+  "@navTitle": {
+    "description": "Navigator Bar Viewer: navTitle"
+  },
+  "navSources": "Source bars · 2 variants",
+  "@navSources": {
+    "description": "Navigator Bar Viewer: navSources"
+  },
+  "navItems": "Nested items · 4 source states",
+  "@navItems": {
+    "description": "Navigator Bar Viewer: navItems"
+  },
+  "navLive": "Controlled selection example",
+  "@navLive": {
+    "description": "Navigator Bar Viewer: navLive"
+  },
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Navigator Bar Viewer: navHome"
+  },
+  "navMission": "Mission",
+  "@navMission": {
+    "description": "Navigator Bar Viewer: navMission"
+  },
+  "navGames": "Games",
+  "@navGames": {
+    "description": "Navigator Bar Viewer: navGames"
+  },
+  "navLeaderboard": "Leaderboard",
+  "@navLeaderboard": {
+    "description": "Navigator Bar Viewer: navLeaderboard"
+  },
+  "navShop": "Shop",
+  "@navShop": {
+    "description": "Navigator Bar Viewer: navShop"
+  },
+  "navSelected": "Selected destination",
+  "@navSelected": {
+    "description": "Navigator Bar Viewer: navSelected"
+  },
+  "navWidth": "Preview width",
+  "@navWidth": {
+    "description": "Navigator Bar Viewer: navWidth"
+  },
+  "navInset": "Simulated bottom inset",
+  "@navInset": {
+    "description": "Navigator Bar Viewer: navInset"
+  },
+  "navBadge": "Notification badge",
+  "@navBadge": {
+    "description": "Navigator Bar Viewer: navBadge"
+  },
+  "navBadgeText": "Badge display",
+  "@navBadgeText": {
+    "description": "Navigator Bar Viewer: navBadgeText"
+  },
+  "navBadgeMeaning": "{destination}: {badge} notifications",
+  "@navBadgeMeaning": {
+    "description": "Navigator Bar Viewer: navBadgeMeaning",
+    "placeholders": {
+      "destination": {
+        "type": "String"
+      },
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "navCount": "{bars} of 2 source bars · {items} of 4 nested item states",
+  "@navCount": {
+    "description": "Navigator Bar Viewer: navCount",
+    "placeholders": {
+      "bars": {
+        "type": "int"
+      },
+      "items": {
+        "type": "int"
+      }
+    }
+  },
+  "navFeedback": "Last emitted ID: {id} · activations: {count}",
+  "@navFeedback": {
+    "description": "Navigator Bar Viewer: navFeedback",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navNotice": "Source references remain English LTR at 402 / 1.0. Controls below configure the runtime example. Selection, labels and badges are caller data; no routing.",
+  "@navNotice": {
+    "description": "Navigator Bar Viewer: navNotice"
+  },
+  "navPolicy": "Five equal cells; minimum width 252. Labels wrap and content height grows; no hidden destinations or scrolling navigation. Bottom safe area belongs to the host adapter.",
+  "@navPolicy": {
+    "description": "Navigator Bar Viewer: navPolicy"
+  },
+  "navUnavailable": "Unavailable callbacks",
+  "@navUnavailable": {
+    "description": "Navigator Bar Viewer: navUnavailable"
+  },
+  "navNoAction": "None",
+  "@navNoAction": {
+    "description": "Navigator Bar Viewer: navNoAction"
+  },
+  "navLong": "Long labels and badge example",
+  "@navLong": {
+    "description": "Navigator Bar Viewer: navLong"
+  },
+  "navLongLabel": "Long destination label",
+  "@navLongLabel": {
+    "description": "Navigator Bar Viewer: navLongLabel"
+  },
+  "navSourceItem": "Nested source item",
+  "@navSourceItem": {
+    "description": "Navigator Bar Viewer: navSourceItem"
+  },
+  "navSourceBar": "Source bar",
+  "@navSourceBar": {
+    "description": "Navigator Bar Viewer: navSourceBar"
+  },
+  "navTypography": "Source-unlinked component typography; Persian uses provisional Vazirmatn (R-003).",
+  "@navTypography": {
+    "description": "Navigator Bar Viewer: navTypography"
+  },
+  "navBadgeEmpty": "Enter badge text or turn the badge off.",
+  "@navBadgeEmpty": {
+    "description": "Navigator Bar Viewer: navBadgeEmpty"
+  },
+  "pageScaffoldTitle": "PageScaffold (provisional)",
+  "pageScaffoldDescription": "Engineering layout example: scroll to focus the field. No Figma appearance claim.",
+  "pageScaffoldField": "Email",
+  "pageScaffoldSize": "{sizeClass, select, compact{Compact} medium{Medium} expanded{Expanded} other{Unknown}} · {width} dp",
+  "@pageScaffoldTitle": {
+    "description": "Provisional engineering adaptive primitive catalog."
+  },
+  "@pageScaffoldDescription": {
+    "description": "Provisional engineering adaptive primitive catalog."
+  },
+  "@pageScaffoldField": {
+    "description": "Provisional engineering adaptive primitive catalog."
+  },
+  "@pageScaffoldSize": {
+    "description": "Simulated window width; horizontal catalog scrolling preserves actual preview dimensions.",
+    "placeholders": {
+      "sizeClass": {
+        "type": "String"
+      },
+      "width": {
+        "type": "num"
+      }
+    }
+  },
+  "buttonLoading": "Button loading",
+  "buttonLoadingSemantics": "Loading",
+  "skin": "Skin",
+  "productSkin": "Product",
+  "testSkin": "Test",
+  "authContinue": "Continue",
+  "authDivider": "or continue with",
+  "authRemember": "Remember me for next time.",
+  "authTerms": "Terms & Conditions",
+  "authPrivacy": "Privacy Policy",
+  "authPlayStation": "PlayStation",
+  "authXbox": "Xbox",
+  "authGoogle": "Google",
+  "authPrimitives": "Auth primitives"
+}

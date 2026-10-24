@@ -1,0 +1,495 @@
+{
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "page": {
+    "id": "16433:9139",
+    "name": "- Badge System"
+  },
+  "root": {
+    "id": "16433:9139",
+    "name": "- Badge System",
+    "type": "PAGE"
+  },
+  "sets": [
+    {
+      "id": "16448:1663",
+      "name": "Small Badge Base - Dark Mode",
+      "properties": {
+        "Label#16433:4": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:112": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:113": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "16448:1664",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1670",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1676",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1682",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1688",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 65,
+          "height": 18
+        }
+      ]
+    },
+    {
+      "id": "16448:1712",
+      "name": "Small Badge Base - Light Mode",
+      "properties": {
+        "Label#16448:24": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16448:25": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:121": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:119": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "16448:1713",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1719",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1725",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1731",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 65,
+          "height": 18
+        },
+        {
+          "id": "16448:1737",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 65,
+          "height": 18
+        }
+      ]
+    },
+    {
+      "id": "18437:2201",
+      "name": "Medium Badge Base - Dark Mode",
+      "properties": {
+        "Label#16433:4": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:112": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:113": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18437:2202",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2208",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2214",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2220",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2226",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 73,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "id": "18437:2232",
+      "name": "Medium Badge Base - Light Mode",
+      "properties": {
+        "Label#16448:24": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16448:25": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:121": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:119": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18437:2233",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2239",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2245",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2251",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 73,
+          "height": 20
+        },
+        {
+          "id": "18437:2257",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 73,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "id": "18437:2275",
+      "name": "Large Badge Base - Dark Mode",
+      "properties": {
+        "Label#16433:4": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:112": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:113": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18437:2276",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2282",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2288",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2294",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2300",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 82,
+          "height": 22
+        }
+      ]
+    },
+    {
+      "id": "18437:2306",
+      "name": "Large Badge Base - Light Mode",
+      "properties": {
+        "Label#16448:24": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16448:25": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:121": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16482:119": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18437:2307",
+          "name": "Button=Filled",
+          "props": {
+            "Button": "Filled"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2313",
+          "name": "Button=Tonal",
+          "props": {
+            "Button": "Tonal"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2319",
+          "name": "Button=Outlined",
+          "props": {
+            "Button": "Outlined"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2325",
+          "name": "Button=Text",
+          "props": {
+            "Button": "Text"
+          },
+          "width": 82,
+          "height": 22
+        },
+        {
+          "id": "18437:2331",
+          "name": "Button=Disable",
+          "props": {
+            "Button": "Disable"
+          },
+          "width": 84,
+          "height": 24
+        }
+      ]
+    }
+  ],
+  "complete": true
+}

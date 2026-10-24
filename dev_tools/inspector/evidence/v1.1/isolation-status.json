@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "checksExecuted": 14,
+  "failedChecks": 0,
+  "sourceRestored": true,
+  "detachedSiblingExists": false,
+  "previousBlockedAttempts": "Explorer handles prevented atomic movement; released by owner before this successful run."
+}

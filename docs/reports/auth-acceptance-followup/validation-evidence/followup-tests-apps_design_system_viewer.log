@@ -1,0 +1,37 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:02 +1: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:07 +2: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:08 +3: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:09 +4: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:10 +5: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:11 +6: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: en App Bar catalog, source counts, selection, actions, inspector and filters
+00:12 +7: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/field_browser_test.dart: fa fields source count, filtering, editing and safe Inspector
+00:13 +8: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/app_bar_browser_test.dart: fa App Bar catalog, source counts, selection, actions, inspector and filters
+00:20 +9: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: en Icons search, styles, tint, physical-left selection and inspector
+00:22 +10: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: en Icons search, styles, tint, physical-left selection and inspector
+00:22 +11: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: en Icons search, styles, tint, physical-left selection and inspector
+00:25 +12: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: en Icons search, styles, tint, physical-left selection and inspector
+00:26 +13: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/identity_wiring_test.dart: two real screen instances never share effective occurrence keys
+00:27 +14: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: fa Icons search, styles, tint, physical-left selection and inspector
+00:29 +15: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: fa Icons search, styles, tint, physical-left selection and inspector
+00:30 +16: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/icon_browser_test.dart: fa Icons search, styles, tint, physical-left selection and inspector
+00:32 +17: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/motion_work_test.dart: selected control motion does not rebuild the catalog
+00:39 +18: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/motion_work_test.dart: selected control motion does not rebuild the catalog
+00:53 +19: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/navigation_browser_test.dart: en navigation source counts, controlled live state, host measurements and inspector
+01:01 +20: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/navigation_browser_test.dart: en navigation source counts, controlled live state, host measurements and inspector
+01:03 +21: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/page_scaffold_gallery_test.dart: fa adaptive catalog has three distinct width fixtures
+01:06 +22: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/navigation_browser_test.dart: fa navigation source counts, controlled live state, host measurements and inspector
+01:13 +23: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/navigation_browser_test.dart: fa navigation source counts, controlled live state, host measurements and inspector
+01:18 +24: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/readiness_controls_test.dart: loading toggle and independent product/test skin control
+01:19 +25: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/readiness_controls_test.dart: loading toggle and independent product/test skin control
+01:33 +26: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/readiness_controls_test.dart: loading toggle and independent product/test skin control
+01:38 +27: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: fa shell, physical board order, 90 identities and inspector
+01:42 +28: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/window_minimum_test.dart: Windows minimum client viewport fits scale1 chrome
+01:51 +29: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: combined filters, counts, reset, empty state and selection clearing
+01:59 +30: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: all nine tabs isolate field families and keep localized states
+02:08 +31: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: selection survives preview changes and keeps exact inspector data
+02:13 +32: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: none icon, bounded Fill and unstretched Hug use real fonts
+02:15 +33: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: en narrow inspector and long localized 1.3 preview
+02:20 +34: D:/My_Script/Hamrah-Aval/P2E/apps/design_system_viewer/test/viewer_shell_test.dart: fa narrow inspector and long localized 1.3 preview
+02:24 +35: All tests passed!

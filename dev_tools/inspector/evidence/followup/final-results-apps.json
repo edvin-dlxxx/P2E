@@ -1,0 +1,112 @@
+[
+  {
+    "exitCode": 0,
+    "command": "dart analyze",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart analyze",
+    "package": "viewer"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze",
+    "package": "viewer"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test",
+    "package": "viewer"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter build windows --debug",
+    "package": "viewer"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart analyze",
+    "package": "core"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze",
+    "package": "core"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test",
+    "package": "core"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart analyze",
+    "package": "product_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze",
+    "package": "product_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test",
+    "package": "product_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter build windows --debug",
+    "package": "product_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart analyze",
+    "package": "viewer_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter analyze",
+    "package": "viewer_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter test",
+    "package": "viewer_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter build windows --debug",
+    "package": "viewer_host"
+  },
+  {
+    "exitCode": 0,
+    "command": "flutter build apk --debug",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "dart format --output=none --set-exit-if-changed .",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "architecture",
+    "package": "root"
+  },
+  {
+    "exitCode": 0,
+    "command": "agent sync check",
+    "package": "root"
+  }
+]

@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": "icons-1.0",
+  "setId": "14466:925",
+  "setName": "Fill",
+  "total": 104,
+  "offset": 0,
+  "next": 24,
+  "componentPropertyDefinitions": {
+    "Icon": {
+      "type": "VARIANT",
+      "defaultValue": "Attach File Add",
+      "variantOptions": [
+        "Add",
+        "Add Larg",
+        "Arrow Drop Down",
+        "Arrow Drop Left",
+        "Arrow Drop Right",
+        "Arrow Drop Up",
+        "Brightness Alert",
+        "Calendar",
+        "Check",
+        "Chess Bishop",
+        "Chess Knight",
+        "Chess Pawn",
+        "Chess Queen",
+        "Chess Rok",
+        "Chevron Down",
+        "Chevron Left",
+        "Chevron Right",
+        "Chevron Up",
+        "Close",
+        "Close Small",
+        "Edit",
+        "Edit Square",
+        "Extension",
+        "Fingerprint",
+        "ID Card",
+        "Image",
+        "Image Arrow Up",
+        "Image Search",
+        "Imagesearch Roller",
+        "Imagesmode",
+        "Location",
+        "Mail",
+        "Person",
+        "Phone Enabled",
+        "Release Alert",
+        "Scoreboard",
+        "Shoe Cleats",
+        "Sports",
+        "Tactic",
+        "Timer",
+        "Trophy",
+        "Verified",
+        "Video Camera Back",
+        "Video Camera Back Add",
+        "Video Camera Front",
+        "Warning",
+        "Attach File",
+        "Link",
+        "Link Off",
+        "Link 2",
+        "Attach File Add",
+        "My Location",
+        "Timer Play",
+        "Play Arrow",
+        "Motion Play",
+        "Pause Circle",
+        "Play Circle",
+        "Dark Mode",
+        "Light Mode",
+        "Home",
+        "Leaderboard",
+        "Target Check",
+        "Stadia Controller",
+        "Sports Esports",
+        "Store",
+        "Poker Chip",
+        "Crown",
+        "Add Shopping Cart",
+        "Notifications",
+        "Help",
+        "Menu",
+        "Workspace Premium 2",
+        "Workspace Premium 1",
+        "Star",
+        "Star Half",
+        "Download",
+        "Upload",
+        "Arrow Cool Down",
+        "Arrow Wam Up",
+        "Arrow Up Alt",
+        "Arrow Down Alt",
+        "Arrow Right Alt",
+        "Arrow Left Alt",
+        "Arrow Up",
+        "Arrow Down",
+        "Arrow Right",
+        "Arrow Left",
+        "Downloading",
+        "Cloud Upload",
+        "Cloud Download",
+        "Bookmark Remove",
+        "Bookmark Add",
+        "Bookmark Added",
+        "Bookmark Check",
+        "Bookmark Heart",
+        "Bookmark Star",
+        "Bookmark",
+        "Share",
+        "Thumb Up",
+        "Thumb Down",
+        "More Horizontal",
+        "More Vertical",
+        "Visibility Off",
+        "Visibility"
+      ]
+    }
+  },
+  "icons": [
+    {
+      "id": "14466:1092",
+      "key": "d35230c7780a5c0950fa9ca3be3e0f47e24e2582",
+      "name": "Icon=Chevron Down",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chevron Down"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1057",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1057",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1094",
+      "key": "0833dcce7af2202efca29baae5a11b2309ad4454",
+      "name": "Icon=Chevron Left",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chevron Left"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1055",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1055",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1096",
+      "key": "15d34131f6fb7f2cf883010802fec583518be603",
+      "name": "Icon=Chevron Right",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chevron Right"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1053",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1053",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1097",
+      "key": "f4a22c8b18ebb9489c21f853839d8a8a297b581f",
+      "name": "Icon=Arrow Drop Down",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Arrow Drop Down"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1051",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1051",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1099",
+      "key": "6da980f0f8fa1667bcc9b81811e39d044f42f640",
+      "name": "Icon=Arrow Drop Right",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Arrow Drop Right"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1049",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1049",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1101",
+      "key": "d204bceb69872160801c63dadd7f9a9dda086c88",
+      "name": "Icon=Chevron Up",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chevron Up"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1045",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1045",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1105",
+      "key": "9acf27f54dcb5b08e3d290da01e0b3805f8f7e41",
+      "name": "Icon=Arrow Drop Left",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Arrow Drop Left"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1041",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1041",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1106",
+      "key": "34acb75a70ee5187a82079b01bb494eb7dc5a919",
+      "name": "Icon=Arrow Drop Up",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Arrow Drop Up"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1043",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1043",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1151",
+      "key": "c2c34ad7e142c69422c3fa91e458c0d6f226688a",
+      "name": "Icon=Close",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Close"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1145",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1145",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1153",
+      "key": "3ce74900d98ce593a71d2bdb551888077855b218",
+      "name": "Icon=Close Small",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Close Small"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1143",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1143",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:1164",
+      "key": "b9423ada1185974f04f5e0644713f4adb67e2e68",
+      "name": "Icon=Location",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Location"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:1163",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:1163",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:922",
+      "key": "416ffe1aaaa9cc8b16460f54600ed2269e717002",
+      "name": "Icon=Brightness Alert",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Brightness Alert"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:921",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:921",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:923",
+      "key": "6b3b73b6bf232f2540801e6063b6bd197744daad",
+      "name": "Icon=Release Alert",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Release Alert"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:919",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:919",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:924",
+      "key": "81356175df40dbc16cd58baa3923b3bc231b0860",
+      "name": "Icon=Verified",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Verified"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:917",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:917",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:930",
+      "key": "c2d5cf8336739c71044d59b9a10d7209134fe420",
+      "name": "Icon=Person",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Person"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:929",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:929",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14466:931",
+      "key": "db6607dff2baf76ceeb208b8d8f502be12ddcf77",
+      "name": "Icon=Phone Enabled",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Phone Enabled"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14466:927",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14466:927",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14502:2509",
+      "key": "e57edcde45d19d78303c3d77f5fe74d306bcb1ff",
+      "name": "Icon=Calendar",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Calendar"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14502:2501",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14502:2501",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14526:1608",
+      "key": "5072e8ab7eae3976c1f5b5ee0fc9024d2920b6c0",
+      "name": "Icon=Check",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Check"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14526:1607",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14526:1607",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:630",
+      "key": "e3ee1acbd0fd9402976ee7466f46048b04ec6511",
+      "name": "Icon=Chess Rok",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chess Rok"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:616",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:616",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:631",
+      "key": "29f215889a72c817fb05e5a685b781863a7859a8",
+      "name": "Icon=Chess Knight",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chess Knight"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:614",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:614",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:632",
+      "key": "e34768974734de00a2cac8a7026578324c52be4c",
+      "name": "Icon=Chess Pawn",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chess Pawn"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:612",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:612",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:633",
+      "key": "5281cd25f2a8c28e73e1b415f57d7f10d2a92e8c",
+      "name": "Icon=Chess Queen",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chess Queen"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:610",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:610",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:634",
+      "key": "66bfe47cdcdbc1d2a7358ab6eb69b660fcbcf782",
+      "name": "Icon=Extension",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Extension"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:608",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:608",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14531:638",
+      "key": "1ba4a0cc333bd2c67beef0ca639e85034f14fd08",
+      "name": "Icon=Chess Bishop",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Chess Bishop"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14531:618",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14531:618",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

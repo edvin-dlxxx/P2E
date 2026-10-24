@@ -1,0 +1,14 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:02 +1: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:03 +2: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:03 +3: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:04 +4: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:04 +5: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=true
+00:06 +6: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en user@example.com keyboard=false
+00:07 +7: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en user@example.com keyboard=true
+00:08 +8: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=false
+00:10 +9: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:11 +10: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=false
+00:13 +11: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=true
+00:14 +12: All tests passed!

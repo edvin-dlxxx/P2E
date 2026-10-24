@@ -1,0 +1,455 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: release boots Auth Entry
+00:00 +1: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: release boots Auth Entry
+00:02 +2: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: release boots Auth Entry
+00:03 +3: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots fa Brightness.dark with neutral hooks
+00:03 +4: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots fa Brightness.light with neutral hooks
+00:03 +5: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots fa Brightness.light with neutral hooks
+00:03 +6: D:/My_Script/Hamrah-Aval/P2E/test/app/foundation_test.dart: startup reopens session gate on sign-in, expiry and sign-out
+00:03 +7: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.dark with neutral hooks
+00:03 +8: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.dark with neutral hooks
+00:03 +9: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.dark with neutral hooks
+00:03 +10: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.dark with neutral hooks
+00:03 +11: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.dark with neutral hooks
+00:04 +12: D:/My_Script/Hamrah-Aval/P2E/test/app/bootstrap_test.dart: boots en Brightness.light with neutral hooks
+00:05 +13: D:/My_Script/Hamrah-Aval/P2E/test/app/neutral_frame_test.dart: existing neutral root wrapper preserves exact frame media
+00:07 +14: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-044 retains nonlinear scaling and caps content at two
+00:08 +15: D:/My_Script/Hamrah-Aval/P2E/test/app/readiness_test.dart: D-046 neutral override selects skin independently of brightness
+00:09 +16: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: typing classifies without error or mutation of editing text
+00:09 +17: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: loading prevents duplicate submit and remember mutation
+00:09 +18: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: changed input cancels request and ignores stale response
+00:09 +19: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: dispose cancels in-flight request
+00:09 +20: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: email result retained in flow: EmailAccountStatus.registered
+00:09 +21: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: email result retained in flow: EmailAccountStatus.notRegistered
+00:09 +22: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: welcome offer initially absent, loaded asynchronously
+00:09 +23: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: social failure becomes toast
+00:09 +24: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: OfflineFailure AuthMessage.offline
+00:09 +25: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: NetworkFailure AuthMessage.offline
+00:09 +26: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: TimeoutFailure AuthMessage.offline
+00:10 +27: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: ServerFailure AuthMessage.server
+00:10 +28: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: BusinessFailure AuthMessage.notConfigured
+00:10 +29: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: BusinessFailure AuthMessage.socialUnavailable
+00:10 +30: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: failure maps once: UnknownFailure AuthMessage.unknown
+00:10 +31: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: field error blocked does not become toast
+00:10 +32: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/controller_test.dart: field error rate_limited does not become toast
+00:11 +33: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/figma_conformance_test.dart: 402 source rects: idle
+00:14 +34: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:15 +35: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:16 +36: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:16 +37: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +38: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +39: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +40: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +41: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +42: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +43: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +44: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +45: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +46: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +47: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +48: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +49: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +50: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +51: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +52: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +53: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +54: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +55: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +56: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +57: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +58: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +59: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +60: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +61: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +62: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +63: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +64: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +65: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +66: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +67: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +68: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:18 +69: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=false
+00:19 +70: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en 09123456789 keyboard=true
+00:20 +71: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/integration_contract_test.dart: loading disables every action and failure creates a toast
+00:23 +72: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/integration_contract_test.dart: loading disables every action and failure creates a toast
+00:25 +73: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope en user@example.com keyboard=true
+00:25 +74: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/integration_contract_test.dart: ready gate exposes only the Home placeholder
+00:25 +75: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=false
+00:26 +76: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=false
+00:27 +77: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/integration_contract_test.dart: logical keyboard focus order fa
+00:27 +78: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:27 +79: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:27 +80: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:27 +81: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:27 +82: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:28 +83: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:29 +84: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa 09123456789 keyboard=true
+00:29 +85: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/integration_contract_test.dart: keyboard go routes email through flow
+00:29 +86: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=false
+00:29 +87: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=false
+00:30 +88: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=false
+00:31 +89: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=true
+00:32 +90: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=true
+00:32 +91: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=true
+00:33 +92: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/hit_envelope_test.dart: real Auth envelope fa user@example.com keyboard=true
+00:33 +93: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: PhoneSignInRepository contract: fake cancellation is a typed failure
+00:33 +94: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: EmailSignInRepository contract: fake returns a domain status
+00:33 +95: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: EmailSignInRepository contract: fake cancelled request does not throw
+00:33 +96: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: SocialSignInRepository contract: fake SocialProvider.playStation returns a Result without leaking source exceptions
+00:34 +97: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: SocialSignInRepository contract: fake SocialProvider.xbox returns a Result without leaking source exceptions
+00:35 +98: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 idle keyboardfalse
+00:35 +99: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 idle keyboardfalse
+00:36 +100: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 idle keyboardfalse
+00:38 +101: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.slow maps through DTO repository without throwing
+00:38 +102: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.slow maps through DTO repository without throwing
+00:39 +103: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 focused keyboardfalse
+00:39 +104: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.offline maps through DTO repository without throwing
+00:40 +105: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 focused keyboardtrue
+00:40 +106: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.serverError maps through DTO repository without throwing
+00:40 +107: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 phone keyboardfalse
+00:40 +108: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.rateLimited maps through DTO repository without throwing
+00:41 +109: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 phone keyboardtrue
+00:41 +110: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: scenario FakeAuthScenario.notConfigured maps through DTO repository without throwing
+00:41 +111: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width320.0 email keyboardfalse
+00:42 +112: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: deterministic blocked suffix and new email rule
+00:42 +113: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: deterministic blocked suffix and new email rule
+00:42 +114: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/repository_contract_test.dart: deterministic blocked suffix and new email rule
+00:43 +115: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width402.0 idle keyboardtrue
+00:43 +116: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width402.0 idle keyboardtrue
+00:43 +117: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width402.0 focused keyboardfalse
+00:43 +118: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width402.0 focused keyboardtrue
+00:44 +119: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width402.0 phone keyboardfalse
+00:44 +119: loading D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "auth-idle-en-dark-1.0-402"
+    the test "auth-focused-en-dark-1.0-402"
+    the test "auth-phone-en-dark-1.0-402"
+    the test "auth-email-en-dark-1.0-402"
+    the test "auth-idle-en-light-1.0-402"
+    the test "auth-focused-en-light-1.0-402"
+    the test "auth-phone-en-light-1.0-402"
+    the test "auth-email-en-light-1.0-402"
+    the test "auth-idle-fa-dark-1.0-402"
+    the test "auth-focused-fa-dark-1.0-402"
+    the test "auth-phone-fa-dark-1.0-402"
+    the test "auth-email-fa-dark-1.0-402"
+    the test "auth-idle-fa-light-1.0-402"
+    the test "auth-focused-fa-light-1.0-402"
+    the test "auth-phone-fa-light-1.0-402"
+    the test "auth-email-fa-light-1.0-402"
+    the test "auth-email-fa-dark-2.0-402"
+    the test "auth-idle-en-dark-1.0-744"
+
+00:45 +120: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:45 +121: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:46 +122: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:46 +123: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:47 +124: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:47 +125: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:47 +126: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:48 +127: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:48 +128: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-402
+00:49 +129: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width744.0 phone keyboardtrue
+00:49 +130: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-focused-en-dark-1.0-402
+00:49 +131: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-focused-en-dark-1.0-402
+00:49 +132: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width744.0 email keyboardtrue
+00:50 +133: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-en-dark-1.0-402
+00:50 +134: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-en-dark-1.0-402
+00:50 +135: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 idle keyboardtrue
+00:50 +136: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-en-dark-1.0-402
+00:50 +137: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 focused keyboardfalse
+00:50 +138: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-light-1.0-402
+00:51 +139: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-light-1.0-402
+00:51 +140: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 phone keyboardfalse
+00:51 +141: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 phone keyboardfalse
+00:51 +142: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-en-light-1.0-402
+00:52 +143: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-en-light-1.0-402
+00:52 +144: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 email keyboardfalse
+00:53 +145: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-en-light-1.0-402
+00:53 +146: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale1.0 width1024.0 email keyboardtrue
+00:53 +147: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-fa-dark-1.0-402
+00:53 +148: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 idle keyboardfalse
+00:53 +149: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-focused-fa-dark-1.0-402
+00:54 +150: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-focused-fa-dark-1.0-402
+00:54 +151: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 focused keyboardfalse
+00:54 +152: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-fa-dark-1.0-402
+00:54 +153: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 focused keyboardtrue
+00:54 +154: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-fa-dark-1.0-402
+00:55 +155: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 phone keyboardfalse
+00:55 +156: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-fa-light-1.0-402
+00:55 +157: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 phone keyboardtrue
+00:55 +158: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-focused-fa-light-1.0-402
+00:55 +159: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 email keyboardfalse
+00:56 +160: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-phone-fa-light-1.0-402
+00:56 +161: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width320.0 email keyboardtrue
+00:56 +162: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-fa-light-1.0-402
+00:56 +163: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 idle keyboardfalse
+00:56 +164: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-fa-dark-2.0-402
+00:57 +165: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-email-fa-dark-2.0-402
+00:57 +166: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 focused keyboardfalse
+00:57 +167: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-744
+00:57 +168: D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart: auth-idle-en-dark-1.0-744
+00:57 +169: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 phone keyboardfalse
+00:58 +170: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 phone keyboardtrue
+00:58 +171: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 email keyboardfalse
+00:59 +172: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: every forbidden layer direction fails for relative and package imports
+00:59 +173: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width402.0 email keyboardtrue
+00:59 +174: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: every banned feature widget and its named constructor is rejected
+00:59 +175: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: every banned feature widget and its named constructor is rejected
+00:59 +176: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +177: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +178: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +179: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +180: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +181: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 idle keyboardtrue
+00:59 +182: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: rejects shared cannot reach app
+00:59 +183: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +184: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +185: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +186: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +187: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +188: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +189: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +190: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +191: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +192: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+00:59 +193: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +194: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +195: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +196: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +197: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +198: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +199: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:00 +200: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: rejects viewer tool reference
+01:00 +201: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +202: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +203: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +204: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +205: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +206: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +207: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +208: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +209: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +210: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:00 +211: D:/My_Script/Hamrah-Aval/P2E/test/tool/architecture_test.dart: D-055 retains other domain boundary: package:mygame_p2e/core/errors/nested/app_failure.dart
+01:00 +212: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +213: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +214: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +215: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +216: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +217: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +218: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +219: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +220: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +221: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +222: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +223: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +224: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +225: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +226: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:00 +227: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 phone keyboardtrue
+01:01 +228: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 email keyboardfalse
+01:01 +229: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width744.0 email keyboardtrue
+01:01 +230: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 idle keyboardfalse
+01:02 +231: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 idle keyboardtrue
+01:02 +232: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 focused keyboardfalse
+01:02 +233: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 focused keyboardtrue
+01:02 +234: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 phone keyboardfalse
+01:03 +235: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 phone keyboardtrue
+01:03 +236: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 email keyboardfalse
+01:03 +237: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.dark scale2.0 width1024.0 email keyboardtrue
+01:04 +238: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 idle keyboardfalse
+01:04 +239: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 idle keyboardtrue
+01:04 +240: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 focused keyboardfalse
+01:04 +241: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 focused keyboardtrue
+01:04 +242: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 phone keyboardfalse
+01:05 +243: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 phone keyboardtrue
+01:05 +244: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 email keyboardfalse
+01:05 +245: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width320.0 email keyboardtrue
+01:05 +246: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 idle keyboardfalse
+01:06 +247: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 idle keyboardtrue
+01:06 +248: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 focused keyboardfalse
+01:06 +249: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 focused keyboardtrue
+01:06 +250: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 phone keyboardfalse
+01:07 +251: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 phone keyboardtrue
+01:07 +252: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 email keyboardfalse
+01:07 +253: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width402.0 email keyboardtrue
+01:08 +254: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 idle keyboardfalse
+01:08 +255: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 idle keyboardtrue
+01:08 +256: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 focused keyboardfalse
+01:08 +257: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 focused keyboardtrue
+01:08 +258: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 phone keyboardfalse
+01:09 +259: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 phone keyboardtrue
+01:09 +260: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 email keyboardfalse
+01:09 +261: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width744.0 email keyboardtrue
+01:09 +262: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 idle keyboardfalse
+01:10 +263: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 idle keyboardtrue
+01:10 +264: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 focused keyboardfalse
+01:10 +265: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 focused keyboardtrue
+01:10 +266: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 phone keyboardfalse
+01:11 +267: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 phone keyboardtrue
+01:11 +268: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 email keyboardfalse
+01:12 +269: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale1.0 width1024.0 email keyboardtrue
+01:12 +270: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 idle keyboardfalse
+01:12 +271: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 idle keyboardtrue
+01:12 +272: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 focused keyboardfalse
+01:13 +273: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 focused keyboardtrue
+01:13 +274: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 phone keyboardfalse
+01:13 +275: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 phone keyboardtrue
+01:13 +276: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 email keyboardfalse
+01:14 +277: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width320.0 email keyboardtrue
+01:14 +278: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 idle keyboardfalse
+01:14 +279: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 idle keyboardtrue
+01:14 +280: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 focused keyboardfalse
+01:15 +281: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 focused keyboardtrue
+01:15 +282: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 phone keyboardfalse
+01:15 +283: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 phone keyboardtrue
+01:15 +284: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 email keyboardfalse
+01:16 +285: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width402.0 email keyboardtrue
+01:16 +286: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 idle keyboardfalse
+01:16 +287: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 idle keyboardtrue
+01:16 +288: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 focused keyboardfalse
+01:17 +289: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 focused keyboardtrue
+01:17 +290: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 phone keyboardfalse
+01:17 +291: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 phone keyboardtrue
+01:17 +292: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 email keyboardfalse
+01:18 +293: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width744.0 email keyboardtrue
+01:18 +294: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 idle keyboardfalse
+01:18 +295: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 idle keyboardtrue
+01:18 +296: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 focused keyboardfalse
+01:19 +297: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 focused keyboardtrue
+01:19 +298: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 phone keyboardfalse
+01:19 +299: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 phone keyboardtrue
+01:19 +300: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 email keyboardfalse
+01:20 +301: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: en Brightness.light scale2.0 width1024.0 email keyboardtrue
+01:20 +302: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 idle keyboardfalse
+01:20 +303: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 idle keyboardtrue
+01:20 +304: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 focused keyboardfalse
+01:21 +305: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 focused keyboardtrue
+01:21 +306: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 phone keyboardfalse
+01:22 +307: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 phone keyboardtrue
+01:22 +308: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 email keyboardfalse
+01:22 +309: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width320.0 email keyboardtrue
+01:22 +310: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 idle keyboardfalse
+01:23 +311: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 idle keyboardtrue
+01:23 +312: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 focused keyboardfalse
+01:23 +313: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 focused keyboardtrue
+01:23 +314: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 phone keyboardfalse
+01:24 +315: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 phone keyboardtrue
+01:24 +316: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 email keyboardfalse
+01:24 +317: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width402.0 email keyboardtrue
+01:24 +318: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 idle keyboardfalse
+01:25 +319: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 idle keyboardtrue
+01:25 +320: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 focused keyboardfalse
+01:25 +321: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 focused keyboardtrue
+01:25 +322: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 phone keyboardfalse
+01:26 +323: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 phone keyboardtrue
+01:26 +324: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 email keyboardfalse
+01:26 +325: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width744.0 email keyboardtrue
+01:27 +326: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 idle keyboardfalse
+01:27 +327: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 idle keyboardtrue
+01:27 +328: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 focused keyboardfalse
+01:27 +329: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 focused keyboardtrue
+01:28 +330: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 phone keyboardfalse
+01:28 +331: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 phone keyboardtrue
+01:28 +332: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 email keyboardfalse
+01:28 +333: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale1.0 width1024.0 email keyboardtrue
+01:29 +334: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 idle keyboardfalse
+01:29 +335: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 idle keyboardtrue
+01:29 +336: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 focused keyboardfalse
+01:29 +337: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 focused keyboardtrue
+01:30 +338: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 phone keyboardfalse
+01:30 +339: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 phone keyboardtrue
+01:30 +340: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 email keyboardfalse
+01:30 +341: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width320.0 email keyboardtrue
+01:31 +342: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 idle keyboardfalse
+01:31 +343: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 idle keyboardtrue
+01:31 +344: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 focused keyboardfalse
+01:32 +345: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 focused keyboardtrue
+01:32 +346: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 phone keyboardfalse
+01:32 +347: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 phone keyboardtrue
+01:32 +348: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 email keyboardfalse
+01:32 +349: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width402.0 email keyboardtrue
+01:33 +350: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 idle keyboardfalse
+01:33 +351: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 idle keyboardtrue
+01:33 +352: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 focused keyboardfalse
+01:34 +353: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 focused keyboardtrue
+01:34 +354: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 phone keyboardfalse
+01:34 +355: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 phone keyboardtrue
+01:34 +356: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 email keyboardfalse
+01:35 +357: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width744.0 email keyboardtrue
+01:35 +358: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 idle keyboardfalse
+01:35 +359: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 idle keyboardtrue
+01:35 +360: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 focused keyboardfalse
+01:35 +361: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 focused keyboardtrue
+01:35 +362: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 phone keyboardfalse
+01:36 +363: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 phone keyboardtrue
+01:36 +364: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 email keyboardfalse
+01:36 +365: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.dark scale2.0 width1024.0 email keyboardtrue
+01:37 +366: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 idle keyboardfalse
+01:37 +367: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 idle keyboardtrue
+01:37 +368: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 focused keyboardfalse
+01:37 +369: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 focused keyboardtrue
+01:37 +370: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 phone keyboardfalse
+01:38 +371: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 phone keyboardtrue
+01:38 +372: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 email keyboardfalse
+01:38 +373: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width320.0 email keyboardtrue
+01:38 +374: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 idle keyboardfalse
+01:39 +375: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 idle keyboardtrue
+01:39 +376: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 focused keyboardfalse
+01:39 +377: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 focused keyboardtrue
+01:39 +378: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 phone keyboardfalse
+01:39 +379: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 phone keyboardtrue
+01:39 +380: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 email keyboardfalse
+01:40 +381: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width402.0 email keyboardtrue
+01:40 +382: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 idle keyboardfalse
+01:40 +383: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 idle keyboardtrue
+01:40 +384: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 focused keyboardfalse
+01:40 +385: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 focused keyboardtrue
+01:41 +386: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 phone keyboardfalse
+01:41 +387: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 phone keyboardtrue
+01:41 +388: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 email keyboardfalse
+01:41 +389: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width744.0 email keyboardtrue
+01:41 +390: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 idle keyboardfalse
+01:42 +391: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 idle keyboardtrue
+01:42 +392: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 focused keyboardfalse
+01:42 +393: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 focused keyboardtrue
+01:42 +394: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 phone keyboardfalse
+01:43 +395: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 phone keyboardtrue
+01:43 +396: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 email keyboardfalse
+01:43 +397: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale1.0 width1024.0 email keyboardtrue
+01:43 +398: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 idle keyboardfalse
+01:43 +399: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 idle keyboardtrue
+01:43 +400: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 focused keyboardfalse
+01:44 +401: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 focused keyboardtrue
+01:44 +402: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 phone keyboardfalse
+01:44 +403: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 phone keyboardtrue
+01:44 +404: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 email keyboardfalse
+01:45 +405: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width320.0 email keyboardtrue
+01:45 +406: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 idle keyboardfalse
+01:45 +407: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 idle keyboardtrue
+01:45 +408: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 focused keyboardfalse
+01:46 +409: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 focused keyboardtrue
+01:46 +410: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 phone keyboardfalse
+01:46 +411: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 phone keyboardtrue
+01:46 +412: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 email keyboardfalse
+01:47 +413: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width402.0 email keyboardtrue
+01:47 +414: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 idle keyboardfalse
+01:47 +415: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 idle keyboardtrue
+01:47 +416: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 focused keyboardfalse
+01:47 +417: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 focused keyboardtrue
+01:47 +418: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 phone keyboardfalse
+01:48 +419: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 phone keyboardtrue
+01:48 +420: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 email keyboardfalse
+01:48 +421: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width744.0 email keyboardtrue
+01:48 +422: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 idle keyboardfalse
+01:49 +423: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 idle keyboardtrue
+01:49 +424: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 focused keyboardfalse
+01:49 +425: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 focused keyboardtrue
+01:49 +426: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 phone keyboardfalse
+01:49 +427: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 phone keyboardtrue
+01:49 +428: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 email keyboardfalse
+01:50 +429: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: fa Brightness.light scale2.0 width1024.0 email keyboardtrue
+01:50 +430: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/screen_test.dart: submit routes through flow provider and Back preserves input/remember
+01:51 +431: All tests passed!

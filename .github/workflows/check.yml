@@ -1,0 +1,28 @@
+name: Foundation checks
+on: [push, pull_request]
+jobs:
+  check:
+    # D-047: reference golden pixels belong to Windows; Linux runs all other tests.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.47.7'
+          cache: true
+      - run: flutter pub get
+      - run: dart run build_runner build
+      - run: flutter gen-l10n
+      - run: dart format --output=none --set-exit-if-changed lib test tool packages/design_system/lib packages/design_system/test apps/design_system_viewer/lib apps/design_system_viewer/test
+      - run: flutter analyze --no-pub
+      - run: dart analyze
+      - run: flutter test --no-pub --exclude-tags golden
+      - run: flutter pub get && flutter analyze --no-pub && flutter test --no-pub --exclude-tags golden
+        working-directory: packages/design_system
+      - run: flutter pub get && flutter analyze --no-pub && flutter test --no-pub --exclude-tags golden
+        working-directory: apps/design_system_viewer
+      - run: dart run tool/check_architecture.dart
+      - run: dart run tool/agents/sync_agent_files.dart --check
+      - run: node tool/tokens/generate_adaptive.cjs --check
+      - run: node tool/tokens/generate_readiness.cjs --check
+      - run: node tool/tokens/generate_skins.cjs --check

@@ -1,0 +1,1186 @@
+{
+  "after": {
+    "entries": [
+      {
+        "id": "18436:1611",
+        "kind": "set",
+        "name": "Small Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1642",
+        "kind": "set",
+        "name": "Small Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1673",
+        "kind": "set",
+        "name": "Small Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1704",
+        "kind": "set",
+        "name": "Small Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1735",
+        "kind": "set",
+        "name": "Small Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1756",
+        "kind": "set",
+        "name": "Small Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1809",
+        "kind": "set",
+        "name": "Medium Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1840",
+        "kind": "set",
+        "name": "Medium Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1871",
+        "kind": "set",
+        "name": "Medium Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1902",
+        "kind": "set",
+        "name": "Medium Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1933",
+        "kind": "set",
+        "name": "Medium Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1954",
+        "kind": "set",
+        "name": "Medium Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2005",
+        "kind": "set",
+        "name": "Large Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2036",
+        "kind": "set",
+        "name": "Large Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2067",
+        "kind": "set",
+        "name": "Large Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2098",
+        "kind": "set",
+        "name": "Large Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2129",
+        "kind": "set",
+        "name": "Large Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2150",
+        "kind": "set",
+        "name": "Large Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "page": "- Button System",
+    "pageId": "16433:9027",
+    "schemaVersion": "2.0.0",
+    "total": 18
+  },
+  "before": {
+    "entries": [
+      {
+        "id": "18436:1611",
+        "kind": "set",
+        "name": "Small Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1642",
+        "kind": "set",
+        "name": "Small Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1673",
+        "kind": "set",
+        "name": "Small Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1704",
+        "kind": "set",
+        "name": "Small Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1735",
+        "kind": "set",
+        "name": "Small Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18436:1756",
+        "kind": "set",
+        "name": "Small Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1809",
+        "kind": "set",
+        "name": "Medium Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1840",
+        "kind": "set",
+        "name": "Medium Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1871",
+        "kind": "set",
+        "name": "Medium Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1902",
+        "kind": "set",
+        "name": "Medium Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1933",
+        "kind": "set",
+        "name": "Medium Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:1954",
+        "kind": "set",
+        "name": "Medium Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2005",
+        "kind": "set",
+        "name": "Large Fill Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:14": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:58": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2036",
+        "kind": "set",
+        "name": "Large Fill Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:20": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:52": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2067",
+        "kind": "set",
+        "name": "Large Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:44": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:34": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2098",
+        "kind": "set",
+        "name": "Large Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Icon#16481:38": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Label#16433:4": {
+            "defaultValue": "Text Label",
+            "type": "TEXT"
+          },
+          "Outline Icon#16448:28": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2129",
+        "kind": "set",
+        "name": "Large Icon Button - Dark Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:12": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      },
+      {
+        "id": "18437:2150",
+        "kind": "set",
+        "name": "Large Icon Button - Light Mode",
+        "properties": {
+          "Button": {
+            "defaultValue": "Filled",
+            "type": "VARIANT",
+            "variantOptions": [
+              "Filled",
+              "Tonal",
+              "Outlined",
+              "Text",
+              "Disable"
+            ]
+          },
+          "Fill Icon#16433:5": {
+            "defaultValue": true,
+            "type": "BOOLEAN"
+          },
+          "Outline Icon#16447:18": {
+            "defaultValue": false,
+            "type": "BOOLEAN"
+          }
+        },
+        "variantCount": 5
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "page": "- Button System",
+    "pageId": "16433:9027",
+    "schemaVersion": "2.0.0",
+    "total": 18
+  }
+}

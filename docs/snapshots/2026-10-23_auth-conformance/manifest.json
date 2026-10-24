@@ -1,0 +1,16 @@
+{
+  "captured": "2026-10-23",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "readOnly": true,
+  "note": "Absolute rendered rects include strokesIncludedInLayout. Native status/keyboard excluded from product-node comparison.",
+  "sha256": {
+    "body-source.json": "852c848060f5988c7498be8e3bfd647697996a8bdec5561871b8860a1199c331",
+    "figma-rect-evidence.json": "735a833e85ea291c1a16e2190e6ba214f51eb4cf1784fa873790d56c767875db",
+    "figma-text-evidence.json": "d6a873faf99c8429223b52f60f7a4be7e99190e9e44f391b12731c267b657350",
+    "frames.json": "1d91fc79486c25cb0aee3700ff90ce6a7497362f9753d3fa934b96b9f462f02c",
+    "screens/figma-email.png": "5831d5640ae55cfe63da3590333322d944945e8c7bb1248bcbcf6a4cfd3b52e2",
+    "screens/figma-focused.png": "ddd36478633226a59a4fe3b6a654c3210c711865b198714ff0d46b809ee02c5a",
+    "screens/figma-idle.png": "bd476851ffaeef1f28b7eb1287439dd7be7aef504d0ea4515437218046ddb792",
+    "screens/figma-phone.png": "9746c70ce623a372e348c5586b5f1ed3dc7581019a36caac0eb6333daa7cb6c9"
+  }
+}

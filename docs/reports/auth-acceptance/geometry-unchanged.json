@@ -1,0 +1,10 @@
+{
+  "states": [
+    "idle",
+    "focusedEmpty",
+    "phone",
+    "email"
+  ],
+  "entireRecordedMeasurementsUnchanged": true,
+  "goldenFilesUnchanged": 94
+}

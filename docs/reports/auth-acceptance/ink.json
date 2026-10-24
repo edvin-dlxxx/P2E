@@ -1,0 +1,902 @@
+[
+  {
+    "element": "Play. Earn. Win.",
+    "oursText": "Play. Earn. Win.",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.775970458984375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      27,
+      260,
+      208,
+      39
+    ],
+    "oursInk": [
+      26,
+      260,
+      208,
+      39
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "pts",
+    "oursText": "pts",
+    "state": "idle",
+    "boundsDelta": {
+      "x": -0.2559967041015625,
+      "y": 0.0,
+      "width": -0.7520217895507812,
+      "height": 0.0
+    },
+    "figmaInk": [
+      112,
+      399,
+      17,
+      13
+    ],
+    "oursInk": [
+      111,
+      399,
+      17,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Welcome bonus",
+    "oursText": "Welcome bonus",
+    "state": "idle",
+    "boundsDelta": {
+      "x": -1.0080184936523438,
+      "y": 0.0,
+      "width": -1.3919906616210938,
+      "height": 0.0
+    },
+    "figmaInk": [
+      135,
+      398,
+      106,
+      13
+    ],
+    "oursInk": [
+      134,
+      398,
+      105,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Email Address or Phone Number ",
+    "oursText": "Email Address or Phone Number",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.5199737548828125,
+      "height": 0.0
+    },
+    "figmaInk": [
+      38,
+      472,
+      210,
+      13
+    ],
+    "oursInk": [
+      38,
+      472,
+      210,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Remember me for next time.",
+    "oursText": "Remember me for next time.",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.5359649658203125,
+      "height": 0.0
+    },
+    "figmaInk": [
+      62,
+      528,
+      186,
+      13
+    ],
+    "oursInk": [
+      62,
+      528,
+      185,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Continue",
+    "oursText": "Continue",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.5239887237548828,
+      "y": 0.0,
+      "width": -1.0479774475097656,
+      "height": 0.0
+    },
+    "figmaInk": [
+      171,
+      593,
+      60,
+      13
+    ],
+    "oursInk": [
+      171,
+      593,
+      60,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "or continue with",
+    "oursText": "or continue with",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.5390205383300781,
+      "y": 0.0,
+      "width": -1.0780410766601562,
+      "height": 0.0
+    },
+    "figmaInk": [
+      156,
+      646,
+      90,
+      11
+    ],
+    "oursInk": [
+      156,
+      646,
+      90,
+      11
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Playstation",
+    "oursText": "PlayStation",
+    "state": "idle",
+    "boundsDelta": {
+      "x": -0.3729845682779924,
+      "y": 0.0,
+      "width": 0.7459716796875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      48,
+      731,
+      65,
+      14
+    ],
+    "oursInk": [
+      47,
+      731,
+      68,
+      14
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      3,
+      0
+    ],
+    "passed": false
+  },
+  {
+    "element": "Xbox",
+    "oursText": "Xbox",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.6280031204223917,
+      "y": 0.0,
+      "width": -1.2560062408447266,
+      "height": 0.0
+    },
+    "figmaInk": [
+      185,
+      731,
+      32,
+      12
+    ],
+    "oursInk": [
+      186,
+      731,
+      31,
+      12
+    ],
+    "inkDelta": [
+      1,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Google",
+    "oursText": "Google",
+    "state": "idle",
+    "boundsDelta": {
+      "x": 0.6990076700846544,
+      "y": 0.0,
+      "width": -1.3979949951171875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      300,
+      731,
+      43,
+      14
+    ],
+    "oursInk": [
+      300,
+      731,
+      43,
+      14
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Play. Earn. Win.",
+    "oursText": "Play. Earn. Win.",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.775970458984375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      26,
+      87,
+      206,
+      31
+    ],
+    "oursInk": [
+      25,
+      87,
+      206,
+      31
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "pts",
+    "oursText": "pts",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": -0.2559967041015625,
+      "y": 0.0,
+      "width": -0.7520217895507812,
+      "height": 0.0
+    },
+    "figmaInk": [
+      111,
+      218,
+      17,
+      13
+    ],
+    "oursInk": [
+      110,
+      218,
+      17,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Welcome bonus",
+    "oursText": "Welcome bonus",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": -1.0080184936523438,
+      "y": 0.0,
+      "width": -1.3919906616210938,
+      "height": 0.0
+    },
+    "figmaInk": [
+      134,
+      217,
+      106,
+      13
+    ],
+    "oursInk": [
+      133,
+      217,
+      105,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Email Address or Phone Number ",
+    "oursText": "Email Address or Phone Number",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.8300018310546875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      37,
+      281,
+      184,
+      12
+    ],
+    "oursInk": [
+      36,
+      282,
+      185,
+      11
+    ],
+    "inkDelta": [
+      -1,
+      1,
+      1,
+      -1
+    ],
+    "passed": true
+  },
+  {
+    "element": "Enter email or phone",
+    "oursText": "Enter email or phone",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.9360198974609375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      36,
+      298,
+      153,
+      22
+    ],
+    "oursInk": [
+      36,
+      299,
+      152,
+      21
+    ],
+    "inkDelta": [
+      0,
+      1,
+      -1,
+      -1
+    ],
+    "passed": true
+  },
+  {
+    "element": "Continue",
+    "oursText": "Continue",
+    "state": "focusedEmpty",
+    "boundsDelta": {
+      "x": 0.5239887237548828,
+      "y": 0.0,
+      "width": -1.0479774475097656,
+      "height": 0.0
+    },
+    "figmaInk": [
+      171,
+      494,
+      60,
+      13
+    ],
+    "oursInk": [
+      171,
+      494,
+      60,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Play. Earn. Win.",
+    "oursText": "Play. Earn. Win.",
+    "state": "phone",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.775970458984375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      26,
+      87,
+      206,
+      31
+    ],
+    "oursInk": [
+      25,
+      87,
+      206,
+      31
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "pts",
+    "oursText": "pts",
+    "state": "phone",
+    "boundsDelta": {
+      "x": -0.2559967041015625,
+      "y": 0.0,
+      "width": -0.7520217895507812,
+      "height": 0.0
+    },
+    "figmaInk": [
+      111,
+      218,
+      17,
+      13
+    ],
+    "oursInk": [
+      110,
+      218,
+      17,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Welcome bonus",
+    "oursText": "Welcome bonus",
+    "state": "phone",
+    "boundsDelta": {
+      "x": -1.0080184936523438,
+      "y": 0.0,
+      "width": -1.3919906616210938,
+      "height": 0.0
+    },
+    "figmaInk": [
+      134,
+      217,
+      106,
+      13
+    ],
+    "oursInk": [
+      133,
+      217,
+      105,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Email Address or Phone Number ",
+    "oursText": "Email Address or Phone Number",
+    "state": "phone",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.8300018310546875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      37,
+      281,
+      184,
+      12
+    ],
+    "oursInk": [
+      36,
+      282,
+      185,
+      11
+    ],
+    "inkDelta": [
+      -1,
+      1,
+      1,
+      -1
+    ],
+    "passed": true
+  },
+  {
+    "element": "+98 912 827 9503",
+    "oursText": "+98 912 827 9503",
+    "state": "phone",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.7399997711181641,
+      "width": -0.1839752197265625,
+      "height": 0.0
+    },
+    "figmaInk": [
+      36,
+      303,
+      121,
+      13
+    ],
+    "oursInk": [
+      36,
+      304,
+      122,
+      13
+    ],
+    "inkDelta": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "We'll text you a one-time code",
+    "oursText": "We'll text you a one-time code",
+    "state": "phone",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.16595458984375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      56,
+      350,
+      171,
+      14
+    ],
+    "oursInk": [
+      56,
+      351,
+      170,
+      13
+    ],
+    "inkDelta": [
+      0,
+      1,
+      -1,
+      -1
+    ],
+    "passed": true
+  },
+  {
+    "element": "Continue With Phone",
+    "oursText": "Continue With Phone",
+    "state": "phone",
+    "boundsDelta": {
+      "x": 0.5959854125976562,
+      "y": 0.0,
+      "width": -1.1919708251953125,
+      "height": 0.0
+    },
+    "figmaInk": [
+      131,
+      494,
+      140,
+      13
+    ],
+    "oursInk": [
+      131,
+      494,
+      140,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Play. Earn. Win.",
+    "oursText": "Play. Earn. Win.",
+    "state": "email",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.775970458984375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      26,
+      87,
+      206,
+      31
+    ],
+    "oursInk": [
+      25,
+      87,
+      206,
+      31
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "pts",
+    "oursText": "pts",
+    "state": "email",
+    "boundsDelta": {
+      "x": -0.2559967041015625,
+      "y": 0.0,
+      "width": -0.7520217895507812,
+      "height": 0.0
+    },
+    "figmaInk": [
+      111,
+      218,
+      17,
+      13
+    ],
+    "oursInk": [
+      110,
+      218,
+      17,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Welcome bonus",
+    "oursText": "Welcome bonus",
+    "state": "email",
+    "boundsDelta": {
+      "x": -1.0080184936523438,
+      "y": 0.0,
+      "width": -1.3919906616210938,
+      "height": 0.0
+    },
+    "figmaInk": [
+      134,
+      217,
+      106,
+      13
+    ],
+    "oursInk": [
+      133,
+      217,
+      105,
+      13
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      -1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Email Address or Phone Number ",
+    "oursText": "Email Address or Phone Number",
+    "state": "email",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.8300018310546875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      37,
+      281,
+      184,
+      12
+    ],
+    "oursInk": [
+      36,
+      282,
+      185,
+      11
+    ],
+    "inkDelta": [
+      -1,
+      1,
+      1,
+      -1
+    ],
+    "passed": true
+  },
+  {
+    "element": "me.ardeshir.rashidi@gmail.com",
+    "oursText": "me.ardeshir.rashidi@gmail.com",
+    "state": "email",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -1.0379638671875,
+      "height": 0.0
+    },
+    "figmaInk": [
+      37,
+      303,
+      234,
+      17
+    ],
+    "oursInk": [
+      36,
+      303,
+      235,
+      17
+    ],
+    "inkDelta": [
+      -1,
+      0,
+      1,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "You'll enter your password next if you register before.",
+    "oursText": "You'll enter your password next if you register before.",
+    "state": "email",
+    "boundsDelta": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": -0.79986572265625,
+      "height": 0.0
+    },
+    "figmaInk": [
+      56,
+      350,
+      298,
+      14
+    ],
+    "oursInk": [
+      56,
+      350,
+      298,
+      14
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  {
+    "element": "Continue With Email Address",
+    "oursText": "Continue With Email Address",
+    "state": "email",
+    "boundsDelta": {
+      "x": 0.6279830932617188,
+      "y": 0.0,
+      "width": -1.2559661865234375,
+      "height": 0.0
+    },
+    "figmaInk": [
+      105,
+      494,
+      192,
+      13
+    ],
+    "oursInk": [
+      105,
+      494,
+      192,
+      13
+    ],
+    "inkDelta": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  }
+]

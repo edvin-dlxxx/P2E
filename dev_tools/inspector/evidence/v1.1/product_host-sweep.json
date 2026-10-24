@@ -1,0 +1,1106 @@
+{
+  "width": {
+    "format": "p2e-sweep-v1.1",
+    "completed": 1204,
+    "ranges": [
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Host width below 252; degraded targets are non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 874.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 248.0,
+        "firstHeight": 874.0,
+        "lastHeight": 874.0,
+        "widthStep": 4.0,
+        "heightStep": 8.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 874.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 248.0,
+        "firstHeight": 874.0,
+        "lastHeight": 874.0,
+        "widthStep": 4.0,
+        "heightStep": 8.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 874.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 248.0,
+        "firstHeight": 874.0,
+        "lastHeight": 874.0,
+        "widthStep": 4.0,
+        "heightStep": 8.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 874.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 248.0,
+        "firstHeight": 874.0,
+        "lastHeight": 874.0,
+        "widthStep": 4.0,
+        "heightStep": 8.0
+      }
+    ]
+  },
+  "coarseGrid": {
+    "format": "p2e-sweep-v1.1",
+    "completed": 168,
+    "ranges": [
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 300.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 300.0,
+        "lastHeight": 300.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 520.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 520.0,
+        "lastHeight": 520.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 740.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 740.0,
+        "lastHeight": 740.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 960.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 960.0,
+        "lastHeight": 960.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1180.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1180.0,
+        "lastHeight": 1180.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1400.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1400.0,
+        "lastHeight": 1400.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 300.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 300.0,
+        "lastHeight": 300.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 520.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 520.0,
+        "lastHeight": 520.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 740.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 740.0,
+        "lastHeight": 740.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 960.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 960.0,
+        "lastHeight": 960.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1180.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1180.0,
+        "lastHeight": 1180.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1400.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 1.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1400.0,
+        "lastHeight": 1400.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 300.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 300.0,
+        "lastHeight": 300.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 520.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 520.0,
+        "lastHeight": 520.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 740.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 740.0,
+        "lastHeight": 740.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 960.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 960.0,
+        "lastHeight": 960.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1180.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1180.0,
+        "lastHeight": 1180.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1400.0,
+          "locales": [
+            "fa-IR"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1400.0,
+        "lastHeight": 1400.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 300.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 300.0,
+        "lastHeight": 300.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 520.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 520.0,
+        "lastHeight": 520.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 740.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 740.0,
+        "lastHeight": 740.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 960.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 960.0,
+        "lastHeight": 960.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1180.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1180.0,
+        "lastHeight": 1180.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      },
+      {
+        "kind": "navigator-below-minimum",
+        "summary": "Observed degraded layout below 252; targets non-compliant.",
+        "ownerKey": [
+          "fixtures",
+          "fixtures-v1",
+          "fixtures.navigation",
+          null,
+          null
+        ],
+        "elementId": "fixtures.navigation",
+        "device": {
+          "width": 200.0,
+          "height": 1400.0,
+          "locales": [
+            "en-US"
+          ],
+          "brightness": "dark",
+          "textScale": 2.0,
+          "platform": "android",
+          "insets": {
+            "top": 24.0,
+            "bottom": 24.0,
+            "left": 0.0,
+            "right": 0.0
+          },
+          "keyboard": false,
+          "keyboardHeight": 300.0,
+          "disableAnimations": false,
+          "boldText": false,
+          "highContrast": false
+        },
+        "firstWidth": 200.0,
+        "lastWidth": 200.0,
+        "firstHeight": 1400.0,
+        "lastHeight": 1400.0,
+        "widthStep": 200.0,
+        "heightStep": 220.0
+      }
+    ]
+  }
+}

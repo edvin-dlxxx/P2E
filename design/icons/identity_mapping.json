@@ -1,0 +1,1045 @@
+{
+  "description": "Stable legacy icon IDs, cross-checked by explicit source IDs and live variant names. Never pair by array position.",
+  "icons": [
+    {
+      "id": "add",
+      "dartId": "add",
+      "rawName": "Add",
+      "sources": {
+        "outline": "14559:950",
+        "fill": "14559:952"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "add_large",
+      "dartId": "addLarge",
+      "rawName": "Add Larg",
+      "sources": {
+        "outline": "14559:953",
+        "fill": "14559:951"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "add_shopping_cart",
+      "dartId": "addShoppingCart",
+      "rawName": "Add Shopping Cart",
+      "sources": {
+        "outline": "18422:12277",
+        "fill": "18422:12278"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_cool_down",
+      "dartId": "arrowCoolDown",
+      "rawName": "Arrow Cool Down",
+      "sources": {
+        "outline": "18517:6371",
+        "fill": "18517:6376"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_down",
+      "dartId": "arrowDown",
+      "rawName": "Arrow Down",
+      "sources": {
+        "outline": "18517:6382",
+        "fill": "18517:6373"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_down_alt",
+      "dartId": "arrowDownAlt",
+      "rawName": "Arrow Down Alt",
+      "sources": {
+        "outline": "18517:6365",
+        "fill": "18517:6368"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_drop_down",
+      "dartId": "arrowDropDown",
+      "rawName": "Arrow Drop Down",
+      "sources": {
+        "outline": "14466:1100",
+        "fill": "14466:1097"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_drop_left",
+      "dartId": "arrowDropLeft",
+      "rawName": "Arrow Drop Left",
+      "sources": {
+        "outline": "14466:1102",
+        "fill": "14466:1105"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_drop_right",
+      "dartId": "arrowDropRight",
+      "rawName": "Arrow Drop Right",
+      "sources": {
+        "outline": "14466:1098",
+        "fill": "14466:1099"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_drop_up",
+      "dartId": "arrowDropUp",
+      "rawName": "Arrow Drop Up",
+      "sources": {
+        "outline": "14466:1103",
+        "fill": "14466:1106"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_left",
+      "dartId": "arrowLeft",
+      "rawName": "Arrow Left",
+      "sources": {
+        "outline": "18517:6377",
+        "fill": "18517:6375"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_left_alt",
+      "dartId": "arrowLeftAlt",
+      "rawName": "Arrow Left Alt",
+      "sources": {
+        "outline": "18517:6366",
+        "fill": "18517:6379"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_right",
+      "dartId": "arrowRight",
+      "rawName": "Arrow Right",
+      "sources": {
+        "outline": "18517:6380",
+        "fill": "18517:6374"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_right_alt",
+      "dartId": "arrowRightAlt",
+      "rawName": "Arrow Right Alt",
+      "sources": {
+        "outline": "18517:6367",
+        "fill": "18517:6369"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "arrow_up",
+      "dartId": "arrowUp",
+      "rawName": "Arrow Up",
+      "sources": {
+        "outline": "18517:6378",
+        "fill": "18517:6381"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_up_alt",
+      "dartId": "arrowUpAlt",
+      "rawName": "Arrow Up Alt",
+      "sources": {
+        "outline": "18517:6372",
+        "fill": "18517:6384"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "arrow_warm_up",
+      "dartId": "arrowWarmUp",
+      "rawName": "Arrow Wam Up",
+      "sources": {
+        "outline": "18517:6383",
+        "fill": "18517:6370"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "attach_file",
+      "dartId": "attachFile",
+      "rawName": "Attach File",
+      "sources": {
+        "outline": "15135:15985",
+        "fill": "15135:15986"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "attach_file_add",
+      "dartId": "attachFileAdd",
+      "rawName": "Attach File Add",
+      "sources": {
+        "outline": "15135:15990",
+        "fill": "15135:15989"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark",
+      "dartId": "bookmark",
+      "rawName": "Bookmark",
+      "sources": {
+        "outline": "18517:6460",
+        "fill": "18517:6467"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_add",
+      "dartId": "bookmarkAdd",
+      "rawName": "Bookmark Add",
+      "sources": {
+        "outline": "18517:6462",
+        "fill": "18517:6463"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_added",
+      "dartId": "bookmarkAdded",
+      "rawName": "Bookmark Added",
+      "sources": {
+        "outline": "18517:6468",
+        "fill": "18517:6459"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_check",
+      "dartId": "bookmarkCheck",
+      "rawName": "Bookmark Check",
+      "sources": {
+        "outline": "18517:6464",
+        "fill": "18517:6458"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_heart",
+      "dartId": "bookmarkHeart",
+      "rawName": "Bookmark Heart",
+      "sources": {
+        "outline": "18517:6470",
+        "fill": "18517:6457"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_remove",
+      "dartId": "bookmarkRemove",
+      "rawName": "Bookmark Remove",
+      "sources": {
+        "outline": "18517:6465",
+        "fill": "18517:6461"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "bookmark_star",
+      "dartId": "bookmarkStar",
+      "rawName": "Bookmark Star",
+      "sources": {
+        "outline": "18517:6466",
+        "fill": "18517:6469"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "brightness_alert",
+      "dartId": "brightnessAlert",
+      "rawName": "Brightness Alert",
+      "sources": {
+        "outline": "14466:913",
+        "fill": "14466:922"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "calendar",
+      "dartId": "calendar",
+      "rawName": "Calendar",
+      "sources": {
+        "outline": "14502:2508",
+        "fill": "14502:2509"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "check",
+      "dartId": "check",
+      "rawName": "Check",
+      "sources": {
+        "outline": "14526:1609",
+        "fill": "14526:1608"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chess_bishop",
+      "dartId": "chessBishop",
+      "rawName": "Chess Bishop",
+      "sources": {
+        "outline": "14531:628",
+        "fill": "14531:638"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chess_knight",
+      "dartId": "chessKnight",
+      "rawName": "Chess Knight",
+      "sources": {
+        "outline": "14531:629",
+        "fill": "14531:631"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chess_pawn",
+      "dartId": "chessPawn",
+      "rawName": "Chess Pawn",
+      "sources": {
+        "outline": "14531:635",
+        "fill": "14531:632"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chess_queen",
+      "dartId": "chessQueen",
+      "rawName": "Chess Queen",
+      "sources": {
+        "outline": "14531:636",
+        "fill": "14531:633"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chess_rook",
+      "dartId": "chessRook",
+      "rawName": "Chess Rok",
+      "sources": {
+        "outline": "14531:637",
+        "fill": "14531:630"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chevron_down",
+      "dartId": "chevronDown",
+      "rawName": "Chevron Down",
+      "sources": {
+        "outline": "14466:1091",
+        "fill": "14466:1092"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "chevron_left",
+      "dartId": "chevronLeft",
+      "rawName": "Chevron Left",
+      "sources": {
+        "outline": "14466:1093",
+        "fill": "14466:1094"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "chevron_right",
+      "dartId": "chevronRight",
+      "rawName": "Chevron Right",
+      "sources": {
+        "outline": "14466:1095",
+        "fill": "14466:1096"
+      },
+      "mirrorInRtl": true
+    },
+    {
+      "id": "chevron_up",
+      "dartId": "chevronUp",
+      "rawName": "Chevron Up",
+      "sources": {
+        "outline": "14466:1104",
+        "fill": "14466:1101"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "close",
+      "dartId": "close",
+      "rawName": "Close",
+      "sources": {
+        "outline": "14466:1150",
+        "fill": "14466:1151"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "close_small",
+      "dartId": "closeSmall",
+      "rawName": "Close Small",
+      "sources": {
+        "outline": "14466:1152",
+        "fill": "14466:1153"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "cloud_download",
+      "dartId": "cloudDownload",
+      "rawName": "Cloud Download",
+      "sources": {
+        "outline": "18517:6405",
+        "fill": "18517:6406"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "cloud_upload",
+      "dartId": "cloudUpload",
+      "rawName": "Cloud Upload",
+      "sources": {
+        "outline": "18517:6408",
+        "fill": "18517:6407"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "crown",
+      "dartId": "crown",
+      "rawName": "Crown",
+      "sources": {
+        "outline": "18422:11364",
+        "fill": "18422:11366"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "dark_mode",
+      "dartId": "darkMode",
+      "rawName": "Dark Mode",
+      "sources": {
+        "outline": "16482:6785",
+        "fill": "16482:6784"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "download",
+      "dartId": "download",
+      "rawName": "Download",
+      "sources": {
+        "outline": "18517:2031",
+        "fill": "18517:2029"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "downloading",
+      "dartId": "downloading",
+      "rawName": "Downloading",
+      "sources": {
+        "outline": "18517:6410",
+        "fill": "18517:6409"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "edit",
+      "dartId": "edit",
+      "rawName": "Edit",
+      "sources": {
+        "outline": "14667:4500",
+        "fill": "14667:4497"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "edit_square",
+      "dartId": "editSquare",
+      "rawName": "Edit Square",
+      "sources": {
+        "outline": "14667:4498",
+        "fill": "14667:4499"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "extension",
+      "dartId": "extension",
+      "rawName": "Extension",
+      "sources": {
+        "outline": "14531:639",
+        "fill": "14531:634"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "fingerprint",
+      "dartId": "fingerprint",
+      "rawName": "Fingerprint",
+      "sources": {
+        "outline": "14868:3399",
+        "fill": "14868:3398"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "help",
+      "dartId": "help",
+      "rawName": "Help",
+      "sources": {
+        "outline": "18422:12323",
+        "fill": "18422:12322"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "home",
+      "dartId": "home",
+      "rawName": "Home",
+      "sources": {
+        "outline": "18422:10890",
+        "fill": "18422:10889"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "id_card",
+      "dartId": "idCard",
+      "rawName": "ID Card",
+      "sources": {
+        "outline": "14868:3397",
+        "fill": "14868:3396"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "image",
+      "dartId": "image",
+      "rawName": "Image",
+      "sources": {
+        "outline": "15135:15634",
+        "fill": "15135:15631"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "image_arrow_up",
+      "dartId": "imageArrowUp",
+      "rawName": "Image Arrow Up",
+      "sources": {
+        "outline": "15135:15635",
+        "fill": "15135:15637"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "image_search",
+      "dartId": "imageSearch",
+      "rawName": "Image Search",
+      "sources": {
+        "outline": "15135:15636",
+        "fill": "15135:15639"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "imagesearch_roller",
+      "dartId": "imagesearchRoller",
+      "rawName": "Imagesearch Roller",
+      "sources": {
+        "outline": "15135:15643",
+        "fill": "15135:15640"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "imagesmode",
+      "dartId": "imagesmode",
+      "rawName": "Imagesmode",
+      "sources": {
+        "outline": "15135:15641",
+        "fill": "15135:15633"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "leaderboard",
+      "dartId": "leaderboard",
+      "rawName": "Leaderboard",
+      "sources": {
+        "outline": "18422:11268",
+        "fill": "18422:11269"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "light_mode",
+      "dartId": "lightMode",
+      "rawName": "Light Mode",
+      "sources": {
+        "outline": "16482:6783",
+        "fill": "16482:6782"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "link",
+      "dartId": "link",
+      "rawName": "Link",
+      "sources": {
+        "outline": "15135:15984",
+        "fill": "15135:15982"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "link_2",
+      "dartId": "link_2",
+      "rawName": "Link 2",
+      "sources": {
+        "outline": "15135:15987",
+        "fill": "15135:15983"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "link_off",
+      "dartId": "linkOff",
+      "rawName": "Link Off",
+      "sources": {
+        "outline": "15135:15988",
+        "fill": "15135:15981"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "location",
+      "dartId": "location",
+      "rawName": "Location",
+      "sources": {
+        "outline": "14466:1165",
+        "fill": "14466:1164"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "mail",
+      "dartId": "mail",
+      "rawName": "Mail",
+      "sources": {
+        "outline": "16497:27432",
+        "fill": "16497:27433"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "menu",
+      "dartId": "menu",
+      "rawName": "Menu",
+      "sources": {
+        "outline": "18422:12330",
+        "fill": "18422:12329"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "more_horizontal",
+      "dartId": "moreHorizontal",
+      "rawName": "More Horizontal",
+      "sources": {
+        "outline": "18526:10897",
+        "fill": "18526:10896"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "more_vertical",
+      "dartId": "moreVertical",
+      "rawName": "More Vertical",
+      "sources": {
+        "outline": "18526:10899",
+        "fill": "18526:10898"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "motion_play",
+      "dartId": "motionPlay",
+      "rawName": "Motion Play",
+      "sources": {
+        "outline": "16432:8970",
+        "fill": "16432:8969"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "my_location",
+      "dartId": "myLocation",
+      "rawName": "My Location",
+      "sources": {
+        "outline": "15328:25726",
+        "fill": "15328:25725"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "notifications",
+      "dartId": "notifications",
+      "rawName": "Notifications",
+      "sources": {
+        "outline": "18422:12305",
+        "fill": "18422:12304"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "pause_circle",
+      "dartId": "pauseCircle",
+      "rawName": "Pause Circle",
+      "sources": {
+        "outline": "16432:8965",
+        "fill": "16432:8972"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "person",
+      "dartId": "person",
+      "rawName": "Person",
+      "sources": {
+        "outline": "14466:903",
+        "fill": "14466:930"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "phone_enabled",
+      "dartId": "phoneEnabled",
+      "rawName": "Phone Enabled",
+      "sources": {
+        "outline": "14466:902",
+        "fill": "14466:931"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "play_arrow",
+      "dartId": "playArrow",
+      "rawName": "Play Arrow",
+      "sources": {
+        "outline": "16432:8963",
+        "fill": "16432:8971"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "play_circle",
+      "dartId": "playCircle",
+      "rawName": "Play Circle",
+      "sources": {
+        "outline": "16432:8967",
+        "fill": "16432:8966"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "poker_chip",
+      "dartId": "pokerChip",
+      "rawName": "Poker Chip",
+      "sources": {
+        "outline": "18422:12235",
+        "fill": "18422:12234"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "release_alert",
+      "dartId": "releaseAlert",
+      "rawName": "Release Alert",
+      "sources": {
+        "outline": "14466:914",
+        "fill": "14466:923"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "scoreboard",
+      "dartId": "scoreboard",
+      "rawName": "Scoreboard",
+      "sources": {
+        "outline": "15031:23251",
+        "fill": "15031:23253"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "share",
+      "dartId": "share",
+      "rawName": "Share",
+      "sources": {
+        "outline": "18525:7758",
+        "fill": "18525:7757"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "shoe_cleats",
+      "dartId": "shoeCleats",
+      "rawName": "Shoe Cleats",
+      "sources": {
+        "outline": "15031:23250",
+        "fill": "15031:23252"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "sports",
+      "dartId": "sports",
+      "rawName": "Sports",
+      "sources": {
+        "outline": "15031:23254",
+        "fill": "15031:23249"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "sports_esports",
+      "dartId": "sportsEsports",
+      "rawName": "Sports Esports",
+      "sources": {
+        "outline": "18422:11300",
+        "fill": "18422:11302"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "stadia_controller",
+      "dartId": "stadiaController",
+      "rawName": "Stadia Controller",
+      "sources": {
+        "outline": "18422:11301",
+        "fill": "18422:11303"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "star",
+      "dartId": "star",
+      "rawName": "Star",
+      "sources": {
+        "outline": "18447:10019",
+        "fill": "18447:10020"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "star_half",
+      "dartId": "starHalf",
+      "rawName": "Star Half",
+      "sources": {
+        "outline": "18447:10017",
+        "fill": "18447:10018"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "store",
+      "dartId": "store",
+      "rawName": "Store",
+      "sources": {
+        "outline": "18422:11365",
+        "fill": "18422:11363"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "tactic",
+      "dartId": "tactic",
+      "rawName": "Tactic",
+      "sources": {
+        "outline": "14866:3054",
+        "fill": "14866:3053"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "target_check",
+      "dartId": "targetCheck",
+      "rawName": "Target Check",
+      "sources": {
+        "outline": "18422:11271",
+        "fill": "18422:11270"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "thumb_down",
+      "dartId": "thumbDown",
+      "rawName": "Thumb Down",
+      "sources": {
+        "outline": "18526:10839",
+        "fill": "18526:10842"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "thumb_up",
+      "dartId": "thumbUp",
+      "rawName": "Thumb Up",
+      "sources": {
+        "outline": "18526:10840",
+        "fill": "18526:10841"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "timer",
+      "dartId": "timer",
+      "rawName": "Timer",
+      "sources": {
+        "outline": "14810:2768",
+        "fill": "14810:2767"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "timer_play",
+      "dartId": "timerPlay",
+      "rawName": "Timer Play",
+      "sources": {
+        "outline": "16432:8964",
+        "fill": "16432:8968"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "trophy",
+      "dartId": "trophy",
+      "rawName": "Trophy",
+      "sources": {
+        "outline": "14825:3527",
+        "fill": "14825:3526"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "upload",
+      "dartId": "upload",
+      "rawName": "Upload",
+      "sources": {
+        "outline": "18517:2032",
+        "fill": "18517:2030"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "verified",
+      "dartId": "verified",
+      "rawName": "Verified",
+      "sources": {
+        "outline": "14466:915",
+        "fill": "14466:924"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "video_camera_back",
+      "dartId": "videoCameraBack",
+      "rawName": "Video Camera Back",
+      "sources": {
+        "outline": "15135:15638",
+        "fill": "15135:15642"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "video_camera_back_add",
+      "dartId": "videoCameraBackAdd",
+      "rawName": "Video Camera Back Add",
+      "sources": {
+        "outline": "15135:15628",
+        "fill": "15135:15630"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "video_camera_front",
+      "dartId": "videoCameraFront",
+      "rawName": "Video Camera Front",
+      "sources": {
+        "outline": "15135:15629",
+        "fill": "15135:15632"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "visibility",
+      "dartId": "visibility",
+      "rawName": "Visibility",
+      "sources": {
+        "outline": "18675:14852",
+        "fill": "18675:14850"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "visibility_off",
+      "dartId": "visibilityOff",
+      "rawName": "Visibility Off",
+      "sources": {
+        "outline": "18675:14849",
+        "fill": "18675:14851"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "warning",
+      "dartId": "warning",
+      "rawName": "Warning",
+      "sources": {
+        "outline": "14537:1180",
+        "fill": "14537:1179"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "workspace_premium_1",
+      "dartId": "workspacePremium_1",
+      "rawName": "Workspace Premium 1",
+      "sources": {
+        "outline": "18429:427",
+        "fill": "18429:429"
+      },
+      "mirrorInRtl": false
+    },
+    {
+      "id": "workspace_premium_2",
+      "dartId": "workspacePremium_2",
+      "rawName": "Workspace Premium 2",
+      "sources": {
+        "outline": "18429:426",
+        "fill": "18429:428"
+      },
+      "mirrorInRtl": false
+    }
+  ]
+}

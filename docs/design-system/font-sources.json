@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/outfit/Outfit%5Bwght%5D.ttf",
+    "blob": "466d6245f9582df39bf73da91a8b3c938fd061cd",
+    "path": "assets/fonts/outfit/Outfit-Variable.ttf",
+    "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+    "version": "1.100 (Google Fonts commit 8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/outfit/OFL.txt",
+    "blob": "723cd447edee83ed3bb07c3343f478d352aa7440",
+    "path": "assets/fonts/outfit/OFL.txt",
+    "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+    "version": "1.100 (Google Fonts commit 8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rastikerdar/vazirmatn/83629f877e8f084cc07b47030b5d3a0ff06c76ec/fonts/variable/Vazirmatn%5Bwght%5D.ttf",
+    "blob": "b02ceb054d5f1f9ac563e79248ce1bf8e35d60ca",
+    "path": "assets/fonts/vazirmatn/Vazirmatn-Variable.ttf",
+    "sha256": "696249a2c74b39ffdef55de4df2809c5b639d3ff80d618d8160a095d2fd49dca",
+    "version": "33.003 (release v33.003; commit 83629f877e8f084cc07b47030b5d3a0ff06c76ec)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rastikerdar/vazirmatn/83629f877e8f084cc07b47030b5d3a0ff06c76ec/OFL.txt",
+    "blob": "be66b3824e9772e75141e631695c5256f105fb57",
+    "path": "assets/fonts/vazirmatn/OFL.txt",
+    "sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31",
+    "version": "33.003 (release v33.003; commit 83629f877e8f084cc07b47030b5d3a0ff06c76ec)"
+  }
+]

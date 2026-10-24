@@ -1,0 +1,37 @@
+name: p2e_design_system
+description: Reusable P2E design foundations and components.
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ^3.13.0
+  flutter: '>=3.47.7'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.2.0
+dev_dependencies:
+  flutter_localizations:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  assets:
+    - assets/images/auth/
+    - assets/icons/brands/
+    - assets/icons/system/fill/
+    - assets/icons/system/outline/
+  fonts:
+    - family: Outfit
+      fonts:
+        - asset: assets/fonts/outfit/Outfit-400.ttf
+          weight: 400
+        - asset: assets/fonts/outfit/Outfit-500.ttf
+          weight: 500
+        - asset: assets/fonts/outfit/Outfit-600.ttf
+          weight: 600
+        - asset: assets/fonts/outfit/Outfit-700.ttf
+          weight: 700
+    - family: Vazirmatn
+      fonts:
+        - asset: assets/fonts/vazirmatn/Vazirmatn-Variable.ttf

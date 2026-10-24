@@ -1,0 +1,117 @@
+{
+  "complete": true,
+  "roots": [
+    {
+      "id": "18437:9175",
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.03921568766236305,
+            "b": 0.03921568766236305
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:156"
+            }
+          }
+        }
+      ],
+      "body": [
+        {
+          "id": "18437:9178",
+          "fills": []
+        }
+      ]
+    },
+    {
+      "id": "18422:11645",
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:195"
+            }
+          }
+        }
+      ],
+      "body": [
+        {
+          "id": "18422:11648",
+          "fills": []
+        }
+      ]
+    },
+    {
+      "id": "18517:1302",
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.03921568766236305,
+            "b": 0.03921568766236305
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:156"
+            }
+          }
+        }
+      ],
+      "body": [
+        {
+          "id": "18517:1305",
+          "fills": []
+        }
+      ]
+    },
+    {
+      "id": "18533:6290",
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:195"
+            }
+          }
+        }
+      ],
+      "body": [
+        {
+          "id": "18533:6293",
+          "fills": []
+        }
+      ]
+    }
+  ]
+}

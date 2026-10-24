@@ -1,0 +1,1 @@
+return { requestedFileKey: '7PGTHT5CQzbTsWZQnPIQce', fileKey: figma.fileKey ?? null, document: { id: figma.root.id, name: figma.root.name }, pluginApiVersion: figma.apiVersion, editorType: figma.editorType };

@@ -1,0 +1,68 @@
+[
+  {
+    "path": "packages/design_system/assets/fonts/outfit/Outfit-Variable.ttf",
+    "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+    "names": {
+      "1": [
+        "Outfit Thin"
+      ],
+      "2": [
+        "Regular"
+      ],
+      "5": [
+        "Version 1.100;gftools[0.9.27]"
+      ],
+      "6": [
+        "Outfit-Thin"
+      ],
+      "13": [
+        "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+      ],
+      "14": [
+        "https://scripts.sil.org/OFL"
+      ]
+    },
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 100.0,
+        "max": 900.0
+      }
+    ],
+    "weight": 100
+  },
+  {
+    "path": "packages/design_system/assets/fonts/vazirmatn/Vazirmatn-Variable.ttf",
+    "sha256": "696249a2c74b39ffdef55de4df2809c5b639d3ff80d618d8160a095d2fd49dca",
+    "names": {
+      "1": [
+        "Vazirmatn"
+      ],
+      "2": [
+        "Regular"
+      ],
+      "5": [
+        "Version 33.003"
+      ],
+      "6": [
+        "Vazirmatn-Regular"
+      ],
+      "13": [
+        "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+      ],
+      "14": [
+        "https://scripts.sil.org/OFL"
+      ]
+    },
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    ],
+    "weight": 400
+  }
+]

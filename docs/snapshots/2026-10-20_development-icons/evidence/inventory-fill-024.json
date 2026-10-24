@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": "icons-1.0",
+  "setId": "14466:925",
+  "setName": "Fill",
+  "total": 104,
+  "offset": 24,
+  "next": 48,
+  "componentPropertyDefinitions": {
+    "Icon": {
+      "type": "VARIANT",
+      "defaultValue": "Attach File Add",
+      "variantOptions": [
+        "Add",
+        "Add Larg",
+        "Arrow Drop Down",
+        "Arrow Drop Left",
+        "Arrow Drop Right",
+        "Arrow Drop Up",
+        "Brightness Alert",
+        "Calendar",
+        "Check",
+        "Chess Bishop",
+        "Chess Knight",
+        "Chess Pawn",
+        "Chess Queen",
+        "Chess Rok",
+        "Chevron Down",
+        "Chevron Left",
+        "Chevron Right",
+        "Chevron Up",
+        "Close",
+        "Close Small",
+        "Edit",
+        "Edit Square",
+        "Extension",
+        "Fingerprint",
+        "ID Card",
+        "Image",
+        "Image Arrow Up",
+        "Image Search",
+        "Imagesearch Roller",
+        "Imagesmode",
+        "Location",
+        "Mail",
+        "Person",
+        "Phone Enabled",
+        "Release Alert",
+        "Scoreboard",
+        "Shoe Cleats",
+        "Sports",
+        "Tactic",
+        "Timer",
+        "Trophy",
+        "Verified",
+        "Video Camera Back",
+        "Video Camera Back Add",
+        "Video Camera Front",
+        "Warning",
+        "Attach File",
+        "Link",
+        "Link Off",
+        "Link 2",
+        "Attach File Add",
+        "My Location",
+        "Timer Play",
+        "Play Arrow",
+        "Motion Play",
+        "Pause Circle",
+        "Play Circle",
+        "Dark Mode",
+        "Light Mode",
+        "Home",
+        "Leaderboard",
+        "Target Check",
+        "Stadia Controller",
+        "Sports Esports",
+        "Store",
+        "Poker Chip",
+        "Crown",
+        "Add Shopping Cart",
+        "Notifications",
+        "Help",
+        "Menu",
+        "Workspace Premium 2",
+        "Workspace Premium 1",
+        "Star",
+        "Star Half",
+        "Download",
+        "Upload",
+        "Arrow Cool Down",
+        "Arrow Wam Up",
+        "Arrow Up Alt",
+        "Arrow Down Alt",
+        "Arrow Right Alt",
+        "Arrow Left Alt",
+        "Arrow Up",
+        "Arrow Down",
+        "Arrow Right",
+        "Arrow Left",
+        "Downloading",
+        "Cloud Upload",
+        "Cloud Download",
+        "Bookmark Remove",
+        "Bookmark Add",
+        "Bookmark Added",
+        "Bookmark Check",
+        "Bookmark Heart",
+        "Bookmark Star",
+        "Bookmark",
+        "Share",
+        "Thumb Up",
+        "Thumb Down",
+        "More Horizontal",
+        "More Vertical",
+        "Visibility Off",
+        "Visibility"
+      ]
+    }
+  },
+  "icons": [
+    {
+      "id": "14537:1179",
+      "key": "fa02612714a75ef20ff640b7422d02e53080ae7b",
+      "name": "Icon=Warning",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Warning"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14537:1178",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14537:1178",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14559:951",
+      "key": "19e911bbd04cfe7ec722a03c196197ad6aa7dbc0",
+      "name": "Icon=Add Larg",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Add Larg"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14559:947",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14559:947",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14559:952",
+      "key": "9a6e5753bf8a4df6a4bd92bf6eff271b596bdb22",
+      "name": "Icon=Add",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Add"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14559:949",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14559:949",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14667:4497",
+      "key": "38664ebf63ca4b67ecc3c5bcd9feade34e9db513",
+      "name": "Icon=Edit",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Edit"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14667:4492",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14667:4492",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14667:4499",
+      "key": "9f3e69f331ec68f79fb467ada42e929c0ae599dd",
+      "name": "Icon=Edit Square",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Edit Square"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14667:4496",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14667:4496",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14810:2767",
+      "key": "a64af24f9bc31f997a00afe7902229e55a7a99fa",
+      "name": "Icon=Timer",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Timer"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14810:2766",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14810:2766",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14825:3526",
+      "key": "a0926585e8af417d06249ac4e071d441140fcae4",
+      "name": "Icon=Trophy",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Trophy"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15910",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15910",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14866:3053",
+      "key": "a695c26aa3581f7007a2a898c6854f48d90fd6a0",
+      "name": "Icon=Tactic",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Tactic"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14866:3052",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14866:3052",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14868:3396",
+      "key": "5bbb03d8090b51654346bcd64ec1a5ebc2a9e425",
+      "name": "Icon=ID Card",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "ID Card"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14868:3393",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14868:3393",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "14868:3398",
+      "key": "5d76c6b8b51d1781e247d513a4c6b28208b713cf",
+      "name": "Icon=Fingerprint",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Fingerprint"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "14868:3395",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "14868:3395",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15031:23249",
+      "key": "9ec17953e4857a4822761110f462d0489e0dee35",
+      "name": "Icon=Sports",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Sports"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15030:23242",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15030:23242",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15031:23252",
+      "key": "a164b7a2a8995519ad9a8fa0194f3bc8192615e1",
+      "name": "Icon=Shoe Cleats",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Shoe Cleats"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15030:23244",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15030:23244",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15031:23253",
+      "key": "8a3d9315959f42818c4fbd45064408d8a1c32902",
+      "name": "Icon=Scoreboard",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Scoreboard"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15030:23246",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15030:23246",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15630",
+      "key": "5b0ce11387b95dfe8c104f80ef7d2a0221fb072e",
+      "name": "Icon=Video Camera Back Add",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Video Camera Back Add"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15613",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15613",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15631",
+      "key": "f216251d3e7921eca594fd4f8651f4752f184198",
+      "name": "Icon=Image",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Image"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15609",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15609",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15632",
+      "key": "80d712b0d60290c0fbc0ee193b96901e854f9ccf",
+      "name": "Icon=Video Camera Front",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Video Camera Front"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15611",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15611",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15633",
+      "key": "3f19931ae035e7de664bc03ec08fd24a7251b1c4",
+      "name": "Icon=Imagesmode",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Imagesmode"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15603",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15603",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15637",
+      "key": "e80a9cc5fce21ecb95508fb7e1809c8a9161a8c5",
+      "name": "Icon=Image Arrow Up",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Image Arrow Up"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15607",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15607",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15639",
+      "key": "801b70fedd628a2003936c4ea4e920282148e772",
+      "name": "Icon=Image Search",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Image Search"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15605",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15605",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15640",
+      "key": "b3840be325648b405caa877a787d5ed7484c8acf",
+      "name": "Icon=Imagesearch Roller",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Imagesearch Roller"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15591",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15591",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15642",
+      "key": "b5047754e2f470c2b9790f220f49b94288ececcd",
+      "name": "Icon=Video Camera Back",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Video Camera Back"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15615",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15615",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15981",
+      "key": "35391f0a15cef9ce490bebd44702f942b7053e9e",
+      "name": "Icon=Link Off",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Link Off"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15978",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15978",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15982",
+      "key": "c939676c20c6f66af85e85030955d093b3033f4e",
+      "name": "Icon=Link",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Link"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15976",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15976",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15135:15983",
+      "key": "a8655d10e68e6714770157434cae8dd405a845f5",
+      "name": "Icon=Link 2",
+      "width": 24,
+      "height": 24,
+      "variantProperties": {
+        "Icon": "Link 2"
+      },
+      "componentPropertyDefinitionsRef": "14466:925",
+      "description": "",
+      "documentationLinks": [],
+      "paints": [
+        {
+          "nodeId": "15135:15980",
+          "property": "fills",
+          "paint": {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            }
+          }
+        },
+        {
+          "nodeId": "15135:15980",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:16433:9040"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

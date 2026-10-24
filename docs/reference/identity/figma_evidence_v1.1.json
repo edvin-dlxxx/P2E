@@ -1,0 +1,198 @@
+{
+  "documentVersion": "1.1",
+  "auditDate": "2026-10-19",
+  "source": "Figma Plugin API read-only, design system Copy",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "originalFileAudited": false,
+  "observations": [
+    {
+      "ref": "FG-20261019-VAR",
+      "pageId": "16433:9139",
+      "verification": "api-verified-copy",
+      "method": [
+        "node.boundVariables",
+        "figma.variables.getVariableByIdAsync",
+        "figma.variables.getLocalVariablesAsync",
+        "figma.variables.getLocalVariableCollectionsAsync",
+        "collection.variableIds"
+      ],
+      "badgeVariantDistinctIds": 12,
+      "variantIdsResolved": 12,
+      "variantIdsEnumerated": 12,
+      "variantIdsInCollections": 12,
+      "allLocalVariables": 282,
+      "collectionCount": 5,
+      "badgePageIncludingSetBackgroundDistinctIds": 14,
+      "variableIds": [
+        "VariableID:16433:9040",
+        "VariableID:16433:9039",
+        "VariableID:16429:158",
+        "VariableID:18420:7522",
+        "VariableID:16447:341",
+        "VariableID:16429:188",
+        "VariableID:18420:7518",
+        "VariableID:16429:200",
+        "VariableID:18420:7494",
+        "VariableID:16429:198",
+        "VariableID:16429:206",
+        "VariableID:18420:7495"
+      ],
+      "historicalTenMissingClaimReproduced": false
+    },
+    {
+      "ref": "FG-20261019-RAD",
+      "pageId": "18563:6534",
+      "verification": "api-verified-copy",
+      "method": [
+        "component.reactions",
+        "instance.reactions"
+      ],
+      "componentSets": [
+        "16481:4815",
+        "16481:5017"
+      ],
+      "variantCount": 8,
+      "reactionCount": 8,
+      "hoverSmartAnimateCount": 4,
+      "clickNullTransitionCount": 4,
+      "hoverEasing": "EASE_OUT",
+      "hoverDurationSeconds": 0.3,
+      "clickSelectedHoverReturnsToNotSelected": true,
+      "enRadioInstancesWithHoverReaction": 3,
+      "runtimeRadioToggleOffApproved": false
+    },
+    {
+      "ref": "FG-20261019-STATE",
+      "pageId": "18563:6534",
+      "verification": "api-verified-copy",
+      "method": [
+        "component_set.children[].name"
+      ],
+      "textField": {
+        "sets": 2,
+        "themes": [
+          "Dark",
+          "Light"
+        ],
+        "states": [
+          "Default",
+          "Focused",
+          "Written",
+          "Success",
+          "Error"
+        ]
+      },
+      "password": {
+        "sets": 1,
+        "themes": [
+          "Dark"
+        ],
+        "states": [
+          "Default",
+          "Focused",
+          "Written",
+          "Success",
+          "Error"
+        ],
+        "visibility": [
+          "On",
+          "Off"
+        ],
+        "variants": 10
+      },
+      "otp": {
+        "sets": 1,
+        "themes": [
+          "Dark"
+        ],
+        "states": [
+          "Default",
+          "Focused",
+          "Written",
+          "Edit",
+          "Success",
+          "Error"
+        ],
+        "variants": 6
+      },
+      "radio": {
+        "sets": 2,
+        "themes": [
+          "Dark",
+          "Light"
+        ],
+        "states": [
+          "Not Selected",
+          "Not Selected Hover",
+          "Selected",
+          "Selected Hover"
+        ]
+      }
+    },
+    {
+      "ref": "FG-20261019-BADGE",
+      "pageId": "16433:9139",
+      "verification": "api-verified-copy",
+      "method": [
+        "component_set.variantGroupProperties",
+        "text.fontSize",
+        "text.lineHeight"
+      ],
+      "setCount": 6,
+      "variantCount": 30,
+      "rawVariantAxisName": "Button",
+      "semanticAxisMappingProposal": "appearance",
+      "smallBadgeFontPx": 8,
+      "smallBadgeLineHeightPx": 10
+    },
+    {
+      "ref": "FG-20261019-BUTTON",
+      "pageId": "16433:9027",
+      "verification": "api-verified-copy",
+      "method": [
+        "component.cornerRadius"
+      ],
+      "setCount": 18,
+      "variantCount": 90,
+      "radiusPx": {
+        "smallFill": 10,
+        "smallText": 10,
+        "smallIcon": 12,
+        "mediumAll": 12,
+        "largeAll": 12
+      }
+    },
+    {
+      "ref": "FG-20261019-EN",
+      "pageId": "16458:11",
+      "verification": "api-verified-copy",
+      "method": [
+        "page.findAllWithCriteria types INSTANCE",
+        "instance.name",
+        "instance.reactions"
+      ],
+      "buttonInstanceCount": 43,
+      "buttonSetCountUsed": 5,
+      "buttonSetCountAvailable": 18,
+      "largeButtonInstances": 0,
+      "buttonSetInstanceCounts": {
+        "Medium Fill Button - Dark Mode": 18,
+        "Small Button - Dark Mode": 10,
+        "Small Button - Light Mode": 8,
+        "Medium Icon Button - Dark Mode": 1,
+        "Medium Fill Button - Light Mode": 6
+      }
+    }
+  ],
+  "limits": [
+    "Source is Copy, not original file",
+    "API evidence does not constitute designer approval",
+    "Earlier audits not exhaustively re-performed",
+    "No Figma edits performed"
+  ],
+  "schemaCompatibility": {
+    "snapshotSchemaVersion": "1.0.0",
+    "fixRequestSchemaVersion": "1.0.0",
+    "schemaChanged": false
+  }
+}

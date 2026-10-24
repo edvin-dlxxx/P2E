@@ -1,0 +1,566 @@
+[
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "bad0ed52a07434d38be80735f948dc7683c01328ab868087e1aec7ea8ddf38cc",
+    "actual": "bad0ed52a07434d38be80735f948dc7683c01328ab868087e1aec7ea8ddf38cc",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "43c78433d4285c64149b79e1f5ed0a86c3b84bae60767953479da33f57d2a84d",
+    "actual": "43c78433d4285c64149b79e1f5ed0a86c3b84bae60767953479da33f57d2a84d",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "5d3e8800eaf2ef32e05f538f94110d091c12ed8326370ea9f99d74b628275b79",
+    "actual": "5d3e8800eaf2ef32e05f538f94110d091c12ed8326370ea9f99d74b628275b79",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "49a97f766ceeef5262f123039c9a7d347132483f0f0325cb545e1e8fca30cbff",
+    "actual": "49a97f766ceeef5262f123039c9a7d347132483f0f0325cb545e1e8fca30cbff",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "e0e50b6fac8fd8b2686b848474b39b4ceab34f47bf79e903c0c8aaccf7f9ae84",
+    "actual": "e0e50b6fac8fd8b2686b848474b39b4ceab34f47bf79e903c0c8aaccf7f9ae84",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "de4ca6f2ec9bd988f906fcfb19034d01b64e6b6e98a776b83880958821677fa8",
+    "actual": "de4ca6f2ec9bd988f906fcfb19034d01b64e6b6e98a776b83880958821677fa8",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appbar-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "7b4328e0eb28e38ec7ef045ad4b280754b8d28fd82f0adca262c727e2b6eb7f3",
+    "actual": "7b4328e0eb28e38ec7ef045ad4b280754b8d28fd82f0adca262c727e2b6eb7f3",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "422bfac132a543216d78aa54497f04ed90eb91e56ffad72b3721d17a271c196a",
+    "actual": "422bfac132a543216d78aa54497f04ed90eb91e56ffad72b3721d17a271c196a",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "actual": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "f143ff60b2acfdfda1a9bc3f4c5f91222e644c4cb6a09dd072077ce203c64ecb",
+    "actual": "f143ff60b2acfdfda1a9bc3f4c5f91222e644c4cb6a09dd072077ce203c64ecb",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "actual": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "actual": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "actual": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "f1ee921eab9c4a76df804d9f5f9e06e17c9582c9c4d80136fc5969cbd1309872",
+    "actual": "f1ee921eab9c4a76df804d9f5f9e06e17c9582c9c4d80136fc5969cbd1309872",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-dark-1.0-product.png",
+    "expectedAtTaskStart": "a465481546b52e86822322a78d4430fda21fb7aa8ddd8c6085015f11dc67b012",
+    "actual": "a465481546b52e86822322a78d4430fda21fb7aa8ddd8c6085015f11dc67b012",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-1.0-product.png",
+    "expectedAtTaskStart": "f37e9652d63c927cf7ef395eb700690fec9fc1e4f78181270668576c1075e279",
+    "actual": "f37e9652d63c927cf7ef395eb700690fec9fc1e4f78181270668576c1075e279",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-1.0-test.png",
+    "expectedAtTaskStart": "05307f1457e40c0d497e340d2237ae663cf8813d236785c4f2c9fc09524de73a",
+    "actual": "05307f1457e40c0d497e340d2237ae663cf8813d236785c4f2c9fc09524de73a",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-2.0-product.png",
+    "expectedAtTaskStart": "9cc3170fb1aac2203dd13e7aabe7d695dca7c2ba09a7809db93c595a1687a659",
+    "actual": "9cc3170fb1aac2203dd13e7aabe7d695dca7c2ba09a7809db93c595a1687a659",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-dark-1.0-product.png",
+    "expectedAtTaskStart": "5bf8b132bfbfdcbdc0498c7b86b127b25a16aea52274fbba239ab7315a24f420",
+    "actual": "5bf8b132bfbfdcbdc0498c7b86b127b25a16aea52274fbba239ab7315a24f420",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-dark-2.0-product.png",
+    "expectedAtTaskStart": "bfdac16b27a3f32a3885f0e056a00b0e7e1dbc59e8ecafc648087384de74f19f",
+    "actual": "bfdac16b27a3f32a3885f0e056a00b0e7e1dbc59e8ecafc648087384de74f19f",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-light-1.0-product.png",
+    "expectedAtTaskStart": "66ef36a0f049bac848f5c5501124c226922b9a6ed971de45b2dd7c4d743daabc",
+    "actual": "66ef36a0f049bac848f5c5501124c226922b9a6ed971de45b2dd7c4d743daabc",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "1e894239e81a30eccd685d6e1b408aac7d8443449b8a2404fc21be757e001d30",
+    "actual": "1e894239e81a30eccd685d6e1b408aac7d8443449b8a2404fc21be757e001d30",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "9a4e44c49db363d411ce98ce81101cf61e7b1d5ba21efa516e1b79e38ccc1a89",
+    "actual": "9a4e44c49db363d411ce98ce81101cf61e7b1d5ba21efa516e1b79e38ccc1a89",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "b4acb434295c9d1f7377c27891ed0c9969fbf10ad790e3258bddca5b3c7571a4",
+    "actual": "b4acb434295c9d1f7377c27891ed0c9969fbf10ad790e3258bddca5b3c7571a4",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "b692253547d07652e875ffecc2d34dfa4050d7f2a870c63cc0017410f4dc46c6",
+    "actual": "b692253547d07652e875ffecc2d34dfa4050d7f2a870c63cc0017410f4dc46c6",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "8bea200b9b47bb8080bb0d2386233a3d97bf173f5d05fd36139b22df2b15e215",
+    "actual": "8bea200b9b47bb8080bb0d2386233a3d97bf173f5d05fd36139b22df2b15e215",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "da12c70191e3299bc85e7269d95d954465dcca853e3493103413790b7eb1febf",
+    "actual": "da12c70191e3299bc85e7269d95d954465dcca853e3493103413790b7eb1febf",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "403fee9e6c3eccfacbb4be00fe6e5433c57ceb01d1a437b794decbb3a26e73cf",
+    "actual": "403fee9e6c3eccfacbb4be00fe6e5433c57ceb01d1a437b794decbb3a26e73cf",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "ceab119d518733cd4f3a7a8f6e12aee93b54d16191a2d3ecd75953367e4c63e0",
+    "actual": "ceab119d518733cd4f3a7a8f6e12aee93b54d16191a2d3ecd75953367e4c63e0",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "30ec007fda860923e10e2f06cfa72b100825dc8841c90a6b9174cbbb4800e95b",
+    "actual": "30ec007fda860923e10e2f06cfa72b100825dc8841c90a6b9174cbbb4800e95b",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "b9c9126701b16392db817c833e254b15c51e9c2ea945fe33db7a5f2381e8ac62",
+    "actual": "b9c9126701b16392db817c833e254b15c51e9c2ea945fe33db7a5f2381e8ac62",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "42cae6efd411ccd07c3405702972cc26e752dec5d4c3a6355b95b3bb0cb0ff38",
+    "actual": "42cae6efd411ccd07c3405702972cc26e752dec5d4c3a6355b95b3bb0cb0ff38",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "21cbc7387202b974dc1b0c3aee089805d3bb33210cb40fd598be0d1dec53e1c2",
+    "actual": "21cbc7387202b974dc1b0c3aee089805d3bb33210cb40fd598be0d1dec53e1c2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "ed37a4f79a97cb6fafff8f4d2c77d50b08fce870be5e19ee10afdeac863e4bbc",
+    "actual": "ed37a4f79a97cb6fafff8f4d2c77d50b08fce870be5e19ee10afdeac863e4bbc",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/button-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "9102f6848d22b510d21cf208a1f0b03f63aba45e1cffad6df14733f6c17e4572",
+    "actual": "9102f6848d22b510d21cf208a1f0b03f63aba45e1cffad6df14733f6c17e4572",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "e8432b28b3cc8e3a4b9d264fd22926d8bb277c112f9c1806abb0ae15f588230b",
+    "actual": "e8432b28b3cc8e3a4b9d264fd22926d8bb277c112f9c1806abb0ae15f588230b",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "76833ba0c87dcd1477b570a161a260457e41170ab54b43f515c864a44774fad7",
+    "actual": "76833ba0c87dcd1477b570a161a260457e41170ab54b43f515c864a44774fad7",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "3e090755152c8246228371aa01d94c922afc6e3fd89eb82a63ef652fdda530dc",
+    "actual": "3e090755152c8246228371aa01d94c922afc6e3fd89eb82a63ef652fdda530dc",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "54bb746a9bdf5460f2c3d2773d9ac41601981410a153e4aa8ae85cf7dde26916",
+    "actual": "54bb746a9bdf5460f2c3d2773d9ac41601981410a153e4aa8ae85cf7dde26916",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "63e4ef76f20dfa10adaf0a5f2ba7dcf8a394bd2b376c34d512abc4d4f64823ce",
+    "actual": "63e4ef76f20dfa10adaf0a5f2ba7dcf8a394bd2b376c34d512abc4d4f64823ce",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "0e43db3721eeb67d34c41be5e23b1897a4db1655ae1087d2adc1d81979f3c916",
+    "actual": "0e43db3721eeb67d34c41be5e23b1897a4db1655ae1087d2adc1d81979f3c916",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "a6402953d9bebf9b1eac3716324e102edc9eceeb2dcd17df529cba5395723116",
+    "actual": "a6402953d9bebf9b1eac3716324e102edc9eceeb2dcd17df529cba5395723116",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/otp-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "6b1f0fd8f5488bdc9fbfd184eaa0c3414a2ad80a34af8256975aa7fde7d847b2",
+    "actual": "6b1f0fd8f5488bdc9fbfd184eaa0c3414a2ad80a34af8256975aa7fde7d847b2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/otp-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "2d8803187f5ec52c8f78241cc12e9d966a11e341bd1710ec107c46cc0a449e39",
+    "actual": "2d8803187f5ec52c8f78241cc12e9d966a11e341bd1710ec107c46cc0a449e39",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/otp-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "0961b2b693e9b928bf7fc07ff260bfd0aa419a49f6a92d85d07db3c29a089174",
+    "actual": "0961b2b693e9b928bf7fc07ff260bfd0aa419a49f6a92d85d07db3c29a089174",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "06e72658ed50eba9c0b479bd13d585d1fb3aebc96429a317f76223f8f80b9319",
+    "actual": "06e72658ed50eba9c0b479bd13d585d1fb3aebc96429a317f76223f8f80b9319",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-dark-1.0-product-700.png",
+    "expectedAtTaskStart": "ea7a299a5e6c27ff4f968cda8b86de32e1a0be0b6d76bd59d9b30cb3a662a5a8",
+    "actual": "ea7a299a5e6c27ff4f968cda8b86de32e1a0be0b6d76bd59d9b30cb3a662a5a8",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "05b51802596e4d23b6f8fd83d256e1a3f631454774fdaabce96d268f11df4843",
+    "actual": "05b51802596e4d23b6f8fd83d256e1a3f631454774fdaabce96d268f11df4843",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-product-700.png",
+    "expectedAtTaskStart": "4f0da2f6ae6833ca477667620ab411d2ee790611ffea63ff601489aeb9eedc50",
+    "actual": "4f0da2f6ae6833ca477667620ab411d2ee790611ffea63ff601489aeb9eedc50",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "b9bd259770d7774a118c2a542fb93128750d96155f3e46e8588799822bed6102",
+    "actual": "b9bd259770d7774a118c2a542fb93128750d96155f3e46e8588799822bed6102",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-test-700.png",
+    "expectedAtTaskStart": "b5359ea0c7cbcb50256d18ce1ec5fe65c8d321efa46b83ddd6c98be925642971",
+    "actual": "b5359ea0c7cbcb50256d18ce1ec5fe65c8d321efa46b83ddd6c98be925642971",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "775310adda437bba0ea3933e98da2c56ca47b1aaf9cecc2bcb794fb2d79dff97",
+    "actual": "775310adda437bba0ea3933e98da2c56ca47b1aaf9cecc2bcb794fb2d79dff97",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-2.0-product-700.png",
+    "expectedAtTaskStart": "01a32808174067c220d55d006b48edd4fa8385a444316fcbe39d1771313ea558",
+    "actual": "01a32808174067c220d55d006b48edd4fa8385a444316fcbe39d1771313ea558",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "a164efd2fa98a9e7bda4949ee0fd9b0cfb61052709eb02f66afb11f0723a556e",
+    "actual": "a164efd2fa98a9e7bda4949ee0fd9b0cfb61052709eb02f66afb11f0723a556e",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-1.0-product-700.png",
+    "expectedAtTaskStart": "1b635544db4dca3988c80743407dc6d85a6025034c25ebb86cd310d58bdb11fb",
+    "actual": "1b635544db4dca3988c80743407dc6d85a6025034c25ebb86cd310d58bdb11fb",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "f8f8e1f4d321bf3324e546c7f787e9cce26e6b41e1cdd66e0a12ebb1543f1046",
+    "actual": "f8f8e1f4d321bf3324e546c7f787e9cce26e6b41e1cdd66e0a12ebb1543f1046",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-2.0-product-700.png",
+    "expectedAtTaskStart": "4b200cde5572be226e28127a0b807a6ca669e8311eb6d937cad526c6d6528ce9",
+    "actual": "4b200cde5572be226e28127a0b807a6ca669e8311eb6d937cad526c6d6528ce9",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "cb25fe04cff3767046b90909d4f05a471913f4497b55e4a4758aa2e4bca46b13",
+    "actual": "cb25fe04cff3767046b90909d4f05a471913f4497b55e4a4758aa2e4bca46b13",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-light-1.0-product-700.png",
+    "expectedAtTaskStart": "b9760a2573963ccc6176f7170ebbfec6a4c4d1c1f10a35b0ba06eb7ce9bf0d79",
+    "actual": "b9760a2573963ccc6176f7170ebbfec6a4c4d1c1f10a35b0ba06eb7ce9bf0d79",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/password-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "966f30f1f48dd018df4c75ec2a721050ef5d62f5f942997f0b6a6efd3379fa8f",
+    "actual": "966f30f1f48dd018df4c75ec2a721050ef5d62f5f942997f0b6a6efd3379fa8f",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/password-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "54472026b20a2bf1887aef338286fc465361120b48db16411ed882160fef9a21",
+    "actual": "54472026b20a2bf1887aef338286fc465361120b48db16411ed882160fef9a21",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/password-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "ff446c7d10c48fe72431e161820c238397fa62b3b1642d14a6e33f3a4c86f60c",
+    "actual": "ff446c7d10c48fe72431e161820c238397fa62b3b1642d14a6e33f3a4c86f60c",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "466b12faccf8861c8efe162b70e611805128b060ca364eea31905911b1670cce",
+    "actual": "466b12faccf8861c8efe162b70e611805128b060ca364eea31905911b1670cce",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "d7b47ebc6bae15aca68d60d21c068b7474572247520eedc4f7a5c21599667fd2",
+    "actual": "d7b47ebc6bae15aca68d60d21c068b7474572247520eedc4f7a5c21599667fd2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "c3dca3e78d92d0d3248242cdad8c1790bb5101a3af59c5fdbc370f0e93ef57d2",
+    "actual": "c3dca3e78d92d0d3248242cdad8c1790bb5101a3af59c5fdbc370f0e93ef57d2",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "9f0f37c97a300cf5d83d625cdd68e92a6a5084dd3d7bc509f1857950653e7744",
+    "actual": "9f0f37c97a300cf5d83d625cdd68e92a6a5084dd3d7bc509f1857950653e7744",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "cf1d43db4b80104923b610d3fd20ea7e16a42511f57d73bf354809ab3848471a",
+    "actual": "cf1d43db4b80104923b610d3fd20ea7e16a42511f57d73bf354809ab3848471a",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "1042b61d0f070f11fba3c71cbb3fb952689240f23e5539ca23b269fd6a1aef37",
+    "actual": "1042b61d0f070f11fba3c71cbb3fb952689240f23e5539ca23b269fd6a1aef37",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "cfd6db7edbaea590992e15e9d7969fdb0f389a270eddf0e132e8aa4ce371ef62",
+    "actual": "cfd6db7edbaea590992e15e9d7969fdb0f389a270eddf0e132e8aa4ce371ef62",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "94acf8762ee4216b612032bc77b4b4ec9bdb623675cfab72ef401cb86b8a5d67",
+    "actual": "94acf8762ee4216b612032bc77b4b4ec9bdb623675cfab72ef401cb86b8a5d67",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-1.0-product-402.png",
+    "expectedAtTaskStart": "84dbb55100483e7a480bd03cbff8a65cd5e8c4244e6f8d91b30c645615df3fb5",
+    "actual": "84dbb55100483e7a480bd03cbff8a65cd5e8c4244e6f8d91b30c645615df3fb5",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-1.0-test-402.png",
+    "expectedAtTaskStart": "14f8c90ea8a9126437519ebb5d023cb4b94150d768bcda960a74ba9015615707",
+    "actual": "14f8c90ea8a9126437519ebb5d023cb4b94150d768bcda960a74ba9015615707",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-2.0-product-402.png",
+    "expectedAtTaskStart": "1264be014afe9b48e9eddfc94acfffb153149dc01f1f80b4b15ad4d28df2568f",
+    "actual": "1264be014afe9b48e9eddfc94acfffb153149dc01f1f80b4b15ad4d28df2568f",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-1.0-product-402.png",
+    "expectedAtTaskStart": "72056e41a815962fde3394b4a030c553c40cc760c3f7e5f673eb8bdf1b8fb5a1",
+    "actual": "72056e41a815962fde3394b4a030c553c40cc760c3f7e5f673eb8bdf1b8fb5a1",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-2.0-product-402.png",
+    "expectedAtTaskStart": "552312c0b71adcd44d17266f39a5af15010f59b3a01eb47f76907acd879488d3",
+    "actual": "552312c0b71adcd44d17266f39a5af15010f59b3a01eb47f76907acd879488d3",
+    "unchanged": true
+  },
+  {
+    "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-light-1.0-product-402.png",
+    "expectedAtTaskStart": "6322ea145ea439fdda29ed7b97166000c049a15018da773e23ad4ba6b0803bdc",
+    "actual": "6322ea145ea439fdda29ed7b97166000c049a15018da773e23ad4ba6b0803bdc",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-email-en-dark-1.0-402.png",
+    "expectedAtTaskStart": "096b969a6e51275cb3f17ffe1b3df925f22afd24056353078589580349032f10",
+    "actual": "096b969a6e51275cb3f17ffe1b3df925f22afd24056353078589580349032f10",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-email-en-light-1.0-402.png",
+    "expectedAtTaskStart": "8459a1801f403eb2710cd98b85807c1c7ee61f29a4939467caa9d2816ebac39a",
+    "actual": "8459a1801f403eb2710cd98b85807c1c7ee61f29a4939467caa9d2816ebac39a",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-email-fa-dark-1.0-402.png",
+    "expectedAtTaskStart": "76770633c2461662bb5ce60be1fa1be3ea67906f2b77a0678f033c152cb64199",
+    "actual": "76770633c2461662bb5ce60be1fa1be3ea67906f2b77a0678f033c152cb64199",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-email-fa-dark-2.0-402.png",
+    "expectedAtTaskStart": "e2a9bd9005840b3991b71364642764fe04d2f26177479534fc221a941689c99a",
+    "actual": "e2a9bd9005840b3991b71364642764fe04d2f26177479534fc221a941689c99a",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-email-fa-light-1.0-402.png",
+    "expectedAtTaskStart": "e5b9154962654198eb4d7ee69d5e019d0efd9a832891bfb1502f8d2eb2cc5869",
+    "actual": "e5b9154962654198eb4d7ee69d5e019d0efd9a832891bfb1502f8d2eb2cc5869",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-focused-en-dark-1.0-402.png",
+    "expectedAtTaskStart": "135bdaa43f99a8f01fe4cc3aa891eb3eee60574de8bb2918d46d8b381822728b",
+    "actual": "135bdaa43f99a8f01fe4cc3aa891eb3eee60574de8bb2918d46d8b381822728b",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-focused-en-light-1.0-402.png",
+    "expectedAtTaskStart": "0ed9ba78e004656514fb0cd8bc107fad857032bc59bb5344b1b2acdfaa329127",
+    "actual": "0ed9ba78e004656514fb0cd8bc107fad857032bc59bb5344b1b2acdfaa329127",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-focused-fa-dark-1.0-402.png",
+    "expectedAtTaskStart": "1bd9bb781f4f705592eeba188737b2842dd5033eed5f7a66adb513f4b55f0017",
+    "actual": "1bd9bb781f4f705592eeba188737b2842dd5033eed5f7a66adb513f4b55f0017",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-focused-fa-light-1.0-402.png",
+    "expectedAtTaskStart": "f65ae553dfa178443b52680ac2ecc453fc51cfaf294abc3b15562fd3a18e2fc5",
+    "actual": "f65ae553dfa178443b52680ac2ecc453fc51cfaf294abc3b15562fd3a18e2fc5",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-idle-en-dark-1.0-402.png",
+    "expectedAtTaskStart": "6b4aaeb3f813fe99abbd13ace57cbab9a2e4d5f03799917af31ff389849613da",
+    "actual": "6b4aaeb3f813fe99abbd13ace57cbab9a2e4d5f03799917af31ff389849613da",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-idle-en-dark-1.0-744.png",
+    "expectedAtTaskStart": "afd84bd475e17d7ab57475b525710f25f43524bc0bb96364e285c9581729dbf3",
+    "actual": "afd84bd475e17d7ab57475b525710f25f43524bc0bb96364e285c9581729dbf3",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-idle-en-light-1.0-402.png",
+    "expectedAtTaskStart": "f222346930ea8c392592989b809e82112c4ee7bad85727d8f484aaf5a9708cbb",
+    "actual": "f222346930ea8c392592989b809e82112c4ee7bad85727d8f484aaf5a9708cbb",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-idle-fa-dark-1.0-402.png",
+    "expectedAtTaskStart": "b2544593e27b703428824f5b48b4ce49821aa4efd85862b1b8f9783f96c4ca05",
+    "actual": "b2544593e27b703428824f5b48b4ce49821aa4efd85862b1b8f9783f96c4ca05",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-idle-fa-light-1.0-402.png",
+    "expectedAtTaskStart": "c24d83b4438b6b5761d9417ae8c5bfdc6a84cc8e6416a5909dcd99b30f444344",
+    "actual": "c24d83b4438b6b5761d9417ae8c5bfdc6a84cc8e6416a5909dcd99b30f444344",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-phone-en-dark-1.0-402.png",
+    "expectedAtTaskStart": "b4e24de5750de76743a7b83707b2a96b98074ffb41ee852bf08569d32ecfc855",
+    "actual": "b4e24de5750de76743a7b83707b2a96b98074ffb41ee852bf08569d32ecfc855",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-phone-en-light-1.0-402.png",
+    "expectedAtTaskStart": "f873a7fa9ab583d38e819df82bd2cadded5cb05e1ebf0bb73e1fa9f74ce7593f",
+    "actual": "f873a7fa9ab583d38e819df82bd2cadded5cb05e1ebf0bb73e1fa9f74ce7593f",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-phone-fa-dark-1.0-402.png",
+    "expectedAtTaskStart": "b95a346fe02faa228053c22524dc65977b1894e7d7e7e0e0057f277fe37cfeb1",
+    "actual": "b95a346fe02faa228053c22524dc65977b1894e7d7e7e0e0057f277fe37cfeb1",
+    "unchanged": true
+  },
+  {
+    "path": "test/goldens/baselines/windows/auth-phone-fa-light-1.0-402.png",
+    "expectedAtTaskStart": "ef98f1a33e65d3dac3a1b5bc40eb06df2c9bec29ac79e7b717cffdd62441c6cc",
+    "actual": "ef98f1a33e65d3dac3a1b5bc40eb06df2c9bec29ac79e7b717cffdd62441c6cc",
+    "unchanged": true
+  }
+]

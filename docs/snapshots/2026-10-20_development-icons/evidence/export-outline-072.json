@@ -1,0 +1,210 @@
+{
+  "icons": [
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            64
+          ],
+          [
+            0,
+            1,
+            328
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 64,
+        "y": 328
+      },
+      "id": "18429:427",
+      "name": "Icon=Workspace Premium 1",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 11.925L10.3 13.225C10.2 13.3083 10.1 13.3125 10 13.2375C9.9 13.1625 9.86667 13.0667 9.9 12.95L10.55 10.85L8.8 9.45C8.71667 9.36667 8.69167 9.27083 8.725 9.1625C8.75833 9.05417 8.83333 9 8.95 9H11.1L11.75 6.95C11.7833 6.83333 11.8667 6.775 12 6.775C12.1333 6.775 12.2167 6.83333 12.25 6.95L12.9 9H15.025C15.1417 9 15.2208 9.05417 15.2625 9.1625C15.3042 9.27083 15.2833 9.36667 15.2 9.45L13.425 10.85L14.075 12.95C14.1083 13.0667 14.075 13.1625 13.975 13.2375C13.875 13.3125 13.775 13.3083 13.675 13.225L12 11.925ZM12 21L7.325 22.55C6.99167 22.6667 6.6875 22.625 6.4125 22.425C6.1375 22.225 6 21.9583 6 21.625V15.275C5.36667 14.575 4.875 13.775 4.525 12.875C4.175 11.975 4 11.0167 4 10C4 7.76667 4.775 5.875 6.325 4.325C7.875 2.775 9.76667 2 12 2C14.2333 2 16.125 2.775 17.675 4.325C19.225 5.875 20 7.76667 20 10C20 11.0167 19.825 11.975 19.475 12.875C19.125 13.775 18.6333 14.575 18 15.275V21.625C18 21.9583 17.8625 22.225 17.5875 22.425C17.3125 22.625 17.0083 22.6667 16.675 22.55L12 21ZM16.25 14.25C17.4167 13.0833 18 11.6667 18 10C18 8.33333 17.4167 6.91667 16.25 5.75C15.0833 4.58333 13.6667 4 12 4C10.3333 4 8.91667 4.58333 7.75 5.75C6.58333 6.91667 6 8.33333 6 10C6 11.6667 6.58333 13.0833 7.75 14.25C8.91667 15.4167 10.3333 16 12 16C13.6667 16 15.0833 15.4167 16.25 14.25ZM8 20.025L12 19L16 20.025V16.925C15.4167 17.2583 14.7875 17.5208 14.1125 17.7125C13.4375 17.9042 12.7333 18 12 18C11.2667 18 10.5625 17.9042 9.8875 17.7125C9.2125 17.5208 8.58333 17.2583 8 16.925V20.025Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            196
+          ],
+          [
+            0,
+            1,
+            328
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 196,
+        "y": 328
+      },
+      "id": "18447:10017",
+      "name": "Icon=Star Half",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 7.12501V14.925L15.15 16.85L14.325 13.25L17.1 10.85L13.45 10.525L12 7.12501ZM12 17.275L7.85 19.775C7.66667 19.8917 7.475 19.9417 7.275 19.925C7.075 19.9083 6.9 19.8417 6.75 19.725C6.6 19.6083 6.48333 19.4625 6.4 19.2875C6.31667 19.1125 6.3 18.9167 6.35 18.7L7.45 13.975L3.775 10.8C3.60833 10.65 3.50417 10.4792 3.4625 10.2875C3.42083 10.0958 3.43333 9.90835 3.5 9.72501C3.56667 9.54168 3.66667 9.39168 3.8 9.27501C3.93333 9.15835 4.11667 9.08335 4.35 9.05001L9.2 8.62501L11.075 4.17501C11.1583 3.97501 11.2875 3.82501 11.4625 3.72501C11.6375 3.62501 11.8167 3.57501 12 3.57501C12.1833 3.57501 12.3625 3.62501 12.5375 3.72501C12.7125 3.82501 12.8417 3.97501 12.925 4.17501L14.8 8.62501L19.65 9.05001C19.8833 9.08335 20.0667 9.15835 20.2 9.27501C20.3333 9.39168 20.4333 9.54168 20.5 9.72501C20.5667 9.90835 20.5792 10.0958 20.5375 10.2875C20.4958 10.4792 20.3917 10.65 20.225 10.8L16.55 13.975L17.65 18.7C17.7 18.9167 17.6833 19.1125 17.6 19.2875C17.5167 19.4625 17.4 19.6083 17.25 19.725C17.1 19.8417 16.925 19.9083 16.725 19.925C16.525 19.9417 16.3333 19.8917 16.15 19.775L12 17.275Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            152
+          ],
+          [
+            0,
+            1,
+            328
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 152,
+        "y": 328
+      },
+      "id": "18447:10019",
+      "name": "Icon=Star",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.85 16.825L12 14.925L15.15 16.85L14.325 13.25L17.1 10.85L13.45 10.525L12 7.12501L10.55 10.5L6.9 10.825L9.675 13.25L8.85 16.825ZM12 17.275L7.85 19.775C7.66667 19.8917 7.475 19.9417 7.275 19.925C7.075 19.9083 6.9 19.8417 6.75 19.725C6.6 19.6083 6.48333 19.4625 6.4 19.2875C6.31667 19.1125 6.3 18.9167 6.35 18.7L7.45 13.975L3.775 10.8C3.60833 10.65 3.50417 10.4792 3.4625 10.2875C3.42083 10.0958 3.43333 9.90835 3.5 9.72501C3.56667 9.54168 3.66667 9.39168 3.8 9.27501C3.93333 9.15835 4.11667 9.08335 4.35 9.05001L9.2 8.62501L11.075 4.17501C11.1583 3.97501 11.2875 3.82501 11.4625 3.72501C11.6375 3.62501 11.8167 3.57501 12 3.57501C12.1833 3.57501 12.3625 3.62501 12.5375 3.72501C12.7125 3.82501 12.8417 3.97501 12.925 4.17501L14.8 8.62501L19.65 9.05001C19.8833 9.08335 20.0667 9.15835 20.2 9.27501C20.3333 9.39168 20.4333 9.54168 20.5 9.72501C20.5667 9.90835 20.5792 10.0958 20.5375 10.2875C20.4958 10.4792 20.3917 10.65 20.225 10.8L16.55 13.975L17.65 18.7C17.7 18.9167 17.6833 19.1125 17.6 19.2875C17.5167 19.4625 17.4 19.6083 17.25 19.725C17.1 19.8417 16.925 19.9083 16.725 19.925C16.525 19.9417 16.3333 19.8917 16.15 19.775L12 17.275Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            284
+          ],
+          [
+            0,
+            1,
+            328
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 284,
+        "y": 328
+      },
+      "id": "18517:2031",
+      "name": "Icon=Download",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.625 15.5125C11.5083 15.4708 11.4 15.4 11.3 15.3L7.7 11.7C7.5 11.5 7.40417 11.2667 7.4125 11C7.42083 10.7333 7.51667 10.5 7.7 10.3C7.9 10.1 8.1375 9.99583 8.4125 9.9875C8.6875 9.97917 8.925 10.075 9.125 10.275L11 12.15V5C11 4.71667 11.0958 4.47917 11.2875 4.2875C11.4792 4.09583 11.7167 4 12 4C12.2833 4 12.5208 4.09583 12.7125 4.2875C12.9042 4.47917 13 4.71667 13 5V12.15L14.875 10.275C15.075 10.075 15.3125 9.97917 15.5875 9.9875C15.8625 9.99583 16.1 10.1 16.3 10.3C16.4833 10.5 16.5792 10.7333 16.5875 11C16.5958 11.2667 16.5 11.5 16.3 11.7L12.7 15.3C12.6 15.4 12.4917 15.4708 12.375 15.5125C12.2583 15.5542 12.1333 15.575 12 15.575C11.8667 15.575 11.7417 15.5542 11.625 15.5125ZM6 20C5.45 20 4.97917 19.8042 4.5875 19.4125C4.19583 19.0208 4 18.55 4 18V16C4 15.7167 4.09583 15.4792 4.2875 15.2875C4.47917 15.0958 4.71667 15 5 15C5.28333 15 5.52083 15.0958 5.7125 15.2875C5.90417 15.4792 6 15.7167 6 16V18H18V16C18 15.7167 18.0958 15.4792 18.2875 15.2875C18.4792 15.0958 18.7167 15 19 15C19.2833 15 19.5208 15.0958 19.7125 15.2875C19.9042 15.4792 20 15.7167 20 16V18C20 18.55 19.8042 19.0208 19.4125 19.4125C19.0208 19.8042 18.55 20 18 20H6Z\" fill=\"white\"/>\n</svg>\n"
+    }
+  ],
+  "next": 76,
+  "offset": 72,
+  "schemaVersion": "2.0.0",
+  "set": "Outline",
+  "setId": "14466:880",
+  "total": 104
+}

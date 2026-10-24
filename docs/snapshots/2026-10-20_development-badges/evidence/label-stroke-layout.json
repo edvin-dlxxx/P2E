@@ -1,0 +1,49 @@
+[
+  {
+    "id": "18437:2335",
+    "name": "Text Label",
+    "type": "FRAME",
+    "width": 54,
+    "height": 16,
+    "strokes": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "boundVariables": {}
+      }
+    ],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokesIncludedInLayout": true,
+    "padding": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "18437:2311",
+    "name": "Text Label",
+    "type": "FRAME",
+    "width": 52,
+    "height": 14,
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokesIncludedInLayout": true,
+    "padding": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

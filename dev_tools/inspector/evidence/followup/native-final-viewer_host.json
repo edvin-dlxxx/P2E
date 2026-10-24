@@ -1,0 +1,4 @@
+{
+  "command": "flutter build windows --debug",
+  "exitCode": 0
+}

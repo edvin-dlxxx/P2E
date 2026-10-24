@@ -1,0 +1,13 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart
+00:00 +0: Auth Entry scripted Inspector width/height matrix
+Shell: Auth sweep samples: 1000
+Shell: Auth sweep samples: 2000
+Shell: Auth sweep samples: 3000
+Shell: Auth sweep samples: 4000
+Shell: Auth sweep samples: 5000
+Shell: Auth sweep samples: 6000
+Shell: Auth sweep samples: 7000
+Shell: Auth sweep samples: 8000
+Shell: Auth sweep samples: 9000
+Shell: Auth sweep samples: 10000
+11:33 +1: All tests passed!

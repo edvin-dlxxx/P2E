@@ -1,0 +1,17 @@
+{
+  "rectComparisons": 94,
+  "unchangedMeasurements": 93,
+  "onlyChangedMeasuredElement": [
+    "text 18613:11504 Playstation"
+  ],
+  "sourceOfChange": "D-062 localized source copy, not typography/spacing",
+  "designSystemBaselinesUnchanged": 76,
+  "rootBaselinesUnchanged": 13,
+  "changedBaselineFiles": [
+    "test/goldens/baselines/windows/auth-idle-en-dark-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-en-dark-1.0-744.png",
+    "test/goldens/baselines/windows/auth-idle-en-light-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-fa-dark-1.0-402.png",
+    "test/goldens/baselines/windows/auth-idle-fa-light-1.0-402.png"
+  ]
+}

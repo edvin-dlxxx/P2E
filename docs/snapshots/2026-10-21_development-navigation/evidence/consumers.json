@@ -1,0 +1,290 @@
+{
+  "complete": true,
+  "next": null,
+  "rows": [
+    {
+      "id": "18437:9217",
+      "name": "Navigator Bar Container",
+      "width": 402,
+      "height": 68,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.09019608050584793,
+            "g": 0.09019608050584793,
+            "b": 0.09019608050584793
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:158"
+            }
+          }
+        }
+      ],
+      "componentProperties": {
+        "Theme": {
+          "value": "Dark",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "master": {
+        "id": "18422:11474",
+        "name": "Theme=Dark",
+        "setId": "18422:11475"
+      },
+      "parent": {
+        "id": "18437:9220",
+        "name": "Footer",
+        "width": 402,
+        "height": 80,
+        "children": [
+          {
+            "id": "18437:9217",
+            "name": "Navigator Bar Container",
+            "x": 0,
+            "y": 0,
+            "width": 402,
+            "height": 68
+          },
+          {
+            "id": "18437:9218",
+            "name": "Home Slider",
+            "x": 0,
+            "y": 68,
+            "width": 402,
+            "height": 12
+          },
+          {
+            "id": "18451:11539",
+            "name": "Keyboard",
+            "x": 0,
+            "y": -251,
+            "width": 402,
+            "height": 331
+          }
+        ]
+      }
+    },
+    {
+      "id": "18422:11807",
+      "name": "Navigator Bar Container",
+      "width": 402,
+      "height": 68,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:196"
+            }
+          }
+        }
+      ],
+      "componentProperties": {
+        "Theme": {
+          "value": "Light",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "master": {
+        "id": "18422:11476",
+        "name": "Theme=Light",
+        "setId": "18422:11475"
+      },
+      "parent": {
+        "id": "18422:11656",
+        "name": "Footer",
+        "width": 402,
+        "height": 80,
+        "children": [
+          {
+            "id": "18422:11807",
+            "name": "Navigator Bar Container",
+            "x": 0,
+            "y": 0,
+            "width": 402,
+            "height": 68
+          },
+          {
+            "id": "18422:12207",
+            "name": "Home Slider",
+            "x": 0,
+            "y": 68,
+            "width": 402,
+            "height": 12
+          },
+          {
+            "id": "18451:11540",
+            "name": "Keyboard",
+            "x": 0,
+            "y": -251,
+            "width": 402,
+            "height": 331
+          }
+        ]
+      }
+    },
+    {
+      "id": "18517:1604",
+      "name": "Navigator Bar Container",
+      "width": 402,
+      "height": 68,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.09019608050584793,
+            "g": 0.09019608050584793,
+            "b": 0.09019608050584793
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:158"
+            }
+          }
+        }
+      ],
+      "componentProperties": {
+        "Theme": {
+          "value": "Dark",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "master": {
+        "id": "18422:11474",
+        "name": "Theme=Dark",
+        "setId": "18422:11475"
+      },
+      "parent": {
+        "id": "18517:1603",
+        "name": "Footer",
+        "width": 402,
+        "height": 80,
+        "children": [
+          {
+            "id": "18517:1604",
+            "name": "Navigator Bar Container",
+            "x": 0,
+            "y": 0,
+            "width": 402,
+            "height": 68
+          },
+          {
+            "id": "18517:1605",
+            "name": "Home Slider",
+            "x": 0,
+            "y": 68,
+            "width": 402,
+            "height": 12
+          },
+          {
+            "id": "18517:1607",
+            "name": "Keyboard",
+            "x": 0,
+            "y": 80,
+            "width": 402,
+            "height": 331
+          }
+        ]
+      }
+    },
+    {
+      "id": "18533:6592",
+      "name": "Navigator Bar Container",
+      "width": 402,
+      "height": 68,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:16429:196"
+            }
+          }
+        }
+      ],
+      "componentProperties": {
+        "Theme": {
+          "value": "Light",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "master": {
+        "id": "18422:11476",
+        "name": "Theme=Light",
+        "setId": "18422:11475"
+      },
+      "parent": {
+        "id": "18533:6591",
+        "name": "Footer",
+        "width": 402,
+        "height": 80,
+        "children": [
+          {
+            "id": "18533:6592",
+            "name": "Navigator Bar Container",
+            "x": 0,
+            "y": 0,
+            "width": 402,
+            "height": 68
+          },
+          {
+            "id": "18533:6593",
+            "name": "Home Slider",
+            "x": 0,
+            "y": 68,
+            "width": 402,
+            "height": 12
+          },
+          {
+            "id": "18533:6595",
+            "name": "Keyboard",
+            "x": 0,
+            "y": -251,
+            "width": 402,
+            "height": 331
+          }
+        ]
+      }
+    }
+  ]
+}

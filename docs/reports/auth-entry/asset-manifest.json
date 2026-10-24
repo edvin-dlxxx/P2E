@@ -1,0 +1,25 @@
+{
+  "source": "Original read-only Figma exports; PNG illustration and unchanged brand SVGs. Generated elliptical shader is recorded separately in the source snapshot. Google replacement R-014 remains open.",
+  "assets": [
+    {
+      "path": "packages/design_system/assets/images/auth/entry_illustration.png",
+      "bytes": 1274595,
+      "sha256": "af23519001255818fa81425744a721609e7636d0685d5417fe77e70f966ea908"
+    },
+    {
+      "path": "packages/design_system/assets/icons/brands/google.svg",
+      "bytes": 1539,
+      "sha256": "9150519350f8e454401e9506bf31868687decc494b4ad3e7af416dea04404b57"
+    },
+    {
+      "path": "packages/design_system/assets/icons/brands/playstation.svg",
+      "bytes": 3025,
+      "sha256": "d62ba3442a95dd63c4d9a711642c08740bd647a22147325c301bde81a1a6dccf"
+    },
+    {
+      "path": "packages/design_system/assets/icons/brands/xbox.svg",
+      "bytes": 2080,
+      "sha256": "60b05255f6e6ec8b31ac4fde6493d85179a3d54a4e50db4062fbe138cec38c77"
+    }
+  ]
+}

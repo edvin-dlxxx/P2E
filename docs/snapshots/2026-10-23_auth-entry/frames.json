@@ -1,0 +1,2442 @@
+[
+  {
+    "nodeId": "18608:11451",
+    "name": "Authentication - Dark",
+    "state": "idle",
+    "nodes": [
+      {
+        "id": "18608:11451",
+        "name": "Authentication - Dark",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": -3547.0,
+          "width": 402.0,
+          "height": 874.0
+        },
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402.0,
+          "height": 874.0
+        }
+      },
+      {
+        "id": "18608:11452",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 235.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 235.0
+        }
+      },
+      {
+        "id": "18608:11453",
+        "name": "iPhone - Status Bar",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12121",
+        "name": "Hero Section Banner",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 180.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 180.0
+        }
+      },
+      {
+        "id": "18618:12122",
+        "name": "Background",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": -55.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        }
+      },
+      {
+        "id": "18618:12123",
+        "name": "Mask",
+        "type": "rounded-rectangle",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        }
+      },
+      {
+        "id": "18618:12124",
+        "name": "Image",
+        "type": "rounded-rectangle",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 264.0
+        }
+      },
+      {
+        "id": "18608:11454",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 235.0,
+          "width": 402.0,
+          "height": 639.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 235.0,
+          "width": 402.0,
+          "height": 639.0
+        }
+      },
+      {
+        "id": "18613:11487",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 144.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 235.0,
+          "width": 402.0,
+          "height": 144.0
+        }
+      },
+      {
+        "id": "18613:11488",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 259.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18613:11489",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 259.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18613:11490",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 72.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 307.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18613:11491",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 307.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:11748",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 144.0,
+          "width": 402.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 379.0,
+          "width": 402.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:11749",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 8.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 387.0,
+          "width": 230.0,
+          "height": 32.0
+        }
+      },
+      {
+        "id": "18618:11750",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 391.0,
+          "width": 24.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:11751",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 16.0,
+          "height": 16.0
+        },
+        "screenRect": {
+          "x": 28.0,
+          "y": 395.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "18618:11752",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 34.0,
+          "y": 4.0,
+          "width": 74.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 391.0,
+          "width": 74.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:11753",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 2.0,
+          "width": 52.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 393.0,
+          "width": 52.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:11754",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 56.0,
+          "y": 3.0,
+          "width": 18.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 110.0,
+          "y": 394.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18618:11760",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 114.0,
+          "y": 6.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 393.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:11758",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 393.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18608:11455",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 192.0,
+          "width": 402.0,
+          "height": 214.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 427.0,
+          "width": 402.0,
+          "height": 214.0
+        }
+      },
+      {
+        "id": "18618:11613",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 20.0,
+          "width": 362.0,
+          "height": 104.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 447.0,
+          "width": 362.0,
+          "height": 104.0
+        }
+      },
+      {
+        "id": "18608:11456",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 60.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 447.0,
+          "width": 362.0,
+          "height": 60.0
+        }
+      },
+      {
+        "id": "18618:11599",
+        "name": "Radio Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 68.0,
+          "width": 362.0,
+          "height": 36.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 515.0,
+          "width": 362.0,
+          "height": 36.0
+        }
+      },
+      {
+        "id": "18618:11632",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 148.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 575.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:11633",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 575.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18613:11493",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 406.0,
+          "width": 402.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 641.0,
+          "width": 402.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11494",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 32.0,
+          "y": 9.0,
+          "width": 113.5,
+          "height": 0.0
+        },
+        "screenRect": {
+          "x": 32.0,
+          "y": 650.0,
+          "width": 113.5,
+          "height": 0.0
+        }
+      },
+      {
+        "id": "18613:11495",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 113.5,
+          "height": 0.0
+        },
+        "screenRect": {
+          "x": 32.0,
+          "y": 650.0,
+          "width": 113.5,
+          "height": 0.0
+        }
+      },
+      {
+        "id": "18613:11496",
+        "name": "or continue with",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 155.5,
+          "y": 0.0,
+          "width": 91.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 155.5,
+          "y": 641.0,
+          "width": 91.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11497",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 256.5,
+          "y": 9.0,
+          "width": 113.5,
+          "height": 0.0
+        },
+        "screenRect": {
+          "x": 256.5,
+          "y": 650.0,
+          "width": 113.5,
+          "height": 0.0
+        }
+      },
+      {
+        "id": "18613:11498",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 113.5,
+          "height": 0.0
+        },
+        "screenRect": {
+          "x": 256.5,
+          "y": 650.0,
+          "width": 113.5,
+          "height": 0.0
+        }
+      },
+      {
+        "id": "18613:11499",
+        "name": "Social Auth Gateway",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 424.0,
+          "width": 402.0,
+          "height": 131.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 659.0,
+          "width": 402.0,
+          "height": 131.0
+        }
+      },
+      {
+        "id": "18613:11500",
+        "name": "Play Station",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 111.33333587646484,
+          "height": 62.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 683.0,
+          "width": 111.33333587646484,
+          "height": 62.0
+        }
+      },
+      {
+        "id": "18613:11501",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 111.33333587646484,
+          "height": 38.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 683.0,
+          "width": 111.33333587646484,
+          "height": 38.0
+        }
+      },
+      {
+        "id": "18613:11502",
+        "name": "Platform Icons",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 35.66666793823242,
+          "y": -1.0,
+          "width": 40.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 59.66666793823242,
+          "y": 682.0,
+          "width": 40.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18613:11503",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 22.166667938232422,
+          "y": 44.0,
+          "width": 67.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 46.16666793823242,
+          "y": 727.0,
+          "width": 67.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11504",
+        "name": "Playstation",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 67.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 46.16666793823242,
+          "y": 727.0,
+          "width": 67.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11505",
+        "name": "Xbox",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 145.33334350585938,
+          "y": 24.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        },
+        "screenRect": {
+          "x": 145.33334350585938,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        }
+      },
+      {
+        "id": "18613:11506",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 111.33332824707031,
+          "height": 38.0
+        },
+        "screenRect": {
+          "x": 145.33334350585938,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 38.0
+        }
+      },
+      {
+        "id": "18613:11507",
+        "name": "Platform Icons",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 35.666664123535156,
+          "y": -1.0,
+          "width": 40.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 181.00000762939453,
+          "y": 682.0,
+          "width": 40.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18613:11508",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 39.666664123535156,
+          "y": 44.0,
+          "width": 32.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 185.00000762939453,
+          "y": 727.0,
+          "width": 32.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11509",
+        "name": "Xbox",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 32.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 185.00000762939453,
+          "y": 727.0,
+          "width": 32.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11516",
+        "name": "Google",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 266.66668701171875,
+          "y": 24.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        },
+        "screenRect": {
+          "x": 266.66668701171875,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 62.0
+        }
+      },
+      {
+        "id": "18613:11517",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 111.33332824707031,
+          "height": 38.0
+        },
+        "screenRect": {
+          "x": 266.66668701171875,
+          "y": 683.0,
+          "width": 111.33332824707031,
+          "height": 38.0
+        }
+      },
+      {
+        "id": "18613:11518",
+        "name": "google-icon-logo-svgrepo-com 1",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 45.666664123535156,
+          "y": 9.0,
+          "width": 20.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 312.3333511352539,
+          "y": 692.0,
+          "width": 20.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18613:11523",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 33.666664123535156,
+          "y": 44.0,
+          "width": 44.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 300.3333511352539,
+          "y": 727.0,
+          "width": 44.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18613:11524",
+        "name": "Google",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 44.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 300.3333511352539,
+          "y": 727.0,
+          "width": 44.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18618:11674",
+        "name": "Legal Section",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 555.0,
+          "width": 402.0,
+          "height": 84.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 790.0,
+          "width": 402.0,
+          "height": 84.0
+        }
+      },
+      {
+        "id": "18618:11677",
+        "name": "Terms & Privacy",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 354.0,
+          "height": 36.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 814.0,
+          "width": 354.0,
+          "height": 36.0
+        }
+      },
+      {
+        "id": "18618:11675",
+        "name": "By continuing, you agree to our Terms & Conditions and  Privacy Policy.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 354.0,
+          "height": 36.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 814.0,
+          "width": 354.0,
+          "height": 36.0
+        }
+      },
+      {
+        "id": "18608:11457",
+        "name": "Footer",
+        "type": "frame",
+        "visible": false,
+        "local": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18608:11458",
+        "name": "Keyboard",
+        "type": "frame",
+        "visible": false,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18608:11459",
+        "name": "ios Keyboard Basic",
+        "type": "instance",
+        "visible": false,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12447",
+    "name": "Authentication (Active Text Field) - Dark",
+    "state": "focusedEmpty",
+    "nodes": [
+      {
+        "id": "18618:12447",
+        "name": "Authentication (Active Text Field) - Dark",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 422.0,
+          "y": -3547.0,
+          "width": 402.0,
+          "height": 874.0
+        },
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402.0,
+          "height": 874.0
+        }
+      },
+      {
+        "id": "18618:12448",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12449",
+        "name": "iPhone - Status Bar",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12454",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        }
+      },
+      {
+        "id": "18618:12455",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 144.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 144.0
+        }
+      },
+      {
+        "id": "18618:12456",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12457",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12458",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 72.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12459",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12460",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 144.0,
+          "width": 402.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 199.0,
+          "width": 402.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12461",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 8.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        }
+      },
+      {
+        "id": "18618:12462",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12463",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 16.0,
+          "height": 16.0
+        },
+        "screenRect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "18618:12464",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 34.0,
+          "y": 4.0,
+          "width": 74.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 211.0,
+          "width": 74.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12465",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 2.0,
+          "width": 52.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 52.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12466",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 56.0,
+          "y": 3.0,
+          "width": 18.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 110.0,
+          "y": 214.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18618:12467",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 114.0,
+          "y": 6.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12468",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12469",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 192.0,
+          "width": 402.0,
+          "height": 296.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 247.0,
+          "width": 402.0,
+          "height": 296.0
+        }
+      },
+      {
+        "id": "18618:12470",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 20.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        }
+      },
+      {
+        "id": "18618:12471",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 64.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 64.0
+        }
+      },
+      {
+        "id": "18618:12473",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 230.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12474",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12504",
+        "name": "Footer",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12505",
+        "name": "Keyboard",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12506",
+        "name": "ios Keyboard Basic",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12126",
+    "name": "Login with Phone - Dark",
+    "state": "phone",
+    "nodes": [
+      {
+        "id": "18618:12126",
+        "name": "Login with Phone - Dark",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 844.0,
+          "y": -3547.0,
+          "width": 402.0,
+          "height": 874.0
+        },
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402.0,
+          "height": 874.0
+        }
+      },
+      {
+        "id": "18618:12127",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12128",
+        "name": "iPhone - Status Bar",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12133",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        }
+      },
+      {
+        "id": "18618:12134",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 144.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 144.0
+        }
+      },
+      {
+        "id": "18618:12135",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12136",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12137",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 72.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12138",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12139",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 144.0,
+          "width": 402.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 199.0,
+          "width": 402.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12140",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 8.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        }
+      },
+      {
+        "id": "18618:12141",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12142",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 16.0,
+          "height": 16.0
+        },
+        "screenRect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "18618:12143",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 34.0,
+          "y": 4.0,
+          "width": 74.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 211.0,
+          "width": 74.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12144",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 2.0,
+          "width": 52.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 52.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12145",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 56.0,
+          "y": 3.0,
+          "width": 18.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 110.0,
+          "y": 214.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18618:12146",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 114.0,
+          "y": 6.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12147",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12148",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 192.0,
+          "width": 402.0,
+          "height": 296.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 247.0,
+          "width": 402.0,
+          "height": 296.0
+        }
+      },
+      {
+        "id": "18618:12149",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 20.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        }
+      },
+      {
+        "id": "18618:12150",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        }
+      },
+      {
+        "id": "18618:12152",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 230.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12153",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12183",
+        "name": "Footer",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12184",
+        "name": "Keyboard",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12185",
+        "name": "ios Keyboard Basic",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12651",
+    "name": "Login with Email - Dark",
+    "state": "email",
+    "nodes": [
+      {
+        "id": "18618:12651",
+        "name": "Login with Email - Dark",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 844.0,
+          "y": -2653.0,
+          "width": 402.0,
+          "height": 874.0
+        },
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402.0,
+          "height": 874.0
+        }
+      },
+      {
+        "id": "18618:12652",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12653",
+        "name": "iPhone - Status Bar",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 55.0
+        }
+      },
+      {
+        "id": "18618:12654",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 488.0
+        }
+      },
+      {
+        "id": "18618:12655",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 144.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 55.0,
+          "width": 402.0,
+          "height": 144.0
+        }
+      },
+      {
+        "id": "18618:12656",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 24.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12657",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 210.0,
+          "height": 40.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 79.0,
+          "width": 210.0,
+          "height": 40.0
+        }
+      },
+      {
+        "id": "18618:12658",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 24.0,
+          "y": 72.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12659",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 354.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 127.0,
+          "width": 354.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12660",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 144.0,
+          "width": 402.0,
+          "height": 48.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 199.0,
+          "width": 402.0,
+          "height": 48.0
+        }
+      },
+      {
+        "id": "18618:12661",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 8.0,
+          "width": 230.0,
+          "height": 32.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 207.0,
+          "width": 230.0,
+          "height": 32.0
+        }
+      },
+      {
+        "id": "18618:12662",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 24.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 24.0,
+          "y": 211.0,
+          "width": 24.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12663",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 4.0,
+          "y": 4.0,
+          "width": 16.0,
+          "height": 16.0
+        },
+        "screenRect": {
+          "x": 28.0,
+          "y": 215.0,
+          "width": 16.0,
+          "height": 16.0
+        }
+      },
+      {
+        "id": "18618:12664",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 34.0,
+          "y": 4.0,
+          "width": 74.0,
+          "height": 24.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 211.0,
+          "width": 74.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "18618:12665",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 2.0,
+          "width": 52.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 54.0,
+          "y": 213.0,
+          "width": 52.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12666",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 56.0,
+          "y": 3.0,
+          "width": 18.0,
+          "height": 18.0
+        },
+        "screenRect": {
+          "x": 110.0,
+          "y": 214.0,
+          "width": 18.0,
+          "height": 18.0
+        }
+      },
+      {
+        "id": "18618:12667",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 114.0,
+          "y": 6.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12668",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 106.0,
+          "height": 20.0
+        },
+        "screenRect": {
+          "x": 134.0,
+          "y": 213.0,
+          "width": 106.0,
+          "height": 20.0
+        }
+      },
+      {
+        "id": "18618:12669",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 192.0,
+          "width": 402.0,
+          "height": 296.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 247.0,
+          "width": 402.0,
+          "height": 296.0
+        }
+      },
+      {
+        "id": "18618:12670",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 20.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        }
+      },
+      {
+        "id": "18618:12671",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 106.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 267.0,
+          "width": 362.0,
+          "height": 106.0
+        }
+      },
+      {
+        "id": "18618:12673",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 20.0,
+          "y": 230.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12674",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 362.0,
+          "height": 46.0
+        },
+        "screenRect": {
+          "x": 20.0,
+          "y": 477.0,
+          "width": 362.0,
+          "height": 46.0
+        }
+      },
+      {
+        "id": "18618:12675",
+        "name": "Footer",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12676",
+        "name": "Keyboard",
+        "type": "frame",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      },
+      {
+        "id": "18618:12677",
+        "name": "ios Keyboard Basic",
+        "type": "instance",
+        "visible": true,
+        "local": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 402.0,
+          "height": 331.0
+        },
+        "screenRect": {
+          "x": 0.0,
+          "y": 543.0,
+          "width": 402.0,
+          "height": 331.0
+        }
+      }
+    ]
+  }
+]

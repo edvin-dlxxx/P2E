@@ -1,0 +1,997 @@
+{
+  "@@locale": "fa",
+  "title": "نمایشگر سیستم طراحی",
+  "@title": {
+    "description": "Viewer UI: title"
+  },
+  "buttons": "دکمه‌ها",
+  "@buttons": {
+    "description": "Viewer UI: buttons"
+  },
+  "badges": "نشان‌ها",
+  "@badges": {
+    "description": "Viewer UI: badges"
+  },
+  "textFields": "فیلدهای متن",
+  "@textFields": {
+    "description": "Viewer UI: textFields"
+  },
+  "icons": "آیکون‌ها",
+  "@icons": {
+    "description": "Viewer UI: icons"
+  },
+  "colors": "پالت رنگی",
+  "@colors": {
+    "description": "Viewer UI: colors"
+  },
+  "components": "کامپوننت‌ها",
+  "@components": {
+    "description": "Viewer UI: components"
+  },
+  "notAddedYet": "هنوز اضافه نشده",
+  "@notAddedYet": {
+    "description": "Viewer UI: notAddedYet"
+  },
+  "language": "زبان",
+  "@language": {
+    "description": "Viewer UI: language"
+  },
+  "english": "English",
+  "@english": {
+    "description": "Viewer UI: english"
+  },
+  "persian": "فارسی",
+  "@persian": {
+    "description": "Viewer UI: persian"
+  },
+  "inspector": "بازرس کامپوننت",
+  "@inspector": {
+    "description": "Viewer UI: inspector"
+  },
+  "selectSample": "یک نمونه را برای بررسی تنظیمات واقعی انتخاب کنید.",
+  "@selectSample": {
+    "description": "Viewer UI: selectSample"
+  },
+  "filters": "فیلترها و پیش‌نمایش",
+  "@filters": {
+    "description": "Viewer UI: filters"
+  },
+  "reset": "بازنشانی فیلترها",
+  "@reset": {
+    "description": "Viewer UI: reset"
+  },
+  "all": "همه",
+  "@all": {
+    "description": "Viewer UI: all"
+  },
+  "dark": "تیره",
+  "@dark": {
+    "description": "Viewer UI: dark"
+  },
+  "light": "روشن",
+  "@light": {
+    "description": "Viewer UI: light"
+  },
+  "family": "خانواده",
+  "@family": {
+    "description": "Viewer UI: family"
+  },
+  "fillFamily": "عرض کامل",
+  "@fillFamily": {
+    "description": "Viewer UI: fillFamily"
+  },
+  "hugFamily": "استاندارد / محتوامحور",
+  "@hugFamily": {
+    "description": "Viewer UI: hugFamily"
+  },
+  "iconFamily": "فقط آیکون",
+  "@iconFamily": {
+    "description": "Viewer UI: iconFamily"
+  },
+  "size": "اندازه",
+  "@size": {
+    "description": "Viewer UI: size"
+  },
+  "small": "کوچک",
+  "@small": {
+    "description": "Viewer UI: small"
+  },
+  "medium": "متوسط",
+  "@medium": {
+    "description": "Viewer UI: medium"
+  },
+  "large": "بزرگ",
+  "@large": {
+    "description": "Viewer UI: large"
+  },
+  "theme": "تم پیش‌نمایش",
+  "@theme": {
+    "description": "Viewer UI: theme"
+  },
+  "none": "بدون آیکون",
+  "@none": {
+    "description": "Viewer UI: none"
+  },
+  "fillIcon": "آیکون توپر",
+  "@fillIcon": {
+    "description": "Viewer UI: fillIcon"
+  },
+  "outlineIcon": "آیکون خطی",
+  "@outlineIcon": {
+    "description": "Viewer UI: outlineIcon"
+  },
+  "iconMode": "آیکون دکمهٔ متنی",
+  "@iconMode": {
+    "description": "Viewer UI: iconMode"
+  },
+  "textScale": "مقیاس متن",
+  "@textScale": {
+    "description": "Viewer UI: textScale"
+  },
+  "previewDirection": "جهت پیش‌نمایش",
+  "@previewDirection": {
+    "description": "Viewer UI: previewDirection"
+  },
+  "followLanguage": "مطابق زبان",
+  "@followLanguage": {
+    "description": "Viewer UI: followLanguage"
+  },
+  "ltr": "چپ به راست",
+  "@ltr": {
+    "description": "Viewer UI: ltr"
+  },
+  "rtl": "راست به چپ",
+  "@rtl": {
+    "description": "Viewer UI: rtl"
+  },
+  "referenceText": "مرجع طراحی",
+  "@referenceText": {
+    "description": "Viewer UI: referenceText"
+  },
+  "localizedText": "پیش‌نمایش بومی",
+  "@localizedText": {
+    "description": "Viewer UI: localizedText"
+  },
+  "labelMode": "متن پیش‌نمایش",
+  "@labelMode": {
+    "description": "Viewer UI: labelMode"
+  },
+  "gallery": "گالری",
+  "@gallery": {
+    "description": "Viewer UI: gallery"
+  },
+  "verification": "بررسی اندازه‌ها",
+  "@verification": {
+    "description": "Viewer UI: verification"
+  },
+  "showReferences": "نمونه‌های طراحی محصول",
+  "@showReferences": {
+    "description": "Viewer UI: showReferences"
+  },
+  "previewWidth": "عرض والد دکمهٔ کامل",
+  "@previewWidth": {
+    "description": "Viewer UI: previewWidth"
+  },
+  "emptyState": "هیچ واریانتی با این فیلترها مطابقت ندارد.",
+  "@emptyState": {
+    "description": "Viewer UI: emptyState"
+  },
+  "inspect": "بررسی",
+  "@inspect": {
+    "description": "Viewer UI: inspect"
+  },
+  "provisional": "موقت",
+  "@provisional": {
+    "description": "Viewer UI: provisional"
+  },
+  "unresolved": "حل‌نشده",
+  "@unresolved": {
+    "description": "Viewer UI: unresolved"
+  },
+  "unavailable": "در دسترس نیست",
+  "@unavailable": {
+    "description": "Viewer UI: unavailable"
+  },
+  "notApplicable": "کاربرد ندارد",
+  "@notApplicable": {
+    "description": "Viewer UI: notApplicable"
+  },
+  "noIcon": "بدون container یا فاصلهٔ آیکون",
+  "@noIcon": {
+    "description": "Viewer UI: noIcon"
+  },
+  "realArtwork": "SVG محلی منبع",
+  "@realArtwork": {
+    "description": "Viewer UI: realArtwork"
+  },
+  "sourceIconUnresolved": "آیکون منبع هنوز متصل نشده است. این پیش‌نمایش ناتمام است و دکمهٔ فعال محصول نیست.",
+  "@sourceIconUnresolved": {
+    "description": "Viewer UI: sourceIconUnresolved"
+  },
+  "measureNotice": "تأیید اندازه فقط مربوط به قاب بصریِ هم‌شرایط و بدون فشار است؛ رنگ، تایپوگرافی، آیکون و پیکسل‌ها را تأیید نمی‌کند. اندازهٔ بیرونی شامل ناحیهٔ لمس است.",
+  "@measureNotice": {
+    "description": "Viewer UI: measureNotice"
+  },
+  "sizeOk": "فقط اندازه تأیید شد",
+  "@sizeOk": {
+    "description": "Viewer UI: sizeOk"
+  },
+  "sizeDiff": "اختلاف اندازهٔ بصری",
+  "@sizeDiff": {
+    "description": "Viewer UI: sizeDiff"
+  },
+  "notComparable": "تنظیمات متفاوت؛ اندازه با مرجع مقایسه نمی‌شود",
+  "@notComparable": {
+    "description": "Viewer UI: notComparable"
+  },
+  "settling": "در حال پایان انیمیشن",
+  "@settling": {
+    "description": "Viewer UI: settling"
+  },
+  "rest": "عادی",
+  "@rest": {
+    "description": "Viewer UI: rest"
+  },
+  "pressed": "فشرده",
+  "@pressed": {
+    "description": "Viewer UI: pressed"
+  },
+  "disabled": "غیرفعال",
+  "@disabled": {
+    "description": "Viewer UI: disabled"
+  },
+  "enabled": "فعال",
+  "@enabled": {
+    "description": "Viewer UI: enabled"
+  },
+  "hovered": "نشانگر روی نمونه",
+  "@hovered": {
+    "description": "Viewer UI: hovered"
+  },
+  "focused": "دارای فوکوس",
+  "@focused": {
+    "description": "Viewer UI: focused"
+  },
+  "engineeringMotion": "تعریف مهندسی؛ استخراج‌شده از Figma نیست",
+  "@engineeringMotion": {
+    "description": "Viewer UI: engineeringMotion"
+  },
+  "sourceConflict": "تعارض باقی‌ماندهٔ منبع: ارتفاع ثابت با مجموع محتوا و padding عمودی سازگار نیست. سیاست حداقل ارتفاع قبلی حفظ شده است.",
+  "@sourceConflict": {
+    "description": "Viewer UI: sourceConflict"
+  },
+  "referenceExamples": "نمونه‌های بررسی‌شدهٔ محصول",
+  "@referenceExamples": {
+    "description": "Viewer UI: referenceExamples"
+  },
+  "playNow": "اکنون بازی کن",
+  "@playNow": {
+    "description": "Viewer UI: playNow"
+  },
+  "continueEmail": "ادامه با نشانی ایمیل",
+  "@continueEmail": {
+    "description": "Viewer UI: continueEmail"
+  },
+  "shortLabel": "متن کوتاه",
+  "@shortLabel": {
+    "description": "Viewer UI: shortLabel"
+  },
+  "longLabel": "متن بلند",
+  "@longLabel": {
+    "description": "Viewer UI: longLabel"
+  },
+  "longPreviewLabel": "برای ادامه و مشاهدهٔ بازی بعدی، با نشانی ایمیل خود وارد شوید",
+  "@longPreviewLabel": {
+    "description": "Viewer UI: longPreviewLabel"
+  },
+  "previewLabel": "دکمه",
+  "@previewLabel": {
+    "description": "Viewer UI: previewLabel"
+  },
+  "iconButton": "دکمهٔ آیکونی",
+  "@iconButton": {
+    "description": "Viewer UI: iconButton"
+  },
+  "yes": "بله",
+  "@yes": {
+    "description": "Viewer UI: yes"
+  },
+  "no": "خیر",
+  "@no": {
+    "description": "Viewer UI: no"
+  },
+  "close": "بستن بازرس",
+  "@close": {
+    "description": "Viewer UI: close"
+  },
+  "clearSearch": "پاک کردن جست‌وجو",
+  "@clearSearch": {
+    "description": "Viewer UI: clearSearch"
+  },
+  "search": "جست‌وجوی نام یا شناسهٔ منبع",
+  "@search": {
+    "description": "Viewer UI: search"
+  },
+  "identityGroup": "هویت و منبع",
+  "@identityGroup": {
+    "description": "Viewer UI: identityGroup"
+  },
+  "configurationGroup": "تنظیمات",
+  "@configurationGroup": {
+    "description": "Viewer UI: configurationGroup"
+  },
+  "visualsGroup": "ظاهر حل‌شده",
+  "@visualsGroup": {
+    "description": "Viewer UI: visualsGroup"
+  },
+  "geometryGroup": "هندسه",
+  "@geometryGroup": {
+    "description": "Viewer UI: geometryGroup"
+  },
+  "interactionGroup": "تعامل",
+  "@interactionGroup": {
+    "description": "Viewer UI: interactionGroup"
+  },
+  "referenceBounds": "قاب بصری منبع",
+  "@referenceBounds": {
+    "description": "Viewer UI: referenceBounds"
+  },
+  "visualBounds": "اندازهٔ layout سطح بصری",
+  "@visualBounds": {
+    "description": "Viewer UI: visualBounds"
+  },
+  "outerBounds": "اندازهٔ بیرونی / ناحیهٔ لمس",
+  "@outerBounds": {
+    "description": "Viewer UI: outerBounds"
+  },
+  "labelBounds": "اندازهٔ متن",
+  "@labelBounds": {
+    "description": "Viewer UI: labelBounds"
+  },
+  "referenceModeHint": "متن مرجع از پیش‌فرض منبع می‌آید. تغییر آیکون، جهت، مقیاس یا عرض والد به معنای تنظیمات یکسان با منبع نیست.",
+  "@referenceModeHint": {
+    "description": "Viewer UI: referenceModeHint"
+  },
+  "fontError": "فونت‌های بسته بارگذاری نشدند.",
+  "@fontError": {
+    "description": "Viewer UI: fontError"
+  },
+  "loading": "در حال بارگذاری فونت‌های بسته…",
+  "@loading": {
+    "description": "Viewer UI: loading"
+  },
+  "motionReduced": "انیمیشن طبق تنظیم دسترس‌پذیری خاموش است",
+  "@motionReduced": {
+    "description": "Viewer UI: motionReduced"
+  },
+  "sourceCount": "{count} از ۹۰ واریانت منبع",
+  "@sourceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldLabel": "{field, select, family{خانوادهٔ کامپوننت} setName{نام خام مجموعهٔ منبع} setId{شناسهٔ مجموعه} variantName{نام خام واریانت} variantId{شناسهٔ واریانت} fileKey{کلید فایل Figma} runtimeIdentity{هویت و مکان‌یاب اجرا} status{وضعیت} size{اندازه} theme{تم} appearance{ظاهر} enabled{فعال} label{متن} iconMode{حالت آیکون} artwork{هویت و وضعیت آیکون} direction{جهت متن} scale{مقیاس متن} constraints{محدودیت عرض والد} background{رنگ پس‌زمینه با آلفا} foreground{رنگ محتوا با آلفا} borderColor{رنگ حاشیه با آلفا} borderWidth{ضخامت حاشیه} radius{شعاع گوشه} padding{فاصلهٔ داخلی جهت‌دار} gap{فاصلهٔ مؤثر آیکون} iconSize{ابعاد آیکون} fontFamily{خانوادهٔ فونت} fontSize{اندازهٔ فونت} fontWeight{وزن فونت} lineHeight{ارتفاع خط} letterSpacing{فاصلهٔ حروف} sourceDimensions{ابعاد بصری منبع} minimum{حداقل بصری حل‌شده} visual{اندازهٔ layout بصری} outer{اندازهٔ بیرونی / ناحیهٔ لمس} content{اندازهٔ متن} comparison{بررسی اندازهٔ بصری هم‌شرایط} pressedScale{مقیاس بصری فشار} pressDuration{مدت فشار (میلی‌ثانیه)} releaseDuration{مدت رهاسازی (میلی‌ثانیه)} curve{منحنی حرکت} motionOrigin{منشأ حرکت} currentState{وضعیت فعلی framework} artworkSource{اطلاعات منبع آیکون} logicalKey{شناسهٔ منطقی آیکون} displayName{نام نمایشی} rawName{نام اصلی Figma} style{سبک آیکون} availableStyles{نسخه‌های موجود} viewBox{دستگاه مختصات SVG} assetPath{مسیر فایل در پکیج} assetHash{هش SHA-256 اصلی} sourceColors{رنگ‌های اصلی SVG} bindings{اتصال‌های اصلی منبع} previewSize{اندازهٔ پیش‌نمایش فعلی} tint{رنگ اعمال‌شدهٔ فعلی} semanticLabel{برچسب دسترس‌پذیری} decorative{تزئینی} extractionStatus{وضعیت استخراج} renderStatus{وضعیت رندر} issue{مسئلهٔ حل‌نشده} validation{اعتبارسنجی برنامه} requirement{الزام ورود} supporting{وجود پیام پشتیبان} supportingIcon{آیکون پیام فعال} passwordVisible{نمایش رمز (بدون مقدار)} codeLength{طول تنظیم‌شدهٔ کد} complete{کامل‌بودن کد (بدون مقدار)} radioSelection{گزینه انتخاب شده} resolvedStyles{سبک‌های resolve‌شدهٔ منبع} motion{حرکت و منشأ آن} sourceCovered{دارای واریانت منبع} other{ناموجود}}",
+  "@fieldLabel": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "filled": "توپر",
+  "tonal": "تونال",
+  "outlined": "خط‌دار",
+  "textAppearance": "متنی",
+  "dropdownMark": "⌄",
+  "iconSearch": "جست‌وجوی شناسه، نام منبع یا نام آیکون",
+  "@iconSearch": {
+    "description": "Icon Viewer: iconSearch"
+  },
+  "iconLibraryCounts": "{logical} مفهوم آیکون · {versions} نسخهٔ گرافیکی",
+  "@iconLibraryCounts": {
+    "description": "Icon Viewer: iconLibraryCounts",
+    "placeholders": {
+      "logical": {
+        "type": "int"
+      },
+      "versions": {
+        "type": "int"
+      }
+    }
+  },
+  "iconStyleRequired": "دکمهٔ آیکونی به حالت توپر یا خطی نیاز دارد",
+  "@iconStyleRequired": {
+    "description": "Icon Viewer: iconStyleRequired"
+  },
+  "iconSizePreview": "اندازهٔ پیش‌نمایش آیکون",
+  "@iconSizePreview": {
+    "description": "Icon Viewer: iconSizePreview"
+  },
+  "iconTint": "رنگ پیش‌نمایش آیکون",
+  "@iconTint": {
+    "description": "Icon Viewer: iconTint"
+  },
+  "originalArtwork": "رنگ‌های اصلی فایل",
+  "@originalArtwork": {
+    "description": "Icon Viewer: originalArtwork"
+  },
+  "themeTint": "رنگ متناسب با تم زمینه",
+  "@themeTint": {
+    "description": "Icon Viewer: themeTint"
+  },
+  "accentTint": "رنگ تأکیدی",
+  "@accentTint": {
+    "description": "Icon Viewer: accentTint"
+  },
+  "missingCounterpart": "نسخهٔ موجود نیست: {style}",
+  "@missingCounterpart": {
+    "description": "Icon Viewer: missingCounterpart",
+    "placeholders": {
+      "style": {
+        "type": "String"
+      }
+    }
+  },
+  "iconRendered": "سازگاری با رندرر SVG تأیید شده",
+  "@iconRendered": {
+    "description": "Icon Viewer: iconRendered"
+  },
+  "iconExported": "SVG اصلی استخراج شد",
+  "@iconExported": {
+    "description": "Icon Viewer: iconExported"
+  },
+  "iconRenderPending": "هنوز در این پیش‌نمایش رندر نشده",
+  "@iconRenderPending": {
+    "description": "Icon Viewer: iconRenderPending"
+  },
+  "iconRenderFailed": "رندر SVG ناموفق؛ فایل اصلی حفظ شده است",
+  "@iconRenderFailed": {
+    "description": "Icon Viewer: iconRenderFailed"
+  },
+  "iconLibraryStatus": "استخراج توسعه‌ای · تأیید طراح موجود نیست",
+  "@iconLibraryStatus": {
+    "description": "Icon Viewer: iconLibraryStatus"
+  },
+  "iconLabel": "{icon, select, add{افزودن} add_large{افزودن بزرگ} add_shopping_cart{افزودن به سبد خرید} arrow_cool_down{پیکان کاهش} arrow_down{پیکان پایین} arrow_down_alt{پیکان پایین جایگزین} arrow_drop_down{مثلث پایین} arrow_drop_left{مثلث چپ} arrow_drop_right{مثلث راست} arrow_drop_up{مثلث بالا} arrow_left{پیکان چپ} arrow_left_alt{پیکان چپ جایگزین} arrow_right{پیکان راست} arrow_right_alt{پیکان راست جایگزین} arrow_up{پیکان بالا} arrow_up_alt{پیکان بالا جایگزین} arrow_warm_up{پیکان افزایش} attach_file{پیوست فایل} attach_file_add{افزودن پیوست} bookmark{نشانک} bookmark_add{افزودن نشانک} bookmark_added{نشانک افزوده‌شده} bookmark_check{تأیید نشانک} bookmark_heart{نشانک محبوب} bookmark_remove{حذف نشانک} bookmark_star{نشانک ستاره‌دار} brightness_alert{هشدار روشنایی} calendar{تقویم} check{تأیید} chess_bishop{فیل شطرنج} chess_knight{اسب شطرنج} chess_pawn{سرباز شطرنج} chess_queen{وزیر شطرنج} chess_rook{رخ شطرنج} chevron_down{زاویه پایین} chevron_left{زاویه چپ} chevron_right{زاویه راست} chevron_up{زاویه بالا} close{بستن} close_small{بستن کوچک} cloud_download{دانلود از ابر} cloud_upload{آپلود به ابر} crown{تاج} dark_mode{حالت تیره} download{دانلود} downloading{در حال دانلود} edit{ویرایش} edit_square{ویرایش در کادر} extension{افزونه} fingerprint{اثر انگشت} help{راهنما} home{خانه} id_card{کارت شناسایی} image{تصویر} image_arrow_up{آپلود تصویر} image_search{جست‌وجوی تصویر} imagesearch_roller{غلتک جست‌وجوی تصویر} imagesmode{حالت تصاویر} leaderboard{جدول رتبه‌بندی} light_mode{حالت روشن} link{پیوند} link_2{پیوند دوم} link_off{قطع پیوند} location{مکان} mail{ایمیل} menu{منو} more_horizontal{بیشتر افقی} more_vertical{بیشتر عمودی} motion_play{پخش حرکت} my_location{مکان من} notifications{اعلان‌ها} pause_circle{توقف موقت دایره‌ای} person{شخص} phone_enabled{تماس تلفنی} play_arrow{پخش} play_circle{پخش دایره‌ای} poker_chip{ژتون پوکر} release_alert{هشدار انتشار} scoreboard{تابلوی امتیاز} share{اشتراک‌گذاری} shoe_cleats{کفش ورزشی} sports{ورزش} sports_esports{ورزش الکترونیک} stadia_controller{دسته استیدیا} star{ستاره} star_half{نیم‌ستاره} store{فروشگاه} tactic{تاکتیک} target_check{هدف تأییدشده} thumb_down{نپسندیدن} thumb_up{پسندیدن} timer{زمان‌سنج} timer_play{شروع زمان‌سنج} trophy{جام} upload{آپلود} verified{تأییدشده} video_camera_back{دوربین پشت} video_camera_back_add{افزودن دوربین پشت} video_camera_front{دوربین جلو} visibility{نمایش} visibility_off{پنهان‌کردن} warning{هشدار} workspace_premium_1{نشان ویژه یک} workspace_premium_2{نشان ویژه دو} other{آیکون}}",
+  "@iconLabel": {
+    "description": "Localized accessible icon concept names; technical IDs stay unchanged.",
+    "placeholders": {
+      "icon": {
+        "type": "String"
+      }
+    }
+  },
+  "fieldFamily": "خانوادهٔ ورودی",
+  "@fieldFamily": {
+    "description": "Text Field Viewer: fieldFamily"
+  },
+  "fieldReference": "کاتالوگ مرجع منبع",
+  "@fieldReference": {
+    "description": "Text Field Viewer: fieldReference"
+  },
+  "fieldInteractive": "نمونه‌های تعاملی",
+  "@fieldInteractive": {
+    "description": "Text Field Viewer: fieldInteractive"
+  },
+  "fieldSource": "دارای واریانت منبع",
+  "@fieldSource": {
+    "description": "Text Field Viewer: fieldSource"
+  },
+  "fieldDerived": "مشتق مهندسی؛ بدون واریانت اختصاصی منبع",
+  "@fieldDerived": {
+    "description": "Text Field Viewer: fieldDerived"
+  },
+  "fieldCoverage": "{count} واریانت منبع؛ گزینه‌های runtime و تم‌های مشتق جدا هستند",
+  "@fieldCoverage": {
+    "description": "Text Field Viewer: fieldCoverage",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldVisibleCount": "{count} پیش‌نمایش کاتالوگ",
+  "@fieldVisibleCount": {
+    "description": "Text Field Viewer: fieldVisibleCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fieldState": "حالت بصری",
+  "@fieldState": {
+    "description": "Text Field Viewer: fieldState"
+  },
+  "fieldSourceStatus": "پوشش منبع",
+  "@fieldSourceStatus": {
+    "description": "Text Field Viewer: fieldSourceStatus"
+  },
+  "fieldText": "ورودی متن",
+  "@fieldText": {
+    "description": "Text Field Viewer: fieldText"
+  },
+  "fieldPassword": "رمز عبور",
+  "@fieldPassword": {
+    "description": "Text Field Viewer: fieldPassword"
+  },
+  "fieldOtp": "کد یک‌بارمصرف",
+  "@fieldOtp": {
+    "description": "Text Field Viewer: fieldOtp"
+  },
+  "fieldRadio": "انتخاب تکی",
+  "@fieldRadio": {
+    "description": "Text Field Viewer: fieldRadio"
+  },
+  "fieldRequirement": "الزام ورود",
+  "@fieldRequirement": {
+    "description": "Text Field Viewer: fieldRequirement"
+  },
+  "fieldRequired": "(ضروری)",
+  "@fieldRequired": {
+    "description": "Text Field Viewer: fieldRequired"
+  },
+  "fieldOptional": "(اختیاری)",
+  "@fieldOptional": {
+    "description": "Text Field Viewer: fieldOptional"
+  },
+  "fieldIndicator": "نمایش نشانگر الزام",
+  "@fieldIndicator": {
+    "description": "Text Field Viewer: fieldIndicator"
+  },
+  "fieldSupporting": "نمایش پیام پشتیبان",
+  "@fieldSupporting": {
+    "description": "Text Field Viewer: fieldSupporting"
+  },
+  "fieldSupportingIcon": "نمایش آیکون پیام",
+  "@fieldSupportingIcon": {
+    "description": "Text Field Viewer: fieldSupportingIcon"
+  },
+  "fieldShowPassword": "نمایش رمز عبور",
+  "@fieldShowPassword": {
+    "description": "Text Field Viewer: fieldShowPassword"
+  },
+  "fieldHidePassword": "پنهان‌کردن رمز عبور",
+  "@fieldHidePassword": {
+    "description": "Text Field Viewer: fieldHidePassword"
+  },
+  "fieldVisibility": "نمایش رمز عبور",
+  "@fieldVisibility": {
+    "description": "Text Field Viewer: fieldVisibility"
+  },
+  "fieldShown": "آشکار",
+  "@fieldShown": {
+    "description": "Text Field Viewer: fieldShown"
+  },
+  "fieldHidden": "پنهان",
+  "@fieldHidden": {
+    "description": "Text Field Viewer: fieldHidden"
+  },
+  "fieldPasswordLabel": "رمز عبور",
+  "@fieldPasswordLabel": {
+    "description": "Text Field Viewer: fieldPasswordLabel"
+  },
+  "fieldOtpLabel": "کد تأیید",
+  "@fieldOtpLabel": {
+    "description": "Text Field Viewer: fieldOtpLabel"
+  },
+  "fieldHint": "اینجا بنویسید",
+  "@fieldHint": {
+    "description": "Text Field Viewer: fieldHint"
+  },
+  "fieldHelper": "متن راهنما.",
+  "@fieldHelper": {
+    "description": "Text Field Viewer: fieldHelper"
+  },
+  "fieldError": "خطای نمونه که برنامه تعیین کرده است.",
+  "@fieldError": {
+    "description": "Text Field Viewer: fieldError"
+  },
+  "fieldSuccess": "تأیید موفقیت از طرف برنامه",
+  "@fieldSuccess": {
+    "description": "Text Field Viewer: fieldSuccess"
+  },
+  "fieldNeutral": "خنثی",
+  "@fieldNeutral": {
+    "description": "Text Field Viewer: fieldNeutral"
+  },
+  "fieldFeedback": "بازخورد برنامه",
+  "@fieldFeedback": {
+    "description": "Text Field Viewer: fieldFeedback"
+  },
+  "fieldLongCopy": "عنوان و پیام طولانی",
+  "@fieldLongCopy": {
+    "description": "Text Field Viewer: fieldLongCopy"
+  },
+  "fieldLongLabel": "عنوان طولانی ورودی که با حفظ نشانگر الزام در چند خط نمایش داده می‌شود",
+  "@fieldLongLabel": {
+    "description": "Text Field Viewer: fieldLongLabel"
+  },
+  "fieldLongHelper": "این یک پیام راهنمای طولانی است که برنامه تعیین می‌کند؛ با بزرگ‌شدن متن در چند خط نمایش داده می‌شود و ارتفاع مناسب می‌گیرد.",
+  "@fieldLongHelper": {
+    "description": "Text Field Viewer: fieldLongHelper"
+  },
+  "fieldReferenceCopy": "متن اصلی منبع",
+  "@fieldReferenceCopy": {
+    "description": "Text Field Viewer: fieldReferenceCopy"
+  },
+  "fieldLocalizedCopy": "متن نمونهٔ ترجمه‌شده",
+  "@fieldLocalizedCopy": {
+    "description": "Text Field Viewer: fieldLocalizedCopy"
+  },
+  "fieldOptionA": "گزینهٔ اول",
+  "@fieldOptionA": {
+    "description": "Text Field Viewer: fieldOptionA"
+  },
+  "fieldOptionB": "گزینهٔ دوم",
+  "@fieldOptionB": {
+    "description": "Text Field Viewer: fieldOptionB"
+  },
+  "fieldAllowDeselect": "اجازهٔ صریح برای لغو انتخاب",
+  "@fieldAllowDeselect": {
+    "description": "Text Field Viewer: fieldAllowDeselect"
+  },
+  "fieldReset": "بازنشانی نمونه‌های ورودی",
+  "@fieldReset": {
+    "description": "Text Field Viewer: fieldReset"
+  },
+  "fieldSourceIndicatorNotice": "منبع نشانگر ضروری و اختیاری را هم‌زمان نشان می‌دهد؛ پیش‌نمایش از یک الزام انتخاب‌شده استفاده می‌کند.",
+  "@fieldSourceIndicatorNotice": {
+    "description": "Text Field Viewer: fieldSourceIndicatorNotice"
+  },
+  "fieldSourceGeometry": "ابعاد بصری منبع؛ محتوای واقعی می‌تواند رشد کند",
+  "@fieldSourceGeometry": {
+    "description": "Text Field Viewer: fieldSourceGeometry"
+  },
+  "fieldInputLabel": "عنوان ورودی متن",
+  "@fieldInputLabel": {
+    "description": "Text Field Viewer: fieldInputLabel"
+  },
+  "inspectorCopyAll": "کپی همه",
+  "@inspectorCopyAll": {
+    "description": "Inspector clipboard: inspectorCopyAll"
+  },
+  "inspectorCopyValue": "کپی",
+  "@inspectorCopyValue": {
+    "description": "Inspector clipboard: inspectorCopyValue"
+  },
+  "inspectorCopied": "در کلیپ‌بورد کپی شد",
+  "@inspectorCopied": {
+    "description": "Inspector clipboard: inspectorCopied"
+  },
+  "badgeCount": "{count} از {total} واریانت منبع نشان",
+  "@badgeCount": {
+    "description": "Badge Viewer: badgeCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "badgeReference": "متن مرجع منبع",
+  "@badgeReference": {
+    "description": "Badge Viewer: badgeReference"
+  },
+  "badgeLocalized": "متن نمونهٔ ترجمه‌شده",
+  "@badgeLocalized": {
+    "description": "Badge Viewer: badgeLocalized"
+  },
+  "badgeShort": "جدید",
+  "@badgeShort": {
+    "description": "Badge Viewer: badgeShort"
+  },
+  "badgeLong": "عنوان طولانی وضعیت که در فضای محدود در چند خط نمایش داده می‌شود",
+  "@badgeLong": {
+    "description": "Badge Viewer: badgeLong"
+  },
+  "badgeGeometryNote": "منبع یک بوردر ۱ واحدی در قاب متن دارد؛ اندازهٔ ۸۴ × ۲۴ حفظ شده است.",
+  "@badgeGeometryNote": {
+    "description": "Badge Viewer: badgeGeometryNote"
+  },
+  "badgePreviewNotice": "نشان نمایشی است؛ گزینه‌های پیش‌نمایش واریانت منبع جدید ایجاد نمی‌کنند.",
+  "@badgePreviewNotice": {
+    "description": "Badge Viewer: badgePreviewNotice"
+  },
+  "appBarTitle": "نوار بالای صفحه",
+  "@appBarTitle": {
+    "description": "App Bar Viewer: appBarTitle"
+  },
+  "appBarHome": "خانه",
+  "@appBarHome": {
+    "description": "App Bar Viewer: appBarHome"
+  },
+  "appBarGame": "بازی دانلودی",
+  "@appBarGame": {
+    "description": "App Bar Viewer: appBarGame"
+  },
+  "appBarBack": "بازگشت",
+  "@appBarBack": {
+    "description": "App Bar Viewer: appBarBack"
+  },
+  "appBarSource": "مرجع منبع · انگلیسی LTR",
+  "@appBarSource": {
+    "description": "App Bar Viewer: appBarSource"
+  },
+  "appBarLocalized": "اجرای بومی‌سازی‌شده",
+  "@appBarLocalized": {
+    "description": "App Bar Viewer: appBarLocalized"
+  },
+  "appBarCount": "{count} از ۵ واریانت منبع · ۳ دسته",
+  "@appBarCount": {
+    "description": "App Bar Viewer: appBarCount",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "appBarMissing": "بازگشت روشن: ناموجود؛ واریانت منبع ندارد",
+  "@appBarMissing": {
+    "description": "App Bar Viewer: appBarMissing"
+  },
+  "appBarPolicy": "محتوای ۶۴ + inset بالای متعلق به میزبان. فضای منعطف ← مقادیر فشردهٔ مصرف‌کننده ← پیمایش افقی آشکار. سطح منبع شفاف است.",
+  "@appBarPolicy": {
+    "description": "App Bar Viewer: appBarPolicy"
+  },
+  "appBarAvatar": "متن آواتار",
+  "@appBarAvatar": {
+    "description": "App Bar Viewer: appBarAvatar"
+  },
+  "appBarPoints": "نمایش امتیاز",
+  "@appBarPoints": {
+    "description": "App Bar Viewer: appBarPoints"
+  },
+  "appBarUnit": "واحد امتیاز",
+  "@appBarUnit": {
+    "description": "App Bar Viewer: appBarUnit"
+  },
+  "appBarCoins": "نمایش سکه",
+  "@appBarCoins": {
+    "description": "App Bar Viewer: appBarCoins"
+  },
+  "appBarProfile": "پروفایل",
+  "@appBarProfile": {
+    "description": "App Bar Viewer: appBarProfile"
+  },
+  "appBarHelp": "راهنما",
+  "@appBarHelp": {
+    "description": "App Bar Viewer: appBarHelp"
+  },
+  "appBarDownloads": "دانلودها",
+  "@appBarDownloads": {
+    "description": "App Bar Viewer: appBarDownloads"
+  },
+  "appBarNotificationLabel": "دانلودها، فعالیت جدید",
+  "@appBarNotificationLabel": {
+    "description": "App Bar Viewer: appBarNotificationLabel"
+  },
+  "appBarBookmark": "نشانک",
+  "@appBarBookmark": {
+    "description": "App Bar Viewer: appBarBookmark"
+  },
+  "appBarAddCoins": "افزودن سکه",
+  "@appBarAddCoins": {
+    "description": "App Bar Viewer: appBarAddCoins"
+  },
+  "appBarNotification": "نقطهٔ اعلان",
+  "@appBarNotification": {
+    "description": "App Bar Viewer: appBarNotification"
+  },
+  "appBarCompact": "ارائهٔ مقادیر فشرده",
+  "@appBarCompact": {
+    "description": "App Bar Viewer: appBarCompact"
+  },
+  "appBarLong": "نمونهٔ موجودی طولانی",
+  "@appBarLong": {
+    "description": "App Bar Viewer: appBarLong"
+  },
+  "appBarUnavailableActions": "عملیات ناموجود",
+  "@appBarUnavailableActions": {
+    "description": "App Bar Viewer: appBarUnavailableActions"
+  },
+  "appBarFeedback": "تعداد عملیات محلی: {value}",
+  "@appBarFeedback": {
+    "description": "App Bar Viewer: appBarFeedback",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarPreviewWidth": "عرض محتوا",
+  "@appBarPreviewWidth": {
+    "description": "App Bar Viewer: appBarPreviewWidth"
+  },
+  "appBarUnitSample": "امتیاز",
+  "@appBarUnitSample": {
+    "description": "App Bar Viewer: appBarUnitSample"
+  },
+  "appBarCategory": "دسته",
+  "@appBarCategory": {
+    "description": "App Bar Viewer: appBarCategory"
+  },
+  "appBarPointsMeaning": "{value} {unit}",
+  "@appBarPointsMeaning": {
+    "description": "App Bar Viewer: appBarPointsMeaning",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarCoinsMeaning": "{value} سکه",
+  "@appBarCoinsMeaning": {
+    "description": "App Bar Viewer: appBarCoinsMeaning",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "appBarCompactPoints": "امتیاز فشرده (دادهٔ مصرف‌کننده)",
+  "@appBarCompactPoints": {
+    "description": "App Bar Viewer: appBarCompactPoints"
+  },
+  "appBarCompactCoins": "سکهٔ فشرده (دادهٔ مصرف‌کننده)",
+  "@appBarCompactCoins": {
+    "description": "App Bar Viewer: appBarCompactCoins"
+  },
+  "navTitle": "نوار پیمایش",
+  "@navTitle": {
+    "description": "Navigator Bar Viewer: navTitle"
+  },
+  "navSources": "نوارهای منبع · ۲ واریانت",
+  "@navSources": {
+    "description": "Navigator Bar Viewer: navSources"
+  },
+  "navItems": "آیتم‌های داخلی · ۴ حالت منبع",
+  "@navItems": {
+    "description": "Navigator Bar Viewer: navItems"
+  },
+  "navLive": "نمونهٔ انتخاب کنترل‌شده",
+  "@navLive": {
+    "description": "Navigator Bar Viewer: navLive"
+  },
+  "navHome": "خانه",
+  "@navHome": {
+    "description": "Navigator Bar Viewer: navHome"
+  },
+  "navMission": "مأموریت",
+  "@navMission": {
+    "description": "Navigator Bar Viewer: navMission"
+  },
+  "navGames": "بازی‌ها",
+  "@navGames": {
+    "description": "Navigator Bar Viewer: navGames"
+  },
+  "navLeaderboard": "جدول رتبه‌بندی",
+  "@navLeaderboard": {
+    "description": "Navigator Bar Viewer: navLeaderboard"
+  },
+  "navShop": "فروشگاه",
+  "@navShop": {
+    "description": "Navigator Bar Viewer: navShop"
+  },
+  "navSelected": "مقصد انتخاب‌شده",
+  "@navSelected": {
+    "description": "Navigator Bar Viewer: navSelected"
+  },
+  "navWidth": "عرض پیش‌نمایش",
+  "@navWidth": {
+    "description": "Navigator Bar Viewer: navWidth"
+  },
+  "navInset": "شبیه‌سازی inset پایین",
+  "@navInset": {
+    "description": "Navigator Bar Viewer: navInset"
+  },
+  "navBadge": "نشان اعلان",
+  "@navBadge": {
+    "description": "Navigator Bar Viewer: navBadge"
+  },
+  "navBadgeText": "متن نشان",
+  "@navBadgeText": {
+    "description": "Navigator Bar Viewer: navBadgeText"
+  },
+  "navBadgeMeaning": "{destination}: اعلان {badge}",
+  "@navBadgeMeaning": {
+    "description": "Navigator Bar Viewer: navBadgeMeaning",
+    "placeholders": {
+      "destination": {
+        "type": "String"
+      },
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "navCount": "{bars} از ۲ نوار منبع · {items} از ۴ حالت داخلی",
+  "@navCount": {
+    "description": "Navigator Bar Viewer: navCount",
+    "placeholders": {
+      "bars": {
+        "type": "int"
+      },
+      "items": {
+        "type": "int"
+      }
+    }
+  },
+  "navFeedback": "آخرین ID ارسال‌شده: {id} · تعداد فعال‌سازی: {count}",
+  "@navFeedback": {
+    "description": "Navigator Bar Viewer: navFeedback",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navNotice": "مراجع منبع انگلیسی و LTR با عرض ۴۰۲ و مقیاس ۱ هستند. کنترل‌ها نمونهٔ اجرایی را تغییر می‌دهند. انتخاب، عنوان‌ها و نشان‌ها دادهٔ مصرف‌کننده‌اند؛ مسیریابی انجام نمی‌شود.",
+  "@navNotice": {
+    "description": "Navigator Bar Viewer: navNotice"
+  },
+  "navPolicy": "پنج خانهٔ مساوی؛ حداقل عرض ۲۵۲. عنوان‌ها چندخطی و ارتفاع محتوا بیشتر می‌شود؛ مقصدی مخفی نمی‌شود و نوار پیمایش اسکرول ندارد. safe area پایین متعلق به adapter میزبان است.",
+  "@navPolicy": {
+    "description": "Navigator Bar Viewer: navPolicy"
+  },
+  "navUnavailable": "callbackهای غیرفعال",
+  "@navUnavailable": {
+    "description": "Navigator Bar Viewer: navUnavailable"
+  },
+  "navNoAction": "هیچ‌کدام",
+  "@navNoAction": {
+    "description": "Navigator Bar Viewer: navNoAction"
+  },
+  "navLong": "نمونهٔ عنوان و نشان طولانی",
+  "@navLong": {
+    "description": "Navigator Bar Viewer: navLong"
+  },
+  "navLongLabel": "عنوان طولانی مقصد آزمایشی",
+  "@navLongLabel": {
+    "description": "Navigator Bar Viewer: navLongLabel"
+  },
+  "navSourceItem": "آیتم داخلی منبع",
+  "@navSourceItem": {
+    "description": "Navigator Bar Viewer: navSourceItem"
+  },
+  "navSourceBar": "نوار منبع",
+  "@navSourceBar": {
+    "description": "Navigator Bar Viewer: navSourceBar"
+  },
+  "navTypography": "typography کامپوننت به Text Style منبع متصل نیست؛ فارسی از Vazirmatn موقت استفاده می‌کند (R-003).",
+  "@navTypography": {
+    "description": "Navigator Bar Viewer: navTypography"
+  },
+  "navBadgeEmpty": "متن نشان را وارد کنید یا نشان را غیرفعال کنید.",
+  "@navBadgeEmpty": {
+    "description": "Navigator Bar Viewer: navBadgeEmpty"
+  },
+  "pageScaffoldTitle": "PageScaffold (موقت)",
+  "pageScaffoldDescription": "نمونهٔ مهندسی چیدمان: برای تمرکز روی فیلد پیمایش کنید. ظاهر مورد تأیید Figma نیست.",
+  "pageScaffoldField": "ایمیل",
+  "pageScaffoldSize": "{sizeClass, select, compact{فشرده} medium{متوسط} expanded{گسترده} other{نامشخص}} · {width} dp",
+  "buttonLoading": "دکمه در حال انجام",
+  "buttonLoadingSemantics": "در حال انجام",
+  "skin": "پوسته",
+  "productSkin": "محصول",
+  "testSkin": "آزمایشی",
+  "authContinue": "ادامه",
+  "authDivider": "یا ادامه با",
+  "authRemember": "مرا برای دفعه بعد به خاطر بسپار.",
+  "authTerms": "شرایط و قوانین",
+  "authPrivacy": "سیاست حریم خصوصی",
+  "authPlayStation": "PlayStation",
+  "authXbox": "Xbox",
+  "authGoogle": "Google",
+  "authPrimitives": "اجزای ورود"
+}

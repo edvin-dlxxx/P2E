@@ -1,0 +1,53 @@
+{
+  "status": "DEVELOPMENT",
+  "sourceAccess": "read-only MCP",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "page": {
+    "id": "18422:11091",
+    "name": "- Navigator Bar"
+  },
+  "versionId": null,
+  "designerApproval": null,
+  "counts": {
+    "bars": 2,
+    "nestedItemVariants": 4
+  },
+  "pagination": [
+    {
+      "offset": 0,
+      "total": 3,
+      "next": 1
+    },
+    {
+      "offset": 1,
+      "total": 3,
+      "next": 2
+    },
+    {
+      "offset": 2,
+      "total": 3,
+      "next": null
+    }
+  ],
+  "evidenceHashes": {
+    "consumers.json": "91af8acc011926ff8d614eb75706f0720973ee3ec8224e2cec0c368360123e11",
+    "foundations.json": "133ad5b3cca1549ed4ded168e6c96d5c5c90dcb9cf1676ab39c280dc2cdf06ee",
+    "inventory.json": "192dcc162a2c0f8ace9a5b28c7fe539079f2426746aa61d9229be22179a6243b",
+    "node-18422-11154.json": "d4997713bf9eea20801562f780602dea1232346e3d0b21de36ee0790ec7d1126",
+    "node-18422-11156.json": "087ab11bdb1a53338bd8605188ac694b161e592fae3d29a9418f664636eda84a",
+    "node-18422-11178.json": "9dfec5c8a571a7a78c96317b8bf4db6d948869cc5f2da1ca93dbbaaf02cb5a00",
+    "node-18422-11188.json": "989ca117ef0af8bbfbfbdd271ff7a4289972e1dcbf1482b64759900d7a62e343",
+    "node-18422-11198.json": "36ad89722463970f571d8b44eb75fd9f69307a5fd1269e8cf51a5453a09e5786",
+    "node-18422-11208.json": "85c0fbf34d6b6809e5da630eb3296315add135278408d50b4ca63363ee9c1f05",
+    "node-18422-11218.json": "d5b35858e3dda34823b9f5e7098ad65fb761746ea6a3979b0c28d492ee777875",
+    "node-18422-11444.json": "3dde2a70da16a9bba40d03b0993107f0a03aa9992108d70d551a5539575306ff",
+    "node-18422-11462.json": "0610aef09b9b9c291765b8b383661dc17c5770e0e7a61460b116503c6de915bd",
+    "node-18422-11474.json": "b6b35b7e4fcf0d6f75641b648d5eed58c9c6abd002655463970f02a78c48452b",
+    "node-18422-11476.json": "78b976bfe1670d43286e08d2cd4779b9f1a136018d5185b18b597561cf663dc2",
+    "node-18422-11477.json": "6533b9c8d378670edcf91f85cc08f733b212f891b81a21139ae50935dcff0095",
+    "node-18422-11478.json": "0ec31a6a7022eb921da40250df7bfb91cb5efea4b965ebfdaf66ba2cc58f80ff",
+    "node-18422-11479.json": "7290de6b3827ecd7042666687961e1d2a08433fd8d9048a953ccd98c143091dc",
+    "node-18422-11480.json": "16fb7ccc0e4562e9c363b4d3fe97e1bdf6b5bebe06c1ef823654e95b6b8a5854",
+    "node-18422-11481.json": "d165000097b8b6a606b8d8030f9362797f66184533d882b683d323eb0bbc75e1"
+  }
+}

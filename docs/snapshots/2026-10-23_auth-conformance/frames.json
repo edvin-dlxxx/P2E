@@ -1,0 +1,2282 @@
+[
+  {
+    "nodeId": "18608:11451",
+    "state": "idle",
+    "nodes": [
+      {
+        "id": "18608:11451",
+        "name": "Authentication - Dark",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      },
+      {
+        "id": "18608:11452",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 235
+        }
+      },
+      {
+        "id": "18618:12121",
+        "name": "Hero Section Banner",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 180
+        }
+      },
+      {
+        "id": "18618:12122",
+        "name": "Background",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 264
+        }
+      },
+      {
+        "id": "18618:12123",
+        "name": "Mask",
+        "type": "rectangle",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 264
+        }
+      },
+      {
+        "id": "18618:12124",
+        "name": "Image",
+        "type": "rectangle",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 264
+        }
+      },
+      {
+        "id": "18608:11454",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 235,
+          "width": 402,
+          "height": 639
+        }
+      },
+      {
+        "id": "18613:11487",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 236,
+          "width": 400,
+          "height": 144
+        }
+      },
+      {
+        "id": "18613:11488",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 260,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18613:11489",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 260,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18613:11490",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 308,
+          "width": 352,
+          "height": 48
+        }
+      },
+      {
+        "id": "18613:11491",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 308,
+          "width": 352,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:11748",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 380,
+          "width": 400,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:11749",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 388,
+          "width": 230,
+          "height": 32
+        }
+      },
+      {
+        "id": "18618:11750",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 392,
+          "width": 24,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:11751",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 29,
+          "y": 396,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "id": "I18618:11751;18422:11356",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 30.33333396911621,
+          "y": 397.333251953125,
+          "width": 13.333333015441895,
+          "height": 12
+        }
+      },
+      {
+        "id": "18618:11752",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 55,
+          "y": 392,
+          "width": 74,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:11753",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 55,
+          "y": 394,
+          "width": 52,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:11754",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 111,
+          "y": 395,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:11760",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 135,
+          "y": 394,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:11758",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 135,
+          "y": 394,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18608:11455",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 428,
+          "width": 400,
+          "height": 214
+        }
+      },
+      {
+        "id": "18618:11613",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 448,
+          "width": 360,
+          "height": 104
+        }
+      },
+      {
+        "id": "18608:11456",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 448,
+          "width": 360,
+          "height": 60
+        }
+      },
+      {
+        "id": "I18608:11456;18562:5898",
+        "name": "Text Field Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 448,
+          "width": 360,
+          "height": 60
+        }
+      },
+      {
+        "id": "I18608:11456;18562:6066",
+        "name": "Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 37,
+          "y": 466,
+          "width": 328,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18608:11456;18562:6067",
+        "name": "Label Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 37,
+          "y": 468,
+          "width": 211,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18608:11456;18562:6068",
+        "name": "Text Field Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 37,
+          "y": 468,
+          "width": 211,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18608:11456;18562:6069",
+        "name": "Indicator",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 254,
+          "y": 469,
+          "width": 117,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:11599",
+        "name": "Radio Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 516,
+          "width": 360,
+          "height": 36
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4983",
+        "name": "Radio Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 516,
+          "width": 36,
+          "height": 36
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4981",
+        "name": "Unselected Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 29,
+          "y": 524,
+          "width": 20,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4817",
+        "name": "Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 57,
+          "y": 524,
+          "width": 324,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4818",
+        "name": "Adjacent Label Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 61,
+          "y": 524,
+          "width": 188,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4819",
+        "name": "Text Field Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 61,
+          "y": 524,
+          "width": 188,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:11599;16481:4820",
+        "name": "Indicator",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 255,
+          "y": 525,
+          "width": 117,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:11632",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 576,
+          "width": 360,
+          "height": 46
+        }
+      },
+      {
+        "id": "18618:11633",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 21,
+          "y": 576,
+          "width": 360,
+          "height": 46
+        }
+      },
+      {
+        "id": "I18618:11633;18437:1838",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 170.5,
+          "y": 589,
+          "width": 61,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:11633;18437:1839",
+        "name": "Text Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 170.5,
+          "y": 589,
+          "width": 61,
+          "height": 20
+        }
+      },
+      {
+        "id": "18613:11493",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 642,
+          "width": 400,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11494",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 33,
+          "y": 651,
+          "width": 112.5,
+          "height": 0
+        }
+      },
+      {
+        "id": "18613:11495",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 33,
+          "y": 651,
+          "width": 112.5,
+          "height": 0
+        }
+      },
+      {
+        "id": "18613:11496",
+        "name": "or continue with",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 155.5,
+          "y": 642,
+          "width": 91,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11497",
+        "name": "Divider",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 256.5,
+          "y": 651,
+          "width": 112.5,
+          "height": 0
+        }
+      },
+      {
+        "id": "18613:11498",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 256.5,
+          "y": 651,
+          "width": 112.5,
+          "height": 0
+        }
+      },
+      {
+        "id": "18613:11499",
+        "name": "Social Auth Gateway",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 660,
+          "width": 400,
+          "height": 129
+        }
+      },
+      {
+        "id": "18613:11500",
+        "name": "Play Station",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 684,
+          "width": 110.66666412353516,
+          "height": 62
+        }
+      },
+      {
+        "id": "18613:11501",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 684,
+          "width": 110.66666412353516,
+          "height": 38
+        }
+      },
+      {
+        "id": "18613:11502",
+        "name": "Platform Icons",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 60.33333206176758,
+          "y": 683,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "I18613:11502;14879:3379",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 69.53333282470703,
+          "y": 694.60009765625,
+          "width": 21,
+          "height": 16
+        }
+      },
+      {
+        "id": "18613:11503",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 46.83333206176758,
+          "y": 728,
+          "width": 67,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11504",
+        "name": "Playstation",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 46.83333206176758,
+          "y": 728,
+          "width": 67,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11505",
+        "name": "Xbox",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 145.66665649414062,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 62
+        }
+      },
+      {
+        "id": "18613:11506",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 145.66665649414062,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 38
+        }
+      },
+      {
+        "id": "18613:11507",
+        "name": "Platform Icons",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 181,
+          "y": 683,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "I18613:11507;14879:3377",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 191,
+          "y": 693,
+          "width": 20,
+          "height": 20
+        }
+      },
+      {
+        "id": "18613:11508",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 185,
+          "y": 728,
+          "width": 32,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11509",
+        "name": "Xbox",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 185,
+          "y": 728,
+          "width": 32,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11516",
+        "name": "Google",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 266.33331298828125,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 62
+        }
+      },
+      {
+        "id": "18613:11517",
+        "name": "Toggel Swap",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 266.33331298828125,
+          "y": 684,
+          "width": 110.66667175292969,
+          "height": 38
+        }
+      },
+      {
+        "id": "18613:11518",
+        "name": "google-icon-logo-svgrepo-com 1",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 311.6666564941406,
+          "y": 693,
+          "width": 20,
+          "height": 20
+        }
+      },
+      {
+        "id": "18613:11519",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 321.861328125,
+          "y": 701.149658203125,
+          "width": 9.567022323608398,
+          "height": 9.367709159851074
+        }
+      },
+      {
+        "id": "18613:11520",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 312.9586486816406,
+          "y": 704.9365234375,
+          "width": 15.502138137817383,
+          "height": 7.994657039642334
+        }
+      },
+      {
+        "id": "18613:11521",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 311.8956604003906,
+          "y": 698.443603515625,
+          "width": 4.29625940322876,
+          "height": 8.9954195022583
+        }
+      },
+      {
+        "id": "18613:11522",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 312.9586486816406,
+          "y": 693,
+          "width": 15.568548202514648,
+          "height": 7.994656562805176
+        }
+      },
+      {
+        "id": "18613:11523",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 299.6666564941406,
+          "y": 728,
+          "width": 44,
+          "height": 18
+        }
+      },
+      {
+        "id": "18613:11524",
+        "name": "Google",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 299.6666564941406,
+          "y": 728,
+          "width": 44,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:11674",
+        "name": "Legal Section",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 1,
+          "y": 789,
+          "width": 400,
+          "height": 84
+        }
+      },
+      {
+        "id": "18618:11677",
+        "name": "Terms & Privacy",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 813,
+          "width": 352,
+          "height": 36
+        }
+      },
+      {
+        "id": "18618:11675",
+        "name": "By continuing, you agree to our\u00a0Terms & Conditions\u00a0and\u00a0\u2028Privacy Policy.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 25,
+          "y": 813,
+          "width": 352,
+          "height": 36
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12447",
+    "state": "focusedEmpty",
+    "nodes": [
+      {
+        "id": "18618:12447",
+        "name": "Authentication (Active Text Field) - Dark",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      },
+      {
+        "id": "18618:12454",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 488
+        }
+      },
+      {
+        "id": "18618:12455",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 144
+        }
+      },
+      {
+        "id": "18618:12456",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12457",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12458",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12459",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12460",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 199,
+          "width": 402,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12461",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        }
+      },
+      {
+        "id": "18618:12462",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 211,
+          "width": 24,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12463",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 28,
+          "y": 215,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "id": "I18618:12463;18422:11356",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 29.333343505859375,
+          "y": 216.333251953125,
+          "width": 13.333333015441895,
+          "height": 12
+        }
+      },
+      {
+        "id": "18618:12464",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 211,
+          "width": 74,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12465",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 213,
+          "width": 52,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12466",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 110,
+          "y": 214,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:12467",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12468",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12469",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 247,
+          "width": 402,
+          "height": 296
+        }
+      },
+      {
+        "id": "18618:12470",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        }
+      },
+      {
+        "id": "18618:12471",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6171",
+        "name": "Text Field Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6176",
+        "name": "Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 277,
+          "width": 330,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6177",
+        "name": "Label Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6178",
+        "name": "Text Field Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6179",
+        "name": "Indicator",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 227,
+          "y": 278,
+          "width": 117,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6184",
+        "name": "Text Feld",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 330,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6185",
+        "name": "Caret",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 299,
+          "width": 0,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6186",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 35.99999912577243,
+          "y": 299,
+          "width": 8.742275667827926e-07,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6187",
+        "name": "Input Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 153,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12471;18563:6188",
+        "name": "Text Field Place Holder",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 153,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12473",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "18618:12474",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "I18618:12474;18437:1838",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 170.5,
+          "y": 490,
+          "width": 61,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12474;18437:1839",
+        "name": "Text Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 170.5,
+          "y": 490,
+          "width": 61,
+          "height": 20
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12126",
+    "state": "phone",
+    "nodes": [
+      {
+        "id": "18618:12126",
+        "name": "Login with Phone - Dark",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      },
+      {
+        "id": "18618:12133",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 488
+        }
+      },
+      {
+        "id": "18618:12134",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 144
+        }
+      },
+      {
+        "id": "18618:12135",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12136",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12137",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12138",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12139",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 199,
+          "width": 402,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12140",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        }
+      },
+      {
+        "id": "18618:12141",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 211,
+          "width": 24,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12142",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 28,
+          "y": 215,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "id": "I18618:12142;18422:11356",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 29.33331298828125,
+          "y": 216.333251953125,
+          "width": 13.333333015441895,
+          "height": 12
+        }
+      },
+      {
+        "id": "18618:12143",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 211,
+          "width": 74,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12144",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 213,
+          "width": 52,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12145",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 110,
+          "y": 214,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:12146",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12147",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12148",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 247,
+          "width": 402,
+          "height": 296
+        }
+      },
+      {
+        "id": "18618:12149",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        }
+      },
+      {
+        "id": "18618:12150",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6248",
+        "name": "Text Field Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6253",
+        "name": "Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 277,
+          "width": 330,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6254",
+        "name": "Label Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6255",
+        "name": "Text Field Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6256",
+        "name": "Indicator",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 227,
+          "y": 278,
+          "width": 117,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6261",
+        "name": "Text Feld",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 330,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6264",
+        "name": "Input Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 123,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6265",
+        "name": "Written Text",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 123,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6262",
+        "name": "Caret",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 159,
+          "y": 299,
+          "width": 0,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6263",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 158.99999912577243,
+          "y": 299,
+          "width": 8.742275667827926e-07,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6266",
+        "name": "Supporting Text Container (Optional)",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 339,
+          "width": 362,
+          "height": 34
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6267",
+        "name": "Supporting Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 339,
+          "width": 362,
+          "height": 34
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6268",
+        "name": "Icon (Required)",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 30,
+          "y": 347,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6269",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 30,
+          "y": 347,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6269;14466:921",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 31.125,
+          "y": 348.125,
+          "width": 15.75,
+          "height": 15.75
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6270",
+        "name": "Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 56,
+          "y": 347,
+          "width": 171,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12150;18563:6271",
+        "name": "Supporting text.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 56,
+          "y": 347,
+          "width": 171,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:12152",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "18618:12153",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "I18618:12153;18437:1814",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 130.5,
+          "y": 490,
+          "width": 141,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12153;18437:1815",
+        "name": "Text Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 130.5,
+          "y": 490,
+          "width": 141,
+          "height": 20
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "18618:12651",
+    "state": "email",
+    "nodes": [
+      {
+        "id": "18618:12651",
+        "name": "Login with Email - Dark",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      },
+      {
+        "id": "18618:12654",
+        "name": "Body",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 488
+        }
+      },
+      {
+        "id": "18618:12655",
+        "name": "Header",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 55,
+          "width": 402,
+          "height": 144
+        }
+      },
+      {
+        "id": "18618:12656",
+        "name": "Title",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12657",
+        "name": "Play. Earn. Win.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 79,
+          "width": 210,
+          "height": 40
+        }
+      },
+      {
+        "id": "18618:12658",
+        "name": "Subtitle",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12659",
+        "name": "Enter your email or phone number and let the games begin.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 127,
+          "width": 354,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12660",
+        "name": "Welcome Bonus",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 199,
+          "width": 402,
+          "height": 48
+        }
+      },
+      {
+        "id": "18618:12661",
+        "name": "Points",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 207,
+          "width": 230,
+          "height": 32
+        }
+      },
+      {
+        "id": "18618:12662",
+        "name": "Icon",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 24,
+          "y": 211,
+          "width": 24,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12663",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 28,
+          "y": 215,
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "id": "I18618:12663;18422:11356",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 29.33331298828125,
+          "y": 216.333251953125,
+          "width": 13.333333015441895,
+          "height": 12
+        }
+      },
+      {
+        "id": "18618:12664",
+        "name": "Points Amount",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 211,
+          "width": 74,
+          "height": 24
+        }
+      },
+      {
+        "id": "18618:12665",
+        "name": "+3,500",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 54,
+          "y": 213,
+          "width": 52,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12666",
+        "name": "pts",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 110,
+          "y": 214,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:12667",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12668",
+        "name": "Welcome bonus",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 134,
+          "y": 213,
+          "width": 106,
+          "height": 20
+        }
+      },
+      {
+        "id": "18618:12669",
+        "name": "Form",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 0,
+          "y": 247,
+          "width": 402,
+          "height": 296
+        }
+      },
+      {
+        "id": "18618:12670",
+        "name": "Text Fields",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        }
+      },
+      {
+        "id": "18618:12671",
+        "name": "Base Text Field - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 106
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6248",
+        "name": "Text Field Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 267,
+          "width": 362,
+          "height": 64
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6253",
+        "name": "Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 277,
+          "width": 330,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6254",
+        "name": "Label Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6255",
+        "name": "Text Field Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 278,
+          "width": 185,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6256",
+        "name": "Indicator",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 227,
+          "y": 278,
+          "width": 117,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6261",
+        "name": "Text Feld",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 330,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6264",
+        "name": "Input Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 237,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6265",
+        "name": "Written Text",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 36,
+          "y": 297,
+          "width": 237,
+          "height": 24
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6262",
+        "name": "Caret",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 273,
+          "y": 299,
+          "width": 0,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6263",
+        "name": "Caret Point",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 272.99999912577255,
+          "y": 299,
+          "width": 8.742274530959548e-07,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6266",
+        "name": "Supporting Text Container (Optional)",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 339,
+          "width": 362,
+          "height": 34
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6267",
+        "name": "Supporting Text",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 339,
+          "width": 362,
+          "height": 34
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6268",
+        "name": "Icon (Required)",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 30,
+          "y": 347,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6269",
+        "name": "Fill",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 30,
+          "y": 347,
+          "width": 18,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6269;14466:921",
+        "name": "Vector",
+        "type": "vector",
+        "visible": true,
+        "screenRect": {
+          "x": 31.125,
+          "y": 348.125,
+          "width": 15.75,
+          "height": 15.75
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6270",
+        "name": "Container",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 56,
+          "y": 347,
+          "width": 299,
+          "height": 18
+        }
+      },
+      {
+        "id": "I18618:12671;18563:6271",
+        "name": "Supporting text.",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 56,
+          "y": 347,
+          "width": 299,
+          "height": 18
+        }
+      },
+      {
+        "id": "18618:12673",
+        "name": "CTA",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "18618:12674",
+        "name": "Medium Fill Button - Dark Mode",
+        "type": "instance",
+        "visible": true,
+        "screenRect": {
+          "x": 20,
+          "y": 477,
+          "width": 362,
+          "height": 46
+        }
+      },
+      {
+        "id": "I18618:12674;18437:1814",
+        "name": "Text Label",
+        "type": "frame",
+        "visible": true,
+        "screenRect": {
+          "x": 104.5,
+          "y": 490,
+          "width": 193,
+          "height": 20
+        }
+      },
+      {
+        "id": "I18618:12674;18437:1815",
+        "name": "Text Label",
+        "type": "text",
+        "visible": true,
+        "screenRect": {
+          "x": 104.5,
+          "y": 490,
+          "width": 193,
+          "height": 20
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,474 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart
+00:00 +0: Auth Entry scripted Inspector width/height matrix
+Shell: Auth sweep samples: 1000
+Shell: Auth sweep samples: 2000
+Shell: Auth sweep samples: 3000
+Shell: Auth sweep samples: 4000
+Shell: Auth sweep samples: 5000
+Shell: Auth sweep samples: 6000
+Shell: Auth sweep samples: 7000
+Shell: Auth sweep samples: 8000
+Shell: Auth sweep samples: 9000
+Shell: Auth sweep samples: 10000
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: empty
+  Actual: [
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-2', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 476.0,
+                'height': 874.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 476.0,
+              'lastWidth': 484.0,
+              'firstHeight': 874.0,
+              'lastHeight': 874.0,
+              'widthStep': 4.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-2', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 320.0,
+                'height': 660.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 320.0,
+              'lastWidth': 320.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-2', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 660.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-2', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 1020.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 1020.0,
+              'lastHeight': 1020.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-4', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 540.0,
+                'height': 874.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 540.0,
+              'lastWidth': 1400.0,
+              'firstHeight': 874.0,
+              'lastHeight': 874.0,
+              'widthStep': 4.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-4', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 476.0,
+                'height': 874.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 476.0,
+              'lastWidth': 484.0,
+              'firstHeight': 874.0,
+              'lastHeight': 874.0,
+              'widthStep': 4.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-4', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 320.0,
+                'height': 660.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 320.0,
+              'lastWidth': 320.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-4', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 660.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-6', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 488.0,
+                'height': 874.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 488.0,
+              'lastWidth': 548.0,
+              'firstHeight': 874.0,
+              'lastHeight': 874.0,
+              'widthStep': 4.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-6', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 400.0,
+                'height': 1200.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 400.0,
+              'lastWidth': 400.0,
+              'firstHeight': 1200.0,
+              'lastHeight': 1200.0,
+              'widthStep': 200.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-6', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 320.0,
+                'height': 660.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 320.0,
+              'lastWidth': 320.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-6', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 660.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-6', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 1200.0,
+                'locales': ['fa'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 1200.0,
+              'lastHeight': 1200.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-8', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 488.0,
+                'height': 874.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 2.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 488.0,
+              'lastWidth': 548.0,
+              'firstHeight': 874.0,
+              'lastHeight': 874.0,
+              'widthStep': 4.0,
+              'heightStep': 8.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-8', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 320.0,
+                'height': 660.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 320.0,
+              'lastWidth': 320.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            },
+            {
+              'kind': 'button-hit-envelope-constrained',
+              'summary': 'Button 48dp hit envelope is outside ancestor _RenderSingleChildViewport
+bounds or clip.',
+              'ownerKey': ['auth.entry', 'screen-8', 'auth.entry.continue', null, null],
+              'elementId': 'auth.entry.continue',
+              'device': {
+                'width': 402.0,
+                'height': 660.0,
+                'locales': ['en'],
+                'brightness': 'dark',
+                'textScale': 1.0,
+                'platform': 'android',
+                'insets': {'top': 55.0, 'bottom': 0.0, 'left': 0.0, 'right': 0.0},
+                'keyboard': false,
+                'keyboardHeight': 300.0,
+                'disableAnimations': true,
+                'boldText': false,
+                'highContrast': false
+              },
+              'firstWidth': 402.0,
+              'lastWidth': 402.0,
+              'firstHeight': 660.0,
+              'lastHeight': 660.0,
+              'widthStep': 4.0,
+              'heightStep': 180.0
+            }
+          ]
+Complete supported-area sweep
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart:188:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1953:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart line 188
+The test description was:
+  Auth Entry scripted Inspector width/height matrix
+════════════════════════════════════════════════════════════════════════════════════════════════════
+08:51 +0 -1: Auth Entry scripted Inspector width/height matrix [E]
+  Test failed. See exception logs above.
+  The test description was: Auth Entry scripted Inspector width/height matrix
+  
+08:51 +0 -1: Some tests failed.
+
+Failing tests:
+  D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart: Auth Entry scripted Inspector width/height matrix

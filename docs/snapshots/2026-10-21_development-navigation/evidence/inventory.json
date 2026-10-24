@@ -1,0 +1,274 @@
+{
+  "pages": [
+    {
+      "complete": true,
+      "page": {
+        "id": "18422:11091",
+        "name": "- Navigator Bar"
+      },
+      "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+      "total": 3,
+      "offset": 0,
+      "next": 1,
+      "sets": [
+        {
+          "id": "18422:11475",
+          "name": "Navigator Bar Container",
+          "axes": {
+            "Theme": {
+              "type": "VARIANT",
+              "defaultValue": "Dark",
+              "variantOptions": [
+                "Dark",
+                "Light"
+              ]
+            }
+          },
+          "variants": [
+            {
+              "id": "18422:11474",
+              "name": "Theme=Dark",
+              "props": {
+                "Theme": "Dark"
+              }
+            },
+            {
+              "id": "18422:11476",
+              "name": "Theme=Light",
+              "props": {
+                "Theme": "Light"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "complete": true,
+      "page": {
+        "id": "18422:11091",
+        "name": "- Navigator Bar"
+      },
+      "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+      "total": 3,
+      "offset": 1,
+      "next": 2,
+      "sets": [
+        {
+          "id": "18422:11155",
+          "name": "Vertical Navigation Item - Dark",
+          "axes": {
+            "Label Text#18422:2": {
+              "type": "TEXT",
+              "defaultValue": "Home"
+            },
+            "Large Badge Label#18422:3": {
+              "type": "TEXT",
+              "defaultValue": "2"
+            },
+            "Large Badge#18422:4": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "State": {
+              "type": "VARIANT",
+              "defaultValue": "Default",
+              "variantOptions": [
+                "Default",
+                "Active"
+              ]
+            }
+          },
+          "variants": [
+            {
+              "id": "18422:11156",
+              "name": "State=Default",
+              "props": {
+                "State": "Default"
+              }
+            },
+            {
+              "id": "18422:11154",
+              "name": "State=Active",
+              "props": {
+                "State": "Active"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "complete": true,
+      "page": {
+        "id": "18422:11091",
+        "name": "- Navigator Bar"
+      },
+      "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+      "total": 3,
+      "offset": 2,
+      "next": null,
+      "sets": [
+        {
+          "id": "18422:11443",
+          "name": "Vertical Navigation Item - Light",
+          "axes": {
+            "Label Text#18422:2": {
+              "type": "TEXT",
+              "defaultValue": "Home"
+            },
+            "Large Badge Label#18422:3": {
+              "type": "TEXT",
+              "defaultValue": "2"
+            },
+            "Large Badge#18422:4": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "State": {
+              "type": "VARIANT",
+              "defaultValue": "Default",
+              "variantOptions": [
+                "Default",
+                "Active"
+              ]
+            }
+          },
+          "variants": [
+            {
+              "id": "18422:11444",
+              "name": "State=Default",
+              "props": {
+                "State": "Default"
+              }
+            },
+            {
+              "id": "18422:11462",
+              "name": "State=Active",
+              "props": {
+                "State": "Active"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "complete": true,
+  "sets": [
+    {
+      "id": "18422:11475",
+      "name": "Navigator Bar Container",
+      "axes": {
+        "Theme": {
+          "type": "VARIANT",
+          "defaultValue": "Dark",
+          "variantOptions": [
+            "Dark",
+            "Light"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18422:11474",
+          "name": "Theme=Dark",
+          "props": {
+            "Theme": "Dark"
+          }
+        },
+        {
+          "id": "18422:11476",
+          "name": "Theme=Light",
+          "props": {
+            "Theme": "Light"
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11155",
+      "name": "Vertical Navigation Item - Dark",
+      "axes": {
+        "Label Text#18422:2": {
+          "type": "TEXT",
+          "defaultValue": "Home"
+        },
+        "Large Badge Label#18422:3": {
+          "type": "TEXT",
+          "defaultValue": "2"
+        },
+        "Large Badge#18422:4": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default",
+          "variantOptions": [
+            "Default",
+            "Active"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18422:11156",
+          "name": "State=Default",
+          "props": {
+            "State": "Default"
+          }
+        },
+        {
+          "id": "18422:11154",
+          "name": "State=Active",
+          "props": {
+            "State": "Active"
+          }
+        }
+      ]
+    },
+    {
+      "id": "18422:11443",
+      "name": "Vertical Navigation Item - Light",
+      "axes": {
+        "Label Text#18422:2": {
+          "type": "TEXT",
+          "defaultValue": "Home"
+        },
+        "Large Badge Label#18422:3": {
+          "type": "TEXT",
+          "defaultValue": "2"
+        },
+        "Large Badge#18422:4": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default",
+          "variantOptions": [
+            "Default",
+            "Active"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18422:11444",
+          "name": "State=Default",
+          "props": {
+            "State": "Default"
+          }
+        },
+        {
+          "id": "18422:11462",
+          "name": "State=Active",
+          "props": {
+            "State": "Active"
+          }
+        }
+      ]
+    }
+  ]
+}

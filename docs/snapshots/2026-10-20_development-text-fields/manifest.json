@@ -1,0 +1,65 @@
+{
+  "status": "DEVELOPMENT",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "page": {
+    "id": "18563:6534",
+    "name": "- Text Field System"
+  },
+  "versionId": null,
+  "designerApproval": null,
+  "sourceAccess": "read-only MCP",
+  "counts": {
+    "sets": 6,
+    "variants": 34,
+    "byFamily": {
+      "textField": 10,
+      "password": 10,
+      "otp": 6,
+      "radio": 8
+    }
+  },
+  "themeGaps": [
+    "password/light",
+    "otp/light"
+  ],
+  "evidenceHashes": {
+    "consumer-18653-13552.json": "35b51b1e74266d85ead629ae13e40a6db12f468a5a19878b108c8e1ef5459e5d",
+    "consumer-18664-13700.json": "c8c74374e14cddffbb5af516dc115bbb170eb3d84800f7d96b731a7d58e39410",
+    "foundations.json": "3fe25baea0d1efbf91be67d9e78d7291a08376f9e2c98b978714823746354413",
+    "page-inventory.json": "cc68a1972e0c63b999c713e98ee0728ca5f16c647015aa524e46a8e691107dab",
+    "variant-16481-3383.json": "3efec7f3765a89debf33d95ddeff2f18c618532976d19c174a22f72a862e19eb",
+    "variant-16481-3413.json": "8deb75105369d1d6aefe9e2fb6836b3be0617d27fcae34a563025e0f26abb6fb",
+    "variant-16481-3443.json": "8b823fd3dfb59cb6f68e6f1fdf42b1928d30198e1bd51fc6f57a94aa78686bd7",
+    "variant-16481-3473.json": "1f926b0d53b73149cd5560381bd625fa62a946dc4120b3585a2ab4e9634eddd2",
+    "variant-16481-3531.json": "c897688237fe259c1f3ad6f80bbb0ada09f70dec4e0b2f8bbb1388b2311fcf4a",
+    "variant-16481-3758.json": "f4ee06d0cd4987ff1d9c715f1c13c988c72cdf87eb28fd2e81aae48f4e8ee377",
+    "variant-16481-4816.json": "694090582732a83171e6d07757227af7b8286666d4631d82cdb094cccfbd399c",
+    "variant-16481-4984.json": "c656346f8b37a15ab7858c20cbe547bcd41b5e23447b01c07f7f333fcd04d560",
+    "variant-16481-4995.json": "3c96dae64b0335980c4bdf05b4da6d34faad0ecb75c220299a35224ecf8a4870",
+    "variant-16481-5006.json": "53af29d16774c375ceee1807b520ecae35677fc3a6648d16c97ce5a00815c2e5",
+    "variant-16481-5018.json": "394459d90577db9a3668299f52aca9f6cb4c3d2fa7defd071196dabb29f5ddca",
+    "variant-16481-5029.json": "1f101f0d6635c6a85b9681b08fedcb7aa5c73a45ac3fe7f5dde9ac155a5d617a",
+    "variant-16481-5040.json": "98bdda678b28688f1a653927867219c397e695c755923033f3f50e4b37bda9d5",
+    "variant-16481-5051.json": "29f4c072fcb07addc39980d14bb495314425e974c78bf20c0e334ae0920e7ae6",
+    "variant-18562-5888.json": "a6c9c2955209b344e44fac55b885835d0fe81cdaf4a259af9744ce8b9e01b2ac",
+    "variant-18563-6170.json": "0bcbbf0c53352f462a50163084d3e20ec05f78901244617649315587f6079b65",
+    "variant-18563-6247.json": "c80ba00bd0b11b89cace87ed158886c1f44f717ea76d554bf0dc2df62e7ff95e",
+    "variant-18563-6478.json": "ab6399b99c3f9035e9f78056e28d7cbbdfd8a33868a2fdc9013bed5d11901ea0",
+    "variant-18563-6508.json": "bf28d690b02f9c0a10acf97c6945a5721b0aab80182d17f0eeb9f9fca106eb69",
+    "variant-18563-6566.json": "0d4aa83eb36dc805f2184214df64c29185b9df45c960ed65c96656e3ed78e756",
+    "variant-18563-6586.json": "152618b8793cb289d48d07051ac356e3e19bbdbabfd59a531d9853b075431ef9",
+    "variant-18563-6611.json": "621a32d8a7a9b98df5aa6631a25edaf28a08019d3811fbb079d19a8c55b06ce8",
+    "variant-18563-6636.json": "4eba87730963c2923f7e04b3208f48f4cd3aa2230ccef1895032da9fa3948e04",
+    "variant-18563-6659.json": "287a976ebe02e3355c52850caecb3f96d8afb9af6535645a4fce5df67a9fb421",
+    "variant-18675-14622.json": "bb8d32847cde20296d040f5d9cd6761b7da561a51360b7fab5321c94ff22e23c",
+    "variant-18675-14638.json": "e0b3d9a612a76a4c5768284d97e523092bdb4cccde3a4081c5b3a70a4d3ec587",
+    "variant-18675-14659.json": "826f22a2d9de7f4d2d9a4c11540e740fc0ba2f6936f1c0240ca4e56cb44859ee",
+    "variant-18675-14680.json": "cd3752d58a62a101fa8564c99d84ce746ab0c4e287805689177df86239a74812",
+    "variant-18675-14699.json": "1f2f40a15f0bdc9953145d22c6323b553d8bcd779893a55f2a366586095838e9",
+    "variant-18675-15009.json": "c7ac80f6cb3cedf0c9c7e9fb25d069c25e67a1e097ddc99ed89180c5d70a059e",
+    "variant-18675-15048.json": "1b926a4db1216f7385bbf89405ff6e5ed6b0a7690065bbe1c8fc1d24f4911863",
+    "variant-18675-15072.json": "5858367ebc57e206dbb293b9471587bdfdfdc00c47aca618ea676bcb68c2bc2e",
+    "variant-18675-15098.json": "5cd242e7b383e84dc15b642be9b32655ecd969f6f72273e120d3c1c43c9b065a",
+    "variant-18675-15124.json": "e662ddf6d48f8bc02967975466f5139df8b2c55080e1a1acc8e152d21aa8a482"
+  }
+}

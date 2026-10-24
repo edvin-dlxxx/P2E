@@ -1,0 +1,1253 @@
+{
+  "icons": [
+    {
+      "file": "icons/fill/edit_square.svg",
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            196
+          ],
+          [
+            0,
+            1,
+            152
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 196,
+        "y": 152
+      },
+      "iconId": "edit_square",
+      "id": "14667:4499",
+      "instanceReferences": [
+        {
+          "nodeId": "18436:1614",
+          "parentId": "18436:1613",
+          "variantId": "18436:1612",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1620",
+          "parentId": "18436:1619",
+          "variantId": "18436:1618",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1626",
+          "parentId": "18436:1625",
+          "variantId": "18436:1624",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1632",
+          "parentId": "18436:1631",
+          "variantId": "18436:1630",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1638",
+          "parentId": "18436:1637",
+          "variantId": "18436:1636",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1645",
+          "parentId": "18436:1644",
+          "variantId": "18436:1643",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1651",
+          "parentId": "18436:1650",
+          "variantId": "18436:1649",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1657",
+          "parentId": "18436:1656",
+          "variantId": "18436:1655",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1663",
+          "parentId": "18436:1662",
+          "variantId": "18436:1661",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1669",
+          "parentId": "18436:1668",
+          "variantId": "18436:1667",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1676",
+          "parentId": "18436:1675",
+          "variantId": "18436:1674",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1682",
+          "parentId": "18436:1681",
+          "variantId": "18436:1680",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1688",
+          "parentId": "18436:1687",
+          "variantId": "18436:1686",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1694",
+          "parentId": "18436:1693",
+          "variantId": "18436:1692",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1700",
+          "parentId": "18436:1699",
+          "variantId": "18436:1698",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1707",
+          "parentId": "18436:1706",
+          "variantId": "18436:1705",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1713",
+          "parentId": "18436:1712",
+          "variantId": "18436:1711",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1719",
+          "parentId": "18436:1718",
+          "variantId": "18436:1717",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1725",
+          "parentId": "18436:1724",
+          "variantId": "18436:1723",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1731",
+          "parentId": "18436:1730",
+          "variantId": "18436:1729",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1812",
+          "parentId": "18437:1811",
+          "variantId": "18437:1810",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1818",
+          "parentId": "18437:1817",
+          "variantId": "18437:1816",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1824",
+          "parentId": "18437:1823",
+          "variantId": "18437:1822",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1830",
+          "parentId": "18437:1829",
+          "variantId": "18437:1828",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1836",
+          "parentId": "18437:1835",
+          "variantId": "18437:1834",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1843",
+          "parentId": "18437:1842",
+          "variantId": "18437:1841",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1849",
+          "parentId": "18437:1848",
+          "variantId": "18437:1847",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1855",
+          "parentId": "18437:1854",
+          "variantId": "18437:1853",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1861",
+          "parentId": "18437:1860",
+          "variantId": "18437:1859",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1867",
+          "parentId": "18437:1866",
+          "variantId": "18437:1865",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1874",
+          "parentId": "18437:1873",
+          "variantId": "18437:1872",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1880",
+          "parentId": "18437:1879",
+          "variantId": "18437:1878",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1886",
+          "parentId": "18437:1885",
+          "variantId": "18437:1884",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1892",
+          "parentId": "18437:1891",
+          "variantId": "18437:1890",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1898",
+          "parentId": "18437:1897",
+          "variantId": "18437:1896",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1905",
+          "parentId": "18437:1904",
+          "variantId": "18437:1903",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1911",
+          "parentId": "18437:1910",
+          "variantId": "18437:1909",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1917",
+          "parentId": "18437:1916",
+          "variantId": "18437:1915",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1923",
+          "parentId": "18437:1922",
+          "variantId": "18437:1921",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1929",
+          "parentId": "18437:1928",
+          "variantId": "18437:1927",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2008",
+          "parentId": "18437:2007",
+          "variantId": "18437:2006",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2014",
+          "parentId": "18437:2013",
+          "variantId": "18437:2012",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2020",
+          "parentId": "18437:2019",
+          "variantId": "18437:2018",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2026",
+          "parentId": "18437:2025",
+          "variantId": "18437:2024",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2032",
+          "parentId": "18437:2031",
+          "variantId": "18437:2030",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2039",
+          "parentId": "18437:2038",
+          "variantId": "18437:2037",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2045",
+          "parentId": "18437:2044",
+          "variantId": "18437:2043",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2051",
+          "parentId": "18437:2050",
+          "variantId": "18437:2049",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2057",
+          "parentId": "18437:2056",
+          "variantId": "18437:2055",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2063",
+          "parentId": "18437:2062",
+          "variantId": "18437:2061",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2070",
+          "parentId": "18437:2069",
+          "variantId": "18437:2068",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2076",
+          "parentId": "18437:2075",
+          "variantId": "18437:2074",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2082",
+          "parentId": "18437:2081",
+          "variantId": "18437:2080",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2088",
+          "parentId": "18437:2087",
+          "variantId": "18437:2086",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2094",
+          "parentId": "18437:2093",
+          "variantId": "18437:2092",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2101",
+          "parentId": "18437:2100",
+          "variantId": "18437:2099",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2107",
+          "parentId": "18437:2106",
+          "variantId": "18437:2105",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2113",
+          "parentId": "18437:2112",
+          "variantId": "18437:2111",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2119",
+          "parentId": "18437:2118",
+          "variantId": "18437:2117",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2125",
+          "parentId": "18437:2124",
+          "variantId": "18437:2123",
+          "visible": true
+        }
+      ],
+      "rawName": "Icon=Edit Square",
+      "setId": "14466:925",
+      "sha256": "5cbfc68b93a9af7e69c3270b8b60dd34f8698cf69648e87148e536be4668d913",
+      "style": "Fill"
+    },
+    {
+      "file": "icons/outline/edit_square.svg",
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            196
+          ],
+          [
+            0,
+            1,
+            152
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 196,
+        "y": 152
+      },
+      "iconId": "edit_square",
+      "id": "14667:4498",
+      "instanceReferences": [
+        {
+          "nodeId": "18436:1615",
+          "parentId": "18436:1613",
+          "variantId": "18436:1612",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1621",
+          "parentId": "18436:1619",
+          "variantId": "18436:1618",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1627",
+          "parentId": "18436:1625",
+          "variantId": "18436:1624",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1633",
+          "parentId": "18436:1631",
+          "variantId": "18436:1630",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1639",
+          "parentId": "18436:1637",
+          "variantId": "18436:1636",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1646",
+          "parentId": "18436:1644",
+          "variantId": "18436:1643",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1652",
+          "parentId": "18436:1650",
+          "variantId": "18436:1649",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1658",
+          "parentId": "18436:1656",
+          "variantId": "18436:1655",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1664",
+          "parentId": "18436:1662",
+          "variantId": "18436:1661",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1670",
+          "parentId": "18436:1668",
+          "variantId": "18436:1667",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1677",
+          "parentId": "18436:1675",
+          "variantId": "18436:1674",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1683",
+          "parentId": "18436:1681",
+          "variantId": "18436:1680",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1689",
+          "parentId": "18436:1687",
+          "variantId": "18436:1686",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1695",
+          "parentId": "18436:1693",
+          "variantId": "18436:1692",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1701",
+          "parentId": "18436:1699",
+          "variantId": "18436:1698",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1708",
+          "parentId": "18436:1706",
+          "variantId": "18436:1705",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1714",
+          "parentId": "18436:1712",
+          "variantId": "18436:1711",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1720",
+          "parentId": "18436:1718",
+          "variantId": "18436:1717",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1726",
+          "parentId": "18436:1724",
+          "variantId": "18436:1723",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1732",
+          "parentId": "18436:1730",
+          "variantId": "18436:1729",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1739",
+          "parentId": "18436:1737",
+          "variantId": "18436:1736",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1743",
+          "parentId": "18436:1741",
+          "variantId": "18436:1740",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1747",
+          "parentId": "18436:1745",
+          "variantId": "18436:1744",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1751",
+          "parentId": "18436:1749",
+          "variantId": "18436:1748",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1755",
+          "parentId": "18436:1753",
+          "variantId": "18436:1752",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1760",
+          "parentId": "18436:1758",
+          "variantId": "18436:1757",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1764",
+          "parentId": "18436:1762",
+          "variantId": "18436:1761",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1768",
+          "parentId": "18436:1766",
+          "variantId": "18436:1765",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1772",
+          "parentId": "18436:1770",
+          "variantId": "18436:1769",
+          "visible": false
+        },
+        {
+          "nodeId": "18436:1776",
+          "parentId": "18436:1774",
+          "variantId": "18436:1773",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1813",
+          "parentId": "18437:1811",
+          "variantId": "18437:1810",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1819",
+          "parentId": "18437:1817",
+          "variantId": "18437:1816",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1825",
+          "parentId": "18437:1823",
+          "variantId": "18437:1822",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1831",
+          "parentId": "18437:1829",
+          "variantId": "18437:1828",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1837",
+          "parentId": "18437:1835",
+          "variantId": "18437:1834",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1844",
+          "parentId": "18437:1842",
+          "variantId": "18437:1841",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1850",
+          "parentId": "18437:1848",
+          "variantId": "18437:1847",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1856",
+          "parentId": "18437:1854",
+          "variantId": "18437:1853",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1862",
+          "parentId": "18437:1860",
+          "variantId": "18437:1859",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1868",
+          "parentId": "18437:1866",
+          "variantId": "18437:1865",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1875",
+          "parentId": "18437:1873",
+          "variantId": "18437:1872",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1881",
+          "parentId": "18437:1879",
+          "variantId": "18437:1878",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1887",
+          "parentId": "18437:1885",
+          "variantId": "18437:1884",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1893",
+          "parentId": "18437:1891",
+          "variantId": "18437:1890",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1899",
+          "parentId": "18437:1897",
+          "variantId": "18437:1896",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1906",
+          "parentId": "18437:1904",
+          "variantId": "18437:1903",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1912",
+          "parentId": "18437:1910",
+          "variantId": "18437:1909",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1918",
+          "parentId": "18437:1916",
+          "variantId": "18437:1915",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1924",
+          "parentId": "18437:1922",
+          "variantId": "18437:1921",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1930",
+          "parentId": "18437:1928",
+          "variantId": "18437:1927",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1937",
+          "parentId": "18437:1935",
+          "variantId": "18437:1934",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1941",
+          "parentId": "18437:1939",
+          "variantId": "18437:1938",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1945",
+          "parentId": "18437:1943",
+          "variantId": "18437:1942",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1949",
+          "parentId": "18437:1947",
+          "variantId": "18437:1946",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1953",
+          "parentId": "18437:1951",
+          "variantId": "18437:1950",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1958",
+          "parentId": "18437:1956",
+          "variantId": "18437:1955",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1962",
+          "parentId": "18437:1960",
+          "variantId": "18437:1959",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1966",
+          "parentId": "18437:1964",
+          "variantId": "18437:1963",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1970",
+          "parentId": "18437:1968",
+          "variantId": "18437:1967",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:1974",
+          "parentId": "18437:1972",
+          "variantId": "18437:1971",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2009",
+          "parentId": "18437:2007",
+          "variantId": "18437:2006",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2015",
+          "parentId": "18437:2013",
+          "variantId": "18437:2012",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2021",
+          "parentId": "18437:2019",
+          "variantId": "18437:2018",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2027",
+          "parentId": "18437:2025",
+          "variantId": "18437:2024",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2033",
+          "parentId": "18437:2031",
+          "variantId": "18437:2030",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2040",
+          "parentId": "18437:2038",
+          "variantId": "18437:2037",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2046",
+          "parentId": "18437:2044",
+          "variantId": "18437:2043",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2052",
+          "parentId": "18437:2050",
+          "variantId": "18437:2049",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2058",
+          "parentId": "18437:2056",
+          "variantId": "18437:2055",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2064",
+          "parentId": "18437:2062",
+          "variantId": "18437:2061",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2071",
+          "parentId": "18437:2069",
+          "variantId": "18437:2068",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2077",
+          "parentId": "18437:2075",
+          "variantId": "18437:2074",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2083",
+          "parentId": "18437:2081",
+          "variantId": "18437:2080",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2089",
+          "parentId": "18437:2087",
+          "variantId": "18437:2086",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2095",
+          "parentId": "18437:2093",
+          "variantId": "18437:2092",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2102",
+          "parentId": "18437:2100",
+          "variantId": "18437:2099",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2108",
+          "parentId": "18437:2106",
+          "variantId": "18437:2105",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2114",
+          "parentId": "18437:2112",
+          "variantId": "18437:2111",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2120",
+          "parentId": "18437:2118",
+          "variantId": "18437:2117",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2126",
+          "parentId": "18437:2124",
+          "variantId": "18437:2123",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2133",
+          "parentId": "18437:2131",
+          "variantId": "18437:2130",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2137",
+          "parentId": "18437:2135",
+          "variantId": "18437:2134",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2141",
+          "parentId": "18437:2139",
+          "variantId": "18437:2138",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2145",
+          "parentId": "18437:2143",
+          "variantId": "18437:2142",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2149",
+          "parentId": "18437:2147",
+          "variantId": "18437:2146",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2154",
+          "parentId": "18437:2152",
+          "variantId": "18437:2151",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2158",
+          "parentId": "18437:2156",
+          "variantId": "18437:2155",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2162",
+          "parentId": "18437:2160",
+          "variantId": "18437:2159",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2166",
+          "parentId": "18437:2164",
+          "variantId": "18437:2163",
+          "visible": false
+        },
+        {
+          "nodeId": "18437:2170",
+          "parentId": "18437:2168",
+          "variantId": "18437:2167",
+          "visible": false
+        }
+      ],
+      "rawName": "Icon=Edit Square",
+      "setId": "14466:880",
+      "sha256": "c66ba95fbf17ef5fadfb3506836d01ddc6d8d779048a3cf7d86e4b4a7591c41f",
+      "style": "Outline"
+    },
+    {
+      "file": "icons/fill/crown.svg",
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            108
+          ],
+          [
+            0,
+            1,
+            196
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 108,
+        "y": 196
+      },
+      "iconId": "crown",
+      "id": "18422:11366",
+      "instanceReferences": [
+        {
+          "nodeId": "18436:1738",
+          "parentId": "18436:1737",
+          "variantId": "18436:1736",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1742",
+          "parentId": "18436:1741",
+          "variantId": "18436:1740",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1746",
+          "parentId": "18436:1745",
+          "variantId": "18436:1744",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1750",
+          "parentId": "18436:1749",
+          "variantId": "18436:1748",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1754",
+          "parentId": "18436:1753",
+          "variantId": "18436:1752",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1759",
+          "parentId": "18436:1758",
+          "variantId": "18436:1757",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1763",
+          "parentId": "18436:1762",
+          "variantId": "18436:1761",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1767",
+          "parentId": "18436:1766",
+          "variantId": "18436:1765",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1771",
+          "parentId": "18436:1770",
+          "variantId": "18436:1769",
+          "visible": true
+        },
+        {
+          "nodeId": "18436:1775",
+          "parentId": "18436:1774",
+          "variantId": "18436:1773",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1936",
+          "parentId": "18437:1935",
+          "variantId": "18437:1934",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1940",
+          "parentId": "18437:1939",
+          "variantId": "18437:1938",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1944",
+          "parentId": "18437:1943",
+          "variantId": "18437:1942",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1948",
+          "parentId": "18437:1947",
+          "variantId": "18437:1946",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1952",
+          "parentId": "18437:1951",
+          "variantId": "18437:1950",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1957",
+          "parentId": "18437:1956",
+          "variantId": "18437:1955",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1961",
+          "parentId": "18437:1960",
+          "variantId": "18437:1959",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1965",
+          "parentId": "18437:1964",
+          "variantId": "18437:1963",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1969",
+          "parentId": "18437:1968",
+          "variantId": "18437:1967",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:1973",
+          "parentId": "18437:1972",
+          "variantId": "18437:1971",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2132",
+          "parentId": "18437:2131",
+          "variantId": "18437:2130",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2136",
+          "parentId": "18437:2135",
+          "variantId": "18437:2134",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2140",
+          "parentId": "18437:2139",
+          "variantId": "18437:2138",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2144",
+          "parentId": "18437:2143",
+          "variantId": "18437:2142",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2148",
+          "parentId": "18437:2147",
+          "variantId": "18437:2146",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2153",
+          "parentId": "18437:2152",
+          "variantId": "18437:2151",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2157",
+          "parentId": "18437:2156",
+          "variantId": "18437:2155",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2161",
+          "parentId": "18437:2160",
+          "variantId": "18437:2159",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2165",
+          "parentId": "18437:2164",
+          "variantId": "18437:2163",
+          "visible": true
+        },
+        {
+          "nodeId": "18437:2169",
+          "parentId": "18437:2168",
+          "variantId": "18437:2167",
+          "visible": true
+        }
+      ],
+      "rawName": "Icon=Crown",
+      "setId": "14466:925",
+      "sha256": "a37540f9562aba883469963d1606c14890d39b31c9f62a8fcebd9aa38dc5c3ff",
+      "style": "Fill"
+    }
+  ],
+  "scope": "Exact main components referenced by Buttons, including hidden Outline slots; not the complete icon library."
+}

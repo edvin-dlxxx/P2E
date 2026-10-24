@@ -1,0 +1,12 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_overlap_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/ui/components/button_overlap_test.dart: small adjacent targets choose nearest visual rect TextDirection.rtl gap=2.0
+00:01 +1: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:01 +2: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:01 +3: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:02 +4: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:02 +5: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:02 +6: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: all90 variants keep visual and hit dimensions while loading
+00:05 +7: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: loading blocks pointer/keyboard/semantic activation and retains focus
+00:05 +8: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: semantic focus survives loading ending in disabled state
+00:05 +9: D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/readiness/button_loading_test.dart: missing label reports once per instance and keeps rendering
+00:06 +10: All tests passed!

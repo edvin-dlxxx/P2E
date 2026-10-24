@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "navigation-1.0",
+  "root": {
+    "id": "18422:11476",
+    "name": "Theme=Light",
+    "type": "COMPONENT",
+    "x": 20,
+    "y": 108,
+    "width": 402,
+    "height": 68,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        20
+      ],
+      [
+        0,
+        1,
+        108
+      ]
+    ],
+    "layoutMode": "HORIZONTAL",
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "primaryAxisSizingMode": "FIXED",
+    "counterAxisSizingMode": "AUTO",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "paddingLeft": 6,
+    "paddingRight": 6,
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "cornerRadius": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "boundVariables": {
+          "color": {
+            "id": "VariableID:16429:196",
+            "type": "VARIABLE_ALIAS"
+          }
+        },
+        "color": {
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "opacity": 1,
+        "type": "SOLID",
+        "visible": true
+      }
+    ],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "opacity": 1,
+    "effects": [],
+    "boundVariables": {
+      "fills": [
+        {
+          "id": "VariableID:16429:196",
+          "type": "VARIABLE_ALIAS"
+        }
+      ]
+    },
+    "visible": true,
+    "reactions": [],
+    "variantProperties": {
+      "Theme": "Light"
+    },
+    "componentPropertyReferences": {},
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "clipsContent": true,
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "absoluteBoundingBox": {
+      "height": 68,
+      "width": 402,
+      "x": 380,
+      "y": 108
+    },
+    "children": [
+      {
+        "id": "18422:11477",
+        "name": "Vertical Navigation Item - Light",
+        "type": "INSTANCE"
+      },
+      {
+        "id": "18422:11478",
+        "name": "Vertical Navigation Item - Light",
+        "type": "INSTANCE"
+      },
+      {
+        "id": "18422:11479",
+        "name": "Vertical Navigation Item - Light",
+        "type": "INSTANCE"
+      },
+      {
+        "id": "18422:11480",
+        "name": "Vertical Navigation Item - Light",
+        "type": "INSTANCE"
+      },
+      {
+        "id": "18422:11481",
+        "name": "Vertical Navigation Item - Light",
+        "type": "INSTANCE"
+      }
+    ]
+  },
+  "complete": true
+}

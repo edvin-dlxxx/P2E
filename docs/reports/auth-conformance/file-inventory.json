@@ -1,0 +1,1518 @@
+{
+  "note": "No Git baseline exists. Filesystem-time inventory, excluding build/cache outputs and byte-identical golden rewrites. The deleted variable font is replaced by three static instances; original font metadata is in fonts-before.json.",
+  "deleted": [
+    "packages/design_system/assets/fonts/outfit/Outfit-Variable.ttf"
+  ],
+  "files": [
+    {
+      "path": ".agents/rules/p2e-ui-components.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "210bb168374926891b883d9b2800bf766921b4a91f3cb1f939557180b9bc852c"
+    },
+    {
+      "path": ".claude/rules/p2e-ui-components.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4d1165ee8cc371955cfba637a8d7bfecdbe6ca2d9b0758725ee2a146f670e76b"
+    },
+    {
+      "path": ".cursor/rules/p2e-ui-components.mdc",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "2188a7af5775d4676cd80241087ea2a985accba2ae1d0b638ff073dfcba2762e"
+    },
+    {
+      "path": "apps/design_system_viewer/lib/specs/generated/app_button.spec.json",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "362e9c3a55e6e9e9edc95c88068c293ca92ed18f91d1bf64d8f2b81f85283efc"
+    },
+    {
+      "path": "docs/agents/registers/decisions.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "21bd43081522faeebc6562896eb2c932a205b3a123f94ebce7c2367c26ba753a"
+    },
+    {
+      "path": "docs/agents/registers/errata.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4072ffecf45a9ad96ef70e7606f6241406ebf078ed3612fd8e7fb9e40819425e"
+    },
+    {
+      "path": "docs/agents/rules/ui-components.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "a52498b3432cf62f57aae0025fe56540db67eb19f199a854419ce85fefa28c95"
+    },
+    {
+      "path": "docs/design-system/contracts/app_button.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "7b145ef845664e003b39ecab1f41403d611c45f6bf035405bdb4785f05345287"
+    },
+    {
+      "path": "docs/design-system/contracts/app_button.report.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "7846477e9b085c4fac4aecad717b29eed03cea84cdddee368ec0c5d3539c9ea1"
+    },
+    {
+      "path": "docs/design-system/contracts/app_button.spec.json",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "362e9c3a55e6e9e9edc95c88068c293ca92ed18f91d1bf64d8f2b81f85283efc"
+    },
+    {
+      "path": "docs/design-system/contracts/auth_entry_primitives.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "d128bc1121e77ea4d98b905b266f89db847f9809cf89be6a602af7378e399f4c"
+    },
+    {
+      "path": "docs/reports/auth-conformance/README.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "325734c22434cf6ef61a786e2e65c354adfb4527b5408b6d2932f9be76d0afec"
+    },
+    {
+      "path": "docs/reports/auth-conformance/body-source.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "852c848060f5988c7498be8e3bfd647697996a8bdec5561871b8860a1199c331"
+    },
+    {
+      "path": "docs/reports/auth-conformance/button-source-audit.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e6d0e5f46139ef7a53768800e784e6826cd3756121c31cd5a540ca882c612091"
+    },
+    {
+      "path": "docs/reports/auth-conformance/button-source-audit.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "cd0ff30dc05f7f8dd54a56c16739cc2ff2d7501d4ea9c7884a77424d9628cf57"
+    },
+    {
+      "path": "docs/reports/auth-conformance/changed-goldens.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e347d560e1f44bbd767ca06160ea2da53bdf9b787d6c8565a8019cbfb062369b"
+    },
+    {
+      "path": "docs/reports/auth-conformance/conformance.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "c7f8605452239762099920e582aaec148c170c1f5d27ef96f861a7d9adf63a5e"
+    },
+    {
+      "path": "docs/reports/auth-conformance/diff-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "efde7fd01adc61dcee73edef5282d4afd80402b003966ff445a1bde652e15dcc"
+    },
+    {
+      "path": "docs/reports/auth-conformance/diff-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a17cdc6d02314b68bedc6ef53fa4f2aba433c1ba146537d1be2dc64b0aadb99e"
+    },
+    {
+      "path": "docs/reports/auth-conformance/diff-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "73448407d0bd987cdbcbf3d17d5ca443920293fe8d8cb8b39636ee4beec20cbc"
+    },
+    {
+      "path": "docs/reports/auth-conformance/diff-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9c424b3152dbeb96a4862eca462b4d7b7754488f4fa097eb565a655b9083d27b"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5831d5640ae55cfe63da3590333322d944945e8c7bb1248bcbcf6a4cfd3b52e2"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-export-limit.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "778ce0a8e4b9b8cc9a21a3fe947bef3903748919c01f8be5767087b8b192cb18"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ddd36478633226a59a4fe3b6a654c3210c711865b198714ff0d46b809ee02c5a"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "bd476851ffaeef1f28b7eb1287439dd7be7aef504d0ea4515437218046ddb792"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9746c70ce623a372e348c5586b5f1ed3dc7581019a36caac0eb6333daa7cb6c9"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-rect-evidence.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "735a833e85ea291c1a16e2190e6ba214f51eb4cf1784fa873790d56c767875db"
+    },
+    {
+      "path": "docs/reports/auth-conformance/figma-text-evidence.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "d6a873faf99c8429223b52f60f7a4be7e99190e9e44f391b12731c267b657350"
+    },
+    {
+      "path": "docs/reports/auth-conformance/fonts-after.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e1a07dea5cdc5153644f3c658b4d0572de73f1f720d74baddab667737a9e46c3"
+    },
+    {
+      "path": "docs/reports/auth-conformance/fonts-before.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5a4db16a32f5603c358f2805c7c319fd18ced808d2bc7d76c9d1ef19ae44e796"
+    },
+    {
+      "path": "docs/reports/auth-conformance/inspector-sweep.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "08dabbde704ff9a0102f0c5aa1f0f4629095ea00a2dc697c970b7e8d40502ffb"
+    },
+    {
+      "path": "docs/reports/auth-conformance/ours-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "817bcc2a2ba773eff3c0abb69a24e9427869cdf845e3892b89ad659a060bc066"
+    },
+    {
+      "path": "docs/reports/auth-conformance/ours-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a50f28d6724352badec9253593a2665faef3ea6c1e5ffefbe7ec41f148dcaf7a"
+    },
+    {
+      "path": "docs/reports/auth-conformance/ours-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1141b930da1909fc3028568267526200e8463df621ddf4157d0b1b2c4a03f016"
+    },
+    {
+      "path": "docs/reports/auth-conformance/ours-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "d597e33ae126684f11c57cc9534fb68c817a56361672997ead2f8a45157ab5da"
+    },
+    {
+      "path": "docs/reports/auth-conformance/overlay-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f1c6d9adad12b3481f1389c790c0f5f77f9e64f662287a6f4461b8add87c8551"
+    },
+    {
+      "path": "docs/reports/auth-conformance/overlay-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ef3af32856395a4633cc45e05067f4ce71d8a17e2cb14ee59d7e34fc36dbc0d4"
+    },
+    {
+      "path": "docs/reports/auth-conformance/overlay-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f426137253ee48c4afe9451023debe66b6542721fdf5cc68f8069d5affe40473"
+    },
+    {
+      "path": "docs/reports/auth-conformance/overlay-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "7db263b68f9556744e73e56d55cb4cfbd4b0e7d2928673a0d08aaa78e6045478"
+    },
+    {
+      "path": "docs/reports/auth-conformance/rect-comparison.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5246946ac922b382892af0b6db54778f6f7eb22c1e7f30b3a6e9c6d6a51f67e9"
+    },
+    {
+      "path": "docs/reports/auth-conformance/runtime-measurements.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "d8a998b5c29590d694bdda97c9091b86843beb2c20c94e44b08936aadb681238"
+    },
+    {
+      "path": "docs/reports/auth-conformance/side-by-side-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "7798ce76bc03b22ae966924385d04e5ba5dfffe62b4535fb2e63ba8313b69ad9"
+    },
+    {
+      "path": "docs/reports/auth-conformance/side-by-side-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "8439c68418efb0d29998280c780240c77fd069086271a043636411df75ac906d"
+    },
+    {
+      "path": "docs/reports/auth-conformance/side-by-side-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a8ea19d2b2e489b96385cd59aa5330ff6d4646418ca4a1f60953b61df0f7d2aa"
+    },
+    {
+      "path": "docs/reports/auth-conformance/side-by-side-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "7308477581105de2877e7bcac58310bcab75552f074d39b9a03b295d2bd387f1"
+    },
+    {
+      "path": "docs/reports/auth-conformance/sweep-acceptance.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b9df6386c655dc25c6e433b559b68f7884e946cc7f4813a65d86433fe834e405"
+    },
+    {
+      "path": "docs/reports/auth-conformance/text-style-comparison.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "fa968f94e41590cafbae509ae169d179f1b072f9ce1056ce78bebf6ca42b9f43"
+    },
+    {
+      "path": "docs/reports/auth-conformance/tracking-bound-evidence.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e789d78efdbbfd479ba137ed4cdb44487314a35209ffb9fcb6b4e47100fd4c00"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/focus-and-link-semantics.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "12fdecc681f06e72f5458cc3cdfe3d91f2ed1a1dc01936b30c4021cf69cd2343"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/font-and-hit-regression.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b113e6ad0f06e1876a6101ac6ecd8f656a1bd72da883cceb732b8d1500c0d387"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyze_.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1be70b5041031bd036e867dad636f1859790f6dd57b29ac141a73f7bb37dbcb2"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyzeapps_design_system_viewer.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e0149a13db07d70049ed3b877afe6aebd84c98d53fb5344e8eba1fca6492a5c0"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyzedev_tools_inspector_hosts_product_host.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ba5f5422a84d1b2dd8c4981101dc2f01d9c328f15a65d629cda115ebe44171d9"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyzedev_tools_inspector_hosts_viewer_host.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "024e9e86936dd81590616ded0116da294a49216e5461c3bd9d9fc7dd0d97ae5d"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyzedev_tools_inspector_inspector.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "703af0fd74fd2734ceafaa81d84c0dc6a79f009cd7d07e3fa92d668cc1d11fdc"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-analyzepackages_design_system.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ccb6bc70e4153dab5e0eef96b14eb9281def8eceb4842c551e3d0831022a1baa"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-architecture-negatives.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "36c96decaaaa5659fcac3fa414b04900f72e7bab82c4fedb5cfb107056f8f461"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-checks.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5ffe51a3a9b55f48bbae26f2791bb4264756079b14e2baa815118831210d01ee"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-conformance-all.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "2baa2c4bb99bba485c236c4da412064d2af0a0c41c81bd8c550791ef3e103e22"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-conformance.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "475157bba13ef7d83493631a09e8c101bc9672d5e1c58227b1f3b9d16428e7eb"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-font-coverage.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a1c7a337027a1636b8a437d71f50061db1fe977843cfddf819347e07dda51119"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-format.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "8612b347e361b377fef1e1390b2b570173543df9365f687669c8475cd54823bf"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-goldens_-1.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "79690c21d935c8c27a125e6bf7c34cd157e1c8b52f76db075827e32dafca7b5f"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-goldens_-2.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1fdb1629652dcd356a6f433c7142ba157f1488499ee6ac60e3cc70fae501617a"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-goldenspackages_design_system-1.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b6df9249607e4662e529c64b8f9a33968183431957f407a003643371c6ce3aff"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-goldenspackages_design_system-2.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "fbebce8101b983d00d23dd026d4cea887acc9fea7e0283135245effbf82dbc6a"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-inspector-sweep.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "fb7ffed6708cfebe055740dd3a8b7254a5810a19e0dbd096054ec24f9b64dc22"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-tests_.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "34679aee566486e890a1f82e8af38412cf011ff6c407f25d3888a59358ebce9f"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-testsapps_design_system_viewer.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "87c6f25202a5a746a5b2a148ecf26de7ab7ee600770b34c37143561a7bb1bf20"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-testsdev_tools_inspector_hosts_product_host.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "302a33baa37a01ba5285592e61b4d131b269e78b0f045b9f4795e38e9ce4115f"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-testsdev_tools_inspector_hosts_viewer_host.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e5fbc39cfc3f3a11393233eebca6dd091dcdd54ba4625e0cec3e4fe831444bc9"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-testsdev_tools_inspector_inspector.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "98e712e5fb8fcd7b0c805777e347ad0db719cd589112bf4b95b388efa0972c03"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation-evidence/verified-testspackages_design_system.log",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "188205ea66626a6f39eff094c72ca4325aaf593aee340aa53799f441d107e88c"
+    },
+    {
+      "path": "docs/reports/auth-conformance/validation.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "81b8a7bdd811b5a888c8d8afa1af6d77985e0afcf2c60e45f6f98819636502f4"
+    },
+    {
+      "path": "docs/reports/auth-entry/implementation.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b1d1a35f80e59c415b216b352d4ed5816308f515f678e9ccaf458d820a83be8e"
+    },
+    {
+      "path": "docs/reports/auth-entry/validation.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1a4f19aa7ab6dd2e054d9c5af006035fcc252b87296d054603cc8289ba28db21"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/README.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e5bc8df1c21cba66ff60f8e2efde3b294e6f421d2bca1f8af09db3f10dc6d604"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appbar-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "bad0ed52a07434d38be80735f948dc7683c01328ab868087e1aec7ea8ddf38cc"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appbar-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "43c78433d4285c64149b79e1f5ed0a86c3b84bae60767953479da33f57d2a84d"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appbar-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5d3e8800eaf2ef32e05f538f94110d091c12ed8326370ea9f99d74b628275b79"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appbar-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "49a97f766ceeef5262f123039c9a7d347132483f0f0325cb545e1e8fca30cbff"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "422bfac132a543216d78aa54497f04ed90eb91e56ffad72b3721d17a271c196a"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f143ff60b2acfdfda1a9bc3f4c5f91222e644c4cb6a09dd072077ce203c64ecb"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/appicon-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f1ee921eab9c4a76df804d9f5f9e06e17c9582c9c4d80136fc5969cbd1309872"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-email-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "096b969a6e51275cb3f17ffe1b3df925f22afd24056353078589580349032f10"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-email-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "8459a1801f403eb2710cd98b85807c1c7ee61f29a4939467caa9d2816ebac39a"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-email-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "76770633c2461662bb5ce60be1fa1be3ea67906f2b77a0678f033c152cb64199"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-email-fa-dark-2.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e2a9bd9005840b3991b71364642764fe04d2f26177479534fc221a941689c99a"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-email-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e5b9154962654198eb4d7ee69d5e019d0efd9a832891bfb1502f8d2eb2cc5869"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-focused-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "135bdaa43f99a8f01fe4cc3aa891eb3eee60574de8bb2918d46d8b381822728b"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-focused-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "0ed9ba78e004656514fb0cd8bc107fad857032bc59bb5344b1b2acdfaa329127"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-focused-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1bd9bb781f4f705592eeba188737b2842dd5033eed5f7a66adb513f4b55f0017"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-focused-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f65ae553dfa178443b52680ac2ecc453fc51cfaf294abc3b15562fd3a18e2fc5"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-idle-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "6b4aaeb3f813fe99abbd13ace57cbab9a2e4d5f03799917af31ff389849613da"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-idle-en-dark-1.0-744.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "afd84bd475e17d7ab57475b525710f25f43524bc0bb96364e285c9581729dbf3"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-idle-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f222346930ea8c392592989b809e82112c4ee7bad85727d8f484aaf5a9708cbb"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-idle-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b2544593e27b703428824f5b48b4ce49821aa4efd85862b1b8f9783f96c4ca05"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-idle-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "c24d83b4438b6b5761d9417ae8c5bfdc6a84cc8e6416a5909dcd99b30f444344"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-phone-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b4e24de5750de76743a7b83707b2a96b98074ffb41ee852bf08569d32ecfc855"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-phone-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f873a7fa9ab583d38e819df82bd2cadded5cb05e1ebf0bb73e1fa9f74ce7593f"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-phone-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b95a346fe02faa228053c22524dc65977b1894e7d7e7e0e0057f277fe37cfeb1"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-phone-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ef98f1a33e65d3dac3a1b5bc40eb06df2c9bec29ac79e7b717cffdd62441c6cc"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-en-dark-1.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a465481546b52e86822322a78d4430fda21fb7aa8ddd8c6085015f11dc67b012"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-en-light-1.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f37e9652d63c927cf7ef395eb700690fec9fc1e4f78181270668576c1075e279"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-en-light-1.0-test.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "05307f1457e40c0d497e340d2237ae663cf8813d236785c4f2c9fc09524de73a"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-en-light-2.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9cc3170fb1aac2203dd13e7aabe7d695dca7c2ba09a7809db93c595a1687a659"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-fa-dark-1.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5bf8b132bfbfdcbdc0498c7b86b127b25a16aea52274fbba239ab7315a24f420"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-fa-dark-2.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "bfdac16b27a3f32a3885f0e056a00b0e7e1dbc59e8ecafc648087384de74f19f"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/auth-primitives-fa-light-1.0-product.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "66ef36a0f049bac848f5c5501124c226922b9a6ed971de45b2dd7c4d743daabc"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1e894239e81a30eccd685d6e1b408aac7d8443449b8a2404fc21be757e001d30"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9a4e44c49db363d411ce98ce81101cf61e7b1d5ba21efa516e1b79e38ccc1a89"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b4acb434295c9d1f7377c27891ed0c9969fbf10ad790e3258bddca5b3c7571a4"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b692253547d07652e875ffecc2d34dfa4050d7f2a870c63cc0017410f4dc46c6"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "8bea200b9b47bb8080bb0d2386233a3d97bf173f5d05fd36139b22df2b15e215"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "da12c70191e3299bc85e7269d95d954465dcca853e3493103413790b7eb1febf"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/badge-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "403fee9e6c3eccfacbb4be00fe6e5433c57ceb01d1a437b794decbb3a26e73cf"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ceab119d518733cd4f3a7a8f6e12aee93b54d16191a2d3ecd75953367e4c63e0"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "30ec007fda860923e10e2f06cfa72b100825dc8841c90a6b9174cbbb4800e95b"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b9c9126701b16392db817c833e254b15c51e9c2ea945fe33db7a5f2381e8ac62"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "42cae6efd411ccd07c3405702972cc26e752dec5d4c3a6355b95b3bb0cb0ff38"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "21cbc7387202b974dc1b0c3aee089805d3bb33210cb40fd598be0d1dec53e1c2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ed37a4f79a97cb6fafff8f4d2c77d50b08fce870be5e19ee10afdeac863e4bbc"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/button-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9102f6848d22b510d21cf208a1f0b03f63aba45e1cffad6df14733f6c17e4572"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "e8432b28b3cc8e3a4b9d264fd22926d8bb277c112f9c1806abb0ae15f588230b"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "76833ba0c87dcd1477b570a161a260457e41170ab54b43f515c864a44774fad7"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "3e090755152c8246228371aa01d94c922afc6e3fd89eb82a63ef652fdda530dc"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "54bb746a9bdf5460f2c3d2773d9ac41601981410a153e4aa8ae85cf7dde26916"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "63e4ef76f20dfa10adaf0a5f2ba7dcf8a394bd2b376c34d512abc4d4f64823ce"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "0e43db3721eeb67d34c41be5e23b1897a4db1655ae1087d2adc1d81979f3c916"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/navigator-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a6402953d9bebf9b1eac3716324e102edc9eceeb2dcd17df529cba5395723116"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/otp-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "6b1f0fd8f5488bdc9fbfd184eaa0c3414a2ad80a34af8256975aa7fde7d847b2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/otp-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "2d8803187f5ec52c8f78241cc12e9d966a11e341bd1710ec107c46cc0a449e39"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/otp-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "0961b2b693e9b928bf7fc07ff260bfd0aa419a49f6a92d85d07db3c29a089174"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "06e72658ed50eba9c0b479bd13d585d1fb3aebc96429a317f76223f8f80b9319"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-dark-1.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ea7a299a5e6c27ff4f968cda8b86de32e1a0be0b6d76bd59d9b30cb3a662a5a8"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "05b51802596e4d23b6f8fd83d256e1a3f631454774fdaabce96d268f11df4843"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-1.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "4f0da2f6ae6833ca477667620ab411d2ee790611ffea63ff601489aeb9eedc50"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b9bd259770d7774a118c2a542fb93128750d96155f3e46e8588799822bed6102"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-1.0-test-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b5359ea0c7cbcb50256d18ce1ec5fe65c8d321efa46b83ddd6c98be925642971"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "775310adda437bba0ea3933e98da2c56ca47b1aaf9cecc2bcb794fb2d79dff97"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-en-light-2.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "01a32808174067c220d55d006b48edd4fa8385a444316fcbe39d1771313ea558"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "a164efd2fa98a9e7bda4949ee0fd9b0cfb61052709eb02f66afb11f0723a556e"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-dark-1.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1b635544db4dca3988c80743407dc6d85a6025034c25ebb86cd310d58bdb11fb"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "f8f8e1f4d321bf3324e546c7f787e9cce26e6b41e1cdd66e0a12ebb1543f1046"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-dark-2.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "4b200cde5572be226e28127a0b807a6ca669e8311eb6d937cad526c6d6528ce9"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "cb25fe04cff3767046b90909d4f05a471913f4497b55e4a4758aa2e4bca46b13"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/pagescaffold-fa-light-1.0-product-700.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "b9760a2573963ccc6176f7170ebbfec6a4c4d1c1f10a35b0ba06eb7ce9bf0d79"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/password-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "966f30f1f48dd018df4c75ec2a721050ef5d62f5f942997f0b6a6efd3379fa8f"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/password-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "54472026b20a2bf1887aef338286fc465361120b48db16411ed882160fef9a21"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/password-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ff446c7d10c48fe72431e161820c238397fa62b3b1642d14a6e33f3a4c86f60c"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "466b12faccf8861c8efe162b70e611805128b060ca364eea31905911b1670cce"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "d7b47ebc6bae15aca68d60d21c068b7474572247520eedc4f7a5c21599667fd2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "c3dca3e78d92d0d3248242cdad8c1790bb5101a3af59c5fdbc370f0e93ef57d2"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9f0f37c97a300cf5d83d625cdd68e92a6a5084dd3d7bc509f1857950653e7744"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "cf1d43db4b80104923b610d3fd20ea7e16a42511f57d73bf354809ab3848471a"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1042b61d0f070f11fba3c71cbb3fb952689240f23e5539ca23b269fd6a1aef37"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/radio-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "cfd6db7edbaea590992e15e9d7969fdb0f389a270eddf0e132e8aa4ce371ef62"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "94acf8762ee4216b612032bc77b4b4ec9bdb623675cfab72ef401cb86b8a5d67"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "84dbb55100483e7a480bd03cbff8a65cd5e8c4244e6f8d91b30c645615df3fb5"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "14f8c90ea8a9126437519ebb5d023cb4b94150d768bcda960a74ba9015615707"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1264be014afe9b48e9eddfc94acfffb153149dc01f1f80b4b15ad4d28df2568f"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "72056e41a815962fde3394b4a030c553c40cc760c3f7e5f673eb8bdf1b8fb5a1"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "552312c0b71adcd44d17266f39a5af15010f59b3a01eb47f76907acd879488d3"
+    },
+    {
+      "path": "docs/reports/golden-samples/auth-conformance/textfield-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "6322ea145ea439fdda29ed7b97166000c049a15018da773e23ad4ba6b0803bdc"
+    },
+    {
+      "path": "docs/reports/goldens-review.md",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "749af1105e73e79872509f683989e1808298a8ff00fa886b31d1ad2ae5a819b5"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/body-source.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "852c848060f5988c7498be8e3bfd647697996a8bdec5561871b8860a1199c331"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/figma-rect-evidence.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "735a833e85ea291c1a16e2190e6ba214f51eb4cf1784fa873790d56c767875db"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/figma-text-evidence.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "d6a873faf99c8429223b52f60f7a4be7e99190e9e44f391b12731c267b657350"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/frames.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "1d91fc79486c25cb0aee3700ff90ce6a7497362f9753d3fa934b96b9f462f02c"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/manifest.json",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "286883fec3ee9473c305c7e7f19a5f96ee35ec10b26cf10012c66ed0864a8d10"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/screens/figma-email.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "5831d5640ae55cfe63da3590333322d944945e8c7bb1248bcbcf6a4cfd3b52e2"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/screens/figma-focused.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ddd36478633226a59a4fe3b6a654c3210c711865b198714ff0d46b809ee02c5a"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/screens/figma-idle.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "bd476851ffaeef1f28b7eb1287439dd7be7aef504d0ea4515437218046ddb792"
+    },
+    {
+      "path": "docs/snapshots/2026-10-23_auth-conformance/screens/figma-phone.png",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9746c70ce623a372e348c5586b5f1ed3dc7581019a36caac0eb6333daa7cb6c9"
+    },
+    {
+      "path": "lib/features/auth/src/presentation/auth_entry_screen.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5e9d78adbb8e0636f21000aefc006e796823f11da9e717b8940d4f249d692367"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/FONTS.md",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ccc2d7dee0828712982bf3bcdd8adfa91f1010ea5eb3c9ed11b4c95263db6250"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/outfit/OFL.txt",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/outfit/Outfit-400.ttf",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "cdf4b4254aa5adf964bf22b1495da27a59347e122c1f17cbf6ce1641576ace84"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/outfit/Outfit-500.ttf",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "37f0fce3eb6058d065467a990eea9daf58961e9a23b8ac4efda3804d38c64ce3"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/outfit/Outfit-600.ttf",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "9e237cbd892e94ea2727809f21d4067c24e88735d13c3c01a17f0ec1ae723b9e"
+    },
+    {
+      "path": "packages/design_system/assets/fonts/outfit/Outfit-700.ttf",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "8325636982b8a45ce21fe02389cc2b82cef4fb141d8b36cdd0b0b1d563489c75"
+    },
+    {
+      "path": "packages/design_system/lib/src/components/auth/auth_primitives.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "8692b082d7612105c762d2e740f0820955ca45c2605f4c8966b84d22b8589ed7"
+    },
+    {
+      "path": "packages/design_system/lib/src/components/buttons/app_button.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "fb6d0a350c0c40a1d7c1ca3ada0b4023008db0e74e3eef31fb81d086bf909636"
+    },
+    {
+      "path": "packages/design_system/lib/src/components/fields/app_text_field.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "93eab545322455090ee1b608ccf4b9ed25f8b922bd9c65cb8e6cd492c7ea75fc"
+    },
+    {
+      "path": "packages/design_system/lib/src/components/fields/field_surface.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "db5a821ee201804b2f9f652eb630fc274cd09d1e0ca42c2964317a5608eb4b66"
+    },
+    {
+      "path": "packages/design_system/lib/src/theme/bundled_typography.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "973507317473d6cd9c93f8bddf14f2a70db907fcaea1a0d52a595d95584e301c"
+    },
+    {
+      "path": "packages/design_system/lib/src/tokens/generated/auth_entry_tokens.g.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "36a615c426b3d0af37028f496fd1062989f2c3930c636f4685fb28c4c903e409"
+    },
+    {
+      "path": "packages/design_system/lib/src/tokens/specs/button_spec.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c8261939511ffcb30f07b6b966867a1222240e8aa1923870f323e5d5572fdc16"
+    },
+    {
+      "path": "packages/design_system/lib/src/tokens/specs/generated/app_button_spec.g.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "3f3c6ab9ce0b9789273053baf32d83d813fa5193a0765c6f57aebe7ba1197ed2"
+    },
+    {
+      "path": "packages/design_system/lib/src/tokens/specs/generated/auth_entry_spec.g.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c50865e676b88c2acf41e0b6afe9ffd2c67f43dc2bd5cf372661f5bb1f83f3f0"
+    },
+    {
+      "path": "packages/design_system/pubspec.yaml",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "7bdb2c6a09bdcc8125ad815fd58d3cfa34351401034b9101ab191aa17d4916b6"
+    },
+    {
+      "path": "packages/design_system/test/alignment/entry_alignment_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1b16b9b33d6bfb6a08cae013ccf7f1e22cd820efbb775835f6762a594731f6b2"
+    },
+    {
+      "path": "packages/design_system/test/fields/field_system_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b13ba48280169c4ddfb95246de57c2a1f4579b354da522bd34594a7a43dab51e"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "bad0ed52a07434d38be80735f948dc7683c01328ab868087e1aec7ea8ddf38cc"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "43c78433d4285c64149b79e1f5ed0a86c3b84bae60767953479da33f57d2a84d"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5d3e8800eaf2ef32e05f538f94110d091c12ed8326370ea9f99d74b628275b79"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appbar-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "49a97f766ceeef5262f123039c9a7d347132483f0f0325cb545e1e8fca30cbff"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "422bfac132a543216d78aa54497f04ed90eb91e56ffad72b3721d17a271c196a"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f143ff60b2acfdfda1a9bc3f4c5f91222e644c4cb6a09dd072077ce203c64ecb"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5009eda5e19bf96258422afabdad8ddb8925166661f5ab38537797dcf518cd06"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "3ec91be645799e31a9ea4bcabed39dfa4161a7c5c25e4e0d0a3808e3fbc5adb2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/appicon-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f1ee921eab9c4a76df804d9f5f9e06e17c9582c9c4d80136fc5969cbd1309872"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-dark-1.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "a465481546b52e86822322a78d4430fda21fb7aa8ddd8c6085015f11dc67b012"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-1.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f37e9652d63c927cf7ef395eb700690fec9fc1e4f78181270668576c1075e279"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-1.0-test.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "05307f1457e40c0d497e340d2237ae663cf8813d236785c4f2c9fc09524de73a"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-en-light-2.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "9cc3170fb1aac2203dd13e7aabe7d695dca7c2ba09a7809db93c595a1687a659"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-dark-1.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5bf8b132bfbfdcbdc0498c7b86b127b25a16aea52274fbba239ab7315a24f420"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-dark-2.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "bfdac16b27a3f32a3885f0e056a00b0e7e1dbc59e8ecafc648087384de74f19f"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/auth-primitives-fa-light-1.0-product.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "66ef36a0f049bac848f5c5501124c226922b9a6ed971de45b2dd7c4d743daabc"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1e894239e81a30eccd685d6e1b408aac7d8443449b8a2404fc21be757e001d30"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "9a4e44c49db363d411ce98ce81101cf61e7b1d5ba21efa516e1b79e38ccc1a89"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b4acb434295c9d1f7377c27891ed0c9969fbf10ad790e3258bddca5b3c7571a4"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b692253547d07652e875ffecc2d34dfa4050d7f2a870c63cc0017410f4dc46c6"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "8bea200b9b47bb8080bb0d2386233a3d97bf173f5d05fd36139b22df2b15e215"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "da12c70191e3299bc85e7269d95d954465dcca853e3493103413790b7eb1febf"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/badge-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "403fee9e6c3eccfacbb4be00fe6e5433c57ceb01d1a437b794decbb3a26e73cf"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "ceab119d518733cd4f3a7a8f6e12aee93b54d16191a2d3ecd75953367e4c63e0"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "30ec007fda860923e10e2f06cfa72b100825dc8841c90a6b9174cbbb4800e95b"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b9c9126701b16392db817c833e254b15c51e9c2ea945fe33db7a5f2381e8ac62"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "42cae6efd411ccd07c3405702972cc26e752dec5d4c3a6355b95b3bb0cb0ff38"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "21cbc7387202b974dc1b0c3aee089805d3bb33210cb40fd598be0d1dec53e1c2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "ed37a4f79a97cb6fafff8f4d2c77d50b08fce870be5e19ee10afdeac863e4bbc"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/button-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "9102f6848d22b510d21cf208a1f0b03f63aba45e1cffad6df14733f6c17e4572"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "e8432b28b3cc8e3a4b9d264fd22926d8bb277c112f9c1806abb0ae15f588230b"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "76833ba0c87dcd1477b570a161a260457e41170ab54b43f515c864a44774fad7"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "3e090755152c8246228371aa01d94c922afc6e3fd89eb82a63ef652fdda530dc"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "54bb746a9bdf5460f2c3d2773d9ac41601981410a153e4aa8ae85cf7dde26916"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "63e4ef76f20dfa10adaf0a5f2ba7dcf8a394bd2b376c34d512abc4d4f64823ce"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "0e43db3721eeb67d34c41be5e23b1897a4db1655ae1087d2adc1d81979f3c916"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/navigator-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "a6402953d9bebf9b1eac3716324e102edc9eceeb2dcd17df529cba5395723116"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/otp-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "6b1f0fd8f5488bdc9fbfd184eaa0c3414a2ad80a34af8256975aa7fde7d847b2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/otp-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "2d8803187f5ec52c8f78241cc12e9d966a11e341bd1710ec107c46cc0a449e39"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/otp-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "0961b2b693e9b928bf7fc07ff260bfd0aa419a49f6a92d85d07db3c29a089174"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "06e72658ed50eba9c0b479bd13d585d1fb3aebc96429a317f76223f8f80b9319"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-dark-1.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "ea7a299a5e6c27ff4f968cda8b86de32e1a0be0b6d76bd59d9b30cb3a662a5a8"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "05b51802596e4d23b6f8fd83d256e1a3f631454774fdaabce96d268f11df4843"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4f0da2f6ae6833ca477667620ab411d2ee790611ffea63ff601489aeb9eedc50"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b9bd259770d7774a118c2a542fb93128750d96155f3e46e8588799822bed6102"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-1.0-test-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b5359ea0c7cbcb50256d18ce1ec5fe65c8d321efa46b83ddd6c98be925642971"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "775310adda437bba0ea3933e98da2c56ca47b1aaf9cecc2bcb794fb2d79dff97"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-en-light-2.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "01a32808174067c220d55d006b48edd4fa8385a444316fcbe39d1771313ea558"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "a164efd2fa98a9e7bda4949ee0fd9b0cfb61052709eb02f66afb11f0723a556e"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-1.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1b635544db4dca3988c80743407dc6d85a6025034c25ebb86cd310d58bdb11fb"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f8f8e1f4d321bf3324e546c7f787e9cce26e6b41e1cdd66e0a12ebb1543f1046"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-dark-2.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4b200cde5572be226e28127a0b807a6ca669e8311eb6d937cad526c6d6528ce9"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "cb25fe04cff3767046b90909d4f05a471913f4497b55e4a4758aa2e4bca46b13"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/pagescaffold-fa-light-1.0-product-700.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b9760a2573963ccc6176f7170ebbfec6a4c4d1c1f10a35b0ba06eb7ce9bf0d79"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/password-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "966f30f1f48dd018df4c75ec2a721050ef5d62f5f942997f0b6a6efd3379fa8f"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/password-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "54472026b20a2bf1887aef338286fc465361120b48db16411ed882160fef9a21"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/password-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "ff446c7d10c48fe72431e161820c238397fa62b3b1642d14a6e33f3a4c86f60c"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "466b12faccf8861c8efe162b70e611805128b060ca364eea31905911b1670cce"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "d7b47ebc6bae15aca68d60d21c068b7474572247520eedc4f7a5c21599667fd2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c3dca3e78d92d0d3248242cdad8c1790bb5101a3af59c5fdbc370f0e93ef57d2"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "9f0f37c97a300cf5d83d625cdd68e92a6a5084dd3d7bc509f1857950653e7744"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "cf1d43db4b80104923b610d3fd20ea7e16a42511f57d73bf354809ab3848471a"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1042b61d0f070f11fba3c71cbb3fb952689240f23e5539ca23b269fd6a1aef37"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/radio-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "cfd6db7edbaea590992e15e9d7969fdb0f389a270eddf0e132e8aa4ce371ef62"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "94acf8762ee4216b612032bc77b4b4ec9bdb623675cfab72ef401cb86b8a5d67"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "84dbb55100483e7a480bd03cbff8a65cd5e8c4244e6f8d91b30c645615df3fb5"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-1.0-test-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "14f8c90ea8a9126437519ebb5d023cb4b94150d768bcda960a74ba9015615707"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-en-light-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1264be014afe9b48e9eddfc94acfffb153149dc01f1f80b4b15ad4d28df2568f"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "72056e41a815962fde3394b4a030c553c40cc760c3f7e5f673eb8bdf1b8fb5a1"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-dark-2.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "552312c0b71adcd44d17266f39a5af15010f59b3a01eb47f76907acd879488d3"
+    },
+    {
+      "path": "packages/design_system/test/goldens/baselines/windows/textfield-fa-light-1.0-product-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "6322ea145ea439fdda29ed7b97166000c049a15018da773e23ad4ba6b0803bdc"
+    },
+    {
+      "path": "packages/design_system/test/icons/representative_icon_preview_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "d82091a77b717ca38f888a881b497715eaea3ddf8b8ee3f08d169ed02717a860"
+    },
+    {
+      "path": "packages/design_system/test/readiness/font_provenance_test.dart",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "ae7dea4a7b3f6a1379eb431292cf13a7e44fb799f68304155302de8b80c6af7b"
+    },
+    {
+      "path": "packages/design_system/test/readiness/persian_font_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "7d5bc9499855988ae21c41d09b9215076d9b1611c43bd1b1a776db9da0b5d95f"
+    },
+    {
+      "path": "packages/design_system/test/ui/components/app_badge_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4ab094ebaf9911487d0ee4a9e61b9f8070f0158cb5edd7872541943b5dd7be48"
+    },
+    {
+      "path": "packages/design_system/test/ui/components/app_button_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4de1760b30c2e9d85ff9f9310d5390b51c154e97daf0fd09b5765b21c851f5e8"
+    },
+    {
+      "path": "packages/design_system/test/ui/components/auth_primitives_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c8131a65f71f6c2bdc5dd52c414070f21c3cdec7a6791f672fa30fd97e07ebff"
+    },
+    {
+      "path": "packages/design_system/test/ui/components/button_fixed_frame_test.dart",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "499ff70714eb8849df97699eed69dc032eb4d31cc1282f0d4daec6e39fe22bd6"
+    },
+    {
+      "path": "packages/design_system/test/ui/tokens/button_tokens_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "5f7f6f4a1a25b7ffba41eecf00fcb58b959739b51ccaf1eedceca17dbe42bba1"
+    },
+    {
+      "path": "test/features/auth/figma_conformance_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "50a4303c553aca301dc806b55a29852ea723a52bce6f4f02c23dc3c6d8e40edd"
+    },
+    {
+      "path": "test/features/auth/integration_contract_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "9a722f585db23e6f9a5605b47442c417977850fc5649ee4dc1a8b4d13fc2261b"
+    },
+    {
+      "path": "test/goldens/auth_entry_goldens_test.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "3520227c3067a363d0bc55f1618cad625a5292332e29dab047f9a83c32279dae"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-email-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "096b969a6e51275cb3f17ffe1b3df925f22afd24056353078589580349032f10"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-email-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "8459a1801f403eb2710cd98b85807c1c7ee61f29a4939467caa9d2816ebac39a"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-email-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "76770633c2461662bb5ce60be1fa1be3ea67906f2b77a0678f033c152cb64199"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-email-fa-dark-2.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "e2a9bd9005840b3991b71364642764fe04d2f26177479534fc221a941689c99a"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-email-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "e5b9154962654198eb4d7ee69d5e019d0efd9a832891bfb1502f8d2eb2cc5869"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-focused-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "135bdaa43f99a8f01fe4cc3aa891eb3eee60574de8bb2918d46d8b381822728b"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-focused-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "0ed9ba78e004656514fb0cd8bc107fad857032bc59bb5344b1b2acdfaa329127"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-focused-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "1bd9bb781f4f705592eeba188737b2842dd5033eed5f7a66adb513f4b55f0017"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-focused-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f65ae553dfa178443b52680ac2ecc453fc51cfaf294abc3b15562fd3a18e2fc5"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-idle-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "6b4aaeb3f813fe99abbd13ace57cbab9a2e4d5f03799917af31ff389849613da"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-idle-en-dark-1.0-744.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "afd84bd475e17d7ab57475b525710f25f43524bc0bb96364e285c9581729dbf3"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-idle-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f222346930ea8c392592989b809e82112c4ee7bad85727d8f484aaf5a9708cbb"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-idle-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b2544593e27b703428824f5b48b4ce49821aa4efd85862b1b8f9783f96c4ca05"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-idle-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "c24d83b4438b6b5761d9417ae8c5bfdc6a84cc8e6416a5909dcd99b30f444344"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-phone-en-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b4e24de5750de76743a7b83707b2a96b98074ffb41ee852bf08569d32ecfc855"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-phone-en-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "f873a7fa9ab583d38e819df82bd2cadded5cb05e1ebf0bb73e1fa9f74ce7593f"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-phone-fa-dark-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "b95a346fe02faa228053c22524dc65977b1894e7d7e7e0e0057f277fe37cfeb1"
+    },
+    {
+      "path": "test/goldens/baselines/windows/auth-phone-fa-light-1.0-402.png",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "ef98f1a33e65d3dac3a1b5bc40eb06df2c9bec29ac79e7b717cffdd62441c6cc"
+    },
+    {
+      "path": "tool/fonts/prepare_outfit.py",
+      "statusFromFilesystemTimes": "added",
+      "sha256": "53fb45c82b4ecdd87c108f9de165b47ddc32326578bb137a250fe2545c04bb8f"
+    },
+    {
+      "path": "tool/tokens/generate_auth_entry.cjs",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "7ad01ff3b82a61f1a48a0545610d98dd96cc102ab838da39f37854e6ff6a4374"
+    },
+    {
+      "path": "tool/tokens/generate_button_spec.dart",
+      "statusFromFilesystemTimes": "modified",
+      "sha256": "4625d02992efd38fe0ab2ba06de0904c89be9a7d5308b11789ceca5dac46c019"
+    }
+  ]
+}

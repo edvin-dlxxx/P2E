@@ -1,0 +1,14 @@
+{
+  "decision": "D-031",
+  "origin": "owner-authorized engineering adaptations; not Figma motion",
+  "destinationCount": 5,
+  "minimumHitWidth": 48,
+  "focusWidth": 2,
+  "overlayAlpha": 0.12,
+  "responsive": "five equal cells; indicator width min(source width, cell width); labels wrap without shrinking; common height grows to tallest label/badge; reject width below 5x48 + source padding",
+  "badge": "minimum source width; grow for text with source-derived symmetric inline allowance, bounded to indicator width; wrap and grow height at limit; pointer-transparent",
+  "safeArea": "content owns no inset; host adapter owns exactly one bottom SafeArea and extends source background; no keyboard auto-hide",
+  "reselection": "emit the same destination ID once; consumer alone owns selection",
+  "motion": "shared ButtonMotion press scale and release-duration easeOut indicator color transition; reduced motion immediate",
+  "textScalePolicy": "D-044 shared chromeTextScaleCap; full semantics preserved"
+}

@@ -1,0 +1,436 @@
+{
+  "variables": [
+    {
+      "id": "VariableID:16429:156",
+      "name": "Surface/Base",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.03921568766236305,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16433:9040",
+      "name": "Alpha/White",
+      "collectionId": "VariableCollectionId:16433:9035",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16433:4": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16433:9039",
+      "name": "Alpha/Black",
+      "collectionId": "VariableCollectionId:16433:9035",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16433:4": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:726",
+      "name": "Actions/Error/On Surface",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:158",
+      "name": "Surface Container/Base",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.09019608050584793,
+          "g": 0.09019608050584793,
+          "b": 0.09019608050584793,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7522",
+      "name": "On Surface/Emphasis",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:728",
+      "name": "Actions/Error/On Container",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 1,
+          "g": 0.125490203499794,
+          "b": 0.33725491166114807,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16447:341",
+      "name": "Surface Container/Low",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.03921568766236305,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:188",
+      "name": "Outline/Variant",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.14901961386203766,
+          "g": 0.14901961386203766,
+          "b": 0.14901961386203766,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:730",
+      "name": "Actions/Success/On Surface",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.0117647061124444,
+          "g": 0.18039216101169586,
+          "b": 0.08235294371843338,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:732",
+      "name": "Actions/Success/On Container",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0,
+          "g": 0.7882353067398071,
+          "b": 0.3176470696926117,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7518",
+      "name": "On Surface/Disabled",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 0.250980406999588,
+          "g": 0.250980406999588,
+          "b": 0.250980406999588,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:734",
+      "name": "Actions/Info/On Surface",
+      "collectionId": "VariableCollectionId:16428:8",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16428:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:195",
+      "name": "Surface/Base",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:802",
+      "name": "Actions/Error/On Surface",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:200",
+      "name": "Surface Container/Highest",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.8313725590705872,
+          "g": 0.8313725590705872,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7494",
+      "name": "On Surface/Emphasis",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.250980406999588,
+          "g": 0.250980406999588,
+          "b": 0.250980406999588,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:800",
+      "name": "Actions/Error/On Container",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.7803921699523926,
+          "g": 0,
+          "b": 0.21176470816135406,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:198",
+      "name": "Surface Container/Base",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16429:206",
+      "name": "Outline/Variant",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.8980392217636108,
+          "g": 0.8980392217636108,
+          "b": 0.8980392217636108,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:798",
+      "name": "Actions/Success/On Surface",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.0117647061124444,
+          "g": 0.18039216101169586,
+          "b": 0.08235294371843338,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:801",
+      "name": "Actions/Success/On Container",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.003921568859368563,
+          "g": 0.4000000059604645,
+          "b": 0.1882352977991104,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:18420:7495",
+      "name": "On Surface/Disabled",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 0.8313725590705872,
+          "g": 0.8313725590705872,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "VariableID:16448:807",
+      "name": "Actions/Info/On Surface",
+      "collectionId": "VariableCollectionId:16429:193",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "16429:3": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "VariableCollectionId:16428:8",
+      "name": "----- ⏾ - Dark Mode -----",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "modeId": "16428:0"
+        }
+      ]
+    },
+    {
+      "id": "VariableCollectionId:16433:9035",
+      "name": "Base Color",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "modeId": "16433:4"
+        }
+      ]
+    },
+    {
+      "id": "VariableCollectionId:16429:193",
+      "name": "----- ☀︎ - Light Mode -----",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "modeId": "16429:3"
+        }
+      ]
+    }
+  ],
+  "styles": [
+    {
+      "id": "S:a396b1b7a651f49c009607ba0282019b71cb6242,",
+      "name": "English/Baseline/Status-Small",
+      "fontName": {
+        "family": "Outfit",
+        "style": "SemiBold",
+        "variationSettings": {
+          "wght": 600
+        }
+      },
+      "fontSize": 8,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 10
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      }
+    },
+    {
+      "id": "S:94d3924fd7649ef03d5e4d438ef8956a4633dff5,",
+      "name": "English/Baseline/Status-Medium",
+      "fontName": {
+        "family": "Outfit",
+        "style": "SemiBold",
+        "variationSettings": {
+          "wght": 600
+        }
+      },
+      "fontSize": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      }
+    },
+    {
+      "id": "S:9aebd59304e0c576fc6dc5bca1ac74497912c403,",
+      "name": "English/Baseline/Status-Large",
+      "fontName": {
+        "family": "Outfit",
+        "style": "SemiBold",
+        "variationSettings": {
+          "wght": 600
+        }
+      },
+      "fontSize": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -4
+      }
+    }
+  ],
+  "missing": [],
+  "complete": true
+}

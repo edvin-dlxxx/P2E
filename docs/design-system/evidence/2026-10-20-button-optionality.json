@@ -1,0 +1,1317 @@
+{
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "access": "read-only",
+  "technicalVersionLock": "unverified",
+  "nodes": [
+    {
+      "id": "18436:1673",
+      "name": "Small Button - Dark Mode",
+      "type": "COMPONENT_SET",
+      "visible": true,
+      "width": 152,
+      "height": 300,
+      "x": 960,
+      "y": 0,
+      "layoutMode": "VERTICAL",
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisSizingMode": "AUTO",
+      "counterAxisSizingMode": "AUTO",
+      "layoutSizingHorizontal": "HUG",
+      "layoutSizingVertical": "HUG",
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "paddingTop": 20,
+      "paddingBottom": 20,
+      "itemSpacing": 20,
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "componentPropertyDefinitions": {
+        "Label#16433:4": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:34": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16481:44": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "componentPropertyReferences": null,
+      "children": [
+        {
+          "id": "18436:1674",
+          "name": "Button=Filled",
+          "type": "COMPONENT",
+          "visible": true,
+          "width": 112,
+          "height": 36,
+          "x": 20,
+          "y": 20,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "FIXED",
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 12,
+          "paddingBottom": 12,
+          "itemSpacing": 8,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyDefinitions": {
+            "Label#16433:4": {
+              "type": "TEXT",
+              "defaultValue": "Text Label"
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Button": {
+              "type": "VARIANT",
+              "defaultValue": "Filled",
+              "variantOptions": [
+                "Filled",
+                "Tonal",
+                "Outlined",
+                "Text",
+                "Disable"
+              ]
+            }
+          },
+          "componentPropertyReferences": {},
+          "variantProperties": {
+            "Button": "Filled"
+          },
+          "children": [
+            {
+              "id": "18436:1675",
+              "name": "Icon (Optional)",
+              "type": "FRAME",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 12,
+              "y": 8,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "visible": "Icon#16481:44"
+              }
+            },
+            {
+              "id": "18436:1678",
+              "name": "Text Label",
+              "type": "FRAME",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 40,
+              "y": 9,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 10,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {}
+            }
+          ]
+        },
+        {
+          "id": "18436:1680",
+          "name": "Button=Tonal",
+          "type": "COMPONENT",
+          "visible": true,
+          "width": 112,
+          "height": 36,
+          "x": 20,
+          "y": 76,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "FIXED",
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 12,
+          "paddingBottom": 12,
+          "itemSpacing": 8,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyDefinitions": {
+            "Label#16433:4": {
+              "type": "TEXT",
+              "defaultValue": "Text Label"
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Button": {
+              "type": "VARIANT",
+              "defaultValue": "Filled",
+              "variantOptions": [
+                "Filled",
+                "Tonal",
+                "Outlined",
+                "Text",
+                "Disable"
+              ]
+            }
+          },
+          "componentPropertyReferences": {},
+          "variantProperties": {
+            "Button": "Tonal"
+          },
+          "children": [
+            {
+              "id": "18436:1681",
+              "name": "Icon (Optional)",
+              "type": "FRAME",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 12,
+              "y": 8,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "visible": "Icon#16481:44"
+              }
+            },
+            {
+              "id": "18436:1684",
+              "name": "Text Label",
+              "type": "FRAME",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 40,
+              "y": 9,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 10,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {}
+            }
+          ]
+        },
+        {
+          "id": "18436:1686",
+          "name": "Button=Outlined",
+          "type": "COMPONENT",
+          "visible": true,
+          "width": 112,
+          "height": 36,
+          "x": 20,
+          "y": 132,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "FIXED",
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 12,
+          "paddingBottom": 12,
+          "itemSpacing": 8,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyDefinitions": {
+            "Label#16433:4": {
+              "type": "TEXT",
+              "defaultValue": "Text Label"
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Button": {
+              "type": "VARIANT",
+              "defaultValue": "Filled",
+              "variantOptions": [
+                "Filled",
+                "Tonal",
+                "Outlined",
+                "Text",
+                "Disable"
+              ]
+            }
+          },
+          "componentPropertyReferences": {},
+          "variantProperties": {
+            "Button": "Outlined"
+          },
+          "children": [
+            {
+              "id": "18436:1687",
+              "name": "Icon (Optional)",
+              "type": "FRAME",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 12,
+              "y": 8,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "visible": "Icon#16481:44"
+              }
+            },
+            {
+              "id": "18436:1690",
+              "name": "Text Label",
+              "type": "FRAME",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 40,
+              "y": 9,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 10,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {}
+            }
+          ]
+        },
+        {
+          "id": "18436:1692",
+          "name": "Button=Text",
+          "type": "COMPONENT",
+          "visible": true,
+          "width": 112,
+          "height": 36,
+          "x": 20,
+          "y": 188,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "FIXED",
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 12,
+          "paddingBottom": 12,
+          "itemSpacing": 8,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyDefinitions": {
+            "Label#16433:4": {
+              "type": "TEXT",
+              "defaultValue": "Text Label"
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Button": {
+              "type": "VARIANT",
+              "defaultValue": "Filled",
+              "variantOptions": [
+                "Filled",
+                "Tonal",
+                "Outlined",
+                "Text",
+                "Disable"
+              ]
+            }
+          },
+          "componentPropertyReferences": {},
+          "variantProperties": {
+            "Button": "Text"
+          },
+          "children": [
+            {
+              "id": "18436:1693",
+              "name": "Icon (Optional)",
+              "type": "FRAME",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 12,
+              "y": 8,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "visible": "Icon#16481:44"
+              }
+            },
+            {
+              "id": "18436:1696",
+              "name": "Text Label",
+              "type": "FRAME",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 40,
+              "y": 9,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 10,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {}
+            }
+          ]
+        },
+        {
+          "id": "18436:1698",
+          "name": "Button=Disable",
+          "type": "COMPONENT",
+          "visible": true,
+          "width": 112,
+          "height": 36,
+          "x": 20,
+          "y": 244,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "FIXED",
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 12,
+          "paddingBottom": 12,
+          "itemSpacing": 8,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyDefinitions": {
+            "Label#16433:4": {
+              "type": "TEXT",
+              "defaultValue": "Text Label"
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "defaultValue": false
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "defaultValue": true
+            },
+            "Button": {
+              "type": "VARIANT",
+              "defaultValue": "Filled",
+              "variantOptions": [
+                "Filled",
+                "Tonal",
+                "Outlined",
+                "Text",
+                "Disable"
+              ]
+            }
+          },
+          "componentPropertyReferences": {},
+          "variantProperties": {
+            "Button": "Disable"
+          },
+          "children": [
+            {
+              "id": "18436:1699",
+              "name": "Icon (Optional)",
+              "type": "FRAME",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 12,
+              "y": 8,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "visible": "Icon#16481:44"
+              }
+            },
+            {
+              "id": "18436:1702",
+              "name": "Text Label",
+              "type": "FRAME",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 40,
+              "y": 9,
+              "layoutMode": "HORIZONTAL",
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "AUTO",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 10,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18436:1674",
+      "name": "Button=Filled",
+      "type": "COMPONENT",
+      "visible": true,
+      "width": 112,
+      "height": 36,
+      "x": 20,
+      "y": 20,
+      "layoutMode": "HORIZONTAL",
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisSizingMode": "AUTO",
+      "counterAxisSizingMode": "FIXED",
+      "layoutSizingHorizontal": "HUG",
+      "layoutSizingVertical": "FIXED",
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 12,
+      "paddingBottom": 12,
+      "itemSpacing": 8,
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "componentPropertyDefinitions": {
+        "Label#16433:4": {
+          "type": "TEXT",
+          "defaultValue": "Text Label"
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16448:34": {
+          "type": "BOOLEAN",
+          "defaultValue": false
+        },
+        "Icon#16481:44": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Button": {
+          "type": "VARIANT",
+          "defaultValue": "Filled",
+          "variantOptions": [
+            "Filled",
+            "Tonal",
+            "Outlined",
+            "Text",
+            "Disable"
+          ]
+        }
+      },
+      "componentPropertyReferences": {},
+      "variantProperties": {
+        "Button": "Filled"
+      },
+      "children": [
+        {
+          "id": "18436:1675",
+          "name": "Icon (Optional)",
+          "type": "FRAME",
+          "visible": true,
+          "width": 20,
+          "height": 20,
+          "x": 12,
+          "y": 8,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "AUTO",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "itemSpacing": 0,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyReferences": {
+            "visible": "Icon#16481:44"
+          },
+          "children": [
+            {
+              "id": "18436:1676",
+              "name": "Fill",
+              "type": "INSTANCE",
+              "visible": true,
+              "width": 20,
+              "height": 20,
+              "x": 0,
+              "y": 0,
+              "layoutMode": "NONE",
+              "primaryAxisAlignItems": "MIN",
+              "counterAxisAlignItems": "MIN",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "FIXED",
+              "layoutSizingHorizontal": "FIXED",
+              "layoutSizingVertical": "FIXED",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentProperties": {
+                "Icon": {
+                  "value": "Edit Square",
+                  "type": "VARIANT",
+                  "boundVariables": {}
+                }
+              },
+              "componentPropertyReferences": {
+                "visible": "Fill Icon#16433:5"
+              },
+              "variantProperties": {
+                "Icon": "Edit Square"
+              }
+            },
+            {
+              "id": "18436:1677",
+              "name": "Outline",
+              "type": "INSTANCE",
+              "visible": false,
+              "width": 20,
+              "height": 20,
+              "x": 30,
+              "y": 0,
+              "layoutMode": "NONE",
+              "primaryAxisAlignItems": "MIN",
+              "counterAxisAlignItems": "MIN",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "FIXED",
+              "layoutSizingHorizontal": "FIXED",
+              "layoutSizingVertical": "FIXED",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "itemSpacing": 0,
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentProperties": {
+                "Icon": {
+                  "value": "Edit Square",
+                  "type": "VARIANT",
+                  "boundVariables": {}
+                }
+              },
+              "componentPropertyReferences": {
+                "visible": "Outline Icon#16448:34"
+              },
+              "variantProperties": {
+                "Icon": "Edit Square"
+              }
+            }
+          ]
+        },
+        {
+          "id": "18436:1678",
+          "name": "Text Label",
+          "type": "FRAME",
+          "visible": true,
+          "width": 60,
+          "height": 18,
+          "x": 40,
+          "y": 9,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "AUTO",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "itemSpacing": 10,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyReferences": {},
+          "children": [
+            {
+              "id": "18436:1679",
+              "name": "Text Label",
+              "type": "TEXT",
+              "visible": true,
+              "width": 60,
+              "height": 18,
+              "x": 0,
+              "y": 0,
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "characters": "Label#16433:4"
+              },
+              "textAlignHorizontal": "CENTER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 14,
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 18
+              },
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "characters": "Text Label"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18533:4263",
+      "name": "Small Button - Dark Mode",
+      "type": "INSTANCE",
+      "visible": true,
+      "width": 80,
+      "height": 36,
+      "x": 0,
+      "y": 0,
+      "layoutMode": "HORIZONTAL",
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisSizingMode": "AUTO",
+      "counterAxisSizingMode": "FIXED",
+      "layoutSizingHorizontal": "HUG",
+      "layoutSizingVertical": "FIXED",
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 12,
+      "paddingBottom": 12,
+      "itemSpacing": 8,
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "componentProperties": {
+        "Outline Icon#16448:34": {
+          "type": "BOOLEAN",
+          "value": false
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "value": true
+        },
+        "Icon#16481:44": {
+          "type": "BOOLEAN",
+          "value": false
+        },
+        "Label#16433:4": {
+          "type": "TEXT",
+          "value": "Play Now"
+        },
+        "Button": {
+          "value": "Tonal",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "componentPropertyReferences": null,
+      "variantProperties": {
+        "Button": "Tonal"
+      },
+      "children": [
+        {
+          "id": "I18533:4263;18436:1684",
+          "name": "Text Label",
+          "type": "FRAME",
+          "visible": true,
+          "width": 56,
+          "height": 18,
+          "x": 12,
+          "y": 9,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "AUTO",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "itemSpacing": 10,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyReferences": {},
+          "children": [
+            {
+              "id": "I18533:4263;18436:1685",
+              "name": "Text Label",
+              "type": "TEXT",
+              "visible": true,
+              "width": 56,
+              "height": 18,
+              "x": 0,
+              "y": 0,
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "characters": "Label#16433:4"
+              },
+              "textAlignHorizontal": "CENTER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 14,
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 18
+              },
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "characters": "Play Now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18618:12674",
+      "name": "Medium Fill Button - Dark Mode",
+      "type": "INSTANCE",
+      "visible": true,
+      "width": 362,
+      "height": 46,
+      "x": 0,
+      "y": 0,
+      "layoutMode": "HORIZONTAL",
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisSizingMode": "FIXED",
+      "counterAxisSizingMode": "FIXED",
+      "layoutSizingHorizontal": "FILL",
+      "layoutSizingVertical": "FIXED",
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+      "paddingBottom": 16,
+      "itemSpacing": 8,
+      "layoutAlign": "STRETCH",
+      "layoutGrow": 0,
+      "componentProperties": {
+        "Outline Icon#16448:58": {
+          "type": "BOOLEAN",
+          "value": false
+        },
+        "Fill Icon#16433:5": {
+          "type": "BOOLEAN",
+          "value": true
+        },
+        "Icon#16481:14": {
+          "type": "BOOLEAN",
+          "value": false
+        },
+        "Label#16433:4": {
+          "type": "TEXT",
+          "value": "Continue With Email Address"
+        },
+        "Button": {
+          "value": "Filled",
+          "type": "VARIANT",
+          "boundVariables": {}
+        }
+      },
+      "componentPropertyReferences": null,
+      "variantProperties": {
+        "Button": "Filled"
+      },
+      "children": [
+        {
+          "id": "I18618:12674;18437:1814",
+          "name": "Text Label",
+          "type": "FRAME",
+          "visible": true,
+          "width": 193,
+          "height": 20,
+          "x": 84.5,
+          "y": 13,
+          "layoutMode": "HORIZONTAL",
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "AUTO",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "itemSpacing": 10,
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "componentPropertyReferences": {},
+          "children": [
+            {
+              "id": "I18618:12674;18437:1815",
+              "name": "Text Label",
+              "type": "TEXT",
+              "visible": true,
+              "width": 193,
+              "height": 20,
+              "x": 0,
+              "y": 0,
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "componentPropertyReferences": {
+                "characters": "Label#16433:4"
+              },
+              "textAlignHorizontal": "CENTER",
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 16,
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 20
+              },
+              "fontName": {
+                "family": "Outfit",
+                "style": "SemiBold",
+                "variationSettings": {
+                  "wght": 600
+                }
+              },
+              "characters": "Continue With Email Address"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "homes": [
+    {
+      "id": "18437:9175",
+      "name": "Home Page - Dark",
+      "buttons": [
+        {
+          "id": "18533:4263",
+          "name": "Small Button - Dark Mode",
+          "width": 80,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Play Now"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "I18533:4290;18457:12186",
+          "name": "Small Button - Dark Mode",
+          "width": 80,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Play Now"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "18533:4330",
+          "name": "Small Button - Dark Mode",
+          "width": 77,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Continue"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "18533:4439",
+          "name": "Small Button - Dark Mode",
+          "width": 93,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:34": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:44": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Start Quest"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        }
+      ]
+    },
+    {
+      "id": "18422:11645",
+      "name": "Home Page - Light",
+      "buttons": [
+        {
+          "id": "18533:4803",
+          "name": "Small Button - Light Mode",
+          "width": 80,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:28": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:38": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Play Now"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "I18533:4830;18457:14512",
+          "name": "Small Button - Light Mode",
+          "width": 80,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:28": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:38": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Play Now"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "18533:4870",
+          "name": "Small Button - Light Mode",
+          "width": 77,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:28": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:38": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Continue"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        },
+        {
+          "id": "18533:4979",
+          "name": "Small Button - Light Mode",
+          "width": 93,
+          "height": 36,
+          "properties": {
+            "Outline Icon#16448:28": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Fill Icon#16433:5": {
+              "type": "BOOLEAN",
+              "value": true
+            },
+            "Icon#16481:38": {
+              "type": "BOOLEAN",
+              "value": false
+            },
+            "Label#16433:4": {
+              "type": "TEXT",
+              "value": "Start Quest"
+            },
+            "Button": {
+              "value": "Tonal",
+              "type": "VARIANT",
+              "boundVariables": {}
+            }
+          },
+          "layoutSizingHorizontal": "HUG"
+        }
+      ]
+    }
+  ]
+}

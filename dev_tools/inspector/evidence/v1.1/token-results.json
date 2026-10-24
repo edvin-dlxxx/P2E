@@ -1,0 +1,50 @@
+[
+  {
+    "generator": "generate_adaptive.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_app_bars.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_badges.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_fields.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_icons.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_navigation.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_readiness.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_skins.cjs",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_button_icons.dart",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_button_spec.dart",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_buttons.dart",
+    "exitCode": 0
+  },
+  {
+    "generator": "generate_motion_defaults.dart",
+    "exitCode": 0
+  }
+]

@@ -1,0 +1,401 @@
+{
+  "source": "Actual AppButton outer RenderBox, Flutter widget tests on Windows",
+  "fonts": "Bundled Outfit 1.100 and Vazirmatn 33.003; FontLoader completed",
+  "viewport": 390,
+  "direction": "ltr",
+  "textScale": 1,
+  "measurements": {
+    "18436:1643": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1612": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1649": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1618": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1655": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1624": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1661": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1630": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1667": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1636": {
+      "width": 390,
+      "height": 48
+    },
+    "18436:1705": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1674": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1711": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1680": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1717": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1686": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1723": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1692": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1729": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1698": {
+      "width": 112,
+      "height": 48
+    },
+    "18436:1757": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1736": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1761": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1740": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1765": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1744": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1769": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1748": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1773": {
+      "width": 48,
+      "height": 48
+    },
+    "18436:1752": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1841": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1810": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1847": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1816": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1853": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1822": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1859": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1828": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1865": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1834": {
+      "width": 390,
+      "height": 52
+    },
+    "18437:1903": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1872": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1909": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1878": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1915": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1884": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1921": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1890": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1927": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1896": {
+      "width": 129,
+      "height": 52
+    },
+    "18437:1955": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1934": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1959": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1938": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1963": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1942": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1967": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1946": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1971": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:1950": {
+      "width": 48,
+      "height": 48
+    },
+    "18437:2037": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2006": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2043": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2012": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2049": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2018": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2055": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2024": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2061": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2030": {
+      "width": 390,
+      "height": 60
+    },
+    "18437:2099": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2068": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2105": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2074": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2111": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2080": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2117": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2086": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2123": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2092": {
+      "width": 150,
+      "height": 60
+    },
+    "18437:2151": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2130": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2155": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2134": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2159": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2138": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2163": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2142": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2167": {
+      "width": 56,
+      "height": 56
+    },
+    "18437:2146": {
+      "width": 56,
+      "height": 56
+    }
+  },
+  "fontSources": [
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/outfit/Outfit%5Bwght%5D.ttf",
+      "blob": "466d6245f9582df39bf73da91a8b3c938fd061cd",
+      "path": "assets/fonts/outfit/Outfit-Variable.ttf",
+      "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+      "version": "1.100 (Google Fonts commit 8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5)"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/outfit/OFL.txt",
+      "blob": "723cd447edee83ed3bb07c3343f478d352aa7440",
+      "path": "assets/fonts/outfit/OFL.txt",
+      "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "version": "1.100 (Google Fonts commit 8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5)"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rastikerdar/vazirmatn/83629f877e8f084cc07b47030b5d3a0ff06c76ec/fonts/variable/Vazirmatn%5Bwght%5D.ttf",
+      "blob": "b02ceb054d5f1f9ac563e79248ce1bf8e35d60ca",
+      "path": "assets/fonts/vazirmatn/Vazirmatn-Variable.ttf",
+      "sha256": "696249a2c74b39ffdef55de4df2809c5b639d3ff80d618d8160a095d2fd49dca",
+      "version": "33.003 (release v33.003; commit 83629f877e8f084cc07b47030b5d3a0ff06c76ec)"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rastikerdar/vazirmatn/83629f877e8f084cc07b47030b5d3a0ff06c76ec/OFL.txt",
+      "blob": "be66b3824e9772e75141e631695c5256f105fb57",
+      "path": "assets/fonts/vazirmatn/OFL.txt",
+      "sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31",
+      "version": "33.003 (release v33.003; commit 83629f877e8f084cc07b47030b5d3a0ff06c76ec)"
+    }
+  ],
+  "ok": 10,
+  "diff": 80
+}

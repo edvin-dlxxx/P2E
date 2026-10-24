@@ -1,0 +1,347 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/5aa491d4-8654-4f5d-9cd4-a56297132d00";
+const imgCompanyXbox = `${assetPathPrefix}/8a999.svg`;
+const imgCompanySonyPsn = `${assetPathPrefix}/29560.svg`;
+const imgFill = `${assetPathPrefix}/81350.svg`;
+const imgOutline = `${assetPathPrefix}/88cbb.svg`;
+const imgFill1 = `${assetPathPrefix}/ed206.svg`;
+const imgCellularConnection = `${assetPathPrefix}/bd8c3.svg`;
+const imgWifi = `${assetPathPrefix}/c5cc9.svg`;
+const imgVector = `${assetPathPrefix}/d991b.svg`;
+const imgImage1 = `${assetPathPrefix}/07d3f.png`;
+const imgImage = `${assetPathPrefix}/07726.svg`;
+const imgFill2 = `${assetPathPrefix}/d79de.svg`;
+const imgDivider = `${assetPathPrefix}/dd1a6.svg`;
+const imgGoogleIconLogoSvgrepoCom1 = `${assetPathPrefix}/6e149.svg`;
+
+type PlatformIconsProps = {
+  className?: string;
+  company?: "XBOX" | "Sony PSN";
+};
+
+function PlatformIcons({ className, company = "XBOX" }: PlatformIconsProps) {
+  const isSonyPsn = company === "Sony PSN";
+  return (
+    <div className={className || "relative size-[100px]"} id={isSonyPsn ? "node-14879_3378" : "node-14879_3376"}>
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={isSonyPsn ? imgCompanySonyPsn : imgCompanyXbox} />
+    </div>
+  );
+}
+
+type MediumFillButtonDarkModeProps = {
+  className?: string;
+  button?: "Disable";
+  fillIcon?: boolean;
+  icon?: boolean;
+  label?: string;
+  outlineIcon?: boolean;
+};
+
+function MediumFillButtonDarkMode({ className, button = "Disable", fillIcon = true, icon = true, label = "Text Label", outlineIcon = false }: MediumFillButtonDarkModeProps) {
+  return (
+    <div className={className || "bg-[var(--surface-container\\/base,#171717)] content-stretch flex gap-[8px] h-[46px] items-center justify-center overflow-clip p-[16px] relative rounded-[12px] w-[330px]"} data-node-id="18437:1834">
+      {icon && (
+        <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18437:1835" data-name="Icon (Optional)">
+          {fillIcon && (
+            <div className="relative shrink-0 size-[20px]" data-node-id="18437:1836" data-name="Fill">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFill} />
+            </div>
+          )}
+          {outlineIcon && (
+            <div className="relative shrink-0 size-[20px]" data-node-id="18437:1837" data-name="Outline">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgOutline} />
+            </div>
+          )}
+        </div>
+      )}
+      <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18437:1838" data-name="Text Label">
+        <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/disabled,#404040)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="18437:1839">
+          <p className="leading-[20px]" dir="auto">
+            {label}
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type RadioButtonDarkModeProps = {
+  className?: string;
+  labelText?: string;
+  optional?: boolean;
+  required?: boolean;
+  state?: "Not Selected";
+};
+
+function RadioButtonDarkMode({ className, labelText = "Text Field Label", optional = true, required = true, state = "Not Selected" }: RadioButtonDarkModeProps) {
+  return (
+    <div className={className || "content-stretch flex items-center justify-center relative w-[370px]"} data-node-id="16481:4816">
+      <div className="content-stretch flex items-center justify-center p-[8px] relative rounded-[40px] shrink-0" data-node-id="16481:4983" data-name="Radio Icon">
+        <div className="border-[1.5px] border-[var(--outline\/base,#404040)] border-solid content-stretch flex flex-col items-center justify-center p-[2px] relative rounded-[8px] shrink-0 size-[20px]" data-node-id="16481:4981" data-name="Unselected Icon" />
+      </div>
+      <div className="content-stretch flex flex-[1_0_0] gap-[6px] items-center min-w-px px-[4px] relative" data-node-id="16481:4817" data-name="Label">
+        <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="16481:4818" data-name="Adjacent Label Text">
+          <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/base,#a1a1a1)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="16481:4819">
+            <p className="leading-[20px]">{labelText}</p>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="16481:4820" data-name="Indicator">
+          {required && (
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="16481:4821" data-name="Required">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="16481:4822">
+                <p className="leading-[18px]">(Required)</p>
+              </div>
+            </div>
+          )}
+          {optional && (
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="16481:4823" data-name="Optional">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="16481:4824">
+                <p className="leading-[18px]">(Optional)</p>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type BaseTextFieldDarkModeProps = {
+  className?: string;
+  labelText?: string;
+  optional?: boolean;
+  required?: boolean;
+  state?: "Default";
+  supportingField?: boolean;
+  supportingText?: string;
+  supportingTextIcon?: boolean;
+};
+
+function BaseTextFieldDarkMode({ className, labelText = "Text Field Label", optional = true, required = true, state = "Default", supportingField = true, supportingText = "Supporting text.", supportingTextIcon = true }: BaseTextFieldDarkModeProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col gap-[8px] items-center justify-center relative w-[370px]"} data-node-id="18562:5888">
+      <div className="bg-[var(--surface-container\/base,#171717)] border-2 border-[var(--outline\/variant,#262626)] border-solid content-stretch flex flex-col items-center justify-center min-h-[60px] overflow-clip px-[16px] py-[8px] relative rounded-[16px] shrink-0 w-full" data-node-id="18562:5898" data-name="Text Field Container">
+        <div className="content-stretch flex gap-[6px] h-[24px] items-center overflow-clip relative shrink-0 w-full" data-node-id="18562:6066" data-name="Label">
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:6067" data-name="Label Text">
+            <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/base,#a1a1a1)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="18562:6068">
+              <p className="leading-[20px]">{labelText}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:6069" data-name="Indicator">
+            {required && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:6070" data-name="Required">
+                <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18562:6071">
+                  <p className="leading-[18px]">(Required)</p>
+                </div>
+              </div>
+            )}
+            {optional && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:6102" data-name="Optional">
+                <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18562:6103">
+                  <p className="leading-[18px]">(Optional)</p>
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+      {supportingField && (
+        <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18563:6162" data-name="Supporting Text Container (Optional)">
+          <div className="bg-[var(--surface-container\/base,#171717)] content-stretch flex gap-[8px] items-center px-[10px] py-[8px] relative rounded-[12px] shrink-0 w-full" data-node-id="18562:5907" data-name="Supporting Text">
+            {supportingTextIcon && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:5908" data-name="Icon (Required)">
+                <div className="relative shrink-0 size-[18px]" data-node-id="18562:5909" data-name="Fill">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFill1} />
+                </div>
+              </div>
+            )}
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18562:5910" data-name="Container">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/base,#a1a1a1)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18562:5911">
+                <p className="leading-[18px]">{supportingText}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+type IPhoneStatusBarProps = {
+  className?: string;
+  theme?: "Dark";
+};
+
+function IPhoneStatusBar({ className, theme = "Dark" }: IPhoneStatusBarProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col h-[55px] items-center justify-center pt-[10px] relative w-[410px]"} data-node-id="14433:646">
+      <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="14433:647" data-name="Status Bar Frame">
+        <div className="content-stretch flex flex-[1_0_0] items-center min-w-px pl-[40px] pr-[6px] relative" data-node-id="14433:648" data-name="Time">
+          <p className="[word-break:break-word] font-['SF_Pro:Semibold'] font-[590] leading-[22px] relative shrink-0 text-[17px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:649" style={{ fontVariationSettings: '"wdth" 100' }}>
+            9:41
+          </p>
+        </div>
+        <div className="h-[10px] relative shrink-0 w-[125px]" data-node-id="14433:650" data-name="Dynamic Island Spacer" />
+        <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-center min-w-px pl-[6px] pr-[16px] relative" data-node-id="14433:651" data-name="Levels">
+          <div className="h-[12.226px] relative shrink-0 w-[19.2px]" data-node-id="14433:652" data-name="Cellular Connection">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCellularConnection} />
+          </div>
+          <div className="h-[12.328px] relative shrink-0 w-[17.142px]" data-node-id="14433:654" data-name="Wifi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWifi} />
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0" data-node-id="14433:656" data-name="Battery">
+            <div className="h-[13px] relative shrink-0 w-[27.328px]" data-node-id="14433:657" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function AuthenticationDark() {
+  return (
+    <div className="bg-[var(--surface\/base,#0a0a0a)] content-stretch flex flex-col items-center justify-center relative size-full" data-node-id="18608:11451" data-name="Authentication - Dark">
+      <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18608:11452" data-name="Header">
+        <IPhoneStatusBar className="content-stretch flex flex-col h-[55px] items-center justify-center pt-[10px] relative shrink-0 w-full" />
+        <div className="content-stretch flex flex-col h-[180px] items-center justify-center relative shrink-0 w-full" data-node-id="18618:12121" data-name="Hero Section Banner">
+          <div className="-translate-x-1/2 absolute h-[264px] left-1/2 top-[-55px] w-[402px]" data-node-id="18618:12122" data-name="Background">
+            <div className="absolute inset-0 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[402px_264px]" data-node-id="18618:12124" style={{ maskImage: `url("${imgImage}")` }} data-name="Image">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage1} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-[1_0_0] flex-col isolate items-center min-h-px overflow-x-clip overflow-y-auto relative w-full" data-node-id="18608:11454" data-name="Body">
+        <div className="content-stretch flex flex-col gap-[8px] items-start justify-center overflow-clip p-[24px] relative shrink-0 w-full z-[6]" data-node-id="18613:11487" data-name="Header">
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18613:11488" data-name="Title">
+            <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[32px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-1.28px] whitespace-nowrap" data-node-id="18613:11489">
+              <p className="leading-[40px]">Play. Earn. Win.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="18613:11490" data-name="Subtitle">
+            <div className="[word-break:break-word] flex flex-[1_0_0] flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] min-w-px relative text-[18px] text-[color:var(--on-surface\/base,#a1a1a1)] tracking-[-0.72px]" data-node-id="18613:11491">
+              <p className="leading-[24px]">Enter your email or phone number and let the games begin.</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center px-[20px] py-[8px] relative shrink-0 w-full z-[5]" data-node-id="18618:11748" data-name="Welcome Bonus">
+          <div className="bg-[var(--surface-container\/base,#171717)] content-stretch flex gap-[6px] h-[32px] items-center justify-center overflow-clip pl-[4px] pr-[10px] py-[4px] relative rounded-[16px] shrink-0" data-node-id="18618:11749" data-name="Points">
+            <div className="bg-[var(--countainer\/pink,#eeb0c6)] content-stretch flex h-full items-center justify-center relative rounded-[16px] shrink-0 w-[24px]" data-node-id="18618:11750" data-name="Icon">
+              <div className="relative shrink-0 size-[16px]" data-node-id="18618:11751" data-name="Fill">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFill2} />
+              </div>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex gap-[4px] h-full items-center justify-center leading-[0] overflow-clip relative rounded-[16px] shrink-0 text-center whitespace-nowrap" data-node-id="18618:11752" data-name="Points Amount">
+              <div className="flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center relative shrink-0 text-[16px] text-[color:var(--on-surface\/emphasis,white)]" data-node-id="18618:11753">
+                <p className="leading-[20px]">+3,500</p>
+              </div>
+              <div className="flex flex-col font-['Outfit:Regular'] font-normal justify-center relative shrink-0 text-[14px] text-[color:var(--on-surface\/variant,#737373)] tracking-[-0.56px]" data-node-id="18618:11754">
+                <p className="leading-[18px]">pts</p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18618:11760" data-name="Text Label">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="18618:11758">
+                <p className="leading-[20px]">Welcome bonus</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[24px] items-center justify-center p-[20px] relative shrink-0 w-full z-[4]" data-node-id="18608:11455" data-name="Form">
+          <div className="content-stretch flex flex-col gap-[8px] items-center justify-center relative shrink-0 w-full" data-node-id="18618:11613" data-name="Text Fields">
+            <BaseTextFieldDarkMode className="content-stretch flex flex-col gap-[8px] items-center justify-center relative shrink-0 w-full" labelText="Email Address or Phone Number " optional={false} required={false} supportingField={false} supportingText="Email or phone number is required" />
+            <RadioButtonDarkMode className="content-stretch flex items-center justify-center relative shrink-0 w-full" labelText="Remember me for next time." optional={false} required={false} />
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:11632" data-name="CTA">
+            <MediumFillButtonDarkMode className="bg-[var(--surface-container\/base,#171717)] content-stretch flex gap-[8px] h-[46px] items-center justify-center overflow-clip p-[16px] relative rounded-[12px] shrink-0 w-full" icon={false} label="Continue" />
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[10px] items-center justify-center px-[32px] relative shrink-0 w-full z-[3]" data-node-id="18613:11493" data-name="Divider">
+          <div className="flex-[1_0_0] h-0 min-w-px relative" data-node-id="18613:11494" data-name="Divider">
+            <div className="absolute inset-[-0.75px_-0.66%]">
+              <img alt="" className="block max-w-none size-full" src={imgDivider} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18613:11496">
+            <p className="leading-[18px]">or continue with</p>
+          </div>
+          <div className="flex-[1_0_0] h-0 min-w-px relative" data-node-id="18613:11497" data-name="Divider">
+            <div className="absolute inset-[-0.75px_-0.66%]">
+              <img alt="" className="block max-w-none size-full" src={imgDivider} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-start justify-center min-h-px p-[24px] relative w-full z-[2]" data-node-id="18613:11499" data-name="Social Auth Gateway">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-center justify-center min-w-px relative" data-node-id="18613:11500" data-name="Play Station">
+            <div className="bg-[var(--blue\/700,#1447e6)] content-stretch flex h-[38px] items-center justify-center overflow-clip relative rounded-[12px] shrink-0 w-full" data-node-id="18613:11501" data-name="Toggel Swap">
+              <PlatformIcons className="relative shrink-0 size-[40px]" company="Sony PSN" />
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18613:11503" data-name="Text Label">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18613:11504">
+                <p className="leading-[18px]" dir="auto">
+                  Playstation
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-center justify-center min-w-px relative" data-node-id="18613:11505" data-name="Xbox">
+            <div className="bg-[var(--green\/600,#00a63e)] content-stretch flex h-[38px] items-center justify-center overflow-clip relative rounded-[12px] shrink-0 w-full" data-node-id="18613:11506" data-name="Toggel Swap">
+              <PlatformIcons className="relative shrink-0 size-[40px]" />
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18613:11508" data-name="Text Label">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18613:11509">
+                <p className="leading-[18px]" dir="auto">
+                  Xbox
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-center justify-center min-w-px relative" data-node-id="18613:11516" data-name="Google">
+            <div className="bg-[var(--alpha\/white,white)] content-stretch flex h-[38px] items-center justify-center overflow-clip relative rounded-[12px] shrink-0 w-full" data-node-id="18613:11517" data-name="Toggel Swap">
+              <div className="relative shrink-0 size-[20px]" data-node-id="18613:11518" data-name="google-icon-logo-svgrepo-com 1">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGoogleIconLogoSvgrepoCom1} />
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18613:11523" data-name="Text Label">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18613:11524">
+                <p className="leading-[18px]" dir="auto">
+                  Google
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center justify-center p-[24px] relative shrink-0 w-full z-[1]" data-node-id="18618:11674" data-name="Legal Section">
+          <div className="content-stretch flex flex-[1_0_0] items-center justify-center min-w-px relative" data-node-id="18618:11677" data-name="Terms & Privacy">
+            <div className="[word-break:break-word] flex flex-[1_0_0] flex-col font-['Outfit:Regular'] font-normal justify-center leading-[0] min-w-px relative text-[0px] text-[color:var(--on-surface\/base,#a1a1a1)] text-center tracking-[-0.56px]" data-node-id="18618:11675">
+              <p className="text-[14px] whitespace-pre-wrap">
+                <span className="leading-[18px]">{`By continuing, you agree to our `}</span>
+                <span className="[word-break:break-word] font-['Outfit:SemiBold'] font-semibold leading-[18px] text-[#00a6f4] tracking-[-0.56px]">{`Terms & Conditions`}</span>
+                <span className="leading-[18px]">
+                  {` and `}
+                  <br aria-hidden />
+                </span>
+                <span className="[word-break:break-word] font-['Outfit:SemiBold'] font-semibold leading-[18px] text-[#00a6f4] tracking-[-0.56px]">Privacy Policy</span>
+                <span className="leading-[18px]">.</span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+These styles are contained in the design: English/Baseline/Headline-Large: Font(family: "Outfit", style: SemiBold, size: 32, weight: 600, lineHeight: 40, letterSpacing: -4), English/Variant/Title-Small: Font(family: "Outfit", style: Medium, size: 18, weight: 500, lineHeight: 24, letterSpacing: -4), English/Baseline/Number-Large: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: 0), English/Muted/Label-Small: Font(family: "Outfit", style: Regular, size: 14, weight: 400, lineHeight: 18, letterSpacing: -4), English/Baseline/Label-Medium: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4), English/Variant/Button-Medium: Font(family: "Outfit", style: Medium, size: 16, weight: 500, lineHeight: 20, letterSpacing: -4), English/Muted/Label-Medium: Font(family: "Outfit", style: Regular, size: 16, weight: 400, lineHeight: 20, letterSpacing: -4), English/Baseline/Button-Medium: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4), English/Baseline/Label-Small: Font(family: "Outfit", style: SemiBold, size: 14, weight: 600, lineHeight: 18, letterSpacing: -4).
+
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

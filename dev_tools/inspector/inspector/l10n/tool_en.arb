@@ -1,0 +1,343 @@
+{
+  "@@locale": "en",
+  "inspectionTitle": "Local UI inspection",
+  "@inspectionTitle": {
+    "description": "Optional inspector chrome copy."
+  },
+  "select": "Select",
+  "@select": {
+    "description": "Optional inspector chrome copy."
+  },
+  "exitSelect": "Exit Select (Esc)",
+  "@exitSelect": {
+    "description": "Optional inspector chrome copy."
+  },
+  "panel": "Panel",
+  "@panel": {
+    "description": "Optional inspector chrome copy."
+  },
+  "productSkin": "Product skin",
+  "@productSkin": {
+    "description": "Optional inspector chrome copy."
+  },
+  "testSkin": "Test skin",
+  "@testSkin": {
+    "description": "Optional inspector chrome copy."
+  },
+  "inset": "{edge} inset",
+  "@inset": {
+    "description": "Optional inspector chrome copy."
+  },
+  "viewerWidth": "Viewer available width: {width}",
+  "@viewerWidth": {
+    "description": "Optional inspector chrome copy."
+  },
+  "dimensions": "{width}×{height}",
+  "@dimensions": {
+    "description": "Optional inspector chrome copy."
+  },
+  "scale": "×{scale}",
+  "@scale": {
+    "description": "Optional inspector chrome copy."
+  },
+  "treeRefresh": "Element tree / refresh",
+  "@treeRefresh": {
+    "description": "Optional inspector chrome copy."
+  },
+  "mountedSummary": "Mounted identities: {count} · traversals: {traversals}",
+  "@mountedSummary": {
+    "description": "Optional inspector chrome copy."
+  },
+  "candidates": "Candidates at point (deepest first)",
+  "@candidates": {
+    "description": "Optional inspector chrome copy."
+  },
+  "parentOwner": "Parent owner",
+  "@parentOwner": {
+    "description": "Optional inspector chrome copy."
+  },
+  "copyFigma": "Copy Figma node URL",
+  "@copyFigma": {
+    "description": "Optional inspector chrome copy."
+  },
+  "copyJson": "Copy JSON",
+  "@copyJson": {
+    "description": "Optional inspector chrome copy."
+  },
+  "owner": "owner",
+  "@owner": {
+    "description": "Optional inspector chrome copy."
+  },
+  "colorNote": "Colors are resolved configuration, not sampled pixels. Tolerance: ±{tolerance} logical px.",
+  "@colorNote": {
+    "description": "Optional inspector chrome copy."
+  },
+  "offstage": " (offstage/invisible)",
+  "@offstage": {
+    "description": "Optional inspector chrome copy."
+  },
+  "fixtureMode": "DS fixtures",
+  "@fixtureMode": {
+    "description": "Optional inspector chrome copy."
+  },
+  "productMode": "Real product",
+  "@productMode": {
+    "description": "Optional inspector chrome copy."
+  },
+  "sampleToggleLoading": "Toggle Button loading",
+  "@sampleToggleLoading": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleToggleMount": "Dispose / remount sample",
+  "@sampleToggleMount": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleContinue": "Continue",
+  "@sampleContinue": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleHelp": "Help",
+  "@sampleHelp": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleLoading": "Loading",
+  "@sampleLoading": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePassword": "Password",
+  "@samplePassword": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleOtp": "Code",
+  "@sampleOtp": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleShow": "Show",
+  "@sampleShow": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleHide": "Hide",
+  "@sampleHide": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleAvatar": "CM",
+  "@sampleAvatar": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleBadge": "12",
+  "@sampleBadge": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePoints": "150",
+  "@samplePoints": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleCoins": "25",
+  "@sampleCoins": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePointsUnit": "points",
+  "@samplePointsUnit": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePointSemantics": "{value} {unit}",
+  "@samplePointSemantics": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleCoinSemantics": "{value} coins",
+  "@sampleCoinSemantics": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavHome": "Home",
+  "@sampleNavHome": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavMission": "Mission",
+  "@sampleNavMission": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavGames": "Games",
+  "@sampleNavGames": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavLeaderboard": "Leaderboard",
+  "@sampleNavLeaderboard": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavShop": "Shop",
+  "@sampleNavShop": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "deviceGroup": "Device (simulated OS)",
+  "@deviceGroup": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "devGroup": "Dev",
+  "@devGroup": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "frameMode": "Frame mode",
+  "@frameMode": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "presets": "Presets",
+  "@presets": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "rotate": "Rotate",
+  "@rotate": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "portrait": "portrait",
+  "@portrait": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "landscape": "landscape",
+  "@landscape": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "zoomMode": "Zoom: fit / 100%",
+  "@zoomMode": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "deviceLocales": "Ordered device locales",
+  "@deviceLocales": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "systemBrightness": "System brightness",
+  "@systemBrightness": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "systemScale": "System text scale",
+  "@systemScale": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "keyboard": "Soft keyboard",
+  "@keyboard": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "reduceMotion": "Reduce motion",
+  "@reduceMotion": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "boldText": "Bold text",
+  "@boldText": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "highContrast": "High contrast",
+  "@highContrast": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "platform": "Device platform",
+  "@platform": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "inspectTab": "Inspect",
+  "@inspectTab": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "problemsTab": "Problems",
+  "@problemsTab": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "sweepTab": "Sweep",
+  "@sweepTab": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "unavailable": "unavailable",
+  "@unavailable": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "appResult": "App result",
+  "@appResult": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "sweepMatrix": "Matrix: fa/en x 1.0/1.3/2.0",
+  "@sweepMatrix": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "runSweep": "Run sweep",
+  "@runSweep": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "sweepSamples": "Samples",
+  "@sweepSamples": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "frame-width": "Width",
+  "@frame-width": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "frame-height": "Height",
+  "@frame-height": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "keyboard-height": "Keyboard height",
+  "@keyboard-height": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "min-width": "Min width",
+  "@min-width": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "max-width": "Max width",
+  "@max-width": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "min-height": "Min height",
+  "@min-height": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "max-height": "Max height",
+  "@max-height": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "width-step": "Width step",
+  "@width-step": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "height-step": "Height step",
+  "@height-step": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "inset-top": "Safe area top",
+  "@inset-top": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "inset-bottom": "Safe area bottom",
+  "@inset-bottom": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "inset-start": "Safe area start",
+  "@inset-start": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "inset-end": "Safe area end",
+  "@inset-end": {
+    "description": "Optional simulated-device inspector control."
+  },
+  "fitZoom": "Fit",
+  "@fitZoom": {
+    "description": "Visual zoom to fit; logical constraints unchanged."
+  },
+  "resultValue": "{locale} / {direction} / {brightness} / device: {device} -> effective in app: {effective} / {sizeClass}",
+  "@resultValue": {
+    "description": "Read-only resolved app results and requested OS scale."
+  },
+  "freeMode": "Free",
+  "@freeMode": {
+    "description": "Manual logical device size."
+  },
+  "fitWindowMode": "Fit window",
+  "@fitWindowMode": {
+    "description": "Device size follows available window space."
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "file": "README.md",
+    "Hash": "67F4EB1F4F1D234A43876AE49448A46DD60EDFC36041C0BD86B1E25D7B9E4973"
+  },
+  {
+    "file": "version-before.get_metadata.mcp.json",
+    "Hash": "DED35451B0F704338B9F294F254E6965C33033B964BE20E2DA8785BD69D6E89A"
+  },
+  {
+    "file": "version-before.get_metadata.request.json",
+    "Hash": "FC40C01F65E305A7829841EB313CD1666B33D6711B8ADFAB32D07748B7B3FA51"
+  },
+  {
+    "file": "version-before.get_metadata.response-0.txt",
+    "Hash": "6512DBE5BE6B7288B1A4D3B55F7AC71F410187FD795A7E256D19267FC01F0392"
+  },
+  {
+    "file": "version-before.use_figma.mcp.json",
+    "Hash": "F24D83928A9A24A992F7B74A438542FFE5953710B2005287A7827EB3554A507A"
+  },
+  {
+    "file": "version-before.use_figma.request.js",
+    "Hash": "98EC307D9D62E473C9DFA55DBE762B8C27ABB13E811BC9E3784A21349F3B4752"
+  },
+  {
+    "file": "version-before.use_figma.response-0.txt",
+    "Hash": "6DA52B45B8E27FA5FF0C40526BF95C2E3BDB147D706D77F3136937EE6D39524B"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "state": "idle",
+    "text": "Play. Earn. Win.",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 32,
+    "ourSize": 32.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "Enter your email or phone number and let the games begin.",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "idle",
+    "text": "+3,500",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "pts",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "idle",
+    "text": "Welcome bonus",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "Email Address or Phone Number",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "idle",
+    "text": "Remember me for next time.",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "idle",
+    "text": "Continue",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ff404040",
+    "ourColor": "ff404040"
+  },
+  {
+    "state": "idle",
+    "text": "or continue with",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff525252",
+    "ourColor": "ff525252"
+  },
+  {
+    "state": "idle",
+    "text": "Playstation",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "Xbox",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "Google",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "idle",
+    "text": "By continuing, you agree to our",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "idle",
+    "text": "Terms & Conditions",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff00a6f4",
+    "ourColor": "ff00a6f4"
+  },
+  {
+    "state": "idle",
+    "text": "and",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "idle",
+    "text": "Privacy Policy",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff00a6f4",
+    "ourColor": "ff00a6f4"
+  },
+  {
+    "state": "idle",
+    "text": ".",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Play. Earn. Win.",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 32,
+    "ourSize": 32.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Enter your email or phone number and let the games begin.",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "+3,500",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "pts",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Welcome bonus",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Email Address or Phone Number",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Enter email or phone",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ff525252",
+    "ourColor": "ff525252"
+  },
+  {
+    "state": "focusedEmpty",
+    "text": "Continue",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ff404040",
+    "ourColor": "ff404040"
+  },
+  {
+    "state": "phone",
+    "text": "Play. Earn. Win.",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 32,
+    "ourSize": 32.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "phone",
+    "text": "Enter your email or phone number and let the games begin.",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "phone",
+    "text": "+3,500",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "phone",
+    "text": "pts",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "phone",
+    "text": "Welcome bonus",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "phone",
+    "text": "Email Address or Phone Number",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "phone",
+    "text": "+98 912 827 9503",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "phone",
+    "text": "We'll text you a one-time code",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "phone",
+    "text": "Continue With Phone",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "email",
+    "text": "Play. Earn. Win.",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 32,
+    "ourSize": 32.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "email",
+    "text": "Enter your email or phone number and let the games begin.",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "email",
+    "text": "+3,500",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "email",
+    "text": "pts",
+    "figmaWeight": 400,
+    "ourWeight": 400,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "email",
+    "text": "Welcome bonus",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "email",
+    "text": "Email Address or Phone Number",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ff737373",
+    "ourColor": "ff737373"
+  },
+  {
+    "state": "email",
+    "text": "me.ardeshir.rashidi@gmail.com",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 18,
+    "ourSize": 18.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  },
+  {
+    "state": "email",
+    "text": "You'll enter your password next if you register before.",
+    "figmaWeight": 500,
+    "ourWeight": 500,
+    "figmaSize": 14,
+    "ourSize": 14.0,
+    "figmaColor": "ffa1a1a1",
+    "ourColor": "ffa1a1a1"
+  },
+  {
+    "state": "email",
+    "text": "Continue With Email Address",
+    "figmaWeight": 600,
+    "ourWeight": 600,
+    "figmaSize": 16,
+    "ourSize": 16.0,
+    "figmaColor": "ffffffff",
+    "ourColor": "ffffffff"
+  }
+]

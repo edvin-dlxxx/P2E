@@ -1,0 +1,476 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/3afcf78f-0206-4b6b-aac0-f5d0c2471115";
+const imgGlobe = `${assetPathPrefix}/87b47.svg`;
+const imgMic = `${assetPathPrefix}/87d1e.svg`;
+const imgEmojiKey = `${assetPathPrefix}/e1e75.svg`;
+const imgDivider = `${assetPathPrefix}/0def4.svg`;
+const imgHomeSlider = `${assetPathPrefix}/2bf1b.svg`;
+const imgCaret = `${assetPathPrefix}/4b263.svg`;
+const imgFill = `${assetPathPrefix}/ed206.svg`;
+const imgCellularConnection = `${assetPathPrefix}/bd8c3.svg`;
+const imgWifi = `${assetPathPrefix}/c5cc9.svg`;
+const imgVector = `${assetPathPrefix}/d991b.svg`;
+const imgFill1 = `${assetPathPrefix}/d79de.svg`;
+
+type IPhoneKeyboardBottomBarDarkProps = {
+  className?: string;
+  property1?: "Default";
+};
+
+function IPhoneKeyboardBottomBarDark({ className, property1 = "Default" }: IPhoneKeyboardBottomBarDarkProps) {
+  return (
+    <div className={className || "content-stretch flex items-center justify-between px-[40px] py-[10px] relative w-[410px]"} data-node-id="14433:781">
+      <div className="relative shrink-0 size-[25px]" data-node-id="14433:782" data-name="Globe">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGlobe} />
+      </div>
+      <div className="h-[25px] relative shrink-0 w-[17.5px]" data-node-id="14433:785" data-name="Mic">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMic} />
+      </div>
+    </div>
+  );
+}
+
+type IPhoneEnKeyboardDarkProps = {
+  className?: string;
+  type?: "Lowercase";
+};
+
+function IPhoneEnKeyboardDark({ className, type = "Lowercase" }: IPhoneEnKeyboardDarkProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col items-center justify-center relative w-[410px]"} data-node-id="14433:793">
+      <div className="content-stretch flex flex-col gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="14433:794" data-name="Keyboard">
+        <div className="content-stretch flex gap-[5px] items-center justify-center relative shrink-0 w-full" data-node-id="14433:795" data-name="Row">
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:796" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:797" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">q</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:798" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:799" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">w</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:800" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:801" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">e</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:802" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:803" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">r</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:804" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:805" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">t</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:806" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:807" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">y</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:808" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:809" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">u</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:810" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:811" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">i</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:812" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:813" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">o</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:814" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:815" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">p</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[5px] items-center justify-center px-[20.75px] relative shrink-0 w-full" data-node-id="14433:816" data-name="Row">
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:817" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:818" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">a</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:819" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:820" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">s</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:821" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:822" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">d</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:823" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:824" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">f</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:825" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:826" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">g</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:827" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:828" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">h</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:829" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:830" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">j</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:831" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:832" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">k</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:833" data-name="Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:834" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">l</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[17.25px] items-center justify-center relative shrink-0 w-full" data-node-id="14433:835" data-name="Row">
+          <button className="bg-[var(--neutral\/800,#262626)] content-stretch cursor-pointer flex flex-col h-[43px] items-center justify-center relative rounded-[7.5px] shrink-0 w-[45px]" data-node-id="14433:836" data-name="Shift Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[20px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:837" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <SFSymbol />
+            </div>
+          </button>
+          <div className="content-stretch flex flex-[1_0_0] gap-[5px] items-center min-w-px relative rounded-[7.5px]" data-node-id="14433:838" data-name="Keys">
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:839" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:840" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">z</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:841" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:842" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">x</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:843" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:844" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">c</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:845" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:846" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">v</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:847" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:848" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">b</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:849" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:850" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">n</p>
+              </div>
+            </div>
+            <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center min-w-px py-[4px] relative rounded-[7.5px]" data-node-id="14433:851" data-name="Key">
+              <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[25px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:852" style={{ fontVariationSettings: '"wdth" 100' }}>
+                <p className="leading-[28px]">m</p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/800,#262626)] content-stretch flex flex-col h-[43px] items-center justify-center relative rounded-[7.5px] shrink-0 w-[45px]" data-node-id="14433:853" data-name="Delete Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[20px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:854" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <SFSymbol />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[7.5px] items-center justify-center relative shrink-0 w-full" data-node-id="14433:855" data-name="Row">
+          <button className="bg-[var(--neutral\/800,#262626)] content-stretch cursor-pointer flex flex-col h-[43px] items-center justify-center relative rounded-[7.5px] shrink-0 w-[43.75px]" data-node-id="14433:856" data-name="Switch Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--alpha\/white,white)] text-center tracking-[-0.3px] whitespace-nowrap" data-node-id="14433:857" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">123</p>
+            </div>
+          </button>
+          <div className="h-[43px] relative shrink-0 w-[43.75px]" data-node-id="14433:858" data-name="Emoji Key">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEmojiKey} />
+          </div>
+          <div className="bg-[var(--neutral\/700,#404040)] content-stretch flex flex-[1_0_0] flex-col h-[42.5px] items-center justify-center min-w-px relative rounded-[7.5px]" data-node-id="14433:860" data-name="Space">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:861" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">space</p>
+            </div>
+          </div>
+          <div className="bg-[var(--neutral\/800,#262626)] content-stretch flex flex-col h-[43px] items-center justify-center relative rounded-[7.5px] shrink-0 w-[95px]" data-node-id="14433:862" data-name="Return Key">
+            <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--alpha\/white,white)] text-center tracking-[-0.3px] whitespace-nowrap" data-node-id="14433:863" style={{ fontVariationSettings: '"wdth" 100' }}>
+              <p className="leading-[28px]">return</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type IPhoneAccessoryBarDarkProps = {
+  className?: string;
+  type?: "EN";
+};
+
+function IPhoneAccessoryBarDark({ className, type = "EN" }: IPhoneAccessoryBarDarkProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col items-center justify-center relative w-[410px]"} data-node-id="14433:731">
+      <div className="content-stretch flex gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="14433:732" data-name="Words">
+        <div className="content-stretch flex flex-[1_0_0] flex-col h-[45px] items-center justify-center min-w-px relative rounded-[7.5px]" data-node-id="14433:733" data-name="Key">
+          <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[17px] text-[color:var(--alpha\/white,white)] text-center tracking-[-0.5px] whitespace-nowrap" data-node-id="14433:734" style={{ fontVariationSettings: '"wdth" 100' }}>
+            <p className="leading-[22px]">The</p>
+          </div>
+        </div>
+        <div className="flex flex-row items-center self-stretch" data-node-id="14433:735">
+          <div className="content-stretch flex h-full items-center justify-end py-[10px] relative shrink-0 w-[1.5px]" data-name="Divider">
+            <div className="flex flex-[1_0_0] h-full items-center justify-center min-w-px relative" data-node-id="14433:736" style={{ containerType: "size" }}>
+              <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                <div className="relative size-full" data-name="Divider">
+                  <div className="absolute inset-[-0.75px_-3%]">
+                    <img alt="" className="block max-w-none size-full" src={imgDivider} />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col h-[45px] items-center justify-center min-w-px relative rounded-[7.5px]" data-node-id="14433:737" data-name="Key">
+          <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[17px] text-[color:var(--alpha\/white,white)] text-center tracking-[-0.5px] whitespace-nowrap" data-node-id="14433:738" style={{ fontVariationSettings: '"wdth" 100' }}>
+            <p className="leading-[22px]">the</p>
+          </div>
+        </div>
+        <div className="flex flex-row items-center self-stretch" data-node-id="14433:739">
+          <div className="content-stretch flex h-full items-center justify-end py-[10px] relative shrink-0 w-[1.5px]" data-name="Divider">
+            <div className="flex flex-[1_0_0] h-full items-center justify-center min-w-px relative" data-node-id="14433:740" style={{ containerType: "size" }}>
+              <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                <div className="relative size-full" data-name="Divider">
+                  <div className="absolute inset-[-0.75px_-3%]">
+                    <img alt="" className="block max-w-none size-full" src={imgDivider} />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col h-[45px] items-center justify-center min-w-px relative rounded-[7.5px]" data-node-id="14433:741" data-name="Key">
+          <div className="[word-break:break-word] flex flex-col font-['SF_Pro:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[17px] text-[color:var(--alpha\/white,white)] text-center tracking-[-0.5px] whitespace-nowrap" data-node-id="14433:742" style={{ fontVariationSettings: '"wdth" 100' }}>
+            <p className="leading-[22px]">to</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type IosKeyboardBasicProps = {
+  className?: string;
+  accessoryBar?: boolean;
+  enKeyboardLayouts?: boolean;
+  keyboardBottomBar?: boolean;
+  theme?: "EN - Dark";
+};
+
+function IosKeyboardBasic({ className, accessoryBar = true, enKeyboardLayouts = true, keyboardBottomBar = true, theme = "EN - Dark" }: IosKeyboardBasicProps) {
+  return (
+    <div className={className || "bg-[var(--neutral\\/900,#171717)] content-stretch flex flex-col gap-[10px] items-center justify-center p-[10px] relative w-[410px]"} data-node-id="14433:677">
+      {accessoryBar && <IPhoneAccessoryBarDark className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" />}
+      {enKeyboardLayouts && <IPhoneEnKeyboardDark className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" />}
+      {keyboardBottomBar && <IPhoneKeyboardBottomBarDark className="content-stretch flex items-center justify-between px-[40px] py-[10px] relative shrink-0 w-full" />}
+      <div className="-translate-x-1/2 absolute bottom-[11px] h-[10px] left-1/2 w-[390px]" data-node-id="14433:681" data-name="Home Slider">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHomeSlider} />
+      </div>
+    </div>
+  );
+}
+
+type BaseTextFieldDarkModeProps = {
+  className?: string;
+  labelText?: string;
+  optional?: boolean;
+  required?: boolean;
+  state?: "Written";
+  supportingField?: boolean;
+  supportingText?: string;
+  supportingTextIcon?: boolean;
+  writtenText?: string;
+};
+
+function BaseTextFieldDarkMode({ className, labelText = "Text Field Label", optional = true, required = true, state = "Written", supportingField = true, supportingText = "Supporting text.", supportingTextIcon = true, writtenText = "Written Text" }: BaseTextFieldDarkModeProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col gap-[8px] items-center justify-center relative w-[370px]"} data-node-id="18563:6247">
+      <div className="bg-[var(--surface-container\/base,#171717)] border-2 border-[var(--outline\/base,#404040)] border-solid content-stretch flex flex-col items-center justify-center overflow-clip px-[16px] py-[10px] relative rounded-[16px] shrink-0 w-full" data-node-id="18563:6248" data-name="Text Field Container">
+        <div className="content-stretch flex gap-[6px] h-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="18563:6253" data-name="Label">
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6254" data-name="Label Text">
+            <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/variant,#737373)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18563:6255">
+              <p className="leading-[18px]">{labelText}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6256" data-name="Indicator">
+            {required && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6257" data-name="Required">
+                <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18563:6258">
+                  <p className="leading-[18px]">(Required)</p>
+                </div>
+              </div>
+            )}
+            {optional && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6259" data-name="Optional">
+                <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/muted,#525252)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18563:6260">
+                  <p className="leading-[18px]">(Optional)</p>
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+        <div className="content-stretch flex h-[24px] items-center relative shrink-0 w-full" data-node-id="18563:6261" data-name="Text Feld">
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6264" data-name="Input Text">
+            <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[18px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="18563:6265">
+              <p className="leading-[24px]">{writtenText}</p>
+            </div>
+          </div>
+          <div className="h-[20px] relative shrink-0 w-0" data-node-id="18563:6262" data-name="Caret">
+            <div className="absolute inset-[-5%_-1px]">
+              <img alt="" className="block max-w-none size-full" src={imgCaret} />
+            </div>
+          </div>
+        </div>
+      </div>
+      {supportingField && (
+        <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18563:6266" data-name="Supporting Text Container (Optional)">
+          <div className="bg-[var(--surface-container\/base,#171717)] content-stretch flex gap-[8px] items-center px-[10px] py-[8px] relative rounded-[12px] shrink-0 w-full" data-node-id="18563:6267" data-name="Supporting Text">
+            {supportingTextIcon && (
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6268" data-name="Icon (Required)">
+                <div className="relative shrink-0 size-[18px]" data-node-id="18563:6269" data-name="Fill">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFill} />
+                </div>
+              </div>
+            )}
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18563:6270" data-name="Container">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[14px] text-[color:var(--on-surface\/base,#a1a1a1)] text-center tracking-[-0.56px] whitespace-nowrap" data-node-id="18563:6271">
+                <p className="leading-[18px]">{supportingText}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+type IPhoneStatusBarProps = {
+  className?: string;
+  theme?: "Dark";
+};
+
+function IPhoneStatusBar({ className, theme = "Dark" }: IPhoneStatusBarProps) {
+  return (
+    <div className={className || "content-stretch flex flex-col h-[55px] items-center justify-center pt-[10px] relative w-[410px]"} data-node-id="14433:646">
+      <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="14433:647" data-name="Status Bar Frame">
+        <div className="content-stretch flex flex-[1_0_0] items-center min-w-px pl-[40px] pr-[6px] relative" data-node-id="14433:648" data-name="Time">
+          <p className="[word-break:break-word] font-['SF_Pro:Semibold'] font-[590] leading-[22px] relative shrink-0 text-[17px] text-[color:var(--alpha\/white,white)] text-center whitespace-nowrap" data-node-id="14433:649" style={{ fontVariationSettings: '"wdth" 100' }}>
+            9:41
+          </p>
+        </div>
+        <div className="h-[10px] relative shrink-0 w-[125px]" data-node-id="14433:650" data-name="Dynamic Island Spacer" />
+        <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-center min-w-px pl-[6px] pr-[16px] relative" data-node-id="14433:651" data-name="Levels">
+          <div className="h-[12.226px] relative shrink-0 w-[19.2px]" data-node-id="14433:652" data-name="Cellular Connection">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCellularConnection} />
+          </div>
+          <div className="h-[12.328px] relative shrink-0 w-[17.142px]" data-node-id="14433:654" data-name="Wifi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWifi} />
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0" data-node-id="14433:656" data-name="Battery">
+            <div className="h-[13px] relative shrink-0 w-[27.328px]" data-node-id="14433:657" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function LoginWithEmailDark() {
+  return (
+    <div className="bg-[var(--surface\/base,#0a0a0a)] content-stretch flex flex-col items-center justify-center relative size-full" data-node-id="18618:12651" data-name="Login with Email - Dark">
+      <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:12652" data-name="Header">
+        <IPhoneStatusBar className="content-stretch flex flex-col h-[55px] items-center justify-center pt-[10px] relative shrink-0 w-full" />
+      </div>
+      <div className="content-stretch flex flex-[1_0_0] flex-col isolate items-center min-h-px overflow-x-clip overflow-y-auto relative w-full" data-node-id="18618:12654" data-name="Body">
+        <div className="content-stretch flex flex-col gap-[8px] items-start justify-center overflow-clip p-[24px] relative shrink-0 w-full z-[3]" data-node-id="18618:12655" data-name="Header">
+          <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18618:12656" data-name="Title">
+            <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[32px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-1.28px] whitespace-nowrap" data-node-id="18618:12657">
+              <p className="leading-[40px]">Play. Earn. Win.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="18618:12658" data-name="Subtitle">
+            <div className="[word-break:break-word] flex flex-[1_0_0] flex-col font-['Outfit:Medium'] font-medium justify-center leading-[0] min-w-px relative text-[18px] text-[color:var(--on-surface\/base,#a1a1a1)] tracking-[-0.72px]" data-node-id="18618:12659">
+              <p className="leading-[24px]">Enter your email or phone number and let the games begin.</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center px-[20px] py-[8px] relative shrink-0 w-full z-[2]" data-node-id="18618:12660" data-name="Welcome Bonus">
+          <div className="bg-[var(--surface-container\/base,#171717)] content-stretch flex gap-[6px] h-[32px] items-center justify-center overflow-clip pl-[4px] pr-[10px] py-[4px] relative rounded-[16px] shrink-0" data-node-id="18618:12661" data-name="Points">
+            <div className="bg-[var(--countainer\/pink,#eeb0c6)] content-stretch flex h-full items-center justify-center relative rounded-[16px] shrink-0 w-[24px]" data-node-id="18618:12662" data-name="Icon">
+              <div className="relative shrink-0 size-[16px]" data-node-id="18618:12663" data-name="Fill">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFill1} />
+              </div>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex gap-[4px] h-full items-center justify-center leading-[0] overflow-clip relative rounded-[16px] shrink-0 text-center whitespace-nowrap" data-node-id="18618:12664" data-name="Points Amount">
+              <div className="flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center relative shrink-0 text-[16px] text-[color:var(--on-surface\/emphasis,white)]" data-node-id="18618:12665">
+                <p className="leading-[20px]">+3,500</p>
+              </div>
+              <div className="flex flex-col font-['Outfit:Regular'] font-normal justify-center relative shrink-0 text-[14px] text-[color:var(--on-surface\/variant,#737373)] tracking-[-0.56px]" data-node-id="18618:12666">
+                <p className="leading-[18px]">pts</p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="18618:12667" data-name="Text Label">
+              <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="18618:12668">
+                <p className="leading-[20px]">Welcome bonus</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-between min-h-px p-[20px] relative w-full z-[1]" data-node-id="18618:12669" data-name="Form">
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:12670" data-name="Text Fields">
+            <BaseTextFieldDarkMode className="content-stretch flex flex-col gap-[8px] items-center justify-center relative shrink-0 w-full" labelText="Email Address or Phone Number " optional={false} required={false} supportingText="You'll enter your password next if you register before." writtenText="me.ardeshir.rashidi@gmail.com" />
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:12673" data-name="CTA">
+            <div className="bg-[var(--sky\/500,#00a6f4)] content-stretch flex gap-[8px] h-[46px] items-center justify-center overflow-clip p-[16px] relative rounded-[12px] shrink-0 w-full" data-node-id="18618:12674" data-name="Medium Fill Button - Dark Mode">
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="I18618:12674;18437:1814" data-name="Text Label">
+                <div className="[word-break:break-word] flex flex-col font-['Outfit:SemiBold'] font-semibold justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--on-surface\/emphasis,white)] text-center tracking-[-0.64px] whitespace-nowrap" data-node-id="I18618:12674;18437:1815">
+                  <p className="leading-[20px]" dir="auto">
+                    Continue With Email Address
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:12675" data-name="Footer">
+        <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="18618:12676" data-name="Keyboard">
+          <IosKeyboardBasic className="bg-[var(--neutral\/900,#171717)] content-stretch flex flex-col gap-[10px] items-center justify-center p-[10px] relative shrink-0 w-full" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+These styles are contained in the design: English/Baseline/Headline-Large: Font(family: "Outfit", style: SemiBold, size: 32, weight: 600, lineHeight: 40, letterSpacing: -4), English/Variant/Title-Small: Font(family: "Outfit", style: Medium, size: 18, weight: 500, lineHeight: 24, letterSpacing: -4), English/Baseline/Number-Large: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: 0), English/Muted/Label-Small: Font(family: "Outfit", style: Regular, size: 14, weight: 400, lineHeight: 18, letterSpacing: -4), English/Baseline/Label-Medium: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4), English/Variant/Label-Small: Font(family: "Outfit", style: Medium, size: 14, weight: 500, lineHeight: 18, letterSpacing: -4), English/Baseline/Title-Small: Font(family: "Outfit", style: SemiBold, size: 18, weight: 600, lineHeight: 24, letterSpacing: -4), English/Baseline/Button-Medium: Font(family: "Outfit", style: SemiBold, size: 16, weight: 600, lineHeight: 20, letterSpacing: -4).
+
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

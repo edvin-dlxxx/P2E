@@ -1,0 +1,4 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/packages/design_system/test/fields/reduced_motion_layout_test.dart
+00:00 +0: field size transitions survive OS changes: dark
+00:01 +1: field size transitions survive OS changes: light
+00:01 +2: All tests passed!

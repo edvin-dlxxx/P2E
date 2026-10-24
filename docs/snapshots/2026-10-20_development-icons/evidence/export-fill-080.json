@@ -1,0 +1,210 @@
+{
+  "icons": [
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            196
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 196,
+        "y": 372
+      },
+      "id": "18517:6373",
+      "name": "Icon=Arrow Down",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 16.175V5C11 4.71667 11.0958 4.47917 11.2875 4.2875C11.4792 4.09583 11.7167 4 12 4C12.2833 4 12.5208 4.09583 12.7125 4.2875C12.9042 4.47917 13 4.71667 13 5V16.175L17.9 11.275C18.1 11.075 18.3333 10.9792 18.6 10.9875C18.8667 10.9958 19.1 11.1 19.3 11.3C19.4833 11.5 19.5792 11.7333 19.5875 12C19.5958 12.2667 19.5 12.5 19.3 12.7L12.7 19.3C12.6 19.4 12.4917 19.4708 12.375 19.5125C12.2583 19.5542 12.1333 19.575 12 19.575C11.8667 19.575 11.7417 19.5542 11.625 19.5125C11.5083 19.4708 11.4 19.4 11.3 19.3L4.69999 12.7C4.51665 12.5167 4.42499 12.2875 4.42499 12.0125C4.42499 11.7375 4.51665 11.5 4.69999 11.3C4.89999 11.1 5.13749 11 5.41249 11C5.68749 11 5.92499 11.1 6.12499 11.3L11 16.175Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            152
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 152,
+        "y": 372
+      },
+      "id": "18517:6374",
+      "name": "Icon=Arrow Right",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.175 13H5C4.71667 13 4.47917 12.9042 4.2875 12.7125C4.09583 12.5208 4 12.2833 4 12C4 11.7167 4.09583 11.4792 4.2875 11.2875C4.47917 11.0958 4.71667 11 5 11H16.175L11.275 6.09999C11.075 5.89999 10.9792 5.66665 10.9875 5.39999C10.9958 5.13332 11.1 4.89999 11.3 4.69999C11.5 4.51665 11.7333 4.42082 12 4.41249C12.2667 4.40415 12.5 4.49999 12.7 4.69999L19.3 11.3C19.4 11.4 19.4708 11.5083 19.5125 11.625C19.5542 11.7417 19.575 11.8667 19.575 12C19.575 12.1333 19.5542 12.2583 19.5125 12.375C19.4708 12.4917 19.4 12.6 19.3 12.7L12.7 19.3C12.5167 19.4833 12.2875 19.575 12.0125 19.575C11.7375 19.575 11.5 19.4833 11.3 19.3C11.1 19.1 11 18.8625 11 18.5875C11 18.3125 11.1 18.075 11.3 17.875L16.175 13Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            108
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 108,
+        "y": 372
+      },
+      "id": "18517:6375",
+      "name": "Icon=Arrow Left",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.82499 13L12.725 17.9C12.925 18.1 13.0208 18.3333 13.0125 18.6C13.0042 18.8667 12.9 19.1 12.7 19.3C12.5 19.4833 12.2667 19.5792 12 19.5875C11.7333 19.5958 11.5 19.5 11.3 19.3L4.69999 12.7C4.59999 12.6 4.52915 12.4917 4.48749 12.375C4.44582 12.2583 4.42499 12.1333 4.42499 12C4.42499 11.8667 4.44582 11.7417 4.48749 11.625C4.52915 11.5083 4.59999 11.4 4.69999 11.3L11.3 4.69999C11.4833 4.51665 11.7125 4.42499 11.9875 4.42499C12.2625 4.42499 12.5 4.51665 12.7 4.69999C12.9 4.89999 13 5.13749 13 5.41249C13 5.68749 12.9 5.92499 12.7 6.12499L7.82499 11H19C19.2833 11 19.5208 11.0958 19.7125 11.2875C19.9042 11.4792 20 11.7167 20 12C20 12.2833 19.9042 12.5208 19.7125 12.7125C19.5208 12.9042 19.2833 13 19 13H7.82499Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            64
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 64,
+        "y": 372
+      },
+      "id": "18517:6376",
+      "name": "Icon=Arrow Cool Down",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.625 21.825C11.5083 21.775 11.4 21.7 11.3 21.6L5.69999 16.025C5.51665 15.8417 5.42499 15.6083 5.42499 15.325C5.42499 15.0417 5.51665 14.8 5.69999 14.6C5.89999 14.4 6.13749 14.3 6.41249 14.3C6.68749 14.3 6.92499 14.4 7.12499 14.6L11 18.5V12.325C11 12.0417 11.0958 11.8042 11.2875 11.6125C11.4792 11.4208 11.7167 11.325 12 11.325C12.2833 11.325 12.5208 11.4208 12.7125 11.6125C12.9042 11.8042 13 12.0417 13 12.325V18.5L16.9 14.6C17.0833 14.4167 17.3125 14.325 17.5875 14.325C17.8625 14.325 18.1 14.425 18.3 14.625C18.4833 14.8083 18.575 15.0417 18.575 15.325C18.575 15.6083 18.4833 15.8417 18.3 16.025L12.7 21.6C12.6 21.7 12.4917 21.775 12.375 21.825C12.2583 21.875 12.1333 21.9 12 21.9C11.8667 21.9 11.7417 21.875 11.625 21.825ZM11.2875 9.03751C11.0958 8.84585 11 8.60835 11 8.32501V7.32501C11 7.04168 11.0958 6.80418 11.2875 6.61251C11.4792 6.42085 11.7167 6.32501 12 6.32501C12.2833 6.32501 12.5208 6.42085 12.7125 6.61251C12.9042 6.80418 13 7.04168 13 7.32501V8.32501C13 8.60835 12.9042 8.84585 12.7125 9.03751C12.5208 9.22918 12.2833 9.32501 12 9.32501C11.7167 9.32501 11.4792 9.22918 11.2875 9.03751ZM11.2875 4.03751C11.0958 3.84585 11 3.60835 11 3.32501C11 3.04168 11.0958 2.80418 11.2875 2.61251C11.4792 2.42085 11.7167 2.32501 12 2.32501C12.2833 2.32501 12.5208 2.42085 12.7125 2.61251C12.9042 2.80418 13 3.04168 13 3.32501C13 3.60835 12.9042 3.84585 12.7125 4.03751C12.5208 4.22918 12.2833 4.32501 12 4.32501C11.7167 4.32501 11.4792 4.22918 11.2875 4.03751Z\" fill=\"white\"/>\n</svg>\n"
+    }
+  ],
+  "next": 84,
+  "offset": 80,
+  "schemaVersion": "2.0.0",
+  "set": "Fill",
+  "setId": "14466:925",
+  "total": 104
+}

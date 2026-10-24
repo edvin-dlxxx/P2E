@@ -1,0 +1,587 @@
+{
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "fileName": "Document",
+  "page": {
+    "id": "18563:6534",
+    "name": "- Text Field System"
+  },
+  "sets": [
+    {
+      "id": "18562:5887",
+      "name": "Base Text Field - Dark Mode",
+      "properties": {
+        "Label Text#16451:130": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Label"
+        },
+        "Required#16451:134": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Optional#16451:136": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Text Field Place Holder#16451:138": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Place Holder"
+        },
+        "Supporting Text#16451:140": {
+          "type": "TEXT",
+          "defaultValue": "Supporting text."
+        },
+        "Supporting Text Icon#16451:142": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Supporting Field#16451:144": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Written Text#16452:160": {
+          "type": "TEXT",
+          "defaultValue": "Written Text"
+        },
+        "Fill Icon#16458:14": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16458:21": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Icon#18563:6": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default",
+          "variantOptions": [
+            "Default",
+            "Focused",
+            "Written",
+            "Success",
+            "Error"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18562:5888",
+          "name": "State=Default",
+          "props": {
+            "State": "Default"
+          },
+          "width": 370,
+          "height": 102
+        },
+        {
+          "id": "18563:6170",
+          "name": "State=Focused",
+          "props": {
+            "State": "Focused"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6247",
+          "name": "State=Written",
+          "props": {
+            "State": "Written"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6478",
+          "name": "State=Success",
+          "props": {
+            "State": "Success"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6508",
+          "name": "State=Error",
+          "props": {
+            "State": "Error"
+          },
+          "width": 370,
+          "height": 106
+        }
+      ]
+    },
+    {
+      "id": "18563:6565",
+      "name": "Base Text Field - Light Mode",
+      "properties": {
+        "Label Text#16451:130": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Label"
+        },
+        "Required#16451:134": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Optional#16451:136": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Text Field Place Holder#16451:138": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Place Holder"
+        },
+        "Supporting Text#16451:140": {
+          "type": "TEXT",
+          "defaultValue": "Supporting text."
+        },
+        "Supporting Text Icon#16451:142": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Supporting Field#16451:144": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Written Text#16452:160": {
+          "type": "TEXT",
+          "defaultValue": "Written Text"
+        },
+        "Fill Icon#16458:14": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Outline Icon#16458:21": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Icon#18563:0": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default",
+          "variantOptions": [
+            "Default",
+            "Focused",
+            "Written",
+            "Success",
+            "Error"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18563:6566",
+          "name": "State=Default",
+          "props": {
+            "State": "Default"
+          },
+          "width": 370,
+          "height": 102
+        },
+        {
+          "id": "18563:6586",
+          "name": "State=Focused",
+          "props": {
+            "State": "Focused"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6611",
+          "name": "State=Written",
+          "props": {
+            "State": "Written"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6636",
+          "name": "State=Success",
+          "props": {
+            "State": "Success"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18563:6659",
+          "name": "State=Error",
+          "props": {
+            "State": "Error"
+          },
+          "width": 370,
+          "height": 106
+        }
+      ]
+    },
+    {
+      "id": "18675:14621",
+      "name": "Base Password Field - Dark Mode",
+      "properties": {
+        "Label Text#16451:130": {
+          "type": "TEXT",
+          "defaultValue": "Password Field Label"
+        },
+        "Required#16451:134": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Optional#16451:136": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Text Field Place Holder#16451:138": {
+          "type": "TEXT",
+          "defaultValue": "Password Place Holder"
+        },
+        "Supporting Text#16451:140": {
+          "type": "TEXT",
+          "defaultValue": "That password doesn’t match."
+        },
+        "Supporting Text Icon#16451:142": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Supporting Field#16451:144": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Written Text#16452:160": {
+          "type": "TEXT",
+          "defaultValue": "_#V!q9gZ4MF5Z=>>Gv.:gr)HVs"
+        },
+        "Icon#18563:6": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default - Visibility On",
+          "variantOptions": [
+            "Default - Visibility On",
+            "Default - Visibility Off",
+            "Focused - Visibility On",
+            "Focused - Visibility Off",
+            "Written - Visibility On",
+            "Written - Visibility Off",
+            "Success - Visibility On",
+            "Success - Visibility Off",
+            "Error - Visibility On",
+            "Error - Visibility Off"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "18675:14622",
+          "name": "State=Default - Visibility On",
+          "props": {
+            "State": "Default - Visibility On"
+          },
+          "width": 370,
+          "height": 102
+        },
+        {
+          "id": "18675:15124",
+          "name": "State=Default - Visibility Off",
+          "props": {
+            "State": "Default - Visibility Off"
+          },
+          "width": 370,
+          "height": 102
+        },
+        {
+          "id": "18675:14638",
+          "name": "State=Focused - Visibility On",
+          "props": {
+            "State": "Focused - Visibility On"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:15098",
+          "name": "State=Focused - Visibility Off",
+          "props": {
+            "State": "Focused - Visibility Off"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:14659",
+          "name": "State=Written - Visibility On",
+          "props": {
+            "State": "Written - Visibility On"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:15072",
+          "name": "State=Written - Visibility Off",
+          "props": {
+            "State": "Written - Visibility Off"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:14680",
+          "name": "State=Success - Visibility On",
+          "props": {
+            "State": "Success - Visibility On"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:15048",
+          "name": "State=Success - Visibility Off",
+          "props": {
+            "State": "Success - Visibility Off"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:14699",
+          "name": "State=Error - Visibility On",
+          "props": {
+            "State": "Error - Visibility On"
+          },
+          "width": 370,
+          "height": 106
+        },
+        {
+          "id": "18675:15009",
+          "name": "State=Error - Visibility Off",
+          "props": {
+            "State": "Error - Visibility Off"
+          },
+          "width": 370,
+          "height": 106
+        }
+      ]
+    },
+    {
+      "id": "16481:4815",
+      "name": "Radio Button - Dark Mode",
+      "properties": {
+        "Label Text#16451:130": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Label"
+        },
+        "Required#16451:134": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Optional#16451:136": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Not Selected",
+          "variantOptions": [
+            "Not Selected",
+            "Selected",
+            "Selected Hover",
+            "Not Selected Hover"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "16481:4816",
+          "name": "State=Not Selected",
+          "props": {
+            "State": "Not Selected"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:4984",
+          "name": "State=Not Selected Hover",
+          "props": {
+            "State": "Not Selected Hover"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:4995",
+          "name": "State=Selected",
+          "props": {
+            "State": "Selected"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:5006",
+          "name": "State=Selected Hover",
+          "props": {
+            "State": "Selected Hover"
+          },
+          "width": 370,
+          "height": 36
+        }
+      ]
+    },
+    {
+      "id": "16481:5017",
+      "name": "Radio Button - Light Mode",
+      "properties": {
+        "Label Text#16451:130": {
+          "type": "TEXT",
+          "defaultValue": "Text Field Label"
+        },
+        "Required#16451:134": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "Optional#16451:136": {
+          "type": "BOOLEAN",
+          "defaultValue": true
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Not Selected",
+          "variantOptions": [
+            "Not Selected",
+            "Selected",
+            "Selected Hover",
+            "Not Selected Hover"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "16481:5018",
+          "name": "State=Not Selected",
+          "props": {
+            "State": "Not Selected"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:5029",
+          "name": "State=Not Selected Hover",
+          "props": {
+            "State": "Not Selected Hover"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:5040",
+          "name": "State=Selected",
+          "props": {
+            "State": "Selected"
+          },
+          "width": 370,
+          "height": 36
+        },
+        {
+          "id": "16481:5051",
+          "name": "State=Selected Hover",
+          "props": {
+            "State": "Selected Hover"
+          },
+          "width": 370,
+          "height": 36
+        }
+      ]
+    },
+    {
+      "id": "16481:3382",
+      "name": "OTP Field - Dark Mode",
+      "properties": {
+        "Written Phone Number#16452:160": {
+          "type": "TEXT",
+          "defaultValue": "1"
+        },
+        "State": {
+          "type": "VARIANT",
+          "defaultValue": "Default",
+          "variantOptions": [
+            "Default",
+            "Focused",
+            "Written",
+            "Edit",
+            "Success",
+            "Error"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "id": "16481:3383",
+          "name": "State=Default",
+          "props": {
+            "State": "Default"
+          },
+          "width": 48,
+          "height": 62
+        },
+        {
+          "id": "16481:3413",
+          "name": "State=Focused",
+          "props": {
+            "State": "Focused"
+          },
+          "width": 48,
+          "height": 62
+        },
+        {
+          "id": "16481:3443",
+          "name": "State=Written",
+          "props": {
+            "State": "Written"
+          },
+          "width": 48,
+          "height": 62
+        },
+        {
+          "id": "16481:3758",
+          "name": "State=Edit",
+          "props": {
+            "State": "Edit"
+          },
+          "width": 48,
+          "height": 62
+        },
+        {
+          "id": "16481:3473",
+          "name": "State=Success",
+          "props": {
+            "State": "Success"
+          },
+          "width": 48,
+          "height": 62
+        },
+        {
+          "id": "16481:3531",
+          "name": "State=Error",
+          "props": {
+            "State": "Error"
+          },
+          "width": 48,
+          "height": 62
+        }
+      ]
+    }
+  ],
+  "standalone": []
+}

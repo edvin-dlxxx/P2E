@@ -1,0 +1,6 @@
+{
+  "APP_ENV": "stage",
+  "BACKEND_MODE": "remote",
+  "TERMS_URL": "",
+  "PRIVACY_URL": ""
+}

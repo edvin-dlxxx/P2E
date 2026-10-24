@@ -1,0 +1,87 @@
+{
+  "@@locale": "fa",
+  "sampleContinue": "ادامه",
+  "@sampleContinue": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleHelp": "راهنما",
+  "@sampleHelp": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleLoading": "در حال انجام",
+  "@sampleLoading": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePassword": "رمز",
+  "@samplePassword": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleOtp": "کد",
+  "@sampleOtp": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleShow": "نمایش",
+  "@sampleShow": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleHide": "پنهان",
+  "@sampleHide": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleAvatar": "سم",
+  "@sampleAvatar": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleBadge": "۱۲",
+  "@sampleBadge": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePoints": "۱۵۰",
+  "@samplePoints": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleCoins": "۲۵",
+  "@sampleCoins": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePointsUnit": "امتیاز",
+  "@samplePointsUnit": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "samplePointSemantics": "{value} {unit}",
+  "@samplePointSemantics": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleCoinSemantics": "{value} سکه",
+  "@sampleCoinSemantics": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavHome": "خانه",
+  "@sampleNavHome": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavMission": "ماموریت",
+  "@sampleNavMission": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavGames": "بازی",
+  "@sampleNavGames": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavLeaderboard": "رتبه",
+  "@sampleNavLeaderboard": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleNavShop": "فروشگاه",
+  "@sampleNavShop": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleToggleLoading": "Toggle Button loading",
+  "@sampleToggleLoading": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  },
+  "sampleToggleMount": "Dispose / remount sample",
+  "@sampleToggleMount": {
+    "description": "Host-only DS fixture caller content; never product copy."
+  }
+}

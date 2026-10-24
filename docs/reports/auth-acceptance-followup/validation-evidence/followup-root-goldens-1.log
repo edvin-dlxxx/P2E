@@ -1,0 +1,41 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/test/goldens/auth_entry_goldens_test.dart
+Warning: A tag was used that wasn't specified in dart_test.yaml.
+  golden was used in:
+    the test "auth-idle-en-dark-1.0-402"
+    the test "auth-focused-en-dark-1.0-402"
+    the test "auth-phone-en-dark-1.0-402"
+    the test "auth-email-en-dark-1.0-402"
+    the test "auth-idle-en-light-1.0-402"
+    the test "auth-focused-en-light-1.0-402"
+    the test "auth-phone-en-light-1.0-402"
+    the test "auth-email-en-light-1.0-402"
+    the test "auth-idle-fa-dark-1.0-402"
+    the test "auth-focused-fa-dark-1.0-402"
+    the test "auth-phone-fa-dark-1.0-402"
+    the test "auth-email-fa-dark-1.0-402"
+    the test "auth-idle-fa-light-1.0-402"
+    the test "auth-focused-fa-light-1.0-402"
+    the test "auth-phone-fa-light-1.0-402"
+    the test "auth-email-fa-light-1.0-402"
+    the test "auth-email-fa-dark-2.0-402"
+    the test "auth-idle-en-dark-1.0-744"
+
+00:00 +0: auth-idle-en-dark-1.0-402
+00:02 +1: auth-focused-en-dark-1.0-402
+00:02 +2: auth-phone-en-dark-1.0-402
+00:03 +3: auth-email-en-dark-1.0-402
+00:03 +4: auth-idle-en-light-1.0-402
+00:04 +5: auth-focused-en-light-1.0-402
+00:04 +6: auth-phone-en-light-1.0-402
+00:04 +7: auth-email-en-light-1.0-402
+00:05 +8: auth-idle-fa-dark-1.0-402
+00:05 +9: auth-focused-fa-dark-1.0-402
+00:05 +10: auth-phone-fa-dark-1.0-402
+00:06 +11: auth-email-fa-dark-1.0-402
+00:06 +12: auth-idle-fa-light-1.0-402
+00:06 +13: auth-focused-fa-light-1.0-402
+00:06 +14: auth-phone-fa-light-1.0-402
+00:07 +15: auth-email-fa-light-1.0-402
+00:07 +16: auth-email-fa-dark-2.0-402
+00:07 +17: auth-idle-en-dark-1.0-744
+00:08 +18: All tests passed!

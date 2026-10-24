@@ -1,0 +1,1133 @@
+{
+  "generated": "GENERATED – do not edit",
+  "source": "docs/snapshots/2026-10-19_development-buttons",
+  "sourceStatus": "DEVELOPMENT",
+  "technicalVersionLock": "unverified",
+  "counts": {
+    "variables": 18,
+    "light": 12,
+    "dark": 12,
+    "textStyles": 3
+  },
+  "parity": {
+    "lightOnly": [
+      "Surface Container/High"
+    ],
+    "darkOnly": [
+      "Surface Container/Low"
+    ],
+    "substitutionApplied": false
+  },
+  "unboundPaints": {
+    "reportedCount": 18,
+    "observed": [
+      {
+        "nodeId": "18436:1611",
+        "componentSet": {
+          "id": "18436:1611",
+          "name": "Small Fill Button - Dark Mode"
+        },
+        "field": "strokes",
+        "rawPaint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        },
+        "suggestedMappingsOnly": []
+      },
+      {
+        "nodeId": "18436:1642",
+        "componentSet": {
+          "id": "18436:1642",
+          "name": "Small Fill Button - Light Mode"
+        },
+        "field": "strokes",
+        "rawPaint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        },
+        "suggestedMappingsOnly": []
+      },
+      {
+        "nodeId": "18436:1673",
+        "componentSet": {
+          "id": "18436:1673",
+          "name": "Small Button - Dark Mode"
+        },
+        "field": "strokes",
+        "rawPaint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        },
+        "suggestedMappingsOnly": []
+      },
+      {
+        "nodeId": "18436:1704",
+        "componentSet": {
+          "id": "18436:1704",
+          "name": "Small Button - Light Mode"
+        },
+        "field": "strokes",
+        "rawPaint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        },
+        "suggestedMappingsOnly": []
+      },
+      {
+        "nodeId": "18436:1735",
+        "componentSet": {
+          "id": "18436:1735",
+          "name": "Small Icon Button - Dark Mode"
+        },
+        "field": "strokes",
+        "rawPaint": {
+          "blendMode": "NORMAL",
+          "boundVariables": {},
+          "color": {
+            "b": 0.9607843160629272,
+            "g": 0.21960784494876862,
+            "r": 0.5411764979362488
+          },
+          "opacity": 1,
+          "type": "SOLID",
+          "visible": true
+        },
+        "suggestedMappingsOnly": []
+      }
+    ],
+    "unrecordedCount": 13,
+    "gap": "Snapshot lint examples are limited; remaining node IDs and colors are unavailable. No values inferred."
+  },
+  "hiddenNodes": [
+    {
+      "componentSet": {
+        "id": "18436:1611",
+        "name": "Small Fill Button - Dark Mode"
+      },
+      "variantId": "18436:1612",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1615",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1611",
+        "name": "Small Fill Button - Dark Mode"
+      },
+      "variantId": "18436:1618",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1621",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1611",
+        "name": "Small Fill Button - Dark Mode"
+      },
+      "variantId": "18436:1624",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1627",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1611",
+        "name": "Small Fill Button - Dark Mode"
+      },
+      "variantId": "18436:1630",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1633",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1611",
+        "name": "Small Fill Button - Dark Mode"
+      },
+      "variantId": "18436:1636",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1639",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1642",
+        "name": "Small Fill Button - Light Mode"
+      },
+      "variantId": "18436:1643",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1646",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1642",
+        "name": "Small Fill Button - Light Mode"
+      },
+      "variantId": "18436:1649",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1652",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1642",
+        "name": "Small Fill Button - Light Mode"
+      },
+      "variantId": "18436:1655",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1658",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1642",
+        "name": "Small Fill Button - Light Mode"
+      },
+      "variantId": "18436:1661",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1664",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1642",
+        "name": "Small Fill Button - Light Mode"
+      },
+      "variantId": "18436:1667",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1670",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1673",
+        "name": "Small Button - Dark Mode"
+      },
+      "variantId": "18436:1674",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1677",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1673",
+        "name": "Small Button - Dark Mode"
+      },
+      "variantId": "18436:1680",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1683",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1673",
+        "name": "Small Button - Dark Mode"
+      },
+      "variantId": "18436:1686",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1689",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1673",
+        "name": "Small Button - Dark Mode"
+      },
+      "variantId": "18436:1692",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1695",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1673",
+        "name": "Small Button - Dark Mode"
+      },
+      "variantId": "18436:1698",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1701",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1704",
+        "name": "Small Button - Light Mode"
+      },
+      "variantId": "18436:1705",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1708",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1704",
+        "name": "Small Button - Light Mode"
+      },
+      "variantId": "18436:1711",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1714",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1704",
+        "name": "Small Button - Light Mode"
+      },
+      "variantId": "18436:1717",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1720",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1704",
+        "name": "Small Button - Light Mode"
+      },
+      "variantId": "18436:1723",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1726",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1704",
+        "name": "Small Button - Light Mode"
+      },
+      "variantId": "18436:1729",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1732",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1735",
+        "name": "Small Icon Button - Dark Mode"
+      },
+      "variantId": "18436:1736",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1739",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1735",
+        "name": "Small Icon Button - Dark Mode"
+      },
+      "variantId": "18436:1740",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1743",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1735",
+        "name": "Small Icon Button - Dark Mode"
+      },
+      "variantId": "18436:1744",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1747",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1735",
+        "name": "Small Icon Button - Dark Mode"
+      },
+      "variantId": "18436:1748",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1751",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1735",
+        "name": "Small Icon Button - Dark Mode"
+      },
+      "variantId": "18436:1752",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1755",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1756",
+        "name": "Small Icon Button - Light Mode"
+      },
+      "variantId": "18436:1757",
+      "variantName": "Button=Filled",
+      "nodeId": "18436:1760",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1756",
+        "name": "Small Icon Button - Light Mode"
+      },
+      "variantId": "18436:1761",
+      "variantName": "Button=Tonal",
+      "nodeId": "18436:1764",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1756",
+        "name": "Small Icon Button - Light Mode"
+      },
+      "variantId": "18436:1765",
+      "variantName": "Button=Outlined",
+      "nodeId": "18436:1768",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1756",
+        "name": "Small Icon Button - Light Mode"
+      },
+      "variantId": "18436:1769",
+      "variantName": "Button=Text",
+      "nodeId": "18436:1772",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18436:1756",
+        "name": "Small Icon Button - Light Mode"
+      },
+      "variantId": "18436:1773",
+      "variantName": "Button=Disable",
+      "nodeId": "18436:1776",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1809",
+        "name": "Medium Fill Button - Dark Mode"
+      },
+      "variantId": "18437:1810",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1813",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1809",
+        "name": "Medium Fill Button - Dark Mode"
+      },
+      "variantId": "18437:1816",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1819",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1809",
+        "name": "Medium Fill Button - Dark Mode"
+      },
+      "variantId": "18437:1822",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1825",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1809",
+        "name": "Medium Fill Button - Dark Mode"
+      },
+      "variantId": "18437:1828",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1831",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1809",
+        "name": "Medium Fill Button - Dark Mode"
+      },
+      "variantId": "18437:1834",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1837",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1840",
+        "name": "Medium Fill Button - Light Mode"
+      },
+      "variantId": "18437:1841",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1844",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1840",
+        "name": "Medium Fill Button - Light Mode"
+      },
+      "variantId": "18437:1847",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1850",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1840",
+        "name": "Medium Fill Button - Light Mode"
+      },
+      "variantId": "18437:1853",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1856",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1840",
+        "name": "Medium Fill Button - Light Mode"
+      },
+      "variantId": "18437:1859",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1862",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1840",
+        "name": "Medium Fill Button - Light Mode"
+      },
+      "variantId": "18437:1865",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1868",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1871",
+        "name": "Medium Button - Dark Mode"
+      },
+      "variantId": "18437:1872",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1875",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1871",
+        "name": "Medium Button - Dark Mode"
+      },
+      "variantId": "18437:1878",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1881",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1871",
+        "name": "Medium Button - Dark Mode"
+      },
+      "variantId": "18437:1884",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1887",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1871",
+        "name": "Medium Button - Dark Mode"
+      },
+      "variantId": "18437:1890",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1893",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1871",
+        "name": "Medium Button - Dark Mode"
+      },
+      "variantId": "18437:1896",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1899",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1902",
+        "name": "Medium Button - Light Mode"
+      },
+      "variantId": "18437:1903",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1906",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1902",
+        "name": "Medium Button - Light Mode"
+      },
+      "variantId": "18437:1909",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1912",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1902",
+        "name": "Medium Button - Light Mode"
+      },
+      "variantId": "18437:1915",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1918",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1902",
+        "name": "Medium Button - Light Mode"
+      },
+      "variantId": "18437:1921",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1924",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1902",
+        "name": "Medium Button - Light Mode"
+      },
+      "variantId": "18437:1927",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1930",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1933",
+        "name": "Medium Icon Button - Dark Mode"
+      },
+      "variantId": "18437:1934",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1937",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1933",
+        "name": "Medium Icon Button - Dark Mode"
+      },
+      "variantId": "18437:1938",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1941",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1933",
+        "name": "Medium Icon Button - Dark Mode"
+      },
+      "variantId": "18437:1942",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1945",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1933",
+        "name": "Medium Icon Button - Dark Mode"
+      },
+      "variantId": "18437:1946",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1949",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1933",
+        "name": "Medium Icon Button - Dark Mode"
+      },
+      "variantId": "18437:1950",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1953",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1954",
+        "name": "Medium Icon Button - Light Mode"
+      },
+      "variantId": "18437:1955",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:1958",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1954",
+        "name": "Medium Icon Button - Light Mode"
+      },
+      "variantId": "18437:1959",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:1962",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1954",
+        "name": "Medium Icon Button - Light Mode"
+      },
+      "variantId": "18437:1963",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:1966",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1954",
+        "name": "Medium Icon Button - Light Mode"
+      },
+      "variantId": "18437:1967",
+      "variantName": "Button=Text",
+      "nodeId": "18437:1970",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:1954",
+        "name": "Medium Icon Button - Light Mode"
+      },
+      "variantId": "18437:1971",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:1974",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2005",
+        "name": "Large Fill Button - Dark Mode"
+      },
+      "variantId": "18437:2006",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2009",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2005",
+        "name": "Large Fill Button - Dark Mode"
+      },
+      "variantId": "18437:2012",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2015",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2005",
+        "name": "Large Fill Button - Dark Mode"
+      },
+      "variantId": "18437:2018",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2021",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2005",
+        "name": "Large Fill Button - Dark Mode"
+      },
+      "variantId": "18437:2024",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2027",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2005",
+        "name": "Large Fill Button - Dark Mode"
+      },
+      "variantId": "18437:2030",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2033",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2036",
+        "name": "Large Fill Button - Light Mode"
+      },
+      "variantId": "18437:2037",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2040",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2036",
+        "name": "Large Fill Button - Light Mode"
+      },
+      "variantId": "18437:2043",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2046",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2036",
+        "name": "Large Fill Button - Light Mode"
+      },
+      "variantId": "18437:2049",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2052",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2036",
+        "name": "Large Fill Button - Light Mode"
+      },
+      "variantId": "18437:2055",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2058",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2036",
+        "name": "Large Fill Button - Light Mode"
+      },
+      "variantId": "18437:2061",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2064",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2067",
+        "name": "Large Button - Dark Mode"
+      },
+      "variantId": "18437:2068",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2071",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2067",
+        "name": "Large Button - Dark Mode"
+      },
+      "variantId": "18437:2074",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2077",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2067",
+        "name": "Large Button - Dark Mode"
+      },
+      "variantId": "18437:2080",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2083",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2067",
+        "name": "Large Button - Dark Mode"
+      },
+      "variantId": "18437:2086",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2089",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2067",
+        "name": "Large Button - Dark Mode"
+      },
+      "variantId": "18437:2092",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2095",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2098",
+        "name": "Large Button - Light Mode"
+      },
+      "variantId": "18437:2099",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2102",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2098",
+        "name": "Large Button - Light Mode"
+      },
+      "variantId": "18437:2105",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2108",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2098",
+        "name": "Large Button - Light Mode"
+      },
+      "variantId": "18437:2111",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2114",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2098",
+        "name": "Large Button - Light Mode"
+      },
+      "variantId": "18437:2117",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2120",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2098",
+        "name": "Large Button - Light Mode"
+      },
+      "variantId": "18437:2123",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2126",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2129",
+        "name": "Large Icon Button - Dark Mode"
+      },
+      "variantId": "18437:2130",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2133",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2129",
+        "name": "Large Icon Button - Dark Mode"
+      },
+      "variantId": "18437:2134",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2137",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2129",
+        "name": "Large Icon Button - Dark Mode"
+      },
+      "variantId": "18437:2138",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2141",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2129",
+        "name": "Large Icon Button - Dark Mode"
+      },
+      "variantId": "18437:2142",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2145",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2129",
+        "name": "Large Icon Button - Dark Mode"
+      },
+      "variantId": "18437:2146",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2149",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2150",
+        "name": "Large Icon Button - Light Mode"
+      },
+      "variantId": "18437:2151",
+      "variantName": "Button=Filled",
+      "nodeId": "18437:2154",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2150",
+        "name": "Large Icon Button - Light Mode"
+      },
+      "variantId": "18437:2155",
+      "variantName": "Button=Tonal",
+      "nodeId": "18437:2158",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2150",
+        "name": "Large Icon Button - Light Mode"
+      },
+      "variantId": "18437:2159",
+      "variantName": "Button=Outlined",
+      "nodeId": "18437:2162",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2150",
+        "name": "Large Icon Button - Light Mode"
+      },
+      "variantId": "18437:2163",
+      "variantName": "Button=Text",
+      "nodeId": "18437:2166",
+      "name": "Outline",
+      "type": "INSTANCE"
+    },
+    {
+      "componentSet": {
+        "id": "18437:2150",
+        "name": "Large Icon Button - Light Mode"
+      },
+      "variantId": "18437:2167",
+      "variantName": "Button=Disable",
+      "nodeId": "18437:2170",
+      "name": "Outline",
+      "type": "INSTANCE"
+    }
+  ],
+  "hiddenSummary": {
+    "Outline": 90
+  },
+  "limits": [
+    "Only scoped COLOR variables exist; no spacing/radius/duration variables were invented.",
+    "Outfit metrics are generated; font binaries are not present or installed by this generator.",
+    "Material ColorScheme/TextTheme semantic mappings are not inferred."
+  ]
+}

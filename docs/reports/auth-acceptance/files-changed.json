@@ -1,0 +1,18 @@
+{
+  "note": "Explicit task inventory; no Git repository baseline. Existing source edits are confined to failed hit checks; other changes are tests/docs/evidence. Generated files and baseline PNGs unchanged.",
+  "sourceTestsDocs": [
+    "packages/design_system/lib/src/components/buttons/app_button.dart",
+    "lib/features/auth/src/presentation/auth_entry_screen.dart",
+    "dev_tools/inspector/inspector/lib/src/core/problems.dart",
+    "dev_tools/inspector/hosts/product_host/test/auth_entry_sweep_test.dart",
+    "packages/design_system/test/ui/components/button_overlap_test.dart",
+    "test/features/auth/hit_envelope_test.dart",
+    "dev_tools/inspector/inspector/test/button_envelope_test.dart",
+    "packages/design_system/assets/fonts/FONTS.md",
+    "docs/design-system/contracts/app_button.md",
+    "docs/agents/registers/decisions.md",
+    "docs/agents/registers/errata.md",
+    "tool/auth_acceptance/evidence.py"
+  ],
+  "addedEvidenceDirectory": "docs/reports/auth-acceptance/"
+}

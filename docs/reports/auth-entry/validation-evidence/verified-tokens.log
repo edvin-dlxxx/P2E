@@ -1,0 +1,25 @@
+generate_adaptive.cjs PASS
+Verified 5 source App Bar variants, 3 categories; exact local SVG hashes verified.
+generate_app_bars.cjs PASS
+Auth Entry geometry and brand tokens verified.
+generate_auth_entry.cjs PASS
+Verified 30 Badge variants / 6 source sets; all icon links and hidden paints resolved.
+generate_badges.cjs PASS
+Verified 34 source variants / 6 sets; complete descendants, variables, typography and OTP consumers.
+generate_fields.cjs PASS
+Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.
+Verified 208 runtime assets and registry.
+generate_icons.cjs PASS
+Verified 2 source bars, 4 nested item states, 5 exact icon pairs.
+generate_navigation.cjs PASS
+generate_readiness.cjs PASS
+Skin roles: 37; unavailable Light: ; Dark: 
+generate_skins.cjs PASS
+Verified 104 logical icons, 208 original SVG versions; 0 missing counterparts.
+Verified 208 runtime assets and registry.
+generate_button_icons.dart PASS
+Verified 90 variants; 13 missing set-wrapper paints.
+generate_button_spec.dart PASS
+Verified 3 files; 18 variables, 3 text styles.
+generate_buttons.dart PASS
+generate_motion_defaults.dart PASS

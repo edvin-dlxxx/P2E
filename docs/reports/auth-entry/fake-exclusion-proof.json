@@ -1,0 +1,12 @@
+{
+  "debug": {
+    "sha256": "f4c2b7afa8f8d9f9deefa16d7a2d1c46e996a647aec950f776e3778049520ddf",
+    "markerMembers": [
+      "assets/flutter_assets/kernel_blob.bin"
+    ]
+  },
+  "release": {
+    "sha256": "506eff063c9e1a323be7d97d310ea2e7b79825fa8293f79cf608677f287ed5d6",
+    "markerMembers": []
+  }
+}

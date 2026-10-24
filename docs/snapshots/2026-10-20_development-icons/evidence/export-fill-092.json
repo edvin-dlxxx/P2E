@@ -1,0 +1,210 @@
+{
+  "icons": [
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            196
+          ],
+          [
+            0,
+            1,
+            416
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 196,
+        "y": 416
+      },
+      "id": "18517:6459",
+      "name": "Icon=Bookmark Added",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.825 6.175L20.65 3.35C20.85 3.15 21.0875 3.05 21.3625 3.05C21.6375 3.05 21.875 3.15 22.075 3.35C22.275 3.55 22.375 3.7875 22.375 4.0625C22.375 4.3375 22.275 4.575 22.075 4.775L18.525 8.3C18.325 8.5 18.0917 8.6 17.825 8.6C17.5583 8.6 17.325 8.5 17.125 8.3L15.7 6.875C15.5167 6.69167 15.425 6.4625 15.425 6.1875C15.425 5.9125 15.5167 5.675 15.7 5.475C15.9 5.275 16.1375 5.175 16.4125 5.175C16.6875 5.175 16.925 5.275 17.125 5.475L17.825 6.175ZM12 18L7.8 19.8C7.13333 20.0833 6.5 20.0292 5.9 19.6375C5.3 19.2458 5 18.6917 5 17.975V5C5 4.45 5.19583 3.97917 5.5875 3.5875C5.97917 3.19583 6.45 3 7 3H12.625C12.925 3 13.15 3.13333 13.3 3.4C13.45 3.66667 13.4583 3.94167 13.325 4.225C13.2083 4.50833 13.125 4.79167 13.075 5.075C13.025 5.35833 13 5.66667 13 6C13 7.2 13.3792 8.25833 14.1375 9.175C14.8958 10.0917 15.85 10.6667 17 10.9C17.2 10.9333 17.3792 10.9542 17.5375 10.9625C17.6958 10.9708 17.85 10.975 18 10.975C18.2833 10.975 18.5208 11.0625 18.7125 11.2375C18.9042 11.4125 19 11.6333 19 11.9V17.975C19 18.6917 18.7 19.2458 18.1 19.6375C17.5 20.0292 16.8667 20.0833 16.2 19.8L12 18Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            284
+          ],
+          [
+            0,
+            1,
+            416
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 284,
+        "y": 416
+      },
+      "id": "18517:6461",
+      "name": "Icon=Bookmark Remove",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16 7C15.7167 7 15.4792 6.90417 15.2875 6.7125C15.0958 6.52083 15 6.28333 15 6C15 5.71667 15.0958 5.47917 15.2875 5.2875C15.4792 5.09583 15.7167 5 16 5H20C20.2833 5 20.5208 5.09583 20.7125 5.2875C20.9042 5.47917 21 5.71667 21 6C21 6.28333 20.9042 6.52083 20.7125 6.7125C20.5208 6.90417 20.2833 7 20 7H16ZM12 18L7.8 19.8C7.13333 20.0833 6.5 20.0292 5.9 19.6375C5.3 19.2458 5 18.6917 5 17.975V5C5 4.45 5.19583 3.97917 5.5875 3.5875C5.97917 3.19583 6.45 3 7 3H12.625C12.925 3 13.15 3.13333 13.3 3.4C13.45 3.66667 13.4583 3.94167 13.325 4.225C13.2083 4.50833 13.125 4.79167 13.075 5.075C13.025 5.35833 13 5.66667 13 6C13 7.2 13.3792 8.25833 14.1375 9.175C14.8958 10.0917 15.85 10.6667 17 10.9C17.2 10.9333 17.3792 10.9542 17.5375 10.9625C17.6958 10.9708 17.85 10.975 18 10.975C18.2833 10.975 18.5208 11.0625 18.7125 11.2375C18.9042 11.4125 19 11.6333 19 11.9V17.975C19 18.6917 18.7 19.2458 18.1 19.6375C17.5 20.0292 16.8667 20.0833 16.2 19.8L12 18Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            240
+          ],
+          [
+            0,
+            1,
+            416
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 240,
+        "y": 416
+      },
+      "id": "18517:6463",
+      "name": "Icon=Bookmark Add",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 7H16C15.7167 7 15.4792 6.90417 15.2875 6.7125C15.0958 6.52083 15 6.28333 15 6C15 5.71667 15.0958 5.47917 15.2875 5.2875C15.4792 5.09583 15.7167 5 16 5H17V4C17 3.71667 17.0958 3.47917 17.2875 3.2875C17.4792 3.09583 17.7167 3 18 3C18.2833 3 18.5208 3.09583 18.7125 3.2875C18.9042 3.47917 19 3.71667 19 4V5H20C20.2833 5 20.5208 5.09583 20.7125 5.2875C20.9042 5.47917 21 5.71667 21 6C21 6.28333 20.9042 6.52083 20.7125 6.7125C20.5208 6.90417 20.2833 7 20 7H19V8C19 8.28333 18.9042 8.52083 18.7125 8.7125C18.5208 8.90417 18.2833 9 18 9C17.7167 9 17.4792 8.90417 17.2875 8.7125C17.0958 8.52083 17 8.28333 17 8V7ZM12 18L7.8 19.8C7.13333 20.0833 6.5 20.0292 5.9 19.6375C5.3 19.2458 5 18.6917 5 17.975V5C5 4.45 5.19583 3.97917 5.5875 3.5875C5.97917 3.19583 6.45 3 7 3H12.625C12.925 3 13.15 3.13333 13.3 3.4C13.45 3.66667 13.4583 3.94167 13.325 4.225C13.2083 4.50833 13.125 4.79167 13.075 5.075C13.025 5.35833 13 5.66667 13 6C13 7.2 13.3792 8.25833 14.1375 9.175C14.8958 10.0917 15.85 10.6667 17 10.9C17.2 10.9333 17.3792 10.9542 17.5375 10.9625C17.6958 10.9708 17.85 10.975 18 10.975C18.2833 10.975 18.5208 11.0625 18.7125 11.2375C18.9042 11.4125 19 11.6333 19 11.9V17.975C19 18.6917 18.7 19.2458 18.1 19.6375C17.5 20.0292 16.8667 20.0833 16.2 19.8L12 18Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            20
+          ],
+          [
+            0,
+            1,
+            416
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 20,
+        "y": 416
+      },
+      "id": "18517:6467",
+      "name": "Icon=Bookmark",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 18L7.8 19.8C7.13333 20.0833 6.5 20.0292 5.9 19.6375C5.3 19.2458 5 18.6917 5 17.975V5C5 4.45 5.19583 3.97917 5.5875 3.5875C5.97917 3.19583 6.45 3 7 3H17C17.55 3 18.0208 3.19583 18.4125 3.5875C18.8042 3.97917 19 4.45 19 5V17.975C19 18.6917 18.7 19.2458 18.1 19.6375C17.5 20.0292 16.8667 20.0833 16.2 19.8L12 18Z\" fill=\"white\"/>\n</svg>\n"
+    }
+  ],
+  "next": 96,
+  "offset": 92,
+  "schemaVersion": "2.0.0",
+  "set": "Fill",
+  "setId": "14466:925",
+  "total": 104
+}

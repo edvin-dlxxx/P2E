@@ -1,0 +1,22 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: visibility correction waits until the user drag ends
+00:03 +1: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/figma_conformance_test.dart: 402 source rects: idle
+00:03 +2: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (480.0, 874.0, en, 2.0, false, )
+00:03 +3: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/figma_conformance_test.dart: 402 source rects: focusedEmpty
+00:04 +4: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (540.0, 874.0, fa, 2.0, true, )
+00:04 +5: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/figma_conformance_test.dart: 402 source rects: phone
+00:04 +6: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (320.0, 660.0, fa, 1.0, false, )
+00:04 +7: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/figma_conformance_test.dart: 402 source rects: email
+00:05 +8: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (402.0, 1020.0, fa, 2.0, false, )
+00:05 +9: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (520.0, 874.0, en, 2.0, true, 09123456789)
+00:05 +10: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (400.0, 1200.0, fa, 2.0, true, 09123456789)
+00:06 +11: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.dark (520.0, 874.0, en, 2.0, true, user@example.com)
+00:07 +12: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (480.0, 874.0, en, 2.0, false, )
+00:07 +13: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (540.0, 874.0, fa, 2.0, true, )
+00:07 +14: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (320.0, 660.0, fa, 1.0, false, )
+00:08 +15: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (402.0, 1020.0, fa, 2.0, false, )
+00:08 +16: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (520.0, 874.0, en, 2.0, true, 09123456789)
+00:08 +17: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (400.0, 1200.0, fa, 2.0, true, 09123456789)
+00:09 +18: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: complete visible tap envelope Brightness.light (520.0, 874.0, en, 2.0, true, user@example.com)
+00:09 +19: D:/My_Script/Hamrah-Aval/P2E/test/features/auth/tap_visibility_test.dart: fully visible reference and fully offscreen target do not pull page
+00:10 +20: All tests passed!

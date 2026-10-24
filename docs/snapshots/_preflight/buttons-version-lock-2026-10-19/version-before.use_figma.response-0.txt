@@ -1,0 +1,1 @@
+{"requestedFileKey":"7PGTHT5CQzbTsWZQnPIQce","fileKey":"7PGTHT5CQzbTsWZQnPIQce","document":{"id":"0:0","name":"Document"},"pluginApiVersion":"1.0.0","editorType":"figma"}

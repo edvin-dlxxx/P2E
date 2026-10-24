@@ -1,0 +1,666 @@
+[
+  {
+    "mask": 0,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 1,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 2,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 3,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 4,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 5,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 6,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 7,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": false,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": []
+  },
+  {
+    "mask": 8,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 9,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 10,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 11,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": false,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: false, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 12,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 13,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": false,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: false, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 14,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 1.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  },
+  {
+    "mask": 15,
+    "settings": {
+      "width": 402.0,
+      "height": 874.0,
+      "locales": [
+        "fa-IR"
+      ],
+      "brightness": "dark",
+      "textScale": 3.0,
+      "platform": "android",
+      "insets": {
+        "top": 24.0,
+        "bottom": 24.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "keyboard": true,
+      "keyboardHeight": 300.0,
+      "disableAnimations": true,
+      "boldText": true,
+      "highContrast": false
+    },
+    "errors": [
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [fa-IR], brightness: dark, textScale: 1.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.field"
+        ]
+      },
+      {
+        "stage": "update {width: 402.0, height: 874.0, locales: [en-US], brightness: dark, textScale: 3.0, platform: android, insets: {top: 24.0, bottom: 24.0, left: 0.0, right: 0.0}, keyboard: true, keyboardHeight: 300.0, disableAnimations: true, boldText: true, highContrast: false}",
+        "message": "A RenderAnimatedSize was mutated in its own performLayout implementation.",
+        "owners": [
+          "_AnimatedSize",
+          "fixtures.password"
+        ]
+      }
+    ]
+  }
+]

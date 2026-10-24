@@ -1,0 +1,13 @@
+{
+  "decision": "D-024",
+  "curve": "easeOut",
+  "labelMs": 160,
+  "colorMs": 120,
+  "supportMs": 150,
+  "selectionMs": 0,
+  "origin": "engineering-inferred",
+  "rationale": "Short, reversible typing transitions using the source Radio easing family; no plaintext crossfade, caret delay, shake or bounce.",
+  "minTapExtent": 48,
+  "zero": 0,
+  "hiddenOpacity": 0
+}

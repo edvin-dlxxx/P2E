@@ -1,0 +1,23 @@
+{
+  "core/analyze": [
+    "Analyzing inspector...",
+    "No issues found!"
+  ],
+  "core/tests": [
+    "00:08 +15: All tests passed!"
+  ],
+  "product_host/analyze": [
+    "Analyzing product_host...",
+    "No issues found!"
+  ],
+  "product_host/tests": [
+    "00:07 +3 ~1: All tests passed!"
+  ],
+  "viewer_host/analyze": [
+    "Analyzing viewer_host...",
+    "No issues found!"
+  ],
+  "viewer_host/tests": [
+    "00:21 +3 ~1: All tests passed!"
+  ]
+}

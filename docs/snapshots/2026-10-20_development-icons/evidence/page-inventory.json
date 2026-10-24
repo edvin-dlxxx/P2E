@@ -1,0 +1,41 @@
+{
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "fileName": "Document",
+  "page": {
+    "id": "14466:873",
+    "name": "-> Icons"
+  },
+  "sets": [
+    {
+      "id": "14466:880",
+      "name": "Outline",
+      "count": 104,
+      "types": [
+        "COMPONENT"
+      ]
+    },
+    {
+      "id": "14466:925",
+      "name": "Fill",
+      "count": 104,
+      "types": [
+        "COMPONENT"
+      ]
+    }
+  ],
+  "standalone": [],
+  "definitions": 208,
+  "instances": 0,
+  "top": [
+    {
+      "id": "14466:880",
+      "name": "Outline",
+      "type": "COMPONENT_SET"
+    },
+    {
+      "id": "14466:925",
+      "name": "Fill",
+      "type": "COMPONENT_SET"
+    }
+  ]
+}

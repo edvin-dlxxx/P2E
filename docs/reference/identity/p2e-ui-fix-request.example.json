@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "requestId": "P2E-UI-0001",
+  "observedAt": "login.email.input",
+  "target": {
+    "scope": "component-default",
+    "componentId": "text-field.general",
+    "propertyPath": "floatingLabel.motion.durationMs"
+  },
+  "precondition": {
+    "expectedCurrentValue": 200,
+    "sourceVersion": "1.0.0"
+  },
+  "change": {
+    "newValue": 180,
+    "unit": "ms",
+    "reason": "Illustrative designer-approved general motion change",
+    "decisionStatusAfterReview": "approved"
+  },
+  "preserve": [
+    "element-identity",
+    "content",
+    "semantic-roles",
+    "validation-behavior"
+  ]
+}

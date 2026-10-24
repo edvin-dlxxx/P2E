@@ -1,0 +1,1897 @@
+{
+  "schemaVersion": "1.0",
+  "fileKey": "7PGTHT5CQzbTsWZQnPIQce",
+  "figmaPageId": "14466:873",
+  "extractionDate": "2026-10-19",
+  "source": "Read-only Figma Plugin API",
+  "styles": {
+    "outlined": "14466:880",
+    "filled": "14466:925"
+  },
+  "colorBinding": "VariableID:16433:9040",
+  "coordinateFrame": {
+    "width": 24,
+    "height": 24
+  },
+  "notes": [
+    "Canonical iconId is an engineering identifier, not proof of exact official Material Symbols codepoint mapping.",
+    "Figma's exact original names are preserved in figmaName.",
+    "This catalog registers vector component identities; vector artwork files are NOT embedded.",
+    "Same vector-path geometry for 39 pairs; presence of two variants does not prove visually distinct artwork.",
+    "All 208 VECTOR child fills are bound to one Figma color variable; Flutter semantic color should be supplied by caller."
+  ],
+  "icons": [
+    {
+      "iconId": "add",
+      "figmaName": "Add",
+      "outline": {
+        "componentId": "14559:950",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14559:952",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "add_large",
+      "figmaName": "Add Larg",
+      "outline": {
+        "componentId": "14559:953",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14559:951",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "add_shopping_cart",
+      "figmaName": "Add Shopping Cart",
+      "outline": {
+        "componentId": "18422:12277",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:12278",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_cool_down",
+      "figmaName": "Arrow Cool Down",
+      "outline": {
+        "componentId": "18517:6371",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6376",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_down",
+      "figmaName": "Arrow Down",
+      "outline": {
+        "componentId": "18517:6382",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6373",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_down_alt",
+      "figmaName": "Arrow Down Alt",
+      "outline": {
+        "componentId": "18517:6365",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6368",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_drop_down",
+      "figmaName": "Arrow Drop Down",
+      "outline": {
+        "componentId": "14466:1100",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1097",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_drop_left",
+      "figmaName": "Arrow Drop Left",
+      "outline": {
+        "componentId": "14466:1102",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1105",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_drop_right",
+      "figmaName": "Arrow Drop Right",
+      "outline": {
+        "componentId": "14466:1098",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1099",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_drop_up",
+      "figmaName": "Arrow Drop Up",
+      "outline": {
+        "componentId": "14466:1103",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1106",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_left",
+      "figmaName": "Arrow Left",
+      "outline": {
+        "componentId": "18517:6377",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6375",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_left_alt",
+      "figmaName": "Arrow Left Alt",
+      "outline": {
+        "componentId": "18517:6366",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6379",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_right",
+      "figmaName": "Arrow Right",
+      "outline": {
+        "componentId": "18517:6380",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6374",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_right_alt",
+      "figmaName": "Arrow Right Alt",
+      "outline": {
+        "componentId": "18517:6367",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6369",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_up",
+      "figmaName": "Arrow Up",
+      "outline": {
+        "componentId": "18517:6378",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6381",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_up_alt",
+      "figmaName": "Arrow Up Alt",
+      "outline": {
+        "componentId": "18517:6372",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6384",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "arrow_warm_up",
+      "figmaName": "Arrow Wam Up",
+      "outline": {
+        "componentId": "18517:6383",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6370",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "attach_file",
+      "figmaName": "Attach File",
+      "outline": {
+        "componentId": "15135:15985",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15986",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "attach_file_add",
+      "figmaName": "Attach File Add",
+      "outline": {
+        "componentId": "15135:15990",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15989",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark",
+      "figmaName": "Bookmark",
+      "outline": {
+        "componentId": "18517:6460",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6467",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_add",
+      "figmaName": "Bookmark Add",
+      "outline": {
+        "componentId": "18517:6462",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6463",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_added",
+      "figmaName": "Bookmark Added",
+      "outline": {
+        "componentId": "18517:6468",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6459",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_check",
+      "figmaName": "Bookmark Check",
+      "outline": {
+        "componentId": "18517:6464",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6458",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_heart",
+      "figmaName": "Bookmark Heart",
+      "outline": {
+        "componentId": "18517:6470",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6457",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_remove",
+      "figmaName": "Bookmark Remove",
+      "outline": {
+        "componentId": "18517:6465",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6461",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "bookmark_star",
+      "figmaName": "Bookmark Star",
+      "outline": {
+        "componentId": "18517:6466",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6469",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "brightness_alert",
+      "figmaName": "Brightness Alert",
+      "outline": {
+        "componentId": "14466:913",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:922",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "calendar",
+      "figmaName": "Calendar",
+      "outline": {
+        "componentId": "14502:2508",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14502:2509",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "check",
+      "figmaName": "Check",
+      "outline": {
+        "componentId": "14526:1609",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14526:1608",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chess_bishop",
+      "figmaName": "Chess Bishop",
+      "outline": {
+        "componentId": "14531:628",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:638",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chess_knight",
+      "figmaName": "Chess Knight",
+      "outline": {
+        "componentId": "14531:629",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:631",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chess_pawn",
+      "figmaName": "Chess Pawn",
+      "outline": {
+        "componentId": "14531:635",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:632",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chess_queen",
+      "figmaName": "Chess Queen",
+      "outline": {
+        "componentId": "14531:636",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:633",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chess_rook",
+      "figmaName": "Chess Rok",
+      "outline": {
+        "componentId": "14531:637",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:630",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chevron_down",
+      "figmaName": "Chevron Down",
+      "outline": {
+        "componentId": "14466:1091",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1092",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chevron_left",
+      "figmaName": "Chevron Left",
+      "outline": {
+        "componentId": "14466:1093",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1094",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chevron_right",
+      "figmaName": "Chevron Right",
+      "outline": {
+        "componentId": "14466:1095",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1096",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "chevron_up",
+      "figmaName": "Chevron Up",
+      "outline": {
+        "componentId": "14466:1104",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1101",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "close",
+      "figmaName": "Close",
+      "outline": {
+        "componentId": "14466:1150",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1151",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "close_small",
+      "figmaName": "Close Small",
+      "outline": {
+        "componentId": "14466:1152",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1153",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "cloud_download",
+      "figmaName": "Cloud Download",
+      "outline": {
+        "componentId": "18517:6405",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6406",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "cloud_upload",
+      "figmaName": "Cloud Upload",
+      "outline": {
+        "componentId": "18517:6408",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6407",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "crown",
+      "figmaName": "Crown",
+      "outline": {
+        "componentId": "18422:11364",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11366",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "dark_mode",
+      "figmaName": "Dark Mode",
+      "outline": {
+        "componentId": "16482:6785",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16482:6784",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "download",
+      "figmaName": "Download",
+      "outline": {
+        "componentId": "18517:2031",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:2029",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "downloading",
+      "figmaName": "Downloading",
+      "outline": {
+        "componentId": "18517:6410",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:6409",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "edit",
+      "figmaName": "Edit",
+      "outline": {
+        "componentId": "14667:4500",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14667:4497",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "edit_square",
+      "figmaName": "Edit Square",
+      "outline": {
+        "componentId": "14667:4498",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14667:4499",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "extension",
+      "figmaName": "Extension",
+      "outline": {
+        "componentId": "14531:639",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14531:634",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "fingerprint",
+      "figmaName": "Fingerprint",
+      "outline": {
+        "componentId": "14868:3399",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14868:3398",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "help",
+      "figmaName": "Help",
+      "outline": {
+        "componentId": "18422:12323",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:12322",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "home",
+      "figmaName": "Home",
+      "outline": {
+        "componentId": "18422:10890",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:10889",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "id_card",
+      "figmaName": "ID Card",
+      "outline": {
+        "componentId": "14868:3397",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14868:3396",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "image",
+      "figmaName": "Image",
+      "outline": {
+        "componentId": "15135:15634",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15631",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "image_arrow_up",
+      "figmaName": "Image Arrow Up",
+      "outline": {
+        "componentId": "15135:15635",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15637",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "image_search",
+      "figmaName": "Image Search",
+      "outline": {
+        "componentId": "15135:15636",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15639",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "imagesearch_roller",
+      "figmaName": "Imagesearch Roller",
+      "outline": {
+        "componentId": "15135:15643",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15640",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "imagesmode",
+      "figmaName": "Imagesmode",
+      "outline": {
+        "componentId": "15135:15641",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15633",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "leaderboard",
+      "figmaName": "Leaderboard",
+      "outline": {
+        "componentId": "18422:11268",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11269",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "light_mode",
+      "figmaName": "Light Mode",
+      "outline": {
+        "componentId": "16482:6783",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16482:6782",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "link",
+      "figmaName": "Link",
+      "outline": {
+        "componentId": "15135:15984",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15982",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "link_2",
+      "figmaName": "Link 2",
+      "outline": {
+        "componentId": "15135:15987",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15983",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "link_off",
+      "figmaName": "Link Off",
+      "outline": {
+        "componentId": "15135:15988",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15981",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "location",
+      "figmaName": "Location",
+      "outline": {
+        "componentId": "14466:1165",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:1164",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "mail",
+      "figmaName": "Mail",
+      "outline": {
+        "componentId": "16497:27432",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16497:27433",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "menu",
+      "figmaName": "Menu",
+      "outline": {
+        "componentId": "18422:12330",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:12329",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "more_horizontal",
+      "figmaName": "More Horizontal",
+      "outline": {
+        "componentId": "18526:10897",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18526:10896",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "more_vertical",
+      "figmaName": "More Vertical",
+      "outline": {
+        "componentId": "18526:10899",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18526:10898",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "motion_play",
+      "figmaName": "Motion Play",
+      "outline": {
+        "componentId": "16432:8970",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16432:8969",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "my_location",
+      "figmaName": "My Location",
+      "outline": {
+        "componentId": "15328:25726",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15328:25725",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "notifications",
+      "figmaName": "Notifications",
+      "outline": {
+        "componentId": "18422:12305",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:12304",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "pause_circle",
+      "figmaName": "Pause Circle",
+      "outline": {
+        "componentId": "16432:8965",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16432:8972",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "person",
+      "figmaName": "Person",
+      "outline": {
+        "componentId": "14466:903",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:930",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "phone_enabled",
+      "figmaName": "Phone Enabled",
+      "outline": {
+        "componentId": "14466:902",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:931",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "play_arrow",
+      "figmaName": "Play Arrow",
+      "outline": {
+        "componentId": "16432:8963",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16432:8971",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "play_circle",
+      "figmaName": "Play Circle",
+      "outline": {
+        "componentId": "16432:8967",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16432:8966",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "poker_chip",
+      "figmaName": "Poker Chip",
+      "outline": {
+        "componentId": "18422:12235",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:12234",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "release_alert",
+      "figmaName": "Release Alert",
+      "outline": {
+        "componentId": "14466:914",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:923",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "scoreboard",
+      "figmaName": "Scoreboard",
+      "outline": {
+        "componentId": "15031:23251",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15031:23253",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "share",
+      "figmaName": "Share",
+      "outline": {
+        "componentId": "18525:7758",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18525:7757",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "shoe_cleats",
+      "figmaName": "Shoe Cleats",
+      "outline": {
+        "componentId": "15031:23250",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15031:23252",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "sports",
+      "figmaName": "Sports",
+      "outline": {
+        "componentId": "15031:23254",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15031:23249",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "sports_esports",
+      "figmaName": "Sports Esports",
+      "outline": {
+        "componentId": "18422:11300",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11302",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "stadia_controller",
+      "figmaName": "Stadia Controller",
+      "outline": {
+        "componentId": "18422:11301",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11303",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "star",
+      "figmaName": "Star",
+      "outline": {
+        "componentId": "18447:10019",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18447:10020",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "star_half",
+      "figmaName": "Star Half",
+      "outline": {
+        "componentId": "18447:10017",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18447:10018",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "store",
+      "figmaName": "Store",
+      "outline": {
+        "componentId": "18422:11365",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11363",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "tactic",
+      "figmaName": "Tactic",
+      "outline": {
+        "componentId": "14866:3054",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14866:3053",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "target_check",
+      "figmaName": "Target Check",
+      "outline": {
+        "componentId": "18422:11271",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18422:11270",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "thumb_down",
+      "figmaName": "Thumb Down",
+      "outline": {
+        "componentId": "18526:10839",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18526:10842",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "thumb_up",
+      "figmaName": "Thumb Up",
+      "outline": {
+        "componentId": "18526:10840",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18526:10841",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "timer",
+      "figmaName": "Timer",
+      "outline": {
+        "componentId": "14810:2768",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14810:2767",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "timer_play",
+      "figmaName": "Timer Play",
+      "outline": {
+        "componentId": "16432:8964",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "16432:8968",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "trophy",
+      "figmaName": "Trophy",
+      "outline": {
+        "componentId": "14825:3527",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14825:3526",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "upload",
+      "figmaName": "Upload",
+      "outline": {
+        "componentId": "18517:2032",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18517:2030",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "identical",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "verified",
+      "figmaName": "Verified",
+      "outline": {
+        "componentId": "14466:915",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14466:924",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "video_camera_back",
+      "figmaName": "Video Camera Back",
+      "outline": {
+        "componentId": "15135:15638",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15642",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "video_camera_back_add",
+      "figmaName": "Video Camera Back Add",
+      "outline": {
+        "componentId": "15135:15628",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15630",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "video_camera_front",
+      "figmaName": "Video Camera Front",
+      "outline": {
+        "componentId": "15135:15629",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "15135:15632",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "visibility",
+      "figmaName": "Visibility",
+      "outline": {
+        "componentId": "18675:14852",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18675:14850",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "visibility_off",
+      "figmaName": "Visibility Off",
+      "outline": {
+        "componentId": "18675:14849",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18675:14851",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "warning",
+      "figmaName": "Warning",
+      "outline": {
+        "componentId": "14537:1180",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "14537:1179",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "workspace_premium_1",
+      "figmaName": "Workspace Premium 1",
+      "outline": {
+        "componentId": "18429:427",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18429:429",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    },
+    {
+      "iconId": "workspace_premium_2",
+      "figmaName": "Workspace Premium 2",
+      "outline": {
+        "componentId": "18429:426",
+        "componentSetId": "14466:880"
+      },
+      "filled": {
+        "componentId": "18429:428",
+        "componentSetId": "14466:925"
+      },
+      "viewBox": {
+        "width": 24,
+        "height": 24
+      },
+      "vectorPathComparison": "different",
+      "status": "figma-verified"
+    }
+  ]
+}

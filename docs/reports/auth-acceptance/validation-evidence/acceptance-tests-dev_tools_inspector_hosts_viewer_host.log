@@ -1,0 +1,6 @@
+00:00 +0: loading D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart
+00:00 +0: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: fa Viewer family matrix matches its existing inspector
+00:00 +0 ~1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: fa Viewer family matrix matches its existing inspector
+00:27 +1 ~1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: real Viewer fills honest remaining width; selection reads existing source values
+00:36 +2 ~1: D:/My_Script/Hamrah-Aval/P2E/dev_tools/inspector/hosts/viewer_host/test/host_test.dart: Dev skin and existing Viewer selector stay synchronized
+00:47 +3 ~1: All tests passed!

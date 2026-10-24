@@ -1,0 +1,210 @@
+{
+  "icons": [
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            64
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 64,
+        "y": 372
+      },
+      "id": "18517:6371",
+      "name": "Icon=Arrow Cool Down",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.625 21.825C11.5083 21.775 11.4 21.7 11.3 21.6L5.7 16.025C5.51667 15.8417 5.425 15.6083 5.425 15.325C5.425 15.0417 5.51667 14.8 5.7 14.6C5.9 14.4 6.1375 14.3 6.4125 14.3C6.6875 14.3 6.925 14.4 7.125 14.6L11 18.5V12.325C11 12.0417 11.0958 11.8042 11.2875 11.6125C11.4792 11.4208 11.7167 11.325 12 11.325C12.2833 11.325 12.5208 11.4208 12.7125 11.6125C12.9042 11.8042 13 12.0417 13 12.325V18.5L16.9 14.6C17.0833 14.4167 17.3125 14.325 17.5875 14.325C17.8625 14.325 18.1 14.425 18.3 14.625C18.4833 14.8083 18.575 15.0417 18.575 15.325C18.575 15.6083 18.4833 15.8417 18.3 16.025L12.7 21.6C12.6 21.7 12.4917 21.775 12.375 21.825C12.2583 21.875 12.1333 21.9 12 21.9C11.8667 21.9 11.7417 21.875 11.625 21.825ZM11.2875 9.03751C11.0958 8.84585 11 8.60835 11 8.32501V7.32501C11 7.04168 11.0958 6.80418 11.2875 6.61251C11.4792 6.42085 11.7167 6.32501 12 6.32501C12.2833 6.32501 12.5208 6.42085 12.7125 6.61251C12.9042 6.80418 13 7.04168 13 7.32501V8.32501C13 8.60835 12.9042 8.84585 12.7125 9.03751C12.5208 9.22918 12.2833 9.32501 12 9.32501C11.7167 9.32501 11.4792 9.22918 11.2875 9.03751ZM11.2875 4.03751C11.0958 3.84585 11 3.60835 11 3.32501C11 3.04168 11.0958 2.80418 11.2875 2.61251C11.4792 2.42085 11.7167 2.32501 12 2.32501C12.2833 2.32501 12.5208 2.42085 12.7125 2.61251C12.9042 2.80418 13 3.04168 13 3.32501C13 3.60835 12.9042 3.84585 12.7125 4.03751C12.5208 4.22918 12.2833 4.32501 12 4.32501C11.7167 4.32501 11.4792 4.22918 11.2875 4.03751Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            416
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 416,
+        "y": 372
+      },
+      "id": "18517:6372",
+      "name": "Icon=Arrow Up Alt",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 8.79999L8.09999 11.7C7.91665 11.8833 7.68332 11.975 7.39999 11.975C7.11665 11.975 6.88332 11.8833 6.69999 11.7C6.51665 11.5167 6.42499 11.2833 6.42499 11C6.42499 10.7167 6.51665 10.4833 6.69999 10.3L11.3 5.69999C11.5 5.49999 11.7333 5.39999 12 5.39999C12.2667 5.39999 12.5 5.49999 12.7 5.69999L17.3 10.3C17.4833 10.4833 17.575 10.7167 17.575 11C17.575 11.2833 17.4833 11.5167 17.3 11.7C17.1167 11.8833 16.8833 11.975 16.6 11.975C16.3167 11.975 16.0833 11.8833 15.9 11.7L13 8.79999V17C13 17.2833 12.9042 17.5208 12.7125 17.7125C12.5208 17.9042 12.2833 18 12 18C11.7167 18 11.4792 17.9042 11.2875 17.7125C11.0958 17.5208 11 17.2833 11 17V8.79999Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            108
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 108,
+        "y": 372
+      },
+      "id": "18517:6377",
+      "name": "Icon=Arrow Left",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.825 13L12.725 17.9C12.925 18.1 13.0208 18.3333 13.0125 18.6C13.0042 18.8667 12.9 19.1 12.7 19.3C12.5 19.4833 12.2667 19.5792 12 19.5875C11.7333 19.5958 11.5 19.5 11.3 19.3L4.7 12.7C4.6 12.6 4.52917 12.4917 4.4875 12.375C4.44584 12.2583 4.425 12.1333 4.425 12C4.425 11.8667 4.44584 11.7417 4.4875 11.625C4.52917 11.5083 4.6 11.4 4.7 11.3L11.3 4.69999C11.4833 4.51665 11.7125 4.42499 11.9875 4.42499C12.2625 4.42499 12.5 4.51665 12.7 4.69999C12.9 4.89999 13 5.13749 13 5.41249C13 5.68749 12.9 5.92499 12.7 6.12499L7.825 11H19C19.2833 11 19.5208 11.0958 19.7125 11.2875C19.9042 11.4792 20 11.7167 20 12C20 12.2833 19.9042 12.5208 19.7125 12.7125C19.5208 12.9042 19.2833 13 19 13H7.825Z\" fill=\"white\"/>\n</svg>\n"
+    },
+    {
+      "geometry": {
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "cornerRadius": 0,
+        "counterAxisAlignItems": "MIN",
+        "counterAxisSizingMode": "FIXED",
+        "counterAxisSpacing": 0,
+        "height": 24,
+        "itemSpacing": 0,
+        "layoutMode": "NONE",
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "maxHeight": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "minWidth": null,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "primaryAxisAlignItems": "MIN",
+        "primaryAxisSizingMode": "AUTO",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            240
+          ],
+          [
+            0,
+            1,
+            372
+          ]
+        ],
+        "rotation": {
+          "$state": "negative-zero"
+        },
+        "strokeAlign": "INSIDE",
+        "strokeWeight": 1,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "width": 24,
+        "x": 240,
+        "y": 372
+      },
+      "id": "18517:6378",
+      "name": "Icon=Arrow Up",
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 7.82499L6.1 12.725C5.9 12.925 5.66667 13.0208 5.4 13.0125C5.13334 13.0042 4.9 12.9 4.7 12.7C4.51667 12.5 4.42084 12.2667 4.4125 12C4.40417 11.7333 4.5 11.5 4.7 11.3L11.3 4.69999C11.4 4.59999 11.5083 4.52915 11.625 4.48749C11.7417 4.44582 11.8667 4.42499 12 4.42499C12.1333 4.42499 12.2583 4.44582 12.375 4.48749C12.4917 4.52915 12.6 4.59999 12.7 4.69999L19.3 11.3C19.4833 11.4833 19.575 11.7125 19.575 11.9875C19.575 12.2625 19.4833 12.5 19.3 12.7C19.1 12.9 18.8625 13 18.5875 13C18.3125 13 18.075 12.9 17.875 12.7L13 7.82499V19C13 19.2833 12.9042 19.5208 12.7125 19.7125C12.5208 19.9042 12.2833 20 12 20C11.7167 20 11.4792 19.9042 11.2875 19.7125C11.0958 19.5208 11 19.2833 11 19V7.82499Z\" fill=\"white\"/>\n</svg>\n"
+    }
+  ],
+  "next": 84,
+  "offset": 80,
+  "schemaVersion": "2.0.0",
+  "set": "Outline",
+  "setId": "14466:880",
+  "total": 104
+}

@@ -1,0 +1,6 @@
+{
+  "plans": 48,
+  "frameCallbacks": 10784,
+  "acceptance": "width>=320 and height>=480",
+  "problems": []
+}
